@@ -65,7 +65,9 @@ roman2dev = {
     "pradeepa": "प्रदीप",
     "moolam": "मूलम्",
 }
-repo_name = "docs"
+
+# SaptaTeeka 
+repo_name = "SaptaTeeka" # FIXME
 index_content = """
 <center>
 ॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥

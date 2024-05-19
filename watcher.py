@@ -17,7 +17,7 @@ while True:
     with open(osp.join("docs", "index.html"), "w", encoding='utf-8') as f:
         f.write(base_html.index_html)
         print("Updated docs\\index.html")
-    time.sleep(3)
+    # time.sleep(3)
     for src, dest in file_maps:
         importlib.reload(base_html)
         assert osp.exists(src), f"{src} does not exist"
@@ -28,5 +28,5 @@ while True:
         with open(dest, 'w', encoding='utf-8') as f:
             f.write(html)
         print(f"Updated {dest}")
-        time.sleep(7)
+        # time.sleep(7)
     # break
