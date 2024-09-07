@@ -1,8 +1,16 @@
 html body {
-  background: rgb(246,228,228);
-  background: linear-gradient(180deg, rgba(246,228,228,1) 1%, rgba(167,0,0,1) 100%);
+  background: #c40c0c;
   color: white;
   min-height: 100vh;
+  font-size: 1.2em;
+  /* background-image: url('/docs/images/rm369-033b.jpg'); */
+   /* FIXME  */
+  background-image: linear-gradient(rgba(196, 12, 12, 0.8), rgba(196, 12, 12, 0.8)), url('/SaptaTeeka/images/15273928_5588454.jpg');
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-position: center;
+  background-attachment: fixed;
+  /* opacity: 0.1; Adjust opacity to blend image */
 }
 
 .navbar {
@@ -11,12 +19,16 @@ html body {
   bottom: 0;
   left: -250px;
   width: 250px;
-  background-color: #c40000;
+  background-color: #ff6500;
   transition: left 0.3s;
 }
 
 .nav-link {
   color: white;
+}
+
+.section-link {
+  font-size: 1em;
 }
 
 .content {
@@ -25,14 +37,35 @@ html body {
   transition: margin-left 0.3s;
   margin-left: 0px; /* Adjust this value based on navbar width */
   /* background-color: #DC143C; */
-  background-color: #6c0808;
+  /* background-color: #6c0808; */
+  color: rgb(210, 210, 210);
 }
 
 #toggleNav {
   z-index: 99999;
-  background-color: rgb(57, 0, 0);
+  position: fixed;
+  top: 10px;
+  background-color: #c40c0c;
 }
 
+.fancy-heading {
+  font-size: 2em;
+  color: #FFC100;
+  margin-bottom: 20px;
+}
+
+nav {
+  background-color: #14A76C;
+  font-family: "Eczar", serif;
+  font-style: normal;
+}
+
+.fancy-image-border {
+  border-style: solid;
+  border-image: linear-gradient(45deg, rgb(249, 246, 47), rgb(255, 88, 169));
+  border-image-slice: 1;
+  /* box-shadow: 0 0 10px #ffe400; */
+}
 
 img {
     width: 200px;
@@ -58,18 +91,151 @@ img {
 
 
 .shloka {
-  padding: 10px;
+  padding: 20px;
+  padding-left: 30px;
   border-radius: 5px;
-  margin-bottom: 10px;
+  font-size: 1.2em;
+  /* margin-bottom: 10px; */
   font-style: italic;
 }
 
 .uvacha {
-  font-weight: bold;
-  font-size: 1.2em;
+  font-style: italic;
+  font-size: 1.5em;
   padding: 10px;
+  color: #ffc100
 }
 
 .teeka-name {
   padding: 10px;
+  font-size: 1.5em;
+  font-style: italic;
+  color: white;
 }
+
+.book-title {
+  font-size: 1.5em;
+}
+
+.section-title {
+  font-size: 2em;
+  color: white;
+}
+
+.halant-light {
+  font-family: "Halant", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.halant-regular {
+font-family: "Halant", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.halant-medium {
+font-family: "Halant", serif;
+font-weight: 500;
+font-style: normal;
+}
+
+.halant-semibold {
+font-family: "Halant", serif;
+font-weight: 600;
+font-style: normal;
+}
+
+.halant-bold {
+font-family: "Halant", serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.martel-extralight {
+  font-family: "Martel", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.martel-light {
+font-family: "Martel", serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.martel-regular {
+font-family: "Martel", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.martel-semibold {
+font-family: "Martel", serif;
+font-weight: 600;
+font-style: normal;
+}
+
+.martel-bold {
+font-family: "Martel", serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.martel-extrabold {
+font-family: "Martel", serif;
+font-weight: 800;
+font-style: normal;
+}
+
+.martel-black {
+font-family: "Martel", serif;
+font-weight: 900;
+font-style: normal;
+}
+
+.noto-sans-regular {
+  font-family: "Noto Sans", sans-serif;
+  font-style: normal;
+}
+
+.noto-sans-light {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 300;
+}
+
+.noto-sans-italic {
+  font-family: "Noto Sans", sans-serif;
+  font-style: italic;
+}
+
+.laila-light {
+font-family: "Laila", serif;
+font-weight: 300;
+font-style: normal;
+}
+
+.laila-regular {
+font-family: "Laila", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.laila-medium {
+font-family: "Laila", serif;
+font-weight: 500;
+font-style: normal;
+}
+
+.laila-semibold {
+font-family: "Laila", serif;
+font-weight: 600;
+font-style: normal;
+}
+
+.laila-bold {
+font-family: "Laila", serif;
+font-weight: 700;
+font-style: normal;
+}
+

@@ -28,5 +28,5 @@ while True:
         with open(dest, 'w', encoding='utf-8') as f:
             f.write(html)
         print(f"Updated {dest}")
-        # time.sleep(7)
+        time.sleep(5)
     # break

@@ -16,6 +16,9 @@ base_html = """
     <link rel="stylesheet" href="css/main.css" type="text/css" />
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script rel="text/javascript" src="js/main.js" ></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Halant:wght@300;400;500;600;700&family=Laila:wght@300;400;500;600;700&family=Martel:wght@200;300;400;600;700;800;900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap');
+    </style>
 </head>
 <body>
 
@@ -23,14 +26,14 @@ base_html = """
 <div class="d-flex align-items-center justify-content-between p-3">
   <button id="toggleNav" class="btn btn-dark">&#9776;</button>
 </div>
-<nav class="navbar">
+<nav class="navbar martel-bold">
   <div class="p-3">
     <h2>
-      <a href="/{repo_name}/index.html" class="nav-link">सप्तशती
+      <a href="/{repo_name}/index.html" class="nav-link book-title">सप्तशती
        सप्तटीका
       </a>
     </h2>
-    <ul class="गुप्तवतीप्रदीपौ।">
+    <ul class="section-link">
       <div class="nav-item"><a class="nav-link" href="/{repo_name}/index.html">मुखम्</a></div>
       <div class="nav-item"><a class="nav-link" href="/{repo_name}/kavacham.html">कवचम्</a></div>
       <div class="nav-item"><a class="nav-link" href="/{repo_name}/argala.html">अर्गला</a></div>
@@ -70,11 +73,13 @@ roman2dev = {
 repo_name = "SaptaTeeka" # FIXME
 index_content = """
 <center>
-॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥
-<br>
-Sharing an important book that went out of # printing - Saptashati-SaptaTeeka.
-<br>
-<img src="images/stuyate-sa-na-kim-janaih.png" >
+<div class="fancy-heading">
+    ॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥
+    <br>
+    Sharing an important book that went out of printing - Saptashati-SaptaTeeka.
+    <br>
+</div>
+<img src="images/stuyate-sa-na-kim-janaih.png" class="fancy-image-border">
 </center>
 """
 
@@ -90,13 +95,13 @@ def format_shloka(shloka):
     Formats a shloka to be displayed on a webpage
     """
     lines = shloka.split('\n')
-    formatted = '<div class="shloka">'
+    formatted = '<div class="shloka laila-regular">'
     for line in lines:
         space_danda = r'(?<!\s)।(?!\s)'
         space_double_danda = r'(?<!\s)॥(?!\s)'
         line = re.sub(space_danda, ' ।', line)
         line = re.sub(space_double_danda, ' ॥', line)
-        formatted += f'<p>{line}</p>'
+        formatted += f'<div>{line}</div>'
     formatted += '</div>'
     return formatted
 
@@ -104,19 +109,19 @@ def chapter_to_html(chapter):
     """
     Converts a chapter to an HTML string
     """
-    innerhtml = '<div class="container">'
+    innerhtml = '<div class="container noto-sans-regular">'
     for child in chapter:
         if child.tag == 'head':
-            innerhtml += f'<p class="h2" style="padding-top: 20px;">{child[0].text}</p>'
+            innerhtml += f'<p class="section-title halant-regular">{child[0].text}</p>'
         elif child.tag == 'body':
             for subbody in child:
                 if subbody.tag == 'uvacha':
-                    innerhtml += '<div class="uvacha">'
+                    innerhtml += '<center class="uvacha noto-sans-italic">'
                     innerhtml += f'<p>{subbody.text}</p>'
-                    innerhtml += '</div>'
+                    innerhtml += '</center>'
                     # print("found uvacha", subbody.text)
                 elif subbody.tag == 'moolam':
-                    innerhtml += '<div class="shloka">'
+                    innerhtml += '<div>'
                     innerhtml += f'<p class="h5 teeka-name">{roman2dev[subbody.tag]}</p>'
                     innerhtml += format_shloka(subbody.text)
                     innerhtml += '</div>'
