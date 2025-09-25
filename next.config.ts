@@ -5,8 +5,4 @@ const nextConfig: NextConfig = {
   /* config options here */
 };
 
-const withMDX = createMDX({
-  // Add your options here
-});
-
-export default withMDX(nextConfig);
+export default nextConfig;

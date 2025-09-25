@@ -1,0 +1,41 @@
+/* markdown-override.css */
+.markdown-body {
+  background-color: transparent !important;
+  color: white !important;
+}
+
+/* Override link colors */
+.markdown-body a {
+  color: #58a6ff !important;
+}
+
+/* Override code blocks */
+.markdown-body pre, 
+.markdown-body code {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Override headers */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: white !important;
+  border-bottom-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Override table styles */
+.markdown-body table tr {
+  background-color: transparent !important;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}

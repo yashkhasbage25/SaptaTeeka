@@ -6,6 +6,10 @@ import Stack from "@mui/material/Stack";
 import { pageList, Page } from "./constants";
 import React, { Component } from "react";
 import ReactMarkdown from 'react-markdown';
+import { Typography } from "@mui/material";
+import remarkGfm from 'remark-gfm'; // For tables, strikethrough, etc.
+import 'github-markdown-css/github-markdown.css';
+import './markdown-override.css'; // Add this line
 
 
 interface HomeProps {};
@@ -81,9 +85,11 @@ class MarkdownRenderer extends Component<MarkdownRendererProps, MarkdownRenderer
 
     // Use ReactMarkdown to safely render the fetched content
     return (
-      <div className="prose prose-invert p-8 max-w-none"> 
-        <ReactMarkdown>{markdownContent}</ReactMarkdown>
-      </div>
+      // <div className="prose prose-invert p-8 max-w-none"> 
+        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+          {markdownContent}
+        </ReactMarkdown>
+      // </div>
     );
   }
 }
@@ -99,17 +105,24 @@ export default class Home extends React.Component<HomeProps, HomeState> {
 
   render() {
     return (
-      <div className="flex flex-row h-full text-lg text-white bg-fixed bg-cover bg-center bg-blend-multiply bg-[#c40c0c] bg-[linear-gradient(rgba(196,12,12,0.8),rgba(196,12,12,0.8)),url('https://yashkhasbage25.github.io/SaptaTeeka/images/15273928_5588454.jpg')]">
+      <div className="flex flex-row h-full text-lg text-white bg-fixed bg-cover bg-center bg-blend-multiply bg-[#c40c0c] bg-[linear-gradient(rgba(196,12,12,0.5),rgba(196,12,12,0.5))]">
         <Stack spacing={1} className="bg-[#ff6500] flex flex-col items-center justify-center w-60">
           {pageList.map((page: Page) => (
-            <Button key={page.route} onClick={() => this.setState({ selectedPage: page.route })}>
-              {page.display}
+            <Button key={page.route} onClick={() => this.setState({ selectedPage: page.route })}
+              variant={this.state.selectedPage === page.route ? 'contained' : 'text'}
+              style={{ color: 'white', backgroundColor: this.state.selectedPage === page.route ? '#c40c0c' : 'transparent' }}
+            >
+              <div className="text-white text-xl">
+                {page.display}
+              </div>
             </Button>
           ))}
         </Stack>
         <Stack>
           {/* render markdown page from url http://placeholder.com/{selectedPage} */}
-          <MarkdownRenderer pageRoute={this.state.selectedPage} />
+          <div className="markdown-body p-8 m-8">
+            <MarkdownRenderer pageRoute={this.state.selectedPage} />
+          </div>
         </Stack>
       </div>
     );
