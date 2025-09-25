@@ -1,3 +1,5 @@
+'use client';
+
 import Image from "next/image";
 import Button from "@mui/material/Button";
 import Stack from "@mui/material/Stack";
@@ -5,27 +7,6 @@ import { pageList, Page } from "./constants";
 import React, { Component } from "react";
 import ReactMarkdown from 'react-markdown';
 
-
-// export function Home() {
-//   return (
-//     <div className="flex flex-row h-full text-lg text-white bg-fixed bg-cover bg-center bg-blend-multiply bg-[#c40c0c] bg-[linear-gradient(rgba(196,12,12,0.8),rgba(196,12,12,0.8)),url('https://yashkhasbage25.github.io/SaptaTeeka/images/15273928_5588454.jpg')]">
-//       <Stack spacing={1} className="bg-[#ff6500] flex flex-col items-center justify-center w-60">
-//         {pageList.map((page: Page) => (
-//           <Button key={page.route}>
-//             {page.display}
-//           </Button>
-//         ))}
-//       </Stack>
-//     </div>
-//   );
-//   return (
-//     <div className="flex flex-col items-center justify-center py-12 bg-red">
-//       Saptashati Sapta-Teeka
-//       <br />
-//       Resharing a marvellous book that went out of printing. 
-//     </div>
-//   );
-// }
 
 interface HomeProps {};
 interface HomeState {
@@ -66,7 +47,7 @@ class MarkdownRenderer extends Component<MarkdownRendererProps, MarkdownRenderer
   // Data Fetching Logic
   fetchMarkdown = async (pageRoute: string) => {
     this.setState({ isLoading: true, error: null, markdownContent: '' });
-    const url = `http://placeholder.com/${pageRoute}`; // Your dynamic URL
+    const url = `https://raw.githubusercontent.com/yashkhasbage25/SaptaTeeka/refs/heads/main/src/app/content/${pageRoute}.md`; // Your dynamic URL
 
     try {
       const response = await fetch(url);
