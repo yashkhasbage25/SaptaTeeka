@@ -7,61 +7,84 @@ import { pageList, Page } from "./constants";
 import React, { Component } from "react";
 import ReactMarkdown from 'react-markdown';
 import { Typography } from "@mui/material";
-import remarkGfm from 'remark-gfm'; // For tables, strikethrough, etc.
+import remarkGfm from 'remark-gfm';
 import 'github-markdown-css/github-markdown.css';
-import './markdown-override.css'; // Add this line
+import './markdown-override.css';
+import { Eczar } from "next/font/google";
+import { config } from './config';
 
+const eczar = Eczar({
+  variable: "--font-eczar",
+  weight: ["400", "500"],
+  subsets: ["latin"],
+});
 
-interface HomeProps {};
+interface HomeProps {
+  initialMarkdownContent?: string;
+  initialPage?: string;
+};
+
 interface HomeState {
   selectedPage: string;
-}
-
-interface MarkdownRendererProps {
-  pageRoute: string;
-}
-
-interface MarkdownRendererState {
   markdownContent: string;
   isLoading: boolean;
   error: string | null;
 }
 
-class MarkdownRenderer extends Component<MarkdownRendererProps, MarkdownRendererState> {
-  constructor(props: MarkdownRendererProps) {
+interface MarkdownRendererProps {
+  content: string;
+}
+
+// Simple component to render markdown content
+const MarkdownRenderer = ({ content }: MarkdownRendererProps) => (
+  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+    {content}
+  </ReactMarkdown>
+);
+
+export default class Home extends React.Component<HomeProps, HomeState> {
+  constructor(props: HomeProps) {
     super(props);
     this.state = {
-      markdownContent: '',
+      selectedPage: props.initialPage || 'kavacham',
+      markdownContent: props.initialMarkdownContent || '',
       isLoading: false,
-      error: null,
+      error: null
     };
   }
 
-  // Lifecycle method to fetch data when the component mounts or props change
   componentDidMount() {
-    this.fetchMarkdown(this.props.pageRoute);
-  }
-
-  componentDidUpdate(prevProps: MarkdownRendererProps) {
-    if (prevProps.pageRoute !== this.props.pageRoute) {
-      this.fetchMarkdown(this.props.pageRoute);
+    // If no initial content was provided, fetch it
+    if (!this.props.initialMarkdownContent) {
+      this.fetchMarkdown(this.state.selectedPage);
     }
+    
+    // Log the current source mode
+    console.log(`Content source: ${config.localDev ? 'Local Filesystem' : 'GitHub Repository'}`);
   }
 
-  // Data Fetching Logic
-  fetchMarkdown = async (pageRoute: string) => {
-    this.setState({ isLoading: true, error: null, markdownContent: '' });
-    const url = `https://raw.githubusercontent.com/yashkhasbage25/SaptaTeeka/refs/heads/main/src/app/content/${pageRoute}.md`; // Your dynamic URL
+  handlePageChange = (pageRoute: string) => {
+    this.setState({ selectedPage: pageRoute });
+    this.fetchMarkdown(pageRoute);
+  };
 
+  // Data Fetching Logic - now using an API route
+  fetchMarkdown = async (pageRoute: string) => {
+    this.setState({ isLoading: true, error: null });
+    
     try {
-      const response = await fetch(url);
+      // Call our API route that will access the content based on config
+      const response = await fetch(`/api/markdown?page=${pageRoute}`);
       
       if (!response.ok) {
         throw new Error(`Failed to fetch ${pageRoute}: ${response.statusText}`);
       }
 
-      const text = await response.text();
-      this.setState({ markdownContent: text, isLoading: false });
+      const data = await response.json();
+      this.setState({ 
+        markdownContent: data.content, 
+        isLoading: false 
+      });
 
     } catch (err: any) {
       console.error(err);
@@ -73,55 +96,41 @@ class MarkdownRenderer extends Component<MarkdownRendererProps, MarkdownRenderer
   };
 
   render() {
-    const { markdownContent, isLoading, error } = this.state;
-
-    if (isLoading) {
-      return <div className="p-8">Loading content...</div>;
-    }
-
-    if (error) {
-      return <div className="p-8 text-yellow-300">Error: {error}</div>;
-    }
-
-    // Use ReactMarkdown to safely render the fetched content
-    return (
-      // <div className="prose prose-invert p-8 max-w-none"> 
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>
-          {markdownContent}
-        </ReactMarkdown>
-      // </div>
-    );
-  }
-}
-
-
-export default class Home extends React.Component<HomeProps, HomeState> {
-  constructor(props: HomeProps) {
-    super(props);
-    this.state = {
-      selectedPage: 'home'
-    };
-  }
-
-  render() {
+    const { selectedPage, markdownContent, isLoading, error } = this.state;
+    
     return (
       <div className="flex flex-row h-full text-lg text-white bg-fixed bg-cover bg-center bg-blend-multiply bg-[#c40c0c] bg-[linear-gradient(rgba(196,12,12,0.5),rgba(196,12,12,0.5))]">
-        <Stack spacing={1} className="bg-[#ff6500] flex flex-col items-center justify-center w-60">
+        <Stack className="bg-[#ff6500] flex flex-col items-center justify-center w-60 flex-shrink-0 sticky top-0 h-screen">
           {pageList.map((page: Page) => (
-            <Button key={page.route} onClick={() => this.setState({ selectedPage: page.route })}
-              variant={this.state.selectedPage === page.route ? 'contained' : 'text'}
-              style={{ color: 'white', backgroundColor: this.state.selectedPage === page.route ? '#c40c0c' : 'transparent' }}
+            <Button 
+              key={page.route} 
+              onClick={() => this.handlePageChange(page.route)}
+              variant={selectedPage === page.route ? 'contained' : 'text'}
+              style={{ 
+                color: 'white', 
+                backgroundColor: selectedPage === page.route ? '#c40c0c' : 'transparent' 
+              }}
             >
               <div className="text-white text-xl">
                 {page.display}
               </div>
             </Button>
           ))}
+          <div className="mt-4 text-xs opacity-70">
+            Source: {config.localDev ? 'Local Files' : 'GitHub'}
+          </div>
         </Stack>
         <Stack>
-          {/* render markdown page from url http://placeholder.com/{selectedPage} */}
-          <div className="markdown-body p-8 m-8">
-            <MarkdownRenderer pageRoute={this.state.selectedPage} />
+          <div className="p-24 overflow-y-auto">
+            <div className={`w-3/5 markdown-body ${eczar.className}`}>
+              {isLoading ? (
+                <div>Loading content...</div>
+              ) : error ? (
+                <div className="text-yellow-300">Error: {error}</div>
+              ) : (
+                <MarkdownRenderer content={markdownContent} />
+              )}
+            </div>
           </div>
         </Stack>
       </div>
