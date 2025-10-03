@@ -46,7 +46,7 @@ export default class Home extends React.Component<HomeProps, HomeState> {
   constructor(props: HomeProps) {
     super(props);
     this.state = {
-      selectedPage: props.initialPage || 'kavacham',
+      selectedPage: props.initialPage || 'adhyaya1',
       markdownContent: props.initialMarkdownContent || '',
       isLoading: false,
       error: null
