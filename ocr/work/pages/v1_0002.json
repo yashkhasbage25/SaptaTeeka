@@ -1,0 +1,232 @@
+{
+ "vol": 1,
+ "scan": 2,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 24,
+ "lines": [
+  "Published by :",
+  "CHAUKHAMBA SANSKRIT PRATISHTHAN",
+  "38 U. A. Bungalow Road, Jawahar Nagar,",
+  "Post Box No. 2113",
+  "Delhi-110007",
+  "Phone : (011) 23956391",
+  "Also available at :",
+  "CHOWKHAMBA VIDYABHAWAN",
+  "Chowk, Post Box No. 1069",
+  "Varanasi-221001",
+  "Tele : (0542) 420404",
+  "●",
+  "CHAUKHAMBA SURBHARATI PRAKASHAN",
+  "K 37/117, Gopal Mandir Lane,",
+  "Post Box No. 1129",
+  "Varanasi-221001",
+  "Tele : (0542) 335263",
+  "All rights reserved. No part of this publication may be reproduced or transmitted",
+  "in any form or by any means, electronic or mechanical, including photocopying,",
+  "recording or any information storage or retrieval system, without prior permission",
+  "in writing from the Publishers.",
+  "Printed at :",
+  "A.K. Lithographer",
+  "Delhi"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 2516,
+  "out": 386
+ },
+ "ts": "2026-10-15T19:23:40",
+ "mode": "whole_page"
+}

@@ -1,0 +1,1422 @@
+[
+ {
+  "vol": 1,
+  "scan": 0,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 13,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 1,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 10,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 2,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 24,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 3,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 25,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 4,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 32,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 5,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 32,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 6,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 33,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 7,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 31,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 8,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 32,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 9,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 19,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 10,
+  "folio": null,
+  "section": "frontmatter",
+  "lines": 34,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 11,
+  "folio": 1,
+  "section": "frontmatter",
+  "lines": 34,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 12,
+  "folio": 2,
+  "section": "frontmatter",
+  "lines": 5,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 13,
+  "folio": 3,
+  "section": "frontmatter",
+  "lines": 21,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 14,
+  "folio": 4,
+  "section": "frontmatter",
+  "lines": 13,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 15,
+  "folio": 5,
+  "section": "frontmatter",
+  "lines": 31,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 16,
+  "folio": 6,
+  "section": "frontmatter",
+  "lines": 15,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 17,
+  "folio": 7,
+  "section": "frontmatter",
+  "lines": 41,
+  "flagged": 6,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 18,
+  "folio": 8,
+  "section": "frontmatter",
+  "lines": 18,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "broken"
+ },
+ {
+  "vol": 1,
+  "scan": 19,
+  "folio": 9,
+  "section": "frontmatter",
+  "lines": 55,
+  "flagged": 55,
+  "misaligned": 53,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 20,
+  "folio": 10,
+  "section": "upodghata",
+  "lines": 45,
+  "flagged": 8,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 21,
+  "folio": 11,
+  "section": "upodghata",
+  "lines": 45,
+  "flagged": 4,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 22,
+  "folio": 12,
+  "section": "upodghata",
+  "lines": 44,
+  "flagged": 12,
+  "misaligned": 12,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 23,
+  "folio": 13,
+  "section": "upodghata",
+  "lines": 45,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 24,
+  "folio": 14,
+  "section": "upodghata",
+  "lines": 38,
+  "flagged": 12,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 25,
+  "folio": 15,
+  "section": "upodghata",
+  "lines": 45,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 26,
+  "folio": 16,
+  "section": "kavacham",
+  "lines": 43,
+  "flagged": 3,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 27,
+  "folio": 17,
+  "section": "kavacham",
+  "lines": 43,
+  "flagged": 5,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 28,
+  "folio": 18,
+  "section": "kavacham",
+  "lines": 43,
+  "flagged": 1,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 29,
+  "folio": 19,
+  "section": "kavacham",
+  "lines": 39,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 30,
+  "folio": 20,
+  "section": "kavacham",
+  "lines": 39,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 31,
+  "folio": 21,
+  "section": "kavacham",
+  "lines": 42,
+  "flagged": 9,
+  "misaligned": 6,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 32,
+  "folio": 22,
+  "section": "argala",
+  "lines": 40,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 33,
+  "folio": 23,
+  "section": "argala",
+  "lines": 38,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 34,
+  "folio": 24,
+  "section": "keelakam",
+  "lines": 40,
+  "flagged": 5,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 35,
+  "folio": 25,
+  "section": "keelakam",
+  "lines": 37,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 36,
+  "folio": 26,
+  "section": "mantravibhaga",
+  "lines": 40,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 37,
+  "folio": 27,
+  "section": "mantravibhaga",
+  "lines": 52,
+  "flagged": 25,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 38,
+  "folio": 28,
+  "section": "mantravibhaga",
+  "lines": 45,
+  "flagged": 1,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 39,
+  "folio": 29,
+  "section": "mantravibhaga",
+  "lines": 51,
+  "flagged": 13,
+  "misaligned": 7,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 40,
+  "folio": 30,
+  "section": "prayogavidhi",
+  "lines": 43,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 41,
+  "folio": 31,
+  "section": "prayogavidhi",
+  "lines": 47,
+  "flagged": 13,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 42,
+  "folio": 32,
+  "section": "prayogavidhi",
+  "lines": 50,
+  "flagged": 13,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 43,
+  "folio": 33,
+  "section": "prayogavidhi",
+  "lines": 52,
+  "flagged": 11,
+  "misaligned": 6,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 44,
+  "folio": 34,
+  "section": "prayogavidhi",
+  "lines": 57,
+  "flagged": 31,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 45,
+  "folio": 35,
+  "section": "prayogavidhi",
+  "lines": 54,
+  "flagged": 12,
+  "misaligned": 10,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 46,
+  "folio": 36,
+  "section": "prayogavidhi",
+  "lines": 44,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 47,
+  "folio": 37,
+  "section": "prayogavidhi",
+  "lines": 44,
+  "flagged": 3,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 48,
+  "folio": 38,
+  "section": "prayogavidhi",
+  "lines": 44,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 49,
+  "folio": 39,
+  "section": "prayogavidhi",
+  "lines": 41,
+  "flagged": 8,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 50,
+  "folio": 40,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 51,
+  "folio": 41,
+  "section": "adhyaya_1",
+  "lines": 43,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 52,
+  "folio": 42,
+  "section": "adhyaya_1",
+  "lines": 45,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 53,
+  "folio": 43,
+  "section": "adhyaya_1",
+  "lines": 48,
+  "flagged": 9,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 54,
+  "folio": 44,
+  "section": "adhyaya_1",
+  "lines": 43,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 55,
+  "folio": 45,
+  "section": "adhyaya_1",
+  "lines": 40,
+  "flagged": 8,
+  "misaligned": 5,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 56,
+  "folio": 46,
+  "section": "adhyaya_1",
+  "lines": 39,
+  "flagged": 6,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 57,
+  "folio": 47,
+  "section": "adhyaya_1",
+  "lines": 43,
+  "flagged": 6,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 58,
+  "folio": 48,
+  "section": "adhyaya_1",
+  "lines": 39,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 59,
+  "folio": 49,
+  "section": "adhyaya_1",
+  "lines": 47,
+  "flagged": 10,
+  "misaligned": 5,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 60,
+  "folio": 50,
+  "section": "adhyaya_1",
+  "lines": 41,
+  "flagged": 3,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 61,
+  "folio": 51,
+  "section": "adhyaya_1",
+  "lines": 46,
+  "flagged": 15,
+  "misaligned": 11,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 62,
+  "folio": 52,
+  "section": "adhyaya_1",
+  "lines": 41,
+  "flagged": 3,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 63,
+  "folio": 53,
+  "section": "adhyaya_1",
+  "lines": 48,
+  "flagged": 12,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 64,
+  "folio": 54,
+  "section": "adhyaya_1",
+  "lines": 40,
+  "flagged": 8,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 65,
+  "folio": 55,
+  "section": "adhyaya_1",
+  "lines": 48,
+  "flagged": 14,
+  "misaligned": 7,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 66,
+  "folio": 56,
+  "section": "adhyaya_1",
+  "lines": 43,
+  "flagged": 33,
+  "misaligned": 25,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 67,
+  "folio": 57,
+  "section": "adhyaya_1",
+  "lines": 46,
+  "flagged": 4,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 68,
+  "folio": 58,
+  "section": "adhyaya_1",
+  "lines": 40,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 69,
+  "folio": 59,
+  "section": "adhyaya_1",
+  "lines": 43,
+  "flagged": 3,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 70,
+  "folio": 60,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 71,
+  "folio": 61,
+  "section": "adhyaya_1",
+  "lines": 40,
+  "flagged": 9,
+  "misaligned": 6,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 72,
+  "folio": 62,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 13,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 73,
+  "folio": 63,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 16,
+  "misaligned": 11,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 74,
+  "folio": 64,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 22,
+  "misaligned": 15,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 75,
+  "folio": 65,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 76,
+  "folio": 66,
+  "section": "adhyaya_1",
+  "lines": 47,
+  "flagged": 47,
+  "misaligned": 47,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 77,
+  "folio": 67,
+  "section": "adhyaya_1",
+  "lines": 43,
+  "flagged": 7,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 78,
+  "folio": 68,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 79,
+  "folio": 69,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 9,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 80,
+  "folio": 70,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 15,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 81,
+  "folio": 71,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 5,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 82,
+  "folio": 72,
+  "section": "adhyaya_1",
+  "lines": 41,
+  "flagged": 27,
+  "misaligned": 25,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 83,
+  "folio": 73,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 7,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 84,
+  "folio": 74,
+  "section": "adhyaya_1",
+  "lines": 48,
+  "flagged": 13,
+  "misaligned": 12,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 85,
+  "folio": 75,
+  "section": "adhyaya_1",
+  "lines": 51,
+  "flagged": 40,
+  "misaligned": 36,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 86,
+  "folio": 76,
+  "section": "adhyaya_1",
+  "lines": 40,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 87,
+  "folio": 77,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 5,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 88,
+  "folio": 78,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 89,
+  "folio": 79,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 3,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 90,
+  "folio": 80,
+  "section": "adhyaya_1",
+  "lines": 42,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 91,
+  "folio": 81,
+  "section": "adhyaya_1",
+  "lines": 44,
+  "flagged": 5,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 92,
+  "folio": 82,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 93,
+  "folio": 83,
+  "section": "adhyaya_2",
+  "lines": 46,
+  "flagged": 7,
+  "misaligned": 6,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 94,
+  "folio": 84,
+  "section": "adhyaya_2",
+  "lines": 40,
+  "flagged": 17,
+  "misaligned": 14,
+  "grade": "degraded"
+ },
+ {
+  "vol": 1,
+  "scan": 95,
+  "folio": 85,
+  "section": "adhyaya_2",
+  "lines": 44,
+  "flagged": 6,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 96,
+  "folio": 86,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 1,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 1,
+  "scan": 99,
+  "folio": 89,
+  "section": "adhyaya_2",
+  "lines": 40,
+  "flagged": 4,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 0,
+  "folio": 90,
+  "section": "adhyaya_2",
+  "lines": 42,
+  "flagged": 3,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 1,
+  "folio": 91,
+  "section": "adhyaya_2",
+  "lines": 48,
+  "flagged": 12,
+  "misaligned": 11,
+  "grade": "degraded"
+ },
+ {
+  "vol": 2,
+  "scan": 2,
+  "folio": 92,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 3,
+  "folio": 93,
+  "section": "adhyaya_2",
+  "lines": 40,
+  "flagged": 6,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 6,
+  "folio": 96,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 8,
+  "misaligned": 7,
+  "grade": "degraded"
+ },
+ {
+  "vol": 2,
+  "scan": 8,
+  "folio": 98,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 6,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 9,
+  "folio": 99,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 9,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 10,
+  "folio": 100,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 16,
+  "misaligned": 5,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 11,
+  "folio": 101,
+  "section": "adhyaya_2",
+  "lines": 45,
+  "flagged": 12,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 12,
+  "folio": 102,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 12,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 13,
+  "folio": 103,
+  "section": "adhyaya_2",
+  "lines": 42,
+  "flagged": 7,
+  "misaligned": 6,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 14,
+  "folio": 104,
+  "section": "adhyaya_2",
+  "lines": 43,
+  "flagged": 3,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 15,
+  "folio": 105,
+  "section": "adhyaya_2",
+  "lines": 41,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 16,
+  "folio": 106,
+  "section": "adhyaya_3",
+  "lines": 43,
+  "flagged": 7,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 18,
+  "folio": 108,
+  "section": "adhyaya_3",
+  "lines": 41,
+  "flagged": 4,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 21,
+  "folio": 111,
+  "section": "adhyaya_3",
+  "lines": 40,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 22,
+  "folio": 112,
+  "section": "adhyaya_3",
+  "lines": 42,
+  "flagged": 6,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 23,
+  "folio": 113,
+  "section": "adhyaya_3",
+  "lines": 40,
+  "flagged": 10,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 24,
+  "folio": 114,
+  "section": "adhyaya_3",
+  "lines": 39,
+  "flagged": 7,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 25,
+  "folio": 115,
+  "section": "adhyaya_3",
+  "lines": 43,
+  "flagged": 6,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 26,
+  "folio": 116,
+  "section": "adhyaya_3",
+  "lines": 41,
+  "flagged": 8,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 27,
+  "folio": 117,
+  "section": "adhyaya_3",
+  "lines": 44,
+  "flagged": 11,
+  "misaligned": 7,
+  "grade": "degraded"
+ },
+ {
+  "vol": 2,
+  "scan": 28,
+  "folio": 118,
+  "section": "adhyaya_3",
+  "lines": 37,
+  "flagged": 13,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 29,
+  "folio": 119,
+  "section": "adhyaya_3",
+  "lines": 38,
+  "flagged": 4,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 32,
+  "folio": 122,
+  "section": "adhyaya_4",
+  "lines": 42,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 33,
+  "folio": 123,
+  "section": "adhyaya_4",
+  "lines": 44,
+  "flagged": 6,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 36,
+  "folio": 126,
+  "section": "adhyaya_4",
+  "lines": 42,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 38,
+  "folio": 128,
+  "section": "adhyaya_4",
+  "lines": 43,
+  "flagged": 10,
+  "misaligned": 3,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 39,
+  "folio": 129,
+  "section": "adhyaya_4",
+  "lines": 42,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 40,
+  "folio": 130,
+  "section": "adhyaya_4",
+  "lines": 41,
+  "flagged": 4,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 41,
+  "folio": 131,
+  "section": "adhyaya_4",
+  "lines": 41,
+  "flagged": 7,
+  "misaligned": 5,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 42,
+  "folio": 132,
+  "section": "adhyaya_4",
+  "lines": 44,
+  "flagged": 8,
+  "misaligned": 2,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 45,
+  "folio": 135,
+  "section": "adhyaya_4",
+  "lines": 46,
+  "flagged": 9,
+  "misaligned": 6,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 46,
+  "folio": 136,
+  "section": "adhyaya_4",
+  "lines": 42,
+  "flagged": 7,
+  "misaligned": 5,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 47,
+  "folio": 137,
+  "section": "adhyaya_4",
+  "lines": 43,
+  "flagged": 5,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 48,
+  "folio": 138,
+  "section": "adhyaya_5",
+  "lines": 42,
+  "flagged": 1,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 49,
+  "folio": 139,
+  "section": "adhyaya_5",
+  "lines": 44,
+  "flagged": 5,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 51,
+  "folio": 141,
+  "section": "adhyaya_5",
+  "lines": 41,
+  "flagged": 2,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 52,
+  "folio": 142,
+  "section": "adhyaya_5",
+  "lines": 41,
+  "flagged": 3,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 53,
+  "folio": 143,
+  "section": "adhyaya_5",
+  "lines": 41,
+  "flagged": 0,
+  "misaligned": 0,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 54,
+  "folio": 144,
+  "section": "adhyaya_5",
+  "lines": 41,
+  "flagged": 4,
+  "misaligned": 4,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 55,
+  "folio": 145,
+  "section": "adhyaya_5",
+  "lines": 43,
+  "flagged": 7,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 2,
+  "scan": 58,
+  "folio": 148,
+  "section": "adhyaya_5",
+  "lines": 39,
+  "flagged": 5,
+  "misaligned": 1,
+  "grade": "good"
+ },
+ {
+  "vol": 3,
+  "scan": 90,
+  "folio": 280,
+  "section": "rahasya_pradhanika",
+  "lines": 41,
+  "flagged": 9,
+  "misaligned": 0,
+  "grade": "good"
+ }
+]

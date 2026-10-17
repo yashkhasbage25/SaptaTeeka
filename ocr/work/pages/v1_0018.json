@@ -1,0 +1,194 @@
+{
+ "vol": 1,
+ "scan": 18,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 18,
+ "lines": [
+  "८\tदुर्गासप्तशती ।\t। गुप्तवत्युपोद्धातः",
+  "देवतानां प्रकीर्तितम् ॥ ४६ ॥ पञ्चाङ्गैः सहितं त्वेतद्दशाङ्गं कथ्यते बुधैः । हृदयं दीपदानं च स्तवराजादिकं तथा ॥ ४७ ॥",
+  "मालामन्त्रस्तथा कल्पः सर्वमेतद्ब्रवीम्यहम् । उपासना शराङ्गेषु या प्रोक्ता पद्धतिः पुरा ॥ ४८ ॥ इष्टदेवार्चनार्थे वै द्वितीयाङ्गं",
+  "च तत्स्मृतम् । तस्योपयोगिकं ह्येतत्सर्वं पूर्वं मयोदितम् ॥ ४९ ॥ सविस्तरं च तद्दृष्ट्वा कार्या पद्धतिरुत्तमा । सनिर्णयाश्च सर्वत्र",
+  "लिखामि यदि पद्धतिम् ॥ ५० ॥ तदा ग्रन्थो महानेव भवेत्सात्र पूर्वतः । लिखित्वा निर्णयं पश्चात्पटलादिकमत्र वै ॥ ५१ ॥",
+  "प्रवक्ष्यामि विशेषेण ग्रन्थानालोक्य यत्नतः । तस्माद्यत्परो भूयात्तस्य सिद्धिर्न संशयः न संशयः ॥ ५२ ॥ उपोद्धातप्रकरणं",
+  "प्रथमं परिकीर्तितम् । दुर्गामाहात्म्यं पाद्मोक्तं द्वितीयं च ततः परम् ॥५३॥ देवीरहस्यतन्त्रोक्तं दुर्गापञ्चाङ्गमीरितम् । अष्टमं च",
+  "प्रकरणं दुर्गाभुवनवर्णनम् ॥ ५४ ॥ पश्चाद्भैरवीविद्या दुर्गास्तोत्रं ततः परम् । ब्रह्मवैवर्तसंप्रोक्तं दुर्गार्चनमुत्तमम् ॥५५॥ अष्टो-",
+  "त्तरशतं नामस्तोत्रं तन्त्रोक्तमेव च । रुद्रचण्डीप्रकरणं त्रयोदशममीरितम् ॥५६॥ रुद्रयामलतन्त्रोक्तं सूक्तत्रयमतः परम् । माला-",
+  "मन्त्रश्चण्डिकायाः शूलिनीमन्त्र एव च ॥५७॥ वनदुर्गोपनिषदं दुर्गोपनिषदं तथा । देवीमहिमस्तोत्रं च दुर्गास्तवमतः परम्॥५८॥",
+  "एकविंशे प्रकरणे दुर्गाकल्पः प्रकीर्तितः । मार्कण्डेयपुराणोक्तं सूक्तत्रयमुदीरितम् ॥५९॥ चण्डिकाहृदयं चैव चण्डिकास्तोत्रमेव च ।",
+  "लघुदुर्गासप्तशतीस्तोत्रं कवचमेव च ॥ ६० ॥ कुब्जिकातन्त्रसंप्रोक्तं दुर्गास्तोत्रं ततः परम् । गुरुकीलकसंज्ञं वै पटलं परिकी-",
+  "र्तितम् ॥ ६१ ॥ तथा मन्त्रविभागश्च संप्रोक्तोऽष्टप्रभेदतः । दुर्गायाः पटलं चैव निलदुर्गाविधानकम् ॥ ६२ ॥ नवचण्डीवि-",
+  "धानं च नवरात्रिविधानकम् । शतचण्डीविधानं च सहस्रायुतलक्षकम् ॥ ६३ ॥ दुर्गामखप्रयोगश्च दीपदानविधिस्ततः ।",
+  "निलार्चनप्रयोगश्च तथा नैमित्तिकार्चनम् ॥ ६४ ॥ दुर्गादमनपूजा च पवित्रारोपणं तथा । एकचत्वारिंशके तु जयदुर्गाविधा-",
+  "नकम् ॥ ६५ ॥ दुर्गाषोडशनामाख्यं स्तोत्रं सार्थं ततः परम् । श्रीजामदग्न्यसंप्रोक्तं दुर्गास्तोत्रं सविस्तरम् ॥ ६६ ॥ तथा गणे-",
+  "शखण्डोक्तं दुर्गाकवचमेव च । दकारपूर्वकं स्तोत्रं दुर्गानामसहस्रकम् ॥ ६७ ॥ नामावली च तस्यैव तथा चाष्टोत्तरस्य च ।",
+  "शतस्य नामावलिका दुर्गानीराजनं ततः ॥ ६८ ॥ श्रीदुर्गाब्रह्मकवचमर्गलाकीलकं त"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 2571,
+  "out": 8192
+ },
+ "ts": "2026-10-15T19:27:04",
+ "mode": "whole_page"
+}

@@ -1,0 +1,379 @@
+{
+ "vol": 1,
+ "scan": 32,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "२२    दुर्गासप्तशती । [ अर्गलास्तुतिः",
+  "अचिन्त्यरूपचरिते सर्वशत्रुविनाशिनि । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ ६ ॥",
+  "नतेभ्यः सर्वदा भक्त्या चण्डिके प्रणताय मे । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ ७ ॥",
+  "स्तुवद्भ्यो भक्तिपूर्वं त्वां चण्डिके व्याधिनाशिनि । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ ८ ॥",
+  "( गुप्तवती ) रक्तबीजस्य वधो यस्याः सकाशात्सेति विग्रहः ॥ ५ ॥ ६ ॥ ७ ॥ ८ ॥",
+  "( प्रदीपः ) रक्तबीजेति । रक्तबीजस्य वधः कर्तव्यतयास्ति यस्याः सा । अर्शआद्यजन्तम् । रक्तबीजवधकर्त्रीत्यर्थः । र॰",
+  "क्तबीजस्य वधो यस्याः सकाशादिति वा ।   अत्र   शुम्भासुरेति श्लोकपाठोपपाठः प्राचीनैरव्याख्यानात्प्राचीनपुस्तकेष्वपाठाच्च",
+  "॥ ५ ॥ अचिन्त्येति । ‘यतो वाचो निवर्तन्ते’ इति श्रुतेः । 'यो अस्याध्यक्षः परमे व्योमन् । सो अङ्ग वेद यदि वा न वेद'",
+  "इति श्रुतेः ॥ ६ ॥ नतेभ्य इति । सदा सर्वदा भक्त्या  नतेभ्यः प्रणतेभ्यो मे प्रणताय च रूपं देहीत्यन्वयः ॥ ७ ॥ एवं स्तु-",
+  "वद्भ्य इत्यत्रापि ॥ ८ ॥",
+  "चण्डिके सततं ये त्वामर्चयन्तीह भक्तितः । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ ९ ॥",
+  "देहि सौभाग्यमारोग्यं देहि देवि परं सुखम् । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १० ॥",
+  "विधेहि द्विषतां नाशं विधेहि बलमुच्चकैः । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ ११ ॥",
+  "विधेहि देवि कल्याणं विधेहि विपुलां श्रियम् । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥१२॥",
+  "विद्यावन्तं यशस्वन्तं लक्ष्मीवन्तं जनं कुरु । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १३ ॥",
+  "प्रचण्डदैत्यदर्पघ्ने चण्डिके प्रणताय मे । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १४ ॥",
+  "चतुर्भुजे चतुर्वक्त्रसंस्तुते परमेश्वरि । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १५ ॥",
+  "( गुप्तवती ) ये त्वामर्चयन्ति तेभ्य इति शेषः ॥ ९ ॥ १० ॥ ११ ॥ १२ ॥ जनं भक्तजनं माम् ॥१३॥१४॥१५॥",
+  "( प्रदीपः ) चण्डिके सततमित्यत्रापि तथैव ये त्वामर्चयन्ति तेभ्य इति शेषः ॥ ९ ॥ देहि सौभाग्यमित्यर्थान्मह्यम्",
+  "॥ १० ॥ विधेहीति । उच्चकैरतिशयेनोच्चं बलं मम विधेहि ॥ ११ ॥ १२ ॥ विद्यावन्तमिति । ब्रह्मविद्यावन्तं जनं स्वभ-",
+  "⟨?⟩जनं कुरु अथ च रूपं देहीत्यर्थः ॥ १३ ॥ १४ ॥ १५ ॥",
+  "कृष्णेन संस्तुते देवि शश्वद्भक्त्या तथाऽम्बिके । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १६॥",
+  "हिमाचलसुतानाथपूजिते परमेश्वरि । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १७ ॥",
+  "सुरासुरशिरोरत्ननिघृष्टचरणेऽम्बिके । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १८ ॥",
+  "इन्द्राणीपतिसद्भावपूजिते परमेश्वरि । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ १९ ॥",
+  "(गुप्तवती) ॥ १६ ॥ १७ ॥ १८ ॥ इन्द्राण्या पतिसद्भावस्य पतिसत्ताया ज्ञानार्थं पूजिते । इन्द्रेण कालविशेषे क्वचि",
+  "त्सरसि कमलबिसांत⟨?⟩रं स्थितं तदा देव्याराधनेन पौलोम्या तत्स्थलं लब्धमिति पुराणेषु प्रसिद्धेः । इन्द्राणीपतिना सद्भावेन",
+  "पूजिते इति वा ॥ १९. ॥",
+  "(प्रदीपः) कृष्णेन संस्तुते इति । इयं च कथा देवीभागवते प्रसिद्धा ॥ १६ ॥ हिमाचलसुतानाथः शिवस्तेन पूजिते",
+  "॥ १७ ॥ सुरासुरेति । अनेन च देवीस्वरूपदर्शनेन निर्वैरताऽद्वैतभावो भवतीति ध्वनितम् । सुरासुरयोः सामानाधिकरण्यक-",
+  "धनात् ॥ १८ ॥ इन्द्राणीति इन्द्राणीपतिना सद्भावेन पूजिते ॥ १९॥",
+  "देवि प्रचण्डदोर्दण्डदैत्यदर्पविनाशिनि । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ २० ॥",
+  "देवि भक्तजनोद्दामदत्तानन्दोदयेऽम्बिके । रूपं देहि जयं देहि यशो देहि द्विषो जहि ॥ २१ ॥",
+  "पत्नीं मनोरमां देहि मनोवृत्तानुसारिणीम् । तारिणीं दुर्गसंसारसागरस्य कुलोद्भवाम् ॥ २२ ॥",
+  "(गुप्तवती) ॥ २० ॥ भक्तजनेषु ये उद्दामास्तेभ्यो दत्त आनन्दोदयो मोक्षो यया ॥ ३१ ॥ तारिणी मार्कण्डेयपुरा-",
+  "णप्रसिद्ध्या मदालसया वासिष्ठरामायणप्रसिद्ध्या चूडालया च तुल्याम् । आद्यया पुत्रस्तारितोऽन्यया पतिरेव तारित इति",
+  "तत्राख्यानात् ॥ २२ ॥",
+  "( प्रदीपः ) ॥ २० ॥ भक्तजनेषु य उद्दामास्तेभ्यो दत्त आनन्दोदयो मोक्षो यया ॥ २१ ॥ तारिणीमिति । मार्कण्डे-",
+  "यपुराणप्रसिद्धया मदालसया वासिष्ठरामायणप्रसिद्धया चूडालया श्च तुल्या आद्यया पुत्रस्तारितो द्वितीयया पतिरेव तारित",
+  "इति तत्राख्यानात् ॥ २३ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.645,
+   "tesseract_mean_conf": 63.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 74.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.722,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 77.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 76.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 73.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 66.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 79.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.913,
+   "tesseract_char_agree": 0.989,
+   "tesseract_mean_conf": 88.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 87.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.824,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 80.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.882,
+   "tesseract_char_agree": 0.986,
+   "tesseract_mean_conf": 81.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.938,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.875,
+   "tesseract_char_agree": 0.973,
+   "tesseract_mean_conf": 77.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 71.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 84.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.81,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 80.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 81.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 75.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.875,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 77.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 78.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.923,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 83.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 81.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.846,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 74.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.722,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 74.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.986,
+   "tesseract_mean_conf": 81.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 74.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.975,
+   "tesseract_mean_conf": 80.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 56.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.895,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 80.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.97,
+   "tesseract_mean_conf": 71.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 52.6,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 24214,
+  "out": 9125
+ },
+ "ts": "2026-10-15T19:25:57"
+}

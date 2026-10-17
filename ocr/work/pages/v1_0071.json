@@ -1,0 +1,599 @@
+{
+ "vol": 1,
+ "scan": 71,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "ोऽध्यायः १ ]                                        गुप्तवत्यादिसप्तटीक कासंवलिता ।\t\t\t\t\t\t\t६१",
+  "वृतानां तज्ज्ञानं दुरुदयमिति भावः । यद्वा संसारस्थितिकारिणः ईश्वरस्य महामायाप्रभावेणेति संबन्धः । तथा चेदृशी",
+  "न हेतुः । अन्यथा सर्वेषां पारमार्थिकज्ञानोदये सर्वेऽपि मुक्ताः स्युः । तथाच संसारस्थितिरेव भज्येतेति भावः ॥ ४० ॥",
+  "विस्मयः कार्यो योगनिद्रा जगत्पतेः । महामाया हरेश्चैत्तया संमोह्यते जगत् ॥ ४१ ॥",
+  "१ गुप्तवती ) ॥ ४१ ॥",
+  "२ चतुर्धरी ) उपसंहरति । तदिति तत्तस्मादत्र भवन्मोहे विस्मयोऽसंभावना न कार्यो न करणीय इत्यर्थः ।",
+  "महामायया एतत् जगन्मोह्यते । ननु कासौ महामायेत्याह । योगेति । महामाया नाम हरेरीश्वरस्य योगनिद्रा",
+  "मयी शक्तिः । जगत्पतेरिति भगवतो मोह्यकोटिबहिर्भावसूचकं विशेषणम् ॥ ४१ ॥",
+  "३ शान्तनवी) चशब्दो हेतौ । यतः महामायेति या अनादिः प्रसिद्धास्ति भगवती एषा जगत्पतेर्हरेर्विष्णोर्योगनि-",
+  "ते । तया जगत् संमोह्यते मोहाय संप्रयुज्यते मोहपरायणं क्रियते । तत्तस्माज्ज्ञाने सत्यपि पुत्रादिषु ममत्वं कथं",
+  "ति अत्र विस्मयो न कार्य इत्यन्वयः । विस्मयो मोहः । योगो निद्रैव योगनिद्रा निष्प्रपञ्चात्मावगमो योगस्तद्ध्यान-",
+  "विषयेभ्यश्चित्तवृत्तिनिरोधो विवक्षितः । न तु साक्षान्निद्रा अस्वप्नत्वादेवानाम् । 'योगः संहननोपायध्यानसंगतियुक्तिषु'",
+  "वेषयेभ्यश्चित्तवृत्तिनिरोधो विवक्षितः । न तु साक्षान्निद्रा अस स्वमतवादेवानाम् । 'योगः संहननोपायध्यानसंगतियुक्तिषु'",
+  "तुलाभेऽपि भेषजेऽपि चरेऽपि च' । 'मम माया दुरत्यया'इति भगवद्वचनात् ॥ ४१ ॥",
+  "४ नागोजीभट्टी ) ननु मायाया आश्चर्येयं शक्तिरत आह । तदिति । योगनिद्रा तमःप्रधाना शक्तिः । एतज्जगत्तया",
+  "इत्यन्वयः । जगत्पतित्वेन तस्य मोक्षकोटिबहिर्भावः सूचितः ॥ ४१ ॥",
+  "५ जगच्चन्द्रचन्द्रिका ) महामाया हरेरिति ५५ ॥ ४१ ॥",
+  "६ दंशोद्धारः ) उपसंहरति । तन्नात्रेति । कासौ महामायेत्यत आह । योगनिद्रेति । परमानन्दशक्तिरित्यर्थः ॥ ४१ ॥",
+  "मपि चेतांसि देवी भगवती हि सा । बलादाकृष्य मोहाय महामाया प्रयच्छति ॥ ४२ ॥",
+  "१ गुप्तवती ) ज्ञानिनामपि केवलिनामपि । अन्येषां किमुतेति तात्पर्यम् ॥ ४२ ॥",
+  "२ चतुर्धरी ) न केवलं प्रवृत्तिमार्गाणामसौ मोहिका भवति किंतु ज्ञानिनामपीत्याह । ज्ञानिनामपीति । ज्ञानिनां",
+  "वतामपि चेतांसि अन्तःकरणानि सा प्रसिद्धा महामाया भग त किंतु ज्ञानिनामपीत्याह । ज्ञानिनामपीति । ज्ञानिनां",
+  "वतामपि चेतांसि अन्तःकरणानि सा प्रसिद्धा महामाया भगवती अचिन्त्यमहिमा देवी द्योतनशीला हि यस्मात्",
+  "क्षितः आकृष्य विवेकाद्यावर्त्यं मोहाय प्रयच्छति मोहानुगामीनि मोहानुकूलानि करोति । भवद्विधानां का क-",
+  "ः ॥ ४२ ॥ ⟨?⟩ करोति । ज्ञानिनां ⟨?⟩",
+  "३ शान्तनवी ) महामायायाः प्राधान्यमाह । हि यस्मात् अनादिः प्रसिद्धा वैष्णवी महामाया भगवती ऐश्वर्यादियुता",
+  "देवी स्वेच्छया दीव्यन्ती सती ज्ञानिनामपि उपनिषदुत्थज्ञा ज्ञानिनामपि पुंसां चेतांसि बलात्सामर्थ्यादाकृष्य मोहाय",
+  "वाय ममत्वाय प्रयच्छति ददाति । चित्तानि ममत्वाधीनानि करोति इत्यन्वयः । 'स्थौल्यसामर्थ्यसैन्येषु बलं ना",
+  "णोः' । 'दाणो यच्छः शिति' ॥ ४२ ॥",
+  "४ नागोजीभट्टी ) भवादृशानां संसारिणां का वार्ता । अपक्वकषायाणां योगिनामपि सा मोहिकेत्याह । ज्ञानिनाम-",
+  "आकृष्येत्यस्य विवेकादित्यादि । मोहाय प्रयच्छति मोहवन्ति करोतीत्यर्थः । एवं च स्वकर्तव्यसृष्टिवृद्धये एवंप्र-",
+  "र्थः ॥ ४२ ॥",
+  "५ जगच्चन्द्रचन्द्रिका ) बलादाकृष्येति ५६ ॥ ४२ ॥",
+  "६ देशोद्धारः ) न केवलं विषयिण एव मोहयति किंतु ज्ञानिनोऽपीति कैमुतिकन्यायेनाह । ज्ञानिनामपीति॥४२॥",
+  "सृज्यते विश्वं त्रैलोक्यं सचराचरम् । सैषा प्रसन्ना वरदा नृणां भवति मुक्तये ॥ ४३ ॥",
+  "१ गुप्तवती ) ॥ ४३ ॥",
+  "२ चतुर्धरी ) तयेति । तया मूलप्रकृतिरूपया विश्वं जगच्चराचरमिति पर्यायैरशेषावान्तरं कार्यजातमभिप्रैति । मो-",
+  "छतीत्युक्तम् । ततश्च प्रायेणा(श्रेयो)नुपपत्तिप्रसङ्ग इत्याह । सैषेति । सा बन्धकारणमपि एषा भगवती प्रसन्ना",
+  "प्रीता सती नृणां मुक्त्यै कार्यव्यूह(द्वयवि)ध्वंसाय वरदा भवतीत्यन्वयः ॥ ४३ ॥",
+  "'हरेश्चैषा तया' इति पाठः शा।न्तनव्यादिसंमतः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 63.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.714,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.867,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.786,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.887,
+   "tesseract_mean_conf": 77.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 74.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 78.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 63.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 77.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 58.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 52.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 82.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 75.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 53.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 37.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.961,
+   "tesseract_mean_conf": 79.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 77.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 72.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.989,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 73.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 67.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 75.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 76.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 80.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 84.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 66.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 72.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 62.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 3 col 1: got 3 lines, expected 4; realigned, 1 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 2 col 1: got 8 lines, expected 12; realigned, 4 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ोऽध्यायः १ ]                                        गुप्तवत्यादिसप्तटीक",
+    "वृतानां तज्ज्ञानं दुरुदयमिति भावः । यद्वा संसारस्थितिकारिणः",
+    "न हेतुः । अन्यथा सर्वेषां पारमार्थिकज्ञानोदये सर्वेऽपि मुक्ताः",
+    "विस्मयः कार्यो योगनिद्रा जगत्पतेः । महामाया",
+    "१ गुप्तवती ) ॥ ४१ ॥",
+    "२ चतुर्धरी ) उपसंहरति । तदिति तत्तस्मादत्र भवन्मोहे",
+    "महामायया एतत् जगन्मोह्यते । ननु कासौ महामायेत्याह",
+    "मयी शक्तिः । जगत्पतेरिति भगवतो मोह्यकोटिबहिर्भावसूचकं",
+    "३ शान्तनवी) चशब्दो हेतौ । यतः महामायेति या",
+    "ते । तया जगत् संमोह्यते मोहाय संप्रयुज्यते मोहपरायणं",
+    "ति अत्र विस्मयो न कार्य इत्यन्वयः । विस्मयो मोहः ।",
+    "विषयेभ्यश्चित्तवृत्तिनिरोधो विवक्षितः । न तु साक्षान्निद्रा"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "कासंवलिता ।\t\t\t\t\t\t\t६१",
+    "ईश्वरस्य महामायाप्रभावेणेति संबन्धः । तथा चेदृशी",
+    "स्युः । तथाच संसारस्थितिरेव भज्येतेति भावः ॥ ४० ॥",
+    "हरेश्चैत्तया संमोह्यते जगत् ॥ ४१ ॥",
+    "विस्मयोऽसंभावना न कार्यो न करणीय इत्यर्थः ।",
+    "। योगेति । महामाया नाम हरेरीश्वरस्य योगनिद्रा",
+    "विशेषणम् ॥ ४१ ॥",
+    "अनादिः प्रसिद्धास्ति भगवती एषा जगत्पतेर्हरेर्विष्णोर्योगनि-",
+    "क्रियते । तत्तस्माज्ज्ञाने सत्यपि पुत्रादिषु ममत्वं कथं",
+    "योगो निद्रैव योगनिद्रा निष्प्रपञ्चात्मावगमो योगस्तद्ध्यान-",
+    "अस्वप्नत्वादेवानाम् । 'योगः संहननोपायध्यानसंगतियुक्तिषु'"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "वेषयेभ्यश्चित्तवृत्तिनिरोधो विवक्षितः । न तु साक्षान्निद्रा अस",
+    "तुलाभेऽपि भेषजेऽपि चरेऽपि च' । 'मम माया दुरत्यया'इति",
+    "४ नागोजीभट्टी ) ननु मायाया आश्चर्येयं शक्तिरत आह",
+    "इत्यन्वयः । जगत्पतित्वेन तस्य मोक्षकोटिबहिर्भावः सूचितः",
+    "५ जगच्चन्द्रचन्द्रिका ) महामाया हरेरिति ५५ ॥ ४१",
+    "६ दंशोद्धारः ) उपसंहरति । तन्नात्रेति । कासौ महामायेत्यत",
+    "मपि चेतांसि देवी भगवती हि सा । बलादाकृष्य",
+    "१ गुप्तवती ) ज्ञानिनामपि केवलिनामपि । अन्येषां किमुतेति",
+    "२ चतुर्धरी ) न केवलं प्रवृत्तिमार्गाणामसौ मोहिका भवति",
+    "वतामपि चेतांसि अन्तःकरणानि सा प्रसिद्धा महामाया भग",
+    "वतामपि चेतांसि अन्तःकरणानि सा प्रसिद्धा महामाया",
+    "क्षितः आकृष्य विवेकाद्यावर्त्यं मोहाय प्रयच्छति"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "स्वमतवादेवानाम् । 'योगः संहननोपायध्यानसंगतियुक्तिषु'",
+    "भगवद्वचनात् ॥ ४१ ॥",
+    "। तदिति । योगनिद्रा तमःप्रधाना शक्तिः । एतज्जगत्तया",
+    "॥ ४१ ॥",
+    "॥",
+    "आह । योगनिद्रेति । परमानन्दशक्तिरित्यर्थः ॥ ४१ ॥",
+    "मोहाय महामाया प्रयच्छति ॥ ४२ ॥",
+    "तात्पर्यम् ॥ ४२ ॥",
+    "किंतु ज्ञानिनामपीत्याह । ज्ञानिनामपीति । ज्ञानिनां",
+    "त किंतु ज्ञानिनामपीत्याह । ज्ञानिनामपीति । ज्ञानिनां",
+    "भगवती अचिन्त्यमहिमा देवी द्योतनशीला हि यस्मात्",
+    "मोहानुगामीनि मोहानुकूलानि करोति । भवद्विधानां का क-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "ः ॥ ४२ ॥",
+    "३ शान्तनवी ) महामायायाः प्राधान्यमाह । हि यस्मात्",
+    "देवी स्वेच्छया दीव्यन्ती सती ज्ञानिनामपि उपनिषदुत्थज्ञा",
+    "वाय ममत्वाय प्रयच्छति ददाति । चित्तानि ममत्वाधीनानि",
+    "णोः' । 'दाणो यच्छः शिति' ॥ ४२ ॥",
+    "४ नागोजीभट्टी ) भवादृशानां संसारिणां का वार्ता ।",
+    "आकृष्येत्यस्य विवेकादित्यादि । मोहाय प्रयच्छति मोहवन्ति",
+    "र्थः ॥ ४२ ॥",
+    "५ जगच्चन्द्रचन्द्रिका ) बलादाकृष्येति ५६ ॥ ४२ ॥",
+    "६ देशोद्धारः ) न केवलं विषयिण एव मोहयति किंतु",
+    "सृज्यते विश्वं त्रैलोक्यं सचराचरम् । सैषा",
+    "१ गुप्तवती ) ॥ ४३ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "⟨?⟩ करोति । ज्ञानिनां ⟨?⟩",
+    "अनादिः प्रसिद्धा वैष्णवी महामाया भगवती ऐश्वर्यादियुता",
+    "ज्ञानिनामपि पुंसां चेतांसि बलात्सामर्थ्यादाकृष्य मोहाय",
+    "करोति इत्यन्वयः । 'स्थौल्यसामर्थ्यसैन्येषु बलं ना",
+    "अपक्वकषायाणां योगिनामपि सा मोहिकेत्याह । ज्ञानिनाम-",
+    "करोतीत्यर्थः । एवं च स्वकर्तव्यसृष्टिवृद्धये एवंप्र-",
+    "ज्ञानिनोऽपीति कैमुतिकन्यायेनाह । ज्ञानिनामपीति॥४२॥",
+    "प्रसन्ना वरदा नृणां भवति मुक्तये ॥ ४३ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "२ चतुर्धरी ) तयेति । तया मूलप्रकृतिरूपया विश्वं",
+    "छतीत्युक्तम् । ततश्च प्रायेणा(श्रेयो)नुपपत्तिप्रसङ्ग इत्याह ।",
+    "प्रीता सती नृणां मुक्त्यै कार्यव्यूह(द्वयवि)ध्वंसाय वरदा",
+    "'हरेश्चैषा तया' इति पाठः शा।न्तनव्यादिसंमतः ।"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "जगच्चराचरमिति पर्यायैरशेषावान्तरं कार्यजातमभिप्रैति । मो-",
+    "सैषेति । सा बन्धकारणमपि एषा भगवती प्रसन्ना",
+    "भवतीत्यन्वयः ॥ ४३ ॥"
+   ],
+   "expected": 4,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 23389,
+  "out": 22928
+ },
+ "ts": "2026-10-16T00:58:54"
+}

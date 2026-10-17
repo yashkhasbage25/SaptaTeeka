@@ -1,0 +1,611 @@
+{
+ "vol": 2,
+ "scan": 26,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 41,
+ "lines": [
+  "११६ दुर्गासप्तशती । [ तृतीयोऽध्यायः ।",
+  "त्रैलोक्यं क्षोभयामासेत्यर्थः । चरिर्गत्यर्थः । ‘चरिचलिपतिवदीनां वा द्वित्वमच्यक्चाभ्यासस्य' इति पचार्धाच्च द्विर्भावेऽभ्या·",
+  "सस्य च आगागमः । अविधिसामर्थ्याद्विलादिःशेषाभावः । अन्यथा त्वांगमादेशयोर्विशेषाभावादागमलिङ्गमपार्थकं स्यात्।",
+  "‘चरिष्णु जङ्गमचरं त्रसमिङ्गं चराचरम्’ ॥ ३२ ॥",
+  "( ४ नागोजीभट्टी ) तत इति । तथैव प्राग्वदेव ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ततो महेति ३३ ॥ ३२ ३२ ॥",
+  "( ६ दंशोद्धारः ) ॥ ३२ ॥ ॥",
+  "ततः क्रुद्धा जगन्माता चण्डिका पानमुत्तमम् । पपौ पुनः पुनश्चैव जहासारुणलोचना ॥ ३३ ॥",
+  "( १ गुप्तवती ) क्रुद्धेति । तुरीयापि चण्डिका प्रधानहननरूपं कृत्वापि रजोगुणाविर्भावाधिक्येन स्वस्या महालक्ष्मीत्व·",
+  "मापादितवतीति ध्वननाय मध्ये पानमाह । अत एवारुणलोचनत्वं मुखरागादिश्च युज्यते ॥ ३३ ॥",
+  "( २ चतुर्धरी ) पीयत इति पानं मधु ॥ ३३ ॥",
+  "( ३ शान्तनवी ) पीयते इति पानम् । कर्मणि ल्युट् । ततस्त्रैलोक्यक्षोभणादनन्तरं जगन्माता जगतां जननी जग·",
+  "द्धिता चण्डिकादेवी क्रुद्धा सती अत एव अरुणलोचना अरुणे रक्ते लोचने यस्याः सा । उत्तमम् अमृतं पानं मधु पुनः पुनः",
+  "पपौ । पा पाने । लीलया मध्वेव पपौ । पुनः पुनश्च जहासैव । युद्धं तु न गणयामास । हसे हसने । लिटस्तिपो णल् । पपौ",
+  "विति ‘आत औ णलः’ । वीरपानं चकारेत्यर्थः । ‘वीरपानं तु यत्पानं वृत्ते भाविनिःसारण' वीराणां कर्तव्यं मद्यभ⟨?⟩नं वीरपानं 'मुहुः",
+  "पुनःपुनः शश्वदभीक्ष्णमसकृत्समाः’ ‘घटायुतायुतोन्मानं मधु मांसोपदंशकम् । एकैकम्मांसतखण्डी पपावत्र रणोत्सवे' ॥ ३३ ॥",
+  "( ४ नागोजीभट्टी ) तत इति । महिषस्य शिवावतारत्वेन जायमानदयादिविच्छेदायात्र मद्यपानं पानं मद्यम् ।",
+  "कर्मणिखुट् । पानादरुणलोचना पुनःपुनर्जहासेत्यन्वयः ॥ ३२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ततः क्रुद्धेति ३४ ॥ ३३ ॥",
+  "( ६ दंशोद्धारः ) ॥ ३३ ॥",
+  "ननर्द चासुरः सोऽपि बलवीर्यमदोद्धतः । विषाणाभ्यां च चिक्षेप चण्डिकां प्रति भूभृतान् ॥ ३४॥",
+  "( १ गुप्तवती ) ॥ ३४ ॥",
+  "( २ चतुर्धरी ) बलं शारीरं सामर्थ्यम् । वीर्यम् उत्साहः । ताभ्यां यो गर्वः मदः । उद्धतः उद्रिक्तः ॥ ३४ ॥",
+  "( ३ शान्तनवी ) बलेन सामर्थ्येन । वीर्येण प्रभावेन तेजसा । मदेन हर्षेण गर्वेण च उद्धतः अविनीतः निर्मर्यादं",
+  "उत्कटः स महिषः असुरोऽपि ननदं च कण्ठगर्जनं चकार । 'नर्द नर्द शब्दे' चण्डिकां प्रति भूधरान् गिरीन् विषाणाभ्यां",
+  "शृङ्गाभ्यां चिक्षेप प्रक्षिप्तवान् । 'अविनीतः समुद्धतः' । 'स्थौल्यसामर्थ्यसैन्येषु बलं ना काकसीरिणोः' । 'वीर्यं व⟨?⟩",
+  "प्रभावश्च' ॥ ३४ ॥",
+  "( ४ नागोजीभट्टी ) ननदेति । बलं शारीरम् । वीर्यमुत्साहः । ताभ्यां मदो गर्वः ॥ ३४ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ननदं चेति ३५ ॥ ३४ ॥",
+  "( ६ दंशोद्धारः ) ननदेति । बलं शारीरशक्तिः । वीर्यम् उत्साहशक्तिः । ताभ्यां मदो गर्वस्तेनोद्धतः 'विषाणं दन्त",
+  "शृङ्गयोः' । इत्यमरः ॥ ३४ ॥",
+  "सा च तान्प्रहितांस्तेन चूर्णयन्ती शरोत्करैः । उवाच तं मदोद्धूतमुखरागाकुलाक्षरम् ॥ ३५ ॥",
+  "( १ गुप्तवती ) लक्ष्म्याः सुरायाश्च मादकत्वेन साम्याच्च । 'सहैत्या (?) वा एतद्देवताया रूपं यन्मधु' इति श्रुतेथ मदेन",
+  "सुराजन्येन उद्धूतः अतिशयितो मुखस्य रागो रक्तिमा यत्र । आकुलान्यस्पष्टाक्षराणि च यस्मिन्क⟨?⟩मेणि तत् ॥ ३५ ॥",
+  "( २ चतुर्धरी ) मदेन उद्धूतो मुखरागो यस्याः सा । आकुलाक्षरम् अव्यक्तवर्णं यथा स्यात्तथा ॥ ३५ ॥",
+  "( ३ शान्तनवी ) सा चण्डिका तेन महिषेण महासुरेण प्रक्षिप्तान् क्षिप्तान् तान् भूधरान् गिरीन् शरोत्करैः शराणाम्",
+  "उत्करैः उत्क्षेपैः प्रक्षेपणैः चूर्णयन्ती निःशेषयन्ती सती महिषासुरं मदोद्धूतमुखरागाकुलाक्षरं यथा स्यात्तथा उवाच । मदान्म-",
+  "धुपानजादुद्धूतो मुखे रागः तेनाकुलान्यक्षराणि वर्णो यस्मिन्कर्मणि वचने तन्मदोद्धूतमुखरागाकुलाक्षरम् । क्रियाविशेषणानां",
+  "कर्मत्वं नपुंसकैकत्वं च वक्तव्यम् । यद्वा मदोद्धूतमुखरागा देवी मदेन मधुपानजेन उद्धूतो जातो मुखे रागः कषायभावो",
+  "यस्याः सा तथोक्ता । आकुलाक्षरमिति क्रियाविशेषणम् । आकुलानि व्यामिश्रितानि अस्पष्टानि अक्षराणि यस्मिन्कर्मणि ⟨?⟩",
+  "आकुलाक्षरम् अस्पष्टाक्षरम् ॥ ३५ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 63.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.888,
+   "tesseract_mean_conf": 52.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.821,
+   "tesseract_mean_conf": 48.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.842,
+   "tesseract_mean_conf": 85.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 53.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 58.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.97,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 79.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.526,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 70.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.654,
+   "tesseract_char_agree": 0.852,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.839,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.878,
+   "tesseract_mean_conf": 51.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 65.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.1,
+   "tesseract_char_agree": 0.788,
+   "tesseract_mean_conf": 41.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 56.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 57.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 74.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.807,
+   "tesseract_mean_conf": 44.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.871,
+   "tesseract_mean_conf": 77.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.9,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 57.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 65.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.739,
+   "tesseract_mean_conf": 52.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 73.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 49.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 54.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.819,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.406,
+   "tesseract_mean_conf": 45.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 4 lines, expected 5; realigned, 1 line(s) unmatched",
+  "band 2 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "११६ दुर्गासप्तशती",
+    "त्रैलोक्यं क्षोभयामासेत्यर्थः । चरिर्गत्यर्थः । ‘चरिचलिपतिवदीनां",
+    "सस्य च आगागमः । अविधिसामर्थ्याद्विलादिःशेषाभावः ।",
+    "‘चरिष्णु जङ्गमचरं त्रसमिङ्गं चराचरम्’ ॥ ३२",
+    "( ४ नागोजीभट्टी ) तत इति । तथैव प्राग्वदेव ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ततो महेति ३३ ॥ ३२",
+    "( ६ दंशोद्धारः ) ॥ ३२ ॥",
+    "ततः क्रुद्धा जगन्माता चण्डिका पानमुत्तमम् । पपौ",
+    "( १ गुप्तवती ) क्रुद्धेति । तुरीयापि चण्डिका",
+    "मापादितवतीति ध्वननाय मध्ये पानमाह । अत एवारुणलोचनत्वं",
+    "( २ चतुर्धरी ) पीयत इति पानं मधु ॥ ३३",
+    "( ३ शान्तनवी ) पीयते इति पानम् । कर्मणि ल्युट् ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ तृतीयोऽध्यायः ।",
+    "वा द्वित्वमच्यक्चाभ्यासस्य' इति पचार्धाच्च द्विर्भावेऽभ्या·",
+    "अन्यथा त्वांगमादेशयोर्विशेषाभावादागमलिङ्गमपार्थकं स्यात्।",
+    "॥",
+    "३२ ॥",
+    "॥",
+    "पुनः पुनश्चैव जहासारुणलोचना ॥ ३३ ॥",
+    "प्रधानहननरूपं कृत्वापि रजोगुणाविर्भावाधिक्येन स्वस्या महालक्ष्मीत्व·",
+    "मुखरागादिश्च युज्यते ॥ ३३ ॥",
+    "॥",
+    "ततस्त्रैलोक्यक्षोभणादनन्तरं जगन्माता जगतां जननी जग·"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "द्धिता चण्डिकादेवी क्रुद्धा सती अत एव अरुणलोचना अरुणे",
+    "पपौ । पा पाने । लीलया मध्वेव पपौ । पुनः पुनश्च जहासैव ।",
+    "विति ‘आत औ णलः’ । वीरपानं चकारेत्यर्थः । ‘वीरपानं तु",
+    "पुनःपुनः शश्वदभीक्ष्णमसकृत्समाः’ ‘घटायुतायुतोन्मानं मधु",
+    "( ४ नागोजीभट्टी ) तत इति । महिषस्य शिवावतारत्वेन",
+    "कर्मणिखुट् । पानादरुणलोचना पुनःपुनर्जहासेत्यन्वयः ॥ ३२",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ततः क्रुद्धेति ३४ ॥ ३३",
+    "( ६ दंशोद्धारः ) ॥ ३३",
+    "ननर्द चासुरः सोऽपि बलवीर्यमदोद्धतः । विषाणाभ्यां",
+    "( १ गुप्तवती )",
+    "( २ चतुर्धरी ) बलं शारीरं सामर्थ्यम् । वीर्यम्",
+    "( ३ शान्तनवी ) बलेन सामर्थ्येन । वीर्येण प्रभावेन"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "रक्ते लोचने यस्याः सा । उत्तमम् अमृतं पानं मधु पुनः पुनः",
+    "युद्धं तु न गणयामास । हसे हसने । लिटस्तिपो णल् । पपौ",
+    "यत्पानं वृत्ते भाविनिःसारण' वीराणां कर्तव्यं मद्यभ⟨?⟩नं वीरपानं 'मुहुः",
+    "मांसोपदंशकम् । एकैकम्मांसतखण्डी पपावत्र रणोत्सवे' ॥ ३३ ॥",
+    "जायमानदयादिविच्छेदायात्र मद्यपानं पानं मद्यम् ।",
+    "॥",
+    "॥",
+    "॥",
+    "च चिक्षेप चण्डिकां प्रति भूभृतान् ॥ ३४॥",
+    "॥ ३४ ॥",
+    "उत्साहः । ताभ्यां यो गर्वः मदः । उद्धतः उद्रिक्तः ॥ ३४ ॥",
+    "तेजसा । मदेन हर्षेण गर्वेण च उद्धतः अविनीतः निर्मर्यादं"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "उत्कटः स महिषः असुरोऽपि ननदं च कण्ठगर्जनं चकार",
+    "शृङ्गाभ्यां चिक्षेप प्रक्षिप्तवान् । 'अविनीतः समुद्धतः' ।",
+    "प्रभावश्च' ॥ ३४ ॥",
+    "( ४ नागोजीभट्टी ) ननदेति । बलं शारीरम् ।",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ननदं चेति ३५ ॥ ३४",
+    "( ६ दंशोद्धारः ) ननदेति । बलं शारीरशक्तिः ।",
+    "शृङ्गयोः' । इत्यमरः ॥ ३४ ॥",
+    "सा च तान्प्रहितांस्तेन चूर्णयन्ती शरोत्करैः ।",
+    "( १ गुप्तवती ) लक्ष्म्याः सुरायाश्च मादकत्वेन साम्याच्च",
+    "सुराजन्येन उद्धूतः अतिशयितो मुखस्य रागो रक्तिमा यत्र ।",
+    "( २ चतुर्धरी ) मदेन उद्धूतो मुखरागो यस्याः सा ।",
+    "( ३ शान्तनवी ) सा चण्डिका तेन महिषेण महासुरेण"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "। 'नर्द नर्द शब्दे' चण्डिकां प्रति भूधरान् गिरीन् विषाणाभ्यां",
+    "'स्थौल्यसामर्थ्यसैन्येषु बलं ना काकसीरिणोः' । 'वीर्यं व⟨?⟩",
+    "वीर्यमुत्साहः । ताभ्यां मदो गर्वः ॥ ३४ ॥",
+    "॥",
+    "वीर्यम् उत्साहशक्तिः । ताभ्यां मदो गर्वस्तेनोद्धतः 'विषाणं दन्त",
+    "उवाच तं मदोद्धूतमुखरागाकुलाक्षरम् ॥ ३५ ॥",
+    "। 'सहैत्या (?) वा एतद्देवताया रूपं यन्मधु' इति श्रुतेथ मदेन",
+    "आकुलान्यस्पष्टाक्षराणि च यस्मिन्क⟨?⟩मेणि तत् ॥ ३५ ॥",
+    "आकुलाक्षरम् अव्यक्तवर्णं यथा स्यात्तथा ॥ ३५ ॥",
+    "प्रक्षिप्तान् क्षिप्तान् तान् भूधरान् गिरीन् शरोत्करैः शराणाम्"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "उत्करैः उत्क्षेपैः प्रक्षेपणैः चूर्णयन्ती निःशेषयन्ती सती महिषासुरं",
+    "धुपानजादुद्धूतो मुखे रागः तेनाकुलान्यक्षराणि वर्णो यस्मिन्कर्मणि",
+    "कर्मत्वं नपुंसकैकत्वं च वक्तव्यम् । यद्वा मदोद्धूतमुखरागा देवी",
+    "यस्याः सा तथोक्ता । आकुलाक्षरमिति क्रियाविशेषणम् ।",
+    "आकुलाक्षरम् अस्पष्टाक्षरम् ॥ ३५ ॥"
+   ],
+   "expected": 5,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "मदोद्धूतमुखरागाकुलाक्षरं यथा स्यात्तथा उवाच । मदान्म-",
+    "वचने तन्मदोद्धूतमुखरागाकुलाक्षरम् । क्रियाविशेषणानां",
+    "मदेन मधुपानजेन उद्धूतो जातो मुखे रागः कषायभावो",
+    "आकुलानि व्यामिश्रितानि अस्पष्टानि अक्षराणि यस्मिन्कर्मणि ⟨?⟩"
+   ],
+   "expected": 5,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25864,
+  "out": 19469
+ },
+ "ts": "2026-10-16T00:29:13"
+}

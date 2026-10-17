@@ -1,0 +1,633 @@
+{
+ "vol": 2,
+ "scan": 25,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 43,
+ "lines": [
+  "तृतीयोऽध्यायः ३ ]  गुप्तवत्यादिषट्टीकासंवलिता । ११५",
+  "त एवाशु पुरुषं देवी चिच्छेद सायकैः । तं खड्ग चर्मणा सार्धं ततः सोऽभून्महागजः ॥ ३० ॥",
+  "( १ गुप्तवती ) ॥ ३० ॥",
+  "( २ चतुर्धरी ) आशु शीघ्रम् । आश्वेव तं पुरुषं चिच्छेदेत्यन्वयः । सायकैर्बाणैः । खड्गचर्मणा सहितं पुरुषं खड्गं च",
+  "र्मं च चिच्छेदेत्यन्वयः ॥ ३० ।",
+  "( ३ शान्तनवी ) ततः खड्गपाणेः पुरुषस्य दर्शनादनन्तरमेव देवी आशु सत्वरं सायकैराशुगैः खड्गचर्मणा सार्धं तं",
+  "खड्गपाणिं पुरुषं कण्ठे चिच्छेद । खड्गं चर्म च पुरुषं च सायकैश्चिच्छेदेति सूचयितुं सार्धमित्युक्तम् । खड्गं चर्म च खड्गचर्म ।",
+  "नाज्ञत्वादेकवद्भावः । तेन सार्धम् 'फलकोऽस्त्री फलं चर्म' चर्ममयं गात्रत्राणं हस्तमात्रं फलकम् । ततः पुरुषरूपतः सकाशात्",
+  "महासुरः महागजोऽभूत् ॥ ३० ॥",
+  "( ४ नागोजीभट्टी ) तत इति । तं पुरुषं देवी आश्वेव । खड्गचर्मणेति समाहारद्वन्द्वः । तत्सहितं सायकैश्चिच्छे-",
+  "त्यन्वयः ॥ ३० ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) तत एवाश्विति ३१ ॥ ३० ॥",
+  "( ६ दंशोद्धारः ) ॥ ३० ॥",
+  "करेण च महासिंहं तं चकर्ष जगर्ज च । कर्षतस्तु करं देवी खड्गेन निरकृन्तत ॥ ३१ ॥",
+  "( १ गुप्तवती ) ॥ ३१ ॥",
+  "( २ चतुर्धरी ) ॥ ३१ ॥",
+  "( ३ शान्तनवी ) स च महागजः करेण हस्तेन शुण्डादण्डेन तं प्रसिद्धं देव्या वाहनं सिंहं चकर्ष आकृष्टवान् जगर्ज",
+  "व । बृंहितं चकार । 'बृंहितं करिगर्जितम्' । गर्ज शब्दे भ्वादिः परस्मैपदी । गजः सिंहं चकर्षेति हि महासुरविनाशसूचक उ-",
+  "पातोयम् । प्रसिद्धिर्वैपरीत्यात् । ततः देवी तु पुनः सिंहं कर्षतः आक्षिपतः आहरतः तस्य महागजस्य करं शुण्डादण्डं खड्गेन",
+  "चन्द्रहासेन निरकृन्तत निष्कृष्य अच्छैत्सीत् । कृती छेदने परस्मैपदी । यदभ्यधुः । 'कृणत्ति कृन्ततीत्येते वेष्टने छेदने क्रमा-",
+  "त्'इति । इह तु छान्दसमात्मनेपदम् । ऋषयश्छान्दसं पदमनुकुर्वन्ति । अन्यथा निरकृन्तदित्येव स्यात् । कर्षंतस्तत्करं देवीति",
+  "पाठे कर्षतो गजस्य स करः प्रसिद्धः तत्कर इति व्याख्या । इह स महासुरः प्राङ्महाहवक्षमः 'महिषोऽभूत्ततो व्याघ्रः",
+  "⟨?⟩ः पोत्री हरिः पुमान् । गजोऽथ महिषो भूयो मायावी स महामृधे' इत्येतदावेदयितुमाह ॥ ३१ ॥",
+  "( ४ नागोजीभट्टी ) करेणेति । महासिंहं देवीवाहनं कर्षत इत्यस्य सिंहमित्यादि । निरकृन्ततेति छान्दसम् ॥ ३१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) करेण चेति ३२ ॥ ३१ ॥",
+  "( ६ दंशोद्धारः ) करेणेति । गजेन सिंहाकर्षणं महासुरविनाशसूचक उत्पातोयम् । अकर्तत । कृती छेदने ।",
+  "परस्मैपदित्वेपि तद्धार्षः ॥ ३१ ॥",
+  "ततो महासुरो भूयो माहिषं वपुरास्थितः । तथैव क्षोभयामास त्रैलोक्यं सचराचरम् ॥ ३२ ॥",
+  "( १ गुप्तवती ) ॥ ३२ ॥",
+  "( २ चतुर्धरी ) वपुः शरीरम् । आस्थितो गृहीतवान् । तथैव पूर्ववत् ॥ ३२ ॥",
+  "( ३ शांन्तनवी ) ततः गजरूपवपुस्त्यागादनन्तरं भूयः पुनरपि स महासुरः माहिषं वपुराश्रितः प्राप्तवान् सन्",
+  "तथैव पूर्ववदेव प्राग्वत् महिषः सन् त्रैलोक्यं क्षोभयामास क्षोभं प्रापयामास । तथैव स चराचरं त्रैलोक्यं लोकत्रयं",
+  "क्षोभयामास । आश्रित इति श्रिञ् सेवायां सेवानुसरणे गतिविशेषे इति कर्तरि क्तः । आस्थित इति पाठे तु आङ्पूर्वस्ति-",
+  "⟨?⟩तिः प्रतिज्ञानार्थः सकर्मकः । 'गत्यर्थाकर्मकश्लिषशीङ्स्थास' इत्यादिना कर्तरि क्तः । वपुरास्थितः अङ्गीकृतवान् सन् त्रै-",
+  "लोक्यं क्षोभयामासेत्यर्थः । आस्थितेत्यविसर्गपाठे तु 'आङःस्था प्रतिज्ञाने' इत्यात्मनेपदम् । कर्तरि लुङ् । 'स्थाध्वोरिच्च' इत्या-",
+  "कारस्य इत्वं सिचः कित्त्वं च । तेन गुणाभावः । 'ह्रस्वादङ्गात्' इति सिचो लोपः । त्रैलोक्यं सचराचरम् इत्यत्र त्रयो लोका-",
+  "त्रैलोक्यम् । चातुर्वर्ण्यादित्वात्स्वार्थे ष्यञ् । स इति छेदे तु स महासुर इत्यर्थः । चराश्च देवाद्यः । अचराश्च पर्वतादयः ।",
+  "चराचरम् । सर्वो द्वन्द्वो विभाषैकवद्भवति । चराचरात्मकं त्रैलोक्यं स महासुरः क्षोभयामासेत्यर्थः । यद्वा चराश्चाचराश्च चरा",
+  "चरास्तैः सहितं त्रैलोक्यं सचराचरं संभवात्स्वरूपाख्यानतो विशेष्यभावः । यद्वा त्रैलोक्यं क्षोभयामास । तत् कीदृशं",
+  "चराचरं जगदात्मकमित्यर्थः । स महासुरः जगदात्मकं त्रैलोक्यं क्षोभयामासेत्यर्थः । यद्वा सचराचरं जङ्गमाजङ्गमसहितं",
+  "१ ‘वपुराश्रितः’ इति शान्तनवीपाठः ।",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.763,
+   "tesseract_mean_conf": 58.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 48.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.474,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 47.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 59.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 56.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.474,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.826,
+   "tesseract_mean_conf": 77.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 62.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.765,
+   "tesseract_mean_conf": 48.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 68.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.855,
+   "tesseract_mean_conf": 67.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 50.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 73.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.842,
+   "tesseract_mean_conf": 53.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 33.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 72.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 66.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.954,
+   "tesseract_mean_conf": 76.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 64.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.722,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 78.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 78.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 63.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.806,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 54.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 44.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 3 col 0: got 5 lines, expected 7; realigned, 2 line(s) unmatched",
+  "band 3 col 1: got 4 lines, expected 7; realigned, 3 line(s) unmatched",
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "तृतीयोऽध्यायः ३ ]  गुप्तवत्यादिषट्टीकासंवलिता",
+    "त एवाशु पुरुषं देवी चिच्छेद सायकैः । तं खड्ग",
+    "( १ गुप्तवती",
+    "( २ चतुर्धरी ) आशु शीघ्रम् । आश्वेव तं पुरुषं",
+    "र्मं च चिच्छेदेत्यन्वयः ॥ ३०",
+    "( ३ शान्तनवी ) ततः खड्गपाणेः पुरुषस्य दर्शनादनन्तरमेव",
+    "खड्गपाणिं पुरुषं कण्ठे चिच्छेद । खड्गं चर्म च पुरुषं च सायकैश्चिच्छेदेति",
+    "नाज्ञत्वादेकवद्भावः । तेन सार्धम् 'फलकोऽस्त्री फलं चर्म' चर्ममयं",
+    "महासुरः महागजोऽभूत् ॥ ३०",
+    "( ४ नागोजीभट्टी ) तत इति । तं पुरुषं देवी आश्वेव",
+    "त्यन्वयः ॥ ३०",
+    "( ५ जगच्चन्द्रचन्द्रिका ) तत एवाश्विति ३१ ॥ ३०"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ११५",
+    "चर्मणा सार्धं ततः सोऽभून्महागजः ॥ ३० ॥",
+    ") ॥ ३० ॥",
+    "चिच्छेदेत्यन्वयः । सायकैर्बाणैः । खड्गचर्मणा सहितं पुरुषं खड्गं च",
+    "।",
+    "देवी आशु सत्वरं सायकैराशुगैः खड्गचर्मणा सार्धं तं",
+    "सूचयितुं सार्धमित्युक्तम् । खड्गं चर्म च खड्गचर्म ।",
+    "गात्रत्राणं हस्तमात्रं फलकम् । ततः पुरुषरूपतः सकाशात्",
+    "॥",
+    "। खड्गचर्मणेति समाहारद्वन्द्वः । तत्सहितं सायकैश्चिच्छे-",
+    "॥",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "( ६ दंशोद्धारः ) ॥ ३०",
+    "करेण च महासिंहं तं चकर्ष जगर्ज च । कर्षतस्तु",
+    "( १ गुप्तवती",
+    "( २ चतुर्धरी ) ॥",
+    "( ३ शान्तनवी ) स च महागजः करेण हस्तेन शुण्डादण्डेन",
+    "व । बृंहितं चकार । 'बृंहितं करिगर्जितम्' । गर्ज शब्दे भ्वादिः",
+    "पातोयम् । प्रसिद्धिर्वैपरीत्यात् । ततः देवी तु पुनः सिंहं कर्षतः",
+    "चन्द्रहासेन निरकृन्तत निष्कृष्य अच्छैत्सीत् । कृती छेदने परस्मैपदी",
+    "त्'इति । इह तु छान्दसमात्मनेपदम् । ऋषयश्छान्दसं पदमनुकुर्वन्ति",
+    "पाठे कर्षतो गजस्य स करः प्रसिद्धः तत्कर इति व्याख्या । इह",
+    "⟨?⟩ः पोत्री हरिः पुमान् । गजोऽथ महिषो भूयो मायावी स",
+    "( ४ नागोजीभट्टी ) करेणेति । महासिंहं देवीवाहनं कर्षत"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "॥",
+    "करं देवी खड्गेन निरकृन्तत ॥ ३१ ॥",
+    ") ॥ ३१ ॥",
+    "३१ ॥",
+    "तं प्रसिद्धं देव्या वाहनं सिंहं चकर्ष आकृष्टवान् जगर्ज",
+    "परस्मैपदी । गजः सिंहं चकर्षेति हि महासुरविनाशसूचक उ-",
+    "आक्षिपतः आहरतः तस्य महागजस्य करं शुण्डादण्डं खड्गेन",
+    "। यदभ्यधुः । 'कृणत्ति कृन्ततीत्येते वेष्टने छेदने क्रमा-",
+    "। अन्यथा निरकृन्तदित्येव स्यात् । कर्षंतस्तत्करं देवीति",
+    "स महासुरः प्राङ्महाहवक्षमः 'महिषोऽभूत्ततो व्याघ्रः",
+    "महामृधे' इत्येतदावेदयितुमाह ॥ ३१ ॥",
+    "इत्यस्य सिंहमित्यादि । निरकृन्ततेति छान्दसम् ॥ ३१ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( ५ जगच्चन्द्रचन्द्रिका ) करेण चेति ३२ ॥",
+    "( ६ दंशोद्धारः ) करेणेति । गजेन सिंहाकर्षणं",
+    "परस्मैपदित्वेपि तद्धार्षः ॥ ३१ ॥",
+    "ततो महासुरो भूयो माहिषं वपुरास्थितः । तथैव",
+    "( १ गुप्तवती ) ॥ ३२",
+    "( २ चतुर्धरी ) वपुः शरीरम् । आस्थितो गृहीतवान् ।",
+    "( ३ शांन्तनवी ) ततः गजरूपवपुस्त्यागादनन्तरं भूयः",
+    "तथैव पूर्ववदेव प्राग्वत् महिषः सन् त्रैलोक्यं क्षोभयामास",
+    "क्षोभयामास । आश्रित इति श्रिञ् सेवायां सेवानुसरणे गतिविशेषे",
+    "⟨?⟩तिः प्रतिज्ञानार्थः सकर्मकः । 'गत्यर्थाकर्मकश्लिषशीङ्स्थास'",
+    "लोक्यं क्षोभयामासेत्यर्थः । आस्थितेत्यविसर्गपाठे तु 'आङःस्था",
+    "कारस्य इत्वं सिचः कित्त्वं च । तेन गुणाभावः । 'ह्रस्वादङ्गात्' इति"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "३१ ॥",
+    "महासुरविनाशसूचक उत्पातोयम् । अकर्तत । कृती छेदने ।",
+    "क्षोभयामास त्रैलोक्यं सचराचरम् ॥ ३२ ॥",
+    "॥",
+    "तथैव पूर्ववत् ॥ ३२ ॥",
+    "पुनरपि स महासुरः माहिषं वपुराश्रितः प्राप्तवान् सन्",
+    "क्षोभं प्रापयामास । तथैव स चराचरं त्रैलोक्यं लोकत्रयं",
+    "इति कर्तरि क्तः । आस्थित इति पाठे तु आङ्पूर्वस्ति-",
+    "इत्यादिना कर्तरि क्तः । वपुरास्थितः अङ्गीकृतवान् सन् त्रै-",
+    "प्रतिज्ञाने' इत्यात्मनेपदम् । कर्तरि लुङ् । 'स्थाध्वोरिच्च' इत्या-",
+    "सिचो लोपः । त्रैलोक्यं सचराचरम् इत्यत्र त्रयो लोका-"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "त्रैलोक्यम् । चातुर्वर्ण्यादित्वात्स्वार्थे ष्यञ् । स इति छेदे तु स",
+    "चराचरम् । सर्वो द्वन्द्वो विभाषैकवद्भवति । चराचरात्मकं त्रैलोक्यं",
+    "चरास्तैः सहितं त्रैलोक्यं सचराचरं संभवात्स्वरूपाख्यानतो",
+    "चराचरं जगदात्मकमित्यर्थः । स महासुरः जगदात्मकं त्रैलोक्यं",
+    "१ ‘वपुराश्रितः’ इति शान्तनवीपाठः ।"
+   ],
+   "expected": 7,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "महासुर इत्यर्थः । चराश्च देवाद्यः । अचराश्च पर्वतादयः ।",
+    "स महासुरः क्षोभयामासेत्यर्थः । यद्वा चराश्चाचराश्च चरा",
+    "विशेष्यभावः । यद्वा त्रैलोक्यं क्षोभयामास । तत् कीदृशं",
+    "क्षोभयामासेत्यर्थः । यद्वा सचराचरं जङ्गमाजङ्गमसहितं"
+   ],
+   "expected": 7,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 24544,
+  "out": 16758
+ },
+ "ts": "2026-10-16T00:27:29"
+}

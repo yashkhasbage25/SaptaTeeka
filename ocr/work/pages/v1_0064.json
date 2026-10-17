@@ -1,0 +1,600 @@
+{
+ "vol": 1,
+ "scan": 64,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "५४ दुर्गासप्तशती । प्रथमोऽध्यायः १ ]",
+  "दैन्यं दौर्मनस्यं दुस्थितमनस्कत्वं च जायते । यद्यस्मात्कारणात् मयि अप्रीतिष्वपि तेषु पुत्रादिषु मे मनः निष्ठुरं क्रूरं न",
+  "जायते । अतः करोमि किमित्यन्वयः । तदित्थं संप्रति सांसारिकचिन्तातः कान्दिशीकोऽस्मीति भावः । ‘कान्दिशीको",
+  "भयद्रुतः' कां दिशं व्रजामि इति व्याकुलोऽस्मीति भावः ॥ २६ ॥",
+  "( ४ नागोजीभट्टी ) तेषामिति । तन्निमित्तं यन्मे निः श्वासादिकं जायते अप्रीतिषु प्रीतिरहितेषु अपि तेषु यन्मे",
+  "मनो निष्ठुरं न तर्हि करोमीत्यन्वयः ॥ २६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अर्धं पुनर्भवेदिति । अर्धं अर्धश्लोकात्मको मन्त्रो भवेत् । तथाहि—‘करोमि किं यत्र मन‐",
+  "स्तेष्वप्रीतिषु निष्ठुरं स्वाहा ३४' ॥ २६ ॥",
+  "( ६ दंशोद्धारः ) ॥ २६ ॥",
+  "मार्कंडेय उवाच ।",
+  "ततस्तौ सहितौ विप्र तं मुनिं समुपस्थितौ । समाधिर्नाम वैश्योऽसौ स च पार्थिवसत्तमः ॥२७॥",
+  "( १ गुप्तवती ) ॥ २७ ⟨?⟩ पार्थिवेषु राजसु सत्तमः साधुतमः ॥२७॥",
+  "( २ चतुर्धरी ) तत इत्यादि । हे विप्र तं मेधसं समुपस्थितौ उपसन्नौ । पार्थिवेषु राजसु सत्तमः साधुतमः ॥ २७॥",
+  "( ३ शान्तनवी ) हे विप्र हे शिष्य समाधिर्नाम असौ वैश्यश्च पार्थिवसत्तमः स सुरथश्च तौ द्वौ सहितौ मिलितौ हित·",
+  "संयुक्तौ वा संतौ तं प्रसिद्धं सुमेधसं नाम मुनिं समुपस्थितौ सम्यक् उपजग्मतुरित्यन्वयः । तिष्ठतिरुपपूर्वो गत्यर्थोऽपि ।",
+  "पार्थिवेषु सन् अतिशयेन पार्थिवसत्तमः ॥ २७ ॥",
+  "( ४ नागोजीभट्टी ) मार्कण्डेय उवाच । तत इति । सहितौ मित्रत्वेन संगतौ समुपस्थितौ समुपसन्नौ ॥ २७ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) मार्कण्डेय इति । तथाहि—'मार्कण्डेय उवाच स्वाहा ३५' इत्येको मन्त्रः । पुनश्चार्द्धश्लोक",
+  "इति पुनरर्धश्लोकात्मको मन्त्रश्च भवेत् । तथाहि—'ततस्तौ सहितौ विप्र तं मुनिं समुपस्थितौ स्वाहा ३६' । श्लोकात्मकः पुनरिति ।",
+  "पुनः श्लोकात्मकः श्लोकरूपो मन्त्रो भवेत् । तद्यथा । समाधिर्नामेति ३७ ॥ २७ ॥",
+  "( ६ दंशोद्धारः ) ॥ २७ ॥",
+  "कृत्वा तु तौ यथान्यायं यथार्हं तेन संविदम् । उपविष्टौ कथाः काश्चिच्चक्रतुर्वैश्यपार्थिवौ ॥२८॥",
+  "( १ गुप्तवती ) ॥ २८ ॥",
+  "( २ चतुर्धरी ) कृत्वेति । यथान्यायं यथागमं यथार्हं यथाचारं तेन मुनिना सह संविदं संभाषां 'संविदि⟨?⟩यां प्रति·",
+  "षायामाकारे ज्ञानसंकरे । संभाषायां क्रियाकाले संकेते नाम्नि भाषणे' इत्यभिधानात् ॥ २८ ॥",
+  "( ३ शान्तनवी ) अल्पाच्तरत्वाद्वैश्यस्य पूर्वनिपातः । अभ्यर्हितस्तु पार्थिवः क्षत्रियत्वात् । यथान्यायं तु शब्दद्वयोक्त",
+  "विधिमनतिकम्यैव यथार्हम् अर्हं पूज्यं वृद्धम् अनतिकम्यैव यथाश्रमं तस्मै 'सुमेधसे मुनये संविदं संभाषणाचारं कृत्वा तेनापि",
+  "पूजितौ तदनुमत्या उपविष्टौ संतौ तौ वैश्यपार्थिवौ काश्चित्स्वार्थपराः उचिताः कथाः उक्तीः चक्रतुः विदधतुरित्यन्वयः । 'तु",
+  "स्याद्⟨?⟩देऽवधारणे' । 'स्त्री संविज्ञानसंभाषाक्रियाकाराजिनामसु' । 'प्रतिज्ञातोषणाचारेष्वपि संवित्प्रयुज्यते' ॥ २८ ॥",
+  "( ४ नागोजीभट्टी ) कृत्वेति । यथान्यायं यथाशास्त्रं यथार्हं यथायोग्यं संविदं संभाषाम् उपविष्टौ । अन्तर्भावितण्यर्थ-",
+  "त्वेन । उपवेशितावित्यर्थः । तेनेति कर्तरि तृतीया । काश्चित्स्वपरविषयाः ॥ २८ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अर्धश्लोकात्मको मन्त्र इति । अर्धश्लोकरूपो मन्त्रः । तथथा 'उपविष्टौ कथाः काश्चि-",
+  "च्चकतुर्वैश्यपार्थिवौ स्वाहा ३८' ॥ २८ ॥ ⟨?⟩योग्यं संविदं भाषणम् । काश्चित्स्वपरवि-",
+  "( ६ दंशोद्धारः ) कृत्वेति । यथान्यायं यथाशास्त्रं यथार्हं यथामहत्सु योग्यं संविदं भाषणम् । काश्चित्स्वपरवि-",
+  "षयाः ॥ २८ ॥",
+  "राजोवाच ।",
+  "भगवंस्त्वामहं प्रष्टुमिच्छाम्येकं वदस्व तत् । दुःखाय यन्मे मनसः स्वचित्तायत्ततां विना ॥ २९॥",
+  "( १ गुप्तवती ) दुःखायेति । स्वचित्तजयाभावसहकारिकं मनसि दुःखापादकं वस्तु किमित्यर्थः ॥ २९ ॥",
+  "( २ चतुर्धरी ) भगवन्निति । एकं वस्तु यन्मनसः स्वचित्ते हृदि आयत्ततां निरोधं विना मे मम मनसो दुःखाय दुःख",
+  "कारणं तद्वदस्वेत्यर्थः । वदस्वेति ‘सर्वे विधयः छन्दसि विकल्पन्ते' । इत्यात्मनेपदम् । पुराणमपि ऋषिप्रणीतत्वाच्छान्दसमेव ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.966,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 62.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 74.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.954,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 65.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 63.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 76.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 82.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.786,
+   "tesseract_mean_conf": 46.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 79.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.936,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 60.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.412,
+   "tesseract_char_agree": 0.89,
+   "tesseract_mean_conf": 56.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.869,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 86.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 71.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 77.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 75.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 76.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.858,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 50.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.839,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 64.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 56.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 44.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.987,
+   "tesseract_mean_conf": 81.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 77.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.737,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 84.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 58.8,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 11 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 1 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "५४ दुर्गासप्तशती",
+    "दैन्यं दौर्मनस्यं दुस्थितमनस्कत्वं च जायते । यद्यस्मात्कारणात्",
+    "जायते । अतः करोमि किमित्यन्वयः । तदित्थं संप्रति",
+    "भयद्रुतः' कां दिशं व्रजामि इति व्याकुलोऽस्मीति भावः ॥ २६",
+    "( ४ नागोजीभट्टी ) तेषामिति । तन्निमित्तं यन्मे निः",
+    "मनो निष्ठुरं न तर्हि करोमीत्यन्वयः ॥ २६ ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अर्धं पुनर्भवेदिति । अर्धं",
+    "स्तेष्वप्रीतिषु निष्ठुरं स्वाहा ३४' ॥ २६ ॥",
+    "( ६ दंशोद्धारः ) ॥ २६",
+    "मार्कंडेय",
+    "ततस्तौ सहितौ विप्र तं मुनिं समुपस्थितौ ।",
+    "( १ गुप्तवती ) ॥ २७"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। प्रथमोऽध्यायः १ ]",
+    "मयि अप्रीतिष्वपि तेषु पुत्रादिषु मे मनः निष्ठुरं क्रूरं न",
+    "सांसारिकचिन्तातः कान्दिशीकोऽस्मीति भावः । ‘कान्दिशीको",
+    "॥",
+    "श्वासादिकं जायते अप्रीतिषु प्रीतिरहितेषु अपि तेषु यन्मे",
+    "अर्धश्लोकात्मको मन्त्रो भवेत् । तथाहि—‘करोमि किं यत्र मन‐",
+    "॥",
+    "उवाच ।",
+    "समाधिर्नाम वैश्योऽसौ स च पार्थिवसत्तमः ॥२७॥",
+    "॥",
+    "⟨?⟩ पार्थिवेषु राजसु सत्तमः साधुतमः ॥२७॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "( २ चतुर्धरी ) तत इत्यादि । हे विप्र तं मेधसं",
+    "( ३ शान्तनवी ) हे विप्र हे शिष्य समाधिर्नाम असौ",
+    "संयुक्तौ वा संतौ तं प्रसिद्धं सुमेधसं नाम मुनिं समुपस्थितौ",
+    "पार्थिवेषु सन् अतिशयेन पार्थिवसत्तमः ॥ २७",
+    "( ४ नागोजीभट्टी ) मार्कण्डेय उवाच । तत इति ।",
+    "( ५ जगच्चन्द्रचन्द्रिका ) मार्कण्डेय इति ।",
+    "इति पुनरर्धश्लोकात्मको मन्त्रश्च भवेत् । तथाहि—'ततस्तौ सहितौ",
+    "पुनः श्लोकात्मकः श्लोकरूपो मन्त्रो भवेत् । तद्यथा । समाधिर्नामेति",
+    "( ६ दंशोद्धारः ) ॥ २७",
+    "कृत्वा तु तौ यथान्यायं यथार्हं तेन संविदम् ।",
+    "( १ गुप्तवती ) ॥ २८ ॥",
+    "( २ चतुर्धरी ) कृत्वेति । यथान्यायं यथागमं यथार्हं"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "समुपस्थितौ उपसन्नौ । पार्थिवेषु राजसु सत्तमः साधुतमः ॥ २७॥",
+    "वैश्यश्च पार्थिवसत्तमः स सुरथश्च तौ द्वौ सहितौ मिलितौ हित·",
+    "सम्यक् उपजग्मतुरित्यन्वयः । तिष्ठतिरुपपूर्वो गत्यर्थोऽपि ।",
+    "॥",
+    "सहितौ मित्रत्वेन संगतौ समुपस्थितौ समुपसन्नौ ॥ २७ ॥",
+    "तथाहि—'मार्कण्डेय उवाच स्वाहा ३५' इत्येको मन्त्रः । पुनश्चार्द्धश्लोक",
+    "विप्र तं मुनिं समुपस्थितौ स्वाहा ३६' । श्लोकात्मकः पुनरिति ।",
+    "३७ ॥ २७ ॥",
+    "॥",
+    "उपविष्टौ कथाः काश्चिच्चक्रतुर्वैश्यपार्थिवौ ॥२८॥",
+    "यथाचारं तेन मुनिना सह संविदं संभाषां 'संविदि⟨?⟩यां प्रति·"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "षायामाकारे ज्ञानसंकरे । संभाषायां क्रियाकाले संकेते नाम्नि",
+    "( ३ शान्तनवी ) अल्पाच्तरत्वाद्वैश्यस्य पूर्वनिपातः ।",
+    "विधिमनतिकम्यैव यथार्हम् अर्हं पूज्यं वृद्धम् अनतिकम्यैव",
+    "पूजितौ तदनुमत्या उपविष्टौ संतौ तौ वैश्यपार्थिवौ काश्चित्स्वार्थपराः",
+    "स्याद्⟨?⟩देऽवधारणे' । 'स्त्री संविज्ञानसंभाषाक्रियाकाराजिनामसु'",
+    "( ४ नागोजीभट्टी ) कृत्वेति । यथान्यायं यथाशास्त्रं",
+    "त्वेन । उपवेशितावित्यर्थः । तेनेति कर्तरि तृतीया ।",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अर्धश्लोकात्मको मन्त्र",
+    "च्चकतुर्वैश्यपार्थिवौ स्वाहा ३८' ॥ २८ ॥",
+    "( ६ दंशोद्धारः ) कृत्वेति । यथान्यायं यथाशास्त्रं",
+    "षयाः ॥ २८ ॥",
+    "राजोवाच"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "भाषणे' इत्यभिधानात् ॥ २८ ॥",
+    "अभ्यर्हितस्तु पार्थिवः क्षत्रियत्वात् । यथान्यायं तु शब्दद्वयोक्त",
+    "यथाश्रमं तस्मै 'सुमेधसे मुनये संविदं संभाषणाचारं कृत्वा तेनापि",
+    "उचिताः कथाः उक्तीः चक्रतुः विदधतुरित्यन्वयः । 'तु",
+    "। 'प्रतिज्ञातोषणाचारेष्वपि संवित्प्रयुज्यते' ॥ २८ ॥",
+    "यथार्हं यथायोग्यं संविदं संभाषाम् उपविष्टौ । अन्तर्भावितण्यर्थ-",
+    "काश्चित्स्वपरविषयाः ॥ २८ ॥",
+    "इति । अर्धश्लोकरूपो मन्त्रः । तथथा 'उपविष्टौ कथाः काश्चि-",
+    "⟨?⟩योग्यं संविदं भाषणम् । काश्चित्स्वपरवि-",
+    "यथार्हं यथामहत्सु योग्यं संविदं भाषणम् । काश्चित्स्वपरवि-",
+    "।"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "भगवंस्त्वामहं प्रष्टुमिच्छाम्येकं वदस्व तत् ।",
+    "( १ गुप्तवती ) दुःखायेति । स्वचित्तजयाभावसहकारिकं",
+    "( २ चतुर्धरी ) भगवन्निति । एकं वस्तु यन्मनसः",
+    "कारणं तद्वदस्वेत्यर्थः । वदस्वेति ‘सर्वे विधयः छन्दसि"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "दुःखाय यन्मे मनसः स्वचित्तायत्ततां विना ॥ २९॥",
+    "मनसि दुःखापादकं वस्तु किमित्यर्थः ॥ २९ ॥",
+    "स्वचित्ते हृदि आयत्ततां निरोधं विना मे मम मनसो दुःखाय दुःख",
+    "विकल्पन्ते' । इत्यात्मनेपदम् । पुराणमपि ऋषिप्रणीतत्वाच्छान्दसमेव ।"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25204,
+  "out": 22351
+ },
+ "ts": "2026-10-15T23:04:56"
+}

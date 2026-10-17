@@ -1,0 +1,645 @@
+{
+ "vol": 2,
+ "scan": 42,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 44,
+ "lines": [
+  "२१२                                   दुर्गासप्तशती । [ चतुर्थोऽध्यायः ४",
+  "( २ चतुर्धरी ) ते तव पराक्रमे केनान्येनोपमा भवतु । अपि तु न केनापि । रूपं च तव शत्रुभयकारि शत्रूणां भय-",
+  "कर्तुं शीलं यस्य तत् । अतिहारि अतिमनोहरं कुत्र । न कुत्रापि । किंतु भुवनत्रये त्वय्येवेत्यन्वयः ॥ २१ ॥",
+  "( ३ शान्तनवी ) हे देवि वरदे  भुवनत्रयेऽपि ते तव अस्य पराक्रमस्य केन सह उपमा भवतु । केनापि उपमैव",
+  "नास्ति । निरुपमत्वात्ते  पराक्रमस्य । ननु 'अतुलोपमाभ्याम्' इति निषेधात् तृतीया न स्यात् सहविवक्षायां तृतीयास्त्येव ।",
+  "सूत्रं तु षष्ठ्यर्थे सहभावाविवक्षार्थं च । हे देवि हे वरदे  रूपं च शत्रुभयकारि शत्रूणां भयोत्पादनशीलं ततोऽन्येषां तु अति-",
+  "हारि अतिमनोहारि तवैवास्ति न त्वन्यस्य कस्यापि । हे देवि हे वरदे त्वदीये चित्ते कृपा च समरनिष्ठुरता तथा त्वय्येव दृष्टा",
+  "नान्यत्र दृष्टा न कुत्रापि दृष्टेति भावः । भवत्विति लोट् । दृष्टा इति निष्ठा । दृष्ट्वा इति क्त्वान्तोऽपपाठः । कृपा समरनिष्ठुरता",
+  "इति च प्रथमा न तु द्वितीया । समरे निष्ठुराया भावः । 'त्वतलोर्गुणवचनस्य पुंवद्भावः' ॥ २१ ॥",
+  "( ४ नागोजीभट्टी ) केनेति । अतिहारि मनोहरम् । विरोधोऽत्रालंकारः । केनोपमेति तृतीया आर्षत्वात् । चित्ते कृपा",
+  "रिपुष्वप्युपकारकत्वात् निष्ठुरता तु स्पष्टैव । अत्र कृपा स्वाभाविकी निष्ठुरता त्वारोपितेति विरोधपरिहार इति बोध्यम् ॥ २१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) केनोपमेति २२ ॥ २१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) केनोपमेति २२ ॥ २१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) केनोपमेति २२ ॥ २१ ॥",
+  "( ६ दंशोद्धारः ) केनेति । अतिहारि अतिमनोहरम् ॥ २१ ॥",
+  "त्रैलोक्यमेतदखिलं रिपुनाशनेन त्रातं त्वया समरमूर्धनि तेऽपि हत्वा ।",
+  "नीता दिवं रिपुगणा भयमप्यपास्तमस्माकमुन्मदसुरारिभवं नमस्ते ॥ २२ ॥",
+  "( १ गुप्तवती ) ॥ २२ ॥",
+  "( २ चतुर्धरी ) ते रिपवोऽपि समरमूर्धनि रणप्रधानस्थाने हत्वा दिवं नीता इत्यन्वयः । उन्मदाः उद्रिक्ताहंकाराः",
+  "ये सुरारयस्तद्भवं तेभ्यो जातं भयमपि अपास्तम् अपनीतम् । ते तुभ्यम् ॥ २२ ॥",
+  "( ३ शान्तनवी ) हे देवि त्वया एतत् त्रैलोक्यं रिपुनाशनेन अखिलं यथा भवति तथा त्रातं रक्षितम् । त्रैङ् पालने ।",
+  "'नुदविदोन्दत्राघ्राहीभ्योऽन्यतरस्याम्'इति वा निष्ठानत्वम् । हे देवि त्वया समरमूर्धनि युद्धभूमौ रिपुगणान् हत्वा ते रिपुगणाः",
+  "दिवं स्वर्गं नीताः प्रापिताः । हे देवि त्वया अस्माकं देवानाम् उन्मदसुरारिभवं भयमपि अपास्तम् अपक्षिप्तं दूरीकृतम् । हे देवि",
+  "सर्वजननि नमस्ते । लोके खलु हिताः नतिमर्हन्ति । त्रयो लोकांत्रैलोक्यम् । चातुर्वर्ण्यादित्वात् स्वार्थे ष्यञ् । अखिलं त्रैलोक्य-",
+  "मिति पाठे पौनरुक्त्यशङ्का । न विद्यतेऽखिलं यस्मिन्निति क्रियाविशेषणं द्रष्टव्यम् । 'संभवे व्यभिचारे च स्याद्विशेषणमर्थ-",
+  "वत्’ । रिपूणां नाशनेन समरमूर्धनि समरस्य मूर्धैव मूर्धा युद्धभूमिः । तत्र उदुच्छ्रितमदेभ्यः सुराणामारिभ्यो दैत्येभ्यो",
+  "भवं संभवम् । ‘नमः स्वस्ति’ इति चतुर्थी ॥ २२ ॥",
+  "( ४ नागोजीभट्टी ) त्रैलोक्यमिति । त्वयेत्यन्तमेकान्वयः । ततो रिपुगणा इत्यन्तम् अपरं वाक्यम् ।  भयमित्यतो",
+  "भवमित्यन्तमपरम् । अनेन चित्ते कृपेत्येतद्विवृतम् । नमस्ते इत्यनेन नमस्काratिरिक्तप्रत्युपकारणे नास्माकं सामर्थ्यमिति",
+  "ध्वनितम् ॥ २२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) त्रैलोक्यमिति २३ ॥",
+  "( ६ दंशोद्धारः ) ॥ २२ ॥ २२ ॥",
+  "शूलेन पाहि नो देवि पाहि खड्गेन चाम्बिके । घण्टास्वनेन नः पाहि चापज्यानिःस्वनेन च ॥ २३॥",
+  "( १ गुप्तवती ) ॥ २३",
+  "( २ चतुर्धरी ) ॥ २३ ॥ ॥",
+  "( ३ शान्तनवी ) हे देवि हे अम्बिके त्वं शूलेन आयुधेन शत्रुभ्यो नोऽस्मान् पाहि रक्ष । पा रक्षणे । 'सेट्वापिच्च' ।",
+  "‘अत्री शूलं रुगायुधम्' । हे देवि अम्बिके त्वं घण्टास्वनेन घण्टायाः स्वनेन नः शत्रुतः पापतश्च पाहि । हे देवि हे अम्बिके",
+  "त्वं चापज्यानिःस्वनेन चापारो⟨?⟩कृष्टमौर्वांजनितनिःस्वनेन च नोऽस्मान् पाहि शत्रुतः पाप्मनश्चेति शेषः ॥ २३ ॥",
+  "( ४ नागो ⟨?⟩भट्टी ) ॥ २३ ॥",
+  "चन्द्रिका ) शूलेनेति २४ ॥ २३ ॥",
+  "दशा⟨?⟩ ९। ) ॥ २३ ॥",
+  "प्राच्यां रक्ष प्रतीच्यां च चण्डिके रक्ष दक्षिणे । भ्रामणेनात्मशूलस्य उत्तरस्यां तथेश्वरि ॥ २४॥",
+  "( १ गुप्तवती ) भ्रामणेनेत्यनेन विदिक्ष्वध ऊर्ध्वं च रक्षेति ध्वनितम् । ॥ २४ ॥",
+  "( १ गुप्तवती ) भ्रामणेनेत्यनेन विदिक्ष्वध ऊर्ध्वं च रक्षे ⟨?⟩ति ध्वनितम् । ॥ २४ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 81.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.987,
+   "tesseract_mean_conf": 77.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 60.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 77.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 75.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 75.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.667,
+   "tesseract_mean_conf": 27.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 18.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.909,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 84.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 74.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 73.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 82.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 73.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 84.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 69.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 59.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 73.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 73.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 71.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.89,
+   "tesseract_mean_conf": 53.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 70.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 59.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 74.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.845,
+   "tesseract_mean_conf": 49.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.647,
+   "tesseract_mean_conf": 78.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.733,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.849,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 73.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.438,
+   "tesseract_mean_conf": 14.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.385,
+   "tesseract_mean_conf": 36.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 68.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 70.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 44.0,
+   "needs_review": true
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "२१२                                   दुर्गासप्तशती",
+    "( २ चतुर्धरी ) ते तव पराक्रमे केनान्येनोपमा भवतु",
+    "कर्तुं शीलं यस्य तत् । अतिहारि अतिमनोहरं कुत्र । न",
+    "( ३ शान्तनवी ) हे देवि वरदे  भुवनत्रयेऽपि ते",
+    "नास्ति । निरुपमत्वात्ते  पराक्रमस्य । ननु 'अतुलोपमाभ्याम्' इति",
+    "सूत्रं तु षष्ठ्यर्थे सहभावाविवक्षार्थं च । हे देवि हे वरदे  रूपं",
+    "हारि अतिमनोहारि तवैवास्ति न त्वन्यस्य कस्यापि । हे देवि",
+    "नान्यत्र दृष्टा न कुत्रापि दृष्टेति भावः । भवत्विति लोट् । दृष्टा",
+    "इति च प्रथमा न तु द्वितीया । समरे निष्ठुराया भावः ।",
+    "( ४ नागोजीभट्टी ) केनेति । अतिहारि मनोहरम् ।",
+    "रिपुष्वप्युपकारकत्वात् निष्ठुरता तु स्पष्टैव । अत्र कृपा स्वाभाविकी",
+    "( ५ जगच्चन्द्रचन्द्रिका ) केनोपमेति २२ ॥ २१"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ चतुर्थोऽध्यायः ४",
+    "। अपि तु न केनापि । रूपं च तव शत्रुभयकारि शत्रूणां भय-",
+    "कुत्रापि । किंतु भुवनत्रये त्वय्येवेत्यन्वयः ॥ २१ ॥",
+    "तव अस्य पराक्रमस्य केन सह उपमा भवतु । केनापि उपमैव",
+    "निषेधात् तृतीया न स्यात् सहविवक्षायां तृतीयास्त्येव ।",
+    "च शत्रुभयकारि शत्रूणां भयोत्पादनशीलं ततोऽन्येषां तु अति-",
+    "हे वरदे त्वदीये चित्ते कृपा च समरनिष्ठुरता तथा त्वय्येव दृष्टा",
+    "इति निष्ठा । दृष्ट्वा इति क्त्वान्तोऽपपाठः । कृपा समरनिष्ठुरता",
+    "'त्वतलोर्गुणवचनस्य पुंवद्भावः' ॥ २१ ॥",
+    "विरोधोऽत्रालंकारः । केनोपमेति तृतीया आर्षत्वात् । चित्ते कृपा",
+    "निष्ठुरता त्वारोपितेति विरोधपरिहार इति बोध्यम् ॥ २१ ॥",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "( ५ जगच्चन्द्रचन्द्रिका ) केनोपमेति २२ ॥ २१",
+    "( ५ जगच्चन्द्रचन्द्रिका ) केनोपमेति २२ ॥ २१",
+    "( ६ दंशोद्धारः ) केनेति । अतिहारि अतिमनोहरम्",
+    "त्रैलोक्यमेतदखिलं रिपुनाशनेन त्रातं",
+    "नीता दिवं रिपुगणा",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) ते रिपवोऽपि समरमूर्धनि",
+    "ये सुरारयस्तद्भवं तेभ्यो जातं भयमपि अपास्तम् अपनीतम् ।",
+    "( ३ शान्तनवी ) हे देवि त्वया एतत् त्रैलोक्यं",
+    "'नुदविदोन्दत्राघ्राहीभ्योऽन्यतरस्याम्'इति वा निष्ठानत्वम् । हे",
+    "दिवं स्वर्गं नीताः प्रापिताः । हे देवि त्वया अस्माकं देवानाम्",
+    "सर्वजननि नमस्ते । लोके खलु हिताः नतिमर्हन्ति । त्रयो"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "॥",
+    "॥",
+    "॥ २१ ॥",
+    "त्वया समरमूर्धनि तेऽपि हत्वा ।",
+    "भयमप्यपास्तमस्माकमुन्मदसुरारिभवं नमस्ते ॥ २२ ॥",
+    "२२ ॥",
+    "रणप्रधानस्थाने हत्वा दिवं नीता इत्यन्वयः । उन्मदाः उद्रिक्ताहंकाराः",
+    "ते तुभ्यम् ॥ २२ ॥",
+    "रिपुनाशनेन अखिलं यथा भवति तथा त्रातं रक्षितम् । त्रैङ् पालने ।",
+    "देवि त्वया समरमूर्धनि युद्धभूमौ रिपुगणान् हत्वा ते रिपुगणाः",
+    "उन्मदसुरारिभवं भयमपि अपास्तम् अपक्षिप्तं दूरीकृतम् । हे देवि",
+    "लोकांत्रैलोक्यम् । चातुर्वर्ण्यादित्वात् स्वार्थे ष्यञ् । अखिलं त्रैलोक्य-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "मिति पाठे पौनरुक्त्यशङ्का । न विद्यतेऽखिलं यस्मिन्निति",
+    "वत्’ । रिपूणां नाशनेन समरमूर्धनि समरस्य मूर्धैव मूर्धा",
+    "भवं संभवम् । ‘नमः स्वस्ति’ इति चतुर्थी ॥ २२",
+    "( ४ नागोजीभट्टी ) त्रैलोक्यमिति । त्वयेत्यन्तमेकान्वयः",
+    "भवमित्यन्तमपरम् । अनेन चित्ते कृपेत्येतद्विवृतम् । नमस्ते",
+    "ध्वनितम् ॥ २२",
+    "( ५ जगच्चन्द्रचन्द्रिका ) त्रैलोक्यमिति २३ ॥",
+    "( ६ दंशोद्धारः ) ॥ २२ ॥",
+    "शूलेन पाहि नो देवि पाहि खड्गेन चाम्बिके ।",
+    "( १ गुप्तवती ) ॥ २३",
+    "( २ चतुर्धरी ) ॥ २३ ॥",
+    "( ३ शान्तनवी ) हे देवि हे अम्बिके त्वं शूलेन आयुधेन"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "क्रियाविशेषणं द्रष्टव्यम् । 'संभवे व्यभिचारे च स्याद्विशेषणमर्थ-",
+    "युद्धभूमिः । तत्र उदुच्छ्रितमदेभ्यः सुराणामारिभ्यो दैत्येभ्यो",
+    "॥",
+    "। ततो रिपुगणा इत्यन्तम् अपरं वाक्यम् ।  भयमित्यतो",
+    "इत्यनेन नमस्काratिरिक्तप्रत्युपकारणे नास्माकं सामर्थ्यमिति",
+    "॥",
+    "२२ ॥",
+    "घण्टास्वनेन नः पाहि चापज्यानिःस्वनेन च ॥ २३॥",
+    "॥",
+    "शत्रुभ्यो नोऽस्मान् पाहि रक्ष । पा रक्षणे । 'सेट्वापिच्च' ।"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "‘अत्री शूलं रुगायुधम्' । हे देवि अम्बिके त्वं घण्टास्वनेन",
+    "त्वं चापज्यानिःस्वनेन चापारो⟨?⟩कृष्टमौर्वांजनितनिःस्वनेन च",
+    "( ४ नागो",
+    "चन्द्रिका ) शूलेनेति २४ ॥ २३",
+    "दशा⟨?⟩ ९। )",
+    "प्राच्यां रक्ष प्रतीच्यां च चण्डिके रक्ष दक्षिणे ।",
+    "( १ गुप्तवती ) भ्रामणेनेत्यनेन विदिक्ष्वध ऊर्ध्वं च रक्षेति",
+    "( १ गुप्तवती ) भ्रामणेनेत्यनेन विदिक्ष्वध ऊर्ध्वं च रक्षे"
+   ],
+   "expected": 8,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "घण्टायाः स्वनेन नः शत्रुतः पापतश्च पाहि । हे देवि हे अम्बिके",
+    "नोऽस्मान् पाहि शत्रुतः पाप्मनश्चेति शेषः ॥ २३ ॥",
+    "⟨?⟩भट्टी ) ॥ २३ ॥",
+    "॥",
+    "॥ २३ ॥",
+    "भ्रामणेनात्मशूलस्य उत्तरस्यां तथेश्वरि ॥ २४॥",
+    "ध्वनितम् । ॥ २४ ॥",
+    "⟨?⟩ति ध्वनितम् । ॥ २४ ॥"
+   ],
+   "expected": 8,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25974,
+  "out": 15134
+ },
+ "ts": "2026-10-16T00:39:26"
+}

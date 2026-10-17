@@ -1,0 +1,585 @@
+{
+ "vol": 2,
+ "scan": 24,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 39,
+ "lines": [
+  "११४                                                                                                     दुर्गासप्तशती । [ तृतीयोऽध्यायः ३",
+  "शतशः । शतशतं शतशः । 'संख्यैकवचनाच्च वीप्सायाम्' इति शप्रत्ययः । यद्वा श्वासानिलाहताः शीर्णाः श्वासानिलैराहत",
+  "स्ताडिताः इत्यनुसंधेयम् । शीर्णाश्चूर्णीभूताः ॥ २६ ॥",
+  "( ४ नागोजिभट्टी ) धुतेति । कम्पितेत्यर्थः । खण्डस्य खण्डा यस्यां क्रियायाम् । श्वासानिलेनाकाश प्रसस्ताः क्षि⟨?⟩",
+  "अचलाः पुनराकाशात्पेतुरित्यर्थः ॥ २६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) धुतशृङ्गेति २७ ॥ २६ ॥",
+  "( ६ देशोद्धारः ) ॥ २६ ॥",
+  "इति क्रोधसमाध्मातमापतन्तं महासुरम् । दृष्ट्वा सा चण्डिका कोपं तद्वधाय तदाकरोत् ॥ २७।",
+  "( १ गुप्तवती ) ॥ २७ ॥ २७ ॥",
+  "( २ चतुर्धरी ) क्रोधसमाध्मातं क्रोधनोद्धासितम् ॥",
+  "( ३ शान्तनवी ) इति प्रागुक्तरीत्या क्रोधसमाध्मातं क्रोधाग्नियुक्त क्रोधेन समन्तादाविष्टमासमन्ताद्विजृम्भितम् आ",
+  "पतन्तम् अभ्यधावन्तं महिषं महासुरं दृष्ट्वा वीक्ष्य तदा तद्वधाय तं महिषं हन्तुं चण्डिकादेवी कोपम् अकरोत् । वध हिंसार्थ",
+  "र्यते । विधिः प्रकृत्यन्तरम् ‘जनिवध्योश्च’ इति विधिग्रहणादवसीयते । तद्वधायेति । तस्य वधनं वधः। भावे घञ् 'जनिवध्योश्च",
+  "‘अत उपधायाः’ वृद्ध्यभावः । ‘क्रियार्थोपपदस्य च कर्मणि स्थानिनः' इति चतुर्थी । तद्वधं विधातुं कोपं क्रोधमकरोत्",
+  "स्कुर्यत । चडि कोपे । चण्डते चण्डति वा चण्डिका ॥ २७ ॥",
+  "( ४ नागोजीभट्टी ) ॥ २७ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) इति को⟨?⟩ति २८ ॥ २७ ॥",
+  "( ६ दंशोद्धारः ) इतीति । क्रोधेन समाक्रान्तं संतप्तम् ॥ २७ ॥",
+  "⟨?⟩॥ क्षिप्त्वा तस्य वै पाशं तं बबन्ध महासुरम् । तत्याज माहिषं रूपं सोऽपि बद्धो महामृधे॥२८॥",
+  "( १ गुप्तवती ) ॥ २८ ॥",
+  "( २ चतुर्धरी ) तस्येति । संबन्धलक्षणा षष्ठी । मृधे युद्धे ॥ २८ ॥",
+  "( ३ शान्तनवी ) म्रियन्ते यस्मिन्वीराः मृधं युद्धं तत्र महति मृधे सा चण्डिका देवी तावत् तस्य महिषस्य महा",
+  "सुरस्य वधाय वै प्रसिद्धं वरुणादवाप्तं पाशं पाशाख्यमायुधं क्षिप्त्वा प्रवर्तन्तं महिषं महासुरं बबन्ध । अथ स पाशबन्धमसहि",
+  "⟨?⟩णुर्माहिषं रूपं तत्याज अत्याक्षीत् । ततोनु स संत्यक्तमाहिषाकारो मायावित्वादन्य एव पशुः शार्दूलः खड्गः पोत्री वा प्रशस्त",
+  "⟨?⟩थमक्षतगात्रोऽभूत् । अथ देव्या पाशेन सोपि वा बद्ध एवाभूत् ॥ २८ ॥",
+  "( ४ नागोजीभट्टी ) संति । सा तस्योपरि पाशं क्षिप्त्वा तं बबन्धेत्यन्वयः ॥ २८ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) सा क्षिप्त्वेति २९ ॥ २८ ॥",
+  "( ६ दंशोद्धारः ) सा क्षिप्त्वेति । तस्य पांशं बन्धनायेति शेषः । तस्य तस्मिन् । संबन्धसामान्ये षष्ठी वा ॥ २८ ॥",
+  "ततः सिंहोऽभवत्सद्यो यावत्तस्याम्बिका शिरः । छिनत्ति तावत्पुरुषः खड्गपाणिरदृश्यत ॥ २९॥",
+  "( १ गुप्तवती ) ॥ २९ ॥",
+  "( २ चतुर्धरी ) ॥ २९ ॥",
+  "( ३ शान्तनवी ) ततः महिषादिरूपपरित्यागादनन्तरं सः महासुरः मायावित्वात्सद्यः सपदि देव्या समं योद्धुं सिंहो",
+  "ऽभूत् । ततः अम्बिकादेवी तस्य मायामयसिंहस्य शिरः मूर्धानं यावत् यावता कालेन छिनत्ति छेत्स्यति तावत् तावत्येव",
+  "काले स मायावी महासुरः खड्गपाणिः पुरुषः प्रादुर्भवन् अदृश्यत दृष्टः । देव्येति शेषः । यावच्छिनत्ति इति भविष्यति",
+  "काले 'यावत्पुरानिपातयोर्लट्' छिदिर् द्वैधीकरणे रुधादिः । 'यावत्तावच्च साकल्येऽवधौ मानेऽवधारणे' । खड्गं पाणौ यस्य",
+  "स तथोक्तः । 'प्रहरणार्थेभ्यः परे निष्ठासप्तम्यौ भवतः' इति च वक्तव्यम् ॥ २९ ॥",
+  "( ४ नागोजीभट्टी ) तत इति । तस्य सिंहीभूतस्य । अहृस्यत देव्येति शेषः ॥ २९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ततः सिंह इति ३० ॥ २९ ॥",
+  "( ६ दंशोद्धारः ) तत इति । छिनत्ति छेत्स्यति । ‘यावत्पुरानिपातयोः’ इति भविष्यति लट् ॥ २९ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 85.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.893,
+   "tesseract_mean_conf": 59.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 57.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 61.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 78.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 54.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.875,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 67.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.825,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.876,
+   "tesseract_mean_conf": 49.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 70.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 61.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.837,
+   "tesseract_mean_conf": 56.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.851,
+   "tesseract_mean_conf": 56.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.667,
+   "tesseract_mean_conf": 43.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.83,
+   "tesseract_mean_conf": 62.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.859,
+   "tesseract_mean_conf": 61.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.854,
+   "tesseract_mean_conf": 59.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.855,
+   "tesseract_mean_conf": 81.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 79.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.973,
+   "tesseract_mean_conf": 66.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 75.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 59.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.93,
+   "tesseract_mean_conf": 73.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 55.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.846,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 86.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 72.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 67.3,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "११४                                                                                                     दुर्गासप्तशती",
+    "शतशः । शतशतं शतशः । 'संख्यैकवचनाच्च वीप्सायाम्'",
+    "स्ताडिताः इत्यनुसंधेयम् । शीर्णाश्चूर्णीभूताः ॥ २६",
+    "( ४ नागोजिभट्टी ) धुतेति । कम्पितेत्यर्थः ।",
+    "अचलाः पुनराकाशात्पेतुरित्यर्थः ॥ २६",
+    "( ५ जगच्चन्द्रचन्द्रिका ) धुतशृङ्गेति २७ ॥",
+    "( ६ देशोद्धारः ) ॥ २६",
+    "इति क्रोधसमाध्मातमापतन्तं महासुरम् । दृष्ट्वा",
+    "( १ गुप्तवती ) ॥ २७ ॥",
+    "( २ चतुर्धरी ) क्रोधसमाध्मातं क्रोधनोद्धासितम् ॥",
+    "( ३ शान्तनवी ) इति प्रागुक्तरीत्या क्रोधसमाध्मातं",
+    "पतन्तम् अभ्यधावन्तं महिषं महासुरं दृष्ट्वा वीक्ष्य तदा तद्वधाय"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ तृतीयोऽध्यायः ३",
+    "इति शप्रत्ययः । यद्वा श्वासानिलाहताः शीर्णाः श्वासानिलैराहत",
+    "॥",
+    "खण्डस्य खण्डा यस्यां क्रियायाम् । श्वासानिलेनाकाश प्रसस्ताः क्षि⟨?⟩",
+    "॥",
+    "२६ ॥",
+    "॥",
+    "सा चण्डिका कोपं तद्वधाय तदाकरोत् ॥ २७।",
+    "२७ ॥",
+    "क्रोधाग्नियुक्त क्रोधेन समन्तादाविष्टमासमन्ताद्विजृम्भितम् आ",
+    "तं महिषं हन्तुं चण्डिकादेवी कोपम् अकरोत् । वध हिंसार्थ"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "र्यते । विधिः प्रकृत्यन्तरम् ‘जनिवध्योश्च’ इति विधिग्रहणादवसीयते",
+    "‘अत उपधायाः’ वृद्ध्यभावः । ‘क्रियार्थोपपदस्य च कर्मणि",
+    "स्कुर्यत । चडि कोपे । चण्डते चण्डति वा चण्डिका ॥",
+    "( ४ नागोजीभट्टी ) ॥ २७",
+    "( ५ जगच्चन्द्रचन्द्रिका ) इति को⟨?⟩ति २८ ॥",
+    "( ६ दंशोद्धारः ) इतीति । क्रोधेन समाक्रान्तं संतप्तम्",
+    "⟨?⟩॥ क्षिप्त्वा तस्य वै पाशं तं बबन्ध महासुरम् ।",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) तस्येति । संबन्धलक्षणा षष्ठी । मृधे",
+    "( ३ शान्तनवी ) म्रियन्ते यस्मिन्वीराः मृधं युद्धं",
+    "सुरस्य वधाय वै प्रसिद्धं वरुणादवाप्तं पाशं पाशाख्यमायुधं",
+    "⟨?⟩णुर्माहिषं रूपं तत्याज अत्याक्षीत् । ततोनु स संत्यक्तमाहिषाकारो"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "। तद्वधायेति । तस्य वधनं वधः। भावे घञ् 'जनिवध्योश्च",
+    "स्थानिनः' इति चतुर्थी । तद्वधं विधातुं कोपं क्रोधमकरोत्",
+    "२७ ॥",
+    "॥",
+    "२७ ॥",
+    "॥ २७ ॥",
+    "तत्याज माहिषं रूपं सोऽपि बद्धो महामृधे॥२८॥",
+    "२८ ॥",
+    "युद्धे ॥ २८ ॥",
+    "तत्र महति मृधे सा चण्डिका देवी तावत् तस्य महिषस्य महा",
+    "क्षिप्त्वा प्रवर्तन्तं महिषं महासुरं बबन्ध । अथ स पाशबन्धमसहि",
+    "मायावित्वादन्य एव पशुः शार्दूलः खड्गः पोत्री वा प्रशस्त"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "⟨?⟩थमक्षतगात्रोऽभूत् । अथ देव्या पाशेन सोपि वा बद्ध एवाभूत्",
+    "( ४ नागोजीभट्टी ) संति । सा तस्योपरि पाशं",
+    "( ५ जगच्चन्द्रचन्द्रिका ) सा क्षिप्त्वेति २९ ॥ २८",
+    "( ६ दंशोद्धारः ) सा क्षिप्त्वेति । तस्य पांशं बन्धनायेति",
+    "ततः सिंहोऽभवत्सद्यो यावत्तस्याम्बिका शिरः ।",
+    "( १ गुप्तवती ) ॥ २९",
+    "( २ चतुर्धरी ) ॥",
+    "( ३ शान्तनवी ) ततः महिषादिरूपपरित्यागादनन्तरं",
+    "ऽभूत् । ततः अम्बिकादेवी तस्य मायामयसिंहस्य शिरः मूर्धानं",
+    "काले स मायावी महासुरः खड्गपाणिः पुरुषः प्रादुर्भवन् अदृश्यत",
+    "काले 'यावत्पुरानिपातयोर्लट्' छिदिर् द्वैधीकरणे रुधादिः ।",
+    "स तथोक्तः । 'प्रहरणार्थेभ्यः परे निष्ठासप्तम्यौ भवतः' इति च"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "॥ २८ ॥",
+    "क्षिप्त्वा तं बबन्धेत्यन्वयः ॥ २८ ॥",
+    "॥",
+    "शेषः । तस्य तस्मिन् । संबन्धसामान्ये षष्ठी वा ॥ २८ ॥",
+    "छिनत्ति तावत्पुरुषः खड्गपाणिरदृश्यत ॥ २९॥",
+    "॥",
+    "२९ ॥",
+    "सः महासुरः मायावित्वात्सद्यः सपदि देव्या समं योद्धुं सिंहो",
+    "यावत् यावता कालेन छिनत्ति छेत्स्यति तावत् तावत्येव",
+    "दृष्टः । देव्येति शेषः । यावच्छिनत्ति इति भविष्यति",
+    "'यावत्तावच्च साकल्येऽवधौ मानेऽवधारणे' । खड्गं पाणौ यस्य",
+    "वक्तव्यम् ॥ २९ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38
+   ],
+   "lines": [
+    "( ४ नागोजीभट्टी ) तत इति । तस्य सिंहीभूतस्य ।",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ततः सिंह इति ३० ॥",
+    "( ६ दंशोद्धारः ) तत इति । छिनत्ति छेत्स्यति ।"
+   ],
+   "expected": 3,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38
+   ],
+   "lines": [
+    "अहृस्यत देव्येति शेषः ॥ २९ ॥",
+    "२९ ॥",
+    "‘यावत्पुरानिपातयोः’ इति भविष्यति लट् ॥ २९ ॥"
+   ],
+   "expected": 3,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 24104,
+  "out": 19461
+ },
+ "ts": "2026-10-16T00:27:30"
+}

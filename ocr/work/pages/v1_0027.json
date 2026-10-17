@@ -1,0 +1,635 @@
+{
+ "vol": 1,
+ "scan": 27,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 43,
+ "lines": [
+  "। १७",
+  "कवचम् ] गुप्तवत्यादिसप्तटीकासंवलिता",
+  "ब्रह्मोवाच ।",
+  "त गुह्यतमं विप्र सर्वभूतोपकारकम् । देव्यास्तु कवचं पुण्यं तच्छृणुष्व महामुने ॥ २ ॥",
+  "( गुप्तवती ) ॥ २ ॥ ( प्रदीपः ) उत्तरमाह । ब्रह्मोवाच । अस्ति गुह्यतमं विप्रेति । हे विप्र त्वया यत्पृष्टं तादृशं",
+  "तु देव्या एव कवचं पुण्यम् एकं निधिबुद्ध्या स्थापितमस्ति तन्महामुने शृणुष्व । सर्वभूतोपकारार्थं प्रवृत्तत्वान्महामुने",
+  "म्बोधनम् ॥ २ ॥",
+  "शैलपुत्रीति द्वितीयं ब्रह्मचारिणी । तृतीयं चन्द्रघण्टेति कूष्माण्डेति चतुर्थकम् ॥ ३ ॥",
+  "(गुप्तवती) ॥ ३ ॥ (प्रदीपः) परंतु सा देवी नवमूर्त्यात्मिका ध्येयेत्यभिप्रायेण तासां मूर्तीनां नामान्याह । प्रथमं",
+  "ीति । नामज्ञाने जाते तद्वाच्याकारस्य प्रसिद्धत्वादेव ज्ञानं भविष्यतीति भावः । सर्वोत्तरैश्वर्यवत्यपि भगवती शैलेन",
+  "तितपश्चर्यया प्रार्थिता सती कारुण्यवशादतिनीचमपि पुत्रीत्वं स्वीकृतवतीत्यहो भक्तवात्सल्यं कियद्वर्णनीयं भगवत्या",
+  "र्मपुराणे प्रसिद्धम् । ब्रह्मचारिणीति । ब्रह्म सच्चिदानन्दरूपं तच्चारयितुं प्रापयितुं शीलमस्याः सा ब्रह्मचारिणी ब्रह्मरूप-",
+  "यैः । चन्द्रघण्टेति चन्द्रो हस्तगतायां घण्टायां यस्याश्चन्द्रवन्निर्मला वा घण्टा यस्या इत्यर्थः । यद्वा आह्लादकारिणी देवी",
+  "ण्टेति कीर्तितेति रहस्यागमोक्तेश्चन्द्रं घण्टयति प्रतिवादितया भाषते स्वस्याह्लादकारित्वाभिमानेनेति चन्द्रघण्टा । चन्द्रा-",
+  "यतिशयेन लावण्यवतीत्यर्थः । पटपुटेति दण्डकपठितस्य चुरादेर्घटिधातोर्भाषार्थस्य पचाद्यचि रूपम् । चन्द्रस्य घण्टा",
+  "ण्टा वा । कूष्माण्डेति कुत्सित ऊष्मा सन्तापस्तापत्रयरूपो यस्मिन्संसारे स संसारो अण्डे मांसपेश्यामुदररूपायां यस्याः",
+  "तापयुक्तसंसारभक्षणकर्त्रीत्यर्थः । 'अण्डः पेशी च मुष्कं च' इति ⟨?⟩ मेदिनी ॥ ३ ॥",
+  "ं स्कन्दमातेति षष्ठं कात्यायनीति च । सप्तमं कालरात्रीति महागौरीति चाष्टमम् ॥ ४ ॥",
+  "( गुप्तवती ) ॥ ४ ॥ ( प्रदीपः ) स्कन्दमातेति । सनत्कुमारस्य भगवतीवीर्यादुद्भूतस्य स्कन्द इति संज्ञा 'भगवान्स-",
+  "ारस्तं स्कन्द इत्याचक्षते' इति छान्दोग्यश्रुतेः । तथा च ज्ञानिभिरपि यदुदरे जन्माभिलषणीयमित्यतिशुद्धेत्यर्थः । का-",
+  "नीति देवकार्यार्थं कात्यायनाश्रमे आविर्भूता तेन कन्यात्वेन स्वीकृतेति कात्यायनीति नाम भगवत्याः । अस्या निरन्तरं",
+  "त्वेन पत्यनधीनतया स्वतन्त्रत्वम् । कालरात्रीति सर्वमारकस्य कालस्यापि रात्रिर्नाशिकेत्यर्थः । प्रलये कालस्यापि ना-",
+  "। 'ऋदिकारादक्तिनः' इति ङीप् । महागौरीति । इयं च महामानिनी । नर्मोक्त्या शिवेन कालीत्युक्ते तपसा गौरवर्णस्य",
+  "दितत्वात् । कालीपुराणे स्पष्टमेतत् ॥ ४ ॥",
+  "ते सिद्धिदा मोक्षा नवदुर्गाः प्रकीर्तिताः । उक्तान्येतानि नामानि ब्रह्मणैव महात्मना ॥ ५ ॥",
+  "( गुप्तवती )॥ ५ ॥ ( प्रदीपः ) सिद्धिदेति । मोक्षदेत्यर्थः । इतीति शेषः । सिद्धिदेति नवममित्यन्वयः । नवदुर्गा",
+  "योगिनः कायव्यूहवदेकस्या एव दुर्गाया एते नवभेदा ये शास्त्रे ध्येयत्वेन प्रोक्तास्ते मया कीर्तिता इत्यर्थः । अत एव",
+  "स्तु कवचमित्येकवचनं संगच्छते । नाम्नां स्वकल्पितत्वशङ्काव्युदासार्थमाह । उक्तान्येतानीति । महात्मना सर्वज्ञेन ब्रह्मणैव",
+  "वैतान्युक्तानीत्यर्थः ॥ ५ ॥",
+  "ग्निना दह्यमानस्तु शत्रुमध्ये गतो रणे । विषमे दुर्गमे चैव भयार्ताः शरणं गताः ॥ ६ ॥",
+  "( गुप्तवती ) अग्निनेति । यो नवनामानि पठेदिति शेषः ः पठन्तमेकमपि बहवोऽन्ये ये शरणं गताः तेषां तस्य",
+  "ष्टनिवृत्तिरिति श्लोकद्वयार्थः ॥ ६ ॥",
+  "( प्रदीपः ) इत्थं कवचपाठे ध्येयं देवतास्वरूपं प्रदर्श्य तत्फले अविश्वासो नैव कर्तव्य इति कैमुतिकन्यायेनाह ।",
+  "नेति । योऽग्निना दह्यमानो रणे शत्रुमध्ये च गतः सन् शरणं गत इति शेषः । अथ ये विषमे दुर्गमे चातिसङ्कटे",
+  "ता भयपीडिताः सन्तः शरणं गताः ॥ ६ ॥",
+  "तेषां जायते किंचिदशुभं रणसंकटे । नापदं तस्य पश्यामि शोकदुःखभयं न हि ॥ ७ ॥",
+  "( गुप्तवती ) ॥ ७ ॥ ( प्रदीपः ) तेषां तस्य च भक्तिरहितेन स्मरणमात्रेणापि तज्जन्यं भयादिकं न भवतीत्याह ।",
+  "ामिति ॥ ॥ ७ ॥",
+  "तु भक्त्या स्मृता नूनं तेषामृद्धिः प्रजायते । प्रेतसंस्था तु चामुण्डा वाराही महिषासना ॥८॥",
+  "ी गजसमारुढा वैष्णवी गरुडासना । माहेश्वरी वृषारूढा कौमारी शिखिवाहना ॥ ९ ॥",
+  "( गुप्तवती ) आर्तभक्तिफलमुक्त्वा जिज्ञासुभक्तेः फलमाह । चैस्त्विति । सिद्धिदर्शनम् । आर्तानिष्टनिराशानुगुण एव",
+  "ातॄणां सार्वदिक उद्योग इत्याह । प्रेतसंस्थेत्यादिना ॥ ८ ॥ ९ ॥",
+  "३"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.25,
+   "tesseract_mean_conf": 16.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.84,
+   "tesseract_mean_conf": 78.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 74.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.878,
+   "tesseract_mean_conf": 70.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 58.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 69.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 73.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 45.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.98,
+   "tesseract_mean_conf": 60.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 72.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.97,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.99,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 72.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.961,
+   "tesseract_mean_conf": 77.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.975,
+   "tesseract_mean_conf": 80.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.936,
+   "tesseract_mean_conf": 60.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.876,
+   "tesseract_mean_conf": 77.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 74.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.972,
+   "tesseract_mean_conf": 81.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 81.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.983,
+   "tesseract_mean_conf": 74.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 77.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.706,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.851,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.923,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 79.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 63.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.969,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 77.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.862,
+   "tesseract_mean_conf": 58.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 29.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 0 col 0: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 6 lines, expected 7; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "कवचम् ] गुप्तवत्यादिसप्तटीकासंवलिता",
+    "ब्रह्मोवाच",
+    "त गुह्यतमं विप्र सर्वभूतोपकारकम् । देव्यास्तु",
+    "( गुप्तवती ) ॥ २ ॥ ( प्रदीपः ) उत्तरमाह । ब्रह्मोवाच",
+    "तु देव्या एव कवचं पुण्यम् एकं निधिबुद्ध्या स्थापितमस्ति",
+    "म्बोधनम् ॥ २",
+    "शैलपुत्रीति द्वितीयं ब्रह्मचारिणी । तृतीयं",
+    "(गुप्तवती) ॥ ३ ॥ (प्रदीपः) परंतु सा देवी नवमूर्त्यात्मिका",
+    "ीति । नामज्ञाने जाते तद्वाच्याकारस्य प्रसिद्धत्वादेव ज्ञानं",
+    "तितपश्चर्यया प्रार्थिता सती कारुण्यवशादतिनीचमपि पुत्रीत्वं",
+    "र्मपुराणे प्रसिद्धम् । ब्रह्मचारिणीति । ब्रह्म सच्चिदानन्दरूपं"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। १७",
+    "।",
+    "कवचं पुण्यं तच्छृणुष्व महामुने ॥ २ ॥",
+    "। अस्ति गुह्यतमं विप्रेति । हे विप्र त्वया यत्पृष्टं तादृशं",
+    "तन्महामुने शृणुष्व । सर्वभूतोपकारार्थं प्रवृत्तत्वान्महामुने",
+    "॥",
+    "चन्द्रघण्टेति कूष्माण्डेति चतुर्थकम् ॥ ३ ॥",
+    "ध्येयेत्यभिप्रायेण तासां मूर्तीनां नामान्याह । प्रथमं",
+    "भविष्यतीति भावः । सर्वोत्तरैश्वर्यवत्यपि भगवती शैलेन",
+    "स्वीकृतवतीत्यहो भक्तवात्सल्यं कियद्वर्णनीयं भगवत्या",
+    "तच्चारयितुं प्रापयितुं शीलमस्याः सा ब्रह्मचारिणी ब्रह्मरूप-"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "यैः । चन्द्रघण्टेति चन्द्रो हस्तगतायां घण्टायां यस्याश्चन्द्रवन्निर्मला",
+    "ण्टेति कीर्तितेति रहस्यागमोक्तेश्चन्द्रं घण्टयति प्रतिवादितया",
+    "यतिशयेन लावण्यवतीत्यर्थः । पटपुटेति दण्डकपठितस्य",
+    "ण्टा वा । कूष्माण्डेति कुत्सित ऊष्मा सन्तापस्तापत्रयरूपो",
+    "तापयुक्तसंसारभक्षणकर्त्रीत्यर्थः । 'अण्डः पेशी च मुष्कं च' इति",
+    "ं स्कन्दमातेति षष्ठं कात्यायनीति च । सप्तमं",
+    "( गुप्तवती ) ॥ ४ ॥ ( प्रदीपः ) स्कन्दमातेति । सनत्कुमारस्य",
+    "ारस्तं स्कन्द इत्याचक्षते' इति छान्दोग्यश्रुतेः । तथा च",
+    "नीति देवकार्यार्थं कात्यायनाश्रमे आविर्भूता तेन कन्यात्वेन",
+    "त्वेन पत्यनधीनतया स्वतन्त्रत्वम् । कालरात्रीति सर्वमारकस्य",
+    "। 'ऋदिकारादक्तिनः' इति ङीप् । महागौरीति । इयं च",
+    "दितत्वात् । कालीपुराणे स्पष्टमेतत् ॥ ४"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "वा घण्टा यस्या इत्यर्थः । यद्वा आह्लादकारिणी देवी",
+    "भाषते स्वस्याह्लादकारित्वाभिमानेनेति चन्द्रघण्टा । चन्द्रा-",
+    "चुरादेर्घटिधातोर्भाषार्थस्य पचाद्यचि रूपम् । चन्द्रस्य घण्टा",
+    "यस्मिन्संसारे स संसारो अण्डे मांसपेश्यामुदररूपायां यस्याः",
+    "⟨?⟩ मेदिनी ॥ ३ ॥",
+    "कालरात्रीति महागौरीति चाष्टमम् ॥ ४ ॥",
+    "भगवतीवीर्यादुद्भूतस्य स्कन्द इति संज्ञा 'भगवान्स-",
+    "ज्ञानिभिरपि यदुदरे जन्माभिलषणीयमित्यतिशुद्धेत्यर्थः । का-",
+    "स्वीकृतेति कात्यायनीति नाम भगवत्याः । अस्या निरन्तरं",
+    "कालस्यापि रात्रिर्नाशिकेत्यर्थः । प्रलये कालस्यापि ना-",
+    "महामानिनी । नर्मोक्त्या शिवेन कालीत्युक्ते तपसा गौरवर्णस्य",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "ते सिद्धिदा मोक्षा नवदुर्गाः प्रकीर्तिताः । उक्तान्येतानि",
+    "( गुप्तवती )॥ ५ ॥ ( प्रदीपः ) सिद्धिदेति । मोक्षदेत्यर्थः",
+    "योगिनः कायव्यूहवदेकस्या एव दुर्गाया एते नवभेदा ये शास्त्रे",
+    "स्तु कवचमित्येकवचनं संगच्छते । नाम्नां स्वकल्पितत्वशङ्काव्युदासार्थमाह",
+    "वैतान्युक्तानीत्यर्थः ॥",
+    "ग्निना दह्यमानस्तु शत्रुमध्ये गतो रणे । विषमे",
+    "( गुप्तवती ) अग्निनेति । यो नवनामानि पठेदिति शेषः",
+    "ष्टनिवृत्तिरिति श्लोकद्वयार्थः ॥ ६",
+    "( प्रदीपः ) इत्थं कवचपाठे ध्येयं देवतास्वरूपं प्रदर्श्य",
+    "नेति । योऽग्निना दह्यमानो रणे शत्रुमध्ये च गतः सन् शरणं",
+    "ता भयपीडिताः सन्तः शरणं गताः ॥ ६",
+    "तेषां जायते किंचिदशुभं रणसंकटे । नापदं तस्य"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "नामानि ब्रह्मणैव महात्मना ॥ ५ ॥",
+    "। इतीति शेषः । सिद्धिदेति नवममित्यन्वयः । नवदुर्गा",
+    "ध्येयत्वेन प्रोक्तास्ते मया कीर्तिता इत्यर्थः । अत एव",
+    "। उक्तान्येतानीति । महात्मना सर्वज्ञेन ब्रह्मणैव",
+    "५ ॥",
+    "दुर्गमे चैव भयार्ताः शरणं गताः ॥ ६ ॥",
+    "ः पठन्तमेकमपि बहवोऽन्ये ये शरणं गताः तेषां तस्य",
+    "॥",
+    "तत्फले अविश्वासो नैव कर्तव्य इति कैमुतिकन्यायेनाह ।",
+    "गत इति शेषः । अथ ये विषमे दुर्गमे चातिसङ्कटे",
+    "॥",
+    "पश्यामि शोकदुःखभयं न हि ॥ ७ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "( गुप्तवती ) ॥ ७ ॥ ( प्रदीपः ) तेषां तस्य च भक्तिरहितेन",
+    "ामिति ॥",
+    "तु भक्त्या स्मृता नूनं तेषामृद्धिः प्रजायते ।",
+    "ी गजसमारुढा वैष्णवी गरुडासना । माहेश्वरी",
+    "( गुप्तवती ) आर्तभक्तिफलमुक्त्वा जिज्ञासुभक्तेः फलमाह",
+    "ातॄणां सार्वदिक उद्योग इत्याह । प्रेतसंस्थेत्यादिना ॥ ८ ॥ ९",
+    "३"
+   ],
+   "expected": 7,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "स्मरणमात्रेणापि तज्जन्यं भयादिकं न भवतीत्याह ।",
+    "॥ ७ ॥",
+    "प्रेतसंस्था तु चामुण्डा वाराही महिषासना ॥८॥",
+    "वृषारूढा कौमारी शिखिवाहना ॥ ९ ॥",
+    "। चैस्त्विति । सिद्धिदर्शनम् । आर्तानिष्टनिराशानुगुण एव",
+    "॥"
+   ],
+   "expected": 7,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25479,
+  "out": 16076
+ },
+ "ts": "2026-10-15T22:50:12"
+}

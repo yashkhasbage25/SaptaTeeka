@@ -1,0 +1,683 @@
+{
+ "vol": 1,
+ "scan": 59,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 47,
+ "lines": [
+  "",
+  "⟨?⟩टीकांश्चलिता ।                                        ४९",
+  "्यायः १ ] गुप्तवत्यादिसप्तटीकासंवलिता ।",
+  "दंशोद्धारः) ममेति । प्रसादोऽनुग्रहः । धनं प्रीतिदानम् । भोजनं भृतिः । यद्वा प्रसादः प्रीतिदेयम् । धनं भृतः ।",
+  "हं देयं तैः । ममानुगताः त एवान्येषामनुवृत्तिं कुर्वन्तीति काकाक्षिवदुभयत्रापि संबन्धः ॥ १३ ॥",
+  "ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम् । असम्यग्व्ययशीलैस्तैः कुर्वद्भिः सततं व्ययम् ॥१४॥",
+  "ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम् । असम्यग्व्य यशीलैस्तैः कुर्वद्भिः सततं व्ययम् ॥१४॥",
+  "ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम् । असम्यग्व्य यशीलैस्तैः कुर्वद्भिः सततं व्ययम् ॥१४॥",
+  "गुप्तवती ) कुर्वन्त्यन्यमहीभृतामित्यनन्तरं क्वचिदेकः श्लोको ऽधिकः पठ्यते 'मम भार्या वरारोहा पुत्रश्चातीव",
+  "गुणवती ) कुर्वन्त्यन्यमहीभृतामित्यनन्तरं क्वचिदेकः श्लोकोऽधिकः पठ्यते 'मम भार्या वरारोहा पुत्रश्चातीव",
+  "सद्मानि स्वर्गसदृशान्यप्सरःप्रतिमाः स्त्रियः ।' इति ॥ १४ ॥",
+  "चतुर्धरी ) अनुवृत्तिमिति । अनुवृत्तिं सेवाम् । ध्रुवमिति वितर्के । असम्यगिति । आयात्तुरीयांशो व्ययः सम्य॰",
+  "ततोऽन्यथा असम्यग्व्ययः । तच्छीलैस्तत्कारिभिः । अथवा असम्यग्व्ययशीलैस्तैः । दुर्व्यसनविषमव्ययशालिभिः ॥१४॥",
+  "३ शान्तनवी ) अद्य इदानीं मद्विहीना अनाथाः सन्तः अन्यमहीभृतां मदितरमहीभृताम् राज्ञाम् अनुवृत्तिं सेवां ध्रुवं",
+  "वन्ति निश्चितमनुवृत्तिं विदधति इति सोऽचिन्तयदित्यन्वयः । 'ध्रुवो भभेदे क्लीबं तु निश्चिते शाश्वते त्रिषु' ।",
+  "न मत्पूर्वैर्मया च संचित उपार्जितः स सुवर्णादिद्रव्याणां कोशः राशिः । असम्यग्व्ययशीलैः । असम्यग् विफलः",
+  "त्सर्गः शीलं स्वभावो येषां ते तथोक्तास्तैः । सततं व्ययं वित्तोत्सर्गं कुर्वद्भिः तैरमात्यप्रभृतिभिः करणः क्षय",
+  "ष्यति प्राप्स्यति इति सोऽचिन्तयदित्यन्वयः । आहुश्च 'आगमे च व्ययाभावे व्यये चानागमे क्रमात् । कोशस्य",
+  "स्तः तत्साम्ये पूर्वरूपता' इति । सततं संततम् 'लुंपेदवश्यमः कृत्ये तु काममनसोरपि । समो वा हिततयां मांसस्य",
+  "घ्नोः' । अत्यर्थं दुखं यस्मिंस्तत् अतिदुःखं तेन कर्मणा । 'शीलं स्वभावे सद्वृत्ते' । व्यये वित्तसमुत्सर्गे । चुरादाव-",
+  "व्ययनं व्ययः । यदभ्यधुः । 'वित्तत्यागे व्ययतिर्व्ययने गतौ' इति ॥ १४ ॥",
+  "४ नागोजीभट्टी ) अनुवृत्तावपि एते एव हेतवः । ध्रुवमिति वितर्कं । हा मां धिगित्यध्याहारः । असम्यगिति",
+  "धिको व्ययः असम्यग्व्ययः । सततमिति समस्तम् ॥ १४ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अनुवृत्तिमिति १५ ॥ १४ ॥",
+  "( ६ दंशोद्धारः ) असम्यगिति पृथक् पदम् । एतदसम्यगित्यर्थः । यद्वा आयात् तृतीयांशव्ययः सम्यग्व्ययः । तद्र",
+  "सम्यग्व्ययः विटवेश्यादिषु वा तच्छीलैः ॥ १४ ॥",
+  "ः सोऽतिदुःखेन क्षयं कोशो गमिष्यति । एतच्चान्यच्च सततं चिन्तयामास पार्थिवः ॥१५॥",
+  "( १ गुप्तवती ) ॥ १५ ॥",
+  "( २ चतुर्धरी ) दुःखेनेति । दुर्गतं खमिन्द्रियं यस्मिन्निति दुःखम् । दुःखवशात् अदाक्षिण्यात् षात्यदान्तादात",
+  "तिषेधः । सुखदुःखतत्क्रियायाम् इति धातुपाठात्केचित् दुःखेनेत्याहुः । संचित इति ॥ १५ ॥",
+  "( ३ शान्तनवी ) सः पार्थिवः सुरथः । एतच्च पूर्वोक्तम् अतोन्यच्च सततं विस्तारितमन्तःपुरगत पुरान्तरगत दशा",
+  "च स्वकीयं वस्तु सर्वं चिन्तयामासेत्यन्वयः । सततमित्यत्र स इति छेदः । ततं विस्तारितमित्यर्थः । एकपदत्वे तु",
+  "सततमिति हि व्याख्यानं स्यात् । ततश्च सुरथश्चिन्तासंततिकाक्रान्तस्वान्ततया वक्ष्यमाणप्रासव्याऽऽम⟨?⟩मनुत्वदायात",
+  "नुकूलतया समाधानविधानविधुरः प्रसज्येत । 'विघ्नं तु विमलार्थकम्’ ‘विधुरं तु प्रविश्लेषे’ ‘विधुरो दुःखिते हीनार्थे च",
+  "तः' । ननु च सोऽचिन्तयदिति क्रियापदे कृते पुनश्चिन्तयामासेति वाचोयुक्तिर्न युक्तिमतीति चेत् तत्र । उक्तं चानुक्तं",
+  "पुनःपुनश्चिन्तितमेवाचिन्तितमिवाचिन्तयद्राजेति युक्तिमत्⟨?⟩ेव तद्वाचोयुक्तिरिति । पृथिव्या ईश्वरः",
+  "यां विदितः ज्ञातश्च पार्थिवः । ‘तस्येश्वरः’ ‘तंत्र विदितः’ इतिचेत्यत्र ॥ १५ ॥",
+  "( ४ नागोजीभट्टी ) दुःखेनेति निर्विसर्गं पठन्ति । विसर्गैलः । कोशो मूलधनम् । अन्यदनुक्तमपि ॥ १५ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) संचित इति १६ ॥ १५ ॥",
+  "( ६ दंशोद्धारः ) संचित इति । एतच्च अन्यच्च राज्यभ्रष्टस्य मम पुनः कथं राज्यप्राप्तिरिति ततं विस्तीर्णं पुरान्तर-",
+  "च चिन्तयामास । सततमित्येकपदत्वे तु नैरन्तर्यार्थत्वेन निरन्तरचिन्तासंतानाक्रान्तत्वेन भाव्युदयापया⟨?⟩",
+  "स्य वक्ष्यमाणस्याऽसङ्ख्यापत्तेः इहापि विप्रस्याश्रमः विप्रेति संबोधनं वा ॥ १५ ॥",
+  "विप्रांश्रमाभ्याशे वैश्यमेकं ददर्श सः । स पृष्टस्तेन कस्त्वं भो हेतुश्चागमनेऽत्र कः ॥ १६ ॥",
+  "( १ गुप्तवती ) ॥ १६ ॥",
+  "( २ चतुर्धरी ) विप्रेति भागुरेः संबोधनं मेधसो विशेषणं वा । अभ्याशे निकटे स राजा एकम् अद्वितीयं वैश्यं ददर्श ।",
+  "र्यः तेन राज्ञा । भो इत्यामन्त्रणे । अत्र आश्रमे ॥",
+  "१६ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.25,
+   "tesseract_mean_conf": 27.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.697,
+   "tesseract_mean_conf": 40.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 59.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.862,
+   "tesseract_mean_conf": 51.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 34.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 44.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 36.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 52.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 53.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 63.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.841,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.872,
+   "tesseract_mean_conf": 52.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 62.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 66.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 52.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 44.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 66.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 64.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 52.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 56.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.823,
+   "tesseract_mean_conf": 59.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 71.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.805,
+   "tesseract_mean_conf": 50.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 63.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 74.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.772,
+   "tesseract_mean_conf": 46.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.3,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 63.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.954,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 57.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.788,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 32.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 0 col 0: got 9 lines, expected 12; realigned, 3 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 10 lines, expected 11; realigned, 1 line(s) unmatched",
+  "band 3 col 0: got 10 lines, expected 11; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "्यायः १ ] गुप्तवत्यादिसप्तटीकासंवलिता",
+    "दंशोद्धारः) ममेति । प्रसादोऽनुग्रहः । धनं प्रीतिदानम् ।",
+    "हं देयं तैः । ममानुगताः त एवान्येषामनुवृत्तिं कुर्वन्तीति",
+    "ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम् । असम्यग्व्ययशीलैस्तैः",
+    "ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम् । असम्यग्व्य",
+    "ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम् । असम्यग्व्य",
+    "गुप्तवती ) कुर्वन्त्यन्यमहीभृतामित्यनन्तरं क्वचिदेकः श्लोको",
+    "सद्मानि स्वर्गसदृशान्यप्सरःप्रतिमाः स्त्रियः ।' इति ॥ १४",
+    "चतुर्धरी ) अनुवृत्तिमिति । अनुवृत्तिं सेवाम् । ध्रुवमिति"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "⟨?⟩टीकांश्चलिता ।                                        ४९",
+    "।",
+    "भोजनं भृतिः । यद्वा प्रसादः प्रीतिदेयम् । धनं भृतः ।",
+    "काकाक्षिवदुभयत्रापि संबन्धः ॥ १३ ॥",
+    "कुर्वद्भिः सततं व्ययम् ॥१४॥",
+    "यशीलैस्तैः कुर्वद्भिः सततं व्ययम् ॥१४॥",
+    "यशीलैस्तैः कुर्वद्भिः सततं व्ययम् ॥१४॥",
+    "ऽधिकः पठ्यते 'मम भार्या वरारोहा पुत्रश्चातीव",
+    "गुणवती ) कुर्वन्त्यन्यमहीभृतामित्यनन्तरं क्वचिदेकः श्लोकोऽधिकः पठ्यते 'मम भार्या वरारोहा पुत्रश्चातीव",
+    "॥",
+    "वितर्के । असम्यगिति । आयात्तुरीयांशो व्ययः सम्य॰"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "ततोऽन्यथा असम्यग्व्ययः । तच्छीलैस्तत्कारिभिः । अथवा",
+    "३ शान्तनवी ) अद्य इदानीं मद्विहीना अनाथाः सन्तः",
+    "वन्ति निश्चितमनुवृत्तिं विदधति इति सोऽचिन्तयदित्यन्वयः",
+    "न मत्पूर्वैर्मया च संचित उपार्जितः स सुवर्णादिद्रव्याणां कोशः",
+    "त्सर्गः शीलं स्वभावो येषां ते तथोक्तास्तैः । सततं व्ययं",
+    "ष्यति प्राप्स्यति इति सोऽचिन्तयदित्यन्वयः । आहुश्च 'आगमे",
+    "स्तः तत्साम्ये पूर्वरूपता' इति । सततं संततम् 'लुंपेदवश्यमः",
+    "घ्नोः' । अत्यर्थं दुखं यस्मिंस्तत् अतिदुःखं तेन कर्मणा ।",
+    "व्ययनं व्ययः । यदभ्यधुः । 'वित्तत्यागे व्ययतिर्व्ययने गतौ'",
+    "४ नागोजीभट्टी ) अनुवृत्तावपि एते एव हेतवः । ध्रुवमिति",
+    "धिको व्ययः असम्यग्व्ययः । सततमिति समस्तम् ॥ १४",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अनुवृत्तिमिति १५ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "असम्यग्व्ययशीलैस्तैः । दुर्व्यसनविषमव्ययशालिभिः ॥१४॥",
+    "अन्यमहीभृतां मदितरमहीभृताम् राज्ञाम् अनुवृत्तिं सेवां ध्रुवं",
+    "। 'ध्रुवो भभेदे क्लीबं तु निश्चिते शाश्वते त्रिषु' ।",
+    "राशिः । असम्यग्व्ययशीलैः । असम्यग् विफलः",
+    "वित्तोत्सर्गं कुर्वद्भिः तैरमात्यप्रभृतिभिः करणः क्षय",
+    "च व्ययाभावे व्यये चानागमे क्रमात् । कोशस्य",
+    "कृत्ये तु काममनसोरपि । समो वा हिततयां मांसस्य",
+    "'शीलं स्वभावे सद्वृत्ते' । व्यये वित्तसमुत्सर्गे । चुरादाव-",
+    "इति ॥ १४ ॥",
+    "वितर्कं । हा मां धिगित्यध्याहारः । असम्यगिति",
+    "॥",
+    "१४ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( ६ दंशोद्धारः ) असम्यगिति पृथक् पदम् । एतदसम्यगित्यर्थः",
+    "सम्यग्व्ययः विटवेश्यादिषु वा तच्छीलैः ॥ १४",
+    "ः सोऽतिदुःखेन क्षयं कोशो गमिष्यति ।",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) दुःखेनेति । दुर्गतं खमिन्द्रियं यस्मिन्निति",
+    "तिषेधः । सुखदुःखतत्क्रियायाम् इति धातुपाठात्केचित् दुःखेनेत्याहुः",
+    "( ३ शान्तनवी ) सः पार्थिवः सुरथः । एतच्च पूर्वोक्तम्",
+    "च स्वकीयं वस्तु सर्वं चिन्तयामासेत्यन्वयः । सततमित्यत्र",
+    "सततमिति हि व्याख्यानं स्यात् । ततश्च सुरथश्चिन्तासंततिकाक्रान्तस्वान्ततया",
+    "नुकूलतया समाधानविधानविधुरः प्रसज्येत । 'विघ्नं तु",
+    "तः' । ननु च सोऽचिन्तयदिति क्रियापदे कृते पुनश्चिन्तयामासेति",
+    "पुनःपुनश्चिन्तितमेवाचिन्तितमिवाचिन्तयद्राजेति युक्तिमत्⟨?⟩ेव"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "। यद्वा आयात् तृतीयांशव्ययः सम्यग्व्ययः । तद्र",
+    "॥",
+    "एतच्चान्यच्च सततं चिन्तयामास पार्थिवः ॥१५॥",
+    "१५ ॥",
+    "दुःखम् । दुःखवशात् अदाक्षिण्यात् षात्यदान्तादात",
+    "। संचित इति ॥ १५ ॥",
+    "अतोन्यच्च सततं विस्तारितमन्तःपुरगत पुरान्तरगत दशा",
+    "स इति छेदः । ततं विस्तारितमित्यर्थः । एकपदत्वे तु",
+    "वक्ष्यमाणप्रासव्याऽऽम⟨?⟩मनुत्वदायात",
+    "विमलार्थकम्’ ‘विधुरं तु प्रविश्लेषे’ ‘विधुरो दुःखिते हीनार्थे च",
+    "वाचोयुक्तिर्न युक्तिमतीति चेत् तत्र । उक्तं चानुक्तं",
+    "तद्वाचोयुक्तिरिति । पृथिव्या ईश्वरः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ],
+   "lines": [
+    "यां विदितः ज्ञातश्च पार्थिवः । ‘तस्येश्वरः’ ‘तंत्र विदितः’",
+    "( ४ नागोजीभट्टी ) दुःखेनेति निर्विसर्गं पठन्ति । विसर्गैलः",
+    "( ५ जगच्चन्द्रचन्द्रिका ) संचित इति १६ ॥ १५",
+    "( ६ दंशोद्धारः ) संचित इति । एतच्च अन्यच्च राज्यभ्रष्टस्य",
+    "च चिन्तयामास । सततमित्येकपदत्वे तु नैरन्तर्यार्थत्वेन",
+    "स्य वक्ष्यमाणस्याऽसङ्ख्यापत्तेः इहापि विप्रस्याश्रमः विप्रेति",
+    "विप्रांश्रमाभ्याशे वैश्यमेकं ददर्श सः । स पृष्टस्तेन",
+    "( १ गुप्तवती ) ॥ १६",
+    "( २ चतुर्धरी ) विप्रेति भागुरेः संबोधनं मेधसो विशेषणं",
+    "र्यः तेन राज्ञा । भो इत्यामन्त्रणे । अत्र आश्रमे ॥"
+   ],
+   "expected": 11,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ],
+   "lines": [
+    "इतिचेत्यत्र ॥ १५ ॥",
+    "। कोशो मूलधनम् । अन्यदनुक्तमपि ॥ १५ ॥",
+    "॥",
+    "मम पुनः कथं राज्यप्राप्तिरिति ततं विस्तीर्णं पुरान्तर-",
+    "निरन्तरचिन्तासंतानाक्रान्तत्वेन भाव्युदयापया⟨?⟩",
+    "संबोधनं वा ॥ १५ ॥",
+    "कस्त्वं भो हेतुश्चागमनेऽत्र कः ॥ १६ ॥",
+    "॥",
+    "वा । अभ्याशे निकटे स राजा एकम् अद्वितीयं वैश्यं ददर्श ।",
+    "१६ ॥"
+   ],
+   "expected": 11,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 27184,
+  "out": 32491
+ },
+ "ts": "2026-10-15T23:04:19"
+}

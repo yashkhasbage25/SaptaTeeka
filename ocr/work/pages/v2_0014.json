@@ -1,0 +1,634 @@
+{
+ "vol": 2,
+ "scan": 14,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 43,
+ "lines": [
+  "",
+  "१०४                    दुर्गासप्तशती ।  [ द्वितीयोऽध्यायः २",
+  "भाषन्त इति भाष व्यक्तायां वाचि । अनुदात्तत्वात् प्राप्तस्यात्मनेपदस्य चक्षिङो ङित्त्वादनित्यत्वात्परस्मैपदम् । शातृप्रत्ययः",
+  "तिष्ठतिष्ठेत्यभाषन्तेति पाठे तु अन्ये महासुराः देवीं तिष्ठतिष्ठ अद्य स मदग्रे क्व यास्यसि क्व च निलीयसे इति भर्त्सनं नामग्रा",
+  "मालपन्नित्यर्थः । 'तिष्ठतिष्ठेति चैवोक्त्वा देव्याऽन्ये युयुधुर्मृधे' अन्ये च महासुराः मृधे युद्धे देवीं तिष्ठतिष्ठेति सभर्त्सनमुक्त",
+  "देव्यैव समं युयुधुः । 'रुधिरौघविलुप्ताङ्गाः संग्रामे लोमहर्षणे' । लोमाणि रोमाणि हृष्यन्त्युद्भवन्त्यनेनेति लोमहर्षणं तस्मि",
+  "रोमाञ्चोद्गमकारिणि संग्रामे रुधिराणामोघाः स्तोमाः तैः रक्तसमूहैः विलुप्ताङ्गाः अपरे महासुराः देवीमपलायस्वेति संभर्त्सनमु",
+  "क्तवैवं देव्या समं युयुधिरे । 'रोमाञ्चो रोमपुलको रोमहर्षणमित्यपि' । ‘ओघो वृन्देऽम्भसां रये’ ॥ ६३ ॥",
+  "( ४ नागोजीभट्टी ) कबन्धा इति । उभयत्रापि युयुधुरिति शेषः । छिन्नशिरस इति स्वरूपकथनम् । छिन्नानि शिरां",
+  "सि यैरिति वा । ऋष्टय उभयतोधाराः खड्गाः । भाषन्त इति छान्दसः ॥ ६३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) कबन्धाच्छिन्नेति ६४ ॥ ६३ ॥",
+  "( ६ दंशोद्धारः ) ऋष्टयः खड्गाकारा एकधाराः । तिष्ठतिष्ठेति भाषन्त इति । शातृप्रत्यय आर्षः । आत्मनेपदित्वात्",
+  "यद्वा भाषन्त इति भाषः । पचाद्यच् । स इवाचरतीत्याचारक्विबन्ताच्छता ॥ ६३ ॥",
+  "पातितै रथनागाश्वैरसुरैश्च वसुंधरा । अगम्या साभवत्तत्र यत्राभूत्स महारणः ॥ ६४॥",
+  "( १ गुप्तवती ) ॥ ६४ ॥",
+  "( २ चतुर्धरी ) ॥ ६४ ॥",
+  "( ३ शान्तनवी ) देव्या पातितैः भ्रंशितैः रथैः नागैः गजैः अश्वैरसुरैश्च आकीर्णा सा वसुंधरा अगम्या अनधिगम्य",
+  "गन्तुमशक्या तत्राभूत् । क्व यत्र स महारणः संग्रामः देव्या सह महिषासुरसैन्यानामभूत् । पातितं रथैर्यत्र 'रां रि' इति रफ",
+  "लोपः । रथसहिता नागाः रथनागाः । रथनागसहिताः अश्वाः रथनागाश्वाः तैः । द्वन्द्वे तु सेनाङ्गत्वादेकवद्भावः । वसूनि धार",
+  "यतीति वसुंधरा । अगम्या असेव्या । गमेः 'पोरदुपधात्' इति यत् ॥ ६४ ॥",
+  "( ४ नागोजीभट्टी ) पातितैरिति । रथनागसहितैरश्वैरित्यर्थः । एवमग्रेऽपि ॥ ६४ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) पातितै रथेति ६५ ॥ ६४ ॥",
+  "( ६ दंशोद्धरः ) ॥ ६४ ॥",
+  "शोणितौघा महानद्यः सद्यस्तत्र विसुस्रुवुः । मध्ये चासुरसैन्यस्य वारणासुरवाजिनाम् ॥ ६५ ॥",
+  "( १ गुप्तवती ) ॥ ६५ ॥",
+  "( २ चतुर्धरी ) वारणा गजाः । महानद्यः तत्र असुरसैन्यस्य मध्ये सद्यः विसुसुवुः ॥ ६५ ॥",
+  "( ३ शान्तनवी ) किंच तत्र युद्धे असुरसैन्यमध्ये । 'सद्यः सपदि तत्क्षणं' देव्या सह संग्रामारम्भक्षणं एव वारणा",
+  "गजानाम् असुराणां दैत्यानां वाजिनां घोटकानां शोणितौघाः रक्तसमूहा एव महानद्यः समुद्रगाः आपगाः सरितः विसुसुवुः",
+  "प्रसुस्रुवुरित्यर्थः । विशेषेण स्रवन्ति प्रवहन्ति स्म । रक्तप्रवाहमय्यो महानद्यो बभूवुरित्यर्थः । विसुसुवुः । सु गतौ लिट्",
+  "उस्रुव⟨?⟩ ॥ ६५ ॥",
+  "( ४ नागोजीभट्टी ) शोणितौघेति असुरसैन्यस्य मध्ये वारणासुरवाजिनां शोणितस्य ओघः प्रवाहो यासु तादृश्य",
+  "नद्यः प्रसुस्रुवुः । छान्दसत्वात्समासः ॥ ६५ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) शोणितौघेति ६६ ॥ ६५ ॥",
+  "( ६ दंशोद्धारः ) शोणितौघा इति । वारणाश्व असुराश्च वाजिनश्चेति द्वन्द्वः । तेषां शोणितमेव ओघो जलप्रवाहो",
+  "यासु ॥ ६५ ॥",
+  "क्षणेन तन्महासैन्यमसुराणां तथाम्बिका । निन्ये क्षयं यथा वह्निस्तृणदारुमहाचयम् ॥ ६६ ॥",
+  "( १ गुप्तवती ) ॥ ६६ ॥",
+  "( २ चतुर्धरी ) महासैन्यं समुदायं क्षयं निन्ये नीतवती ॥ ६६ ॥",
+  "( ३ शान्तनवी ) यथा यद्वद्वह्निः  तृणदारुमहाचयं क्षणेन क्षणमात्रेण क्षयं  विनाशं नयात तथा निन्ये प्रापयामास ।",
+  "नयतिर्द्विकर्मकः; तृणानि च दारूणि च तृणदारूणि तेषां महान् चयः गणः समूहः तम्  । यद्वा यथा तथैव साम्यम् ॥ ६६ ॥",
+  "( ४ नागोजीभट्टी ) ॥ ६६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) क्षणेन तदिति ६७ ॥ ६६ ॥",
+  "( ६ दंशोद्धारः ) ॥ ६६ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 12.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 78.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.977,
+   "tesseract_mean_conf": 72.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 56.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 69.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.977,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 74.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.936,
+   "tesseract_mean_conf": 74.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 78.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 73.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.692,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.3,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 70.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 66.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.859,
+   "tesseract_mean_conf": 62.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.643,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 82.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 85.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 83.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.579,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 79.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 77.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 0 col 0: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 1 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "१०४                    दुर्गासप्तशती",
+    "भाषन्त इति भाष व्यक्तायां वाचि । अनुदात्तत्वात्",
+    "तिष्ठतिष्ठेत्यभाषन्तेति पाठे तु अन्ये महासुराः देवीं तिष्ठतिष्ठ",
+    "मालपन्नित्यर्थः । 'तिष्ठतिष्ठेति चैवोक्त्वा देव्याऽन्ये युयुधुर्मृधे'",
+    "देव्यैव समं युयुधुः । 'रुधिरौघविलुप्ताङ्गाः संग्रामे लोमहर्षणे'",
+    "रोमाञ्चोद्गमकारिणि संग्रामे रुधिराणामोघाः स्तोमाः तैः",
+    "क्तवैवं देव्या समं युयुधिरे । 'रोमाञ्चो रोमपुलको रोमहर्षणमित्यपि'",
+    "( ४ नागोजीभट्टी ) कबन्धा इति । उभयत्रापि",
+    "सि यैरिति वा । ऋष्टय उभयतोधाराः खड्गाः । भाषन्त इति",
+    "( ५ जगच्चन्द्रचन्द्रिका ) कबन्धाच्छिन्नेति ६४ ॥",
+    "( ६ दंशोद्धारः ) ऋष्टयः खड्गाकारा एकधाराः ।"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "।  [ द्वितीयोऽध्यायः २",
+    "प्राप्तस्यात्मनेपदस्य चक्षिङो ङित्त्वादनित्यत्वात्परस्मैपदम् । शातृप्रत्ययः",
+    "अद्य स मदग्रे क्व यास्यसि क्व च निलीयसे इति भर्त्सनं नामग्रा",
+    "अन्ये च महासुराः मृधे युद्धे देवीं तिष्ठतिष्ठेति सभर्त्सनमुक्त",
+    "। लोमाणि रोमाणि हृष्यन्त्युद्भवन्त्यनेनेति लोमहर्षणं तस्मि",
+    "रक्तसमूहैः विलुप्ताङ्गाः अपरे महासुराः देवीमपलायस्वेति संभर्त्सनमु",
+    "। ‘ओघो वृन्देऽम्भसां रये’ ॥ ६३ ॥",
+    "युयुधुरिति शेषः । छिन्नशिरस इति स्वरूपकथनम् । छिन्नानि शिरां",
+    "छान्दसः ॥ ६३ ॥",
+    "६३ ॥",
+    "तिष्ठतिष्ठेति भाषन्त इति । शातृप्रत्यय आर्षः । आत्मनेपदित्वात्"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "यद्वा भाषन्त इति भाषः । पचाद्यच् । स इवाचरतीत्याचारक्विबन्ताच्छता",
+    "पातितै रथनागाश्वैरसुरैश्च वसुंधरा । अगम्या",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) ॥",
+    "( ३ शान्तनवी ) देव्या पातितैः भ्रंशितैः रथैः नागैः",
+    "गन्तुमशक्या तत्राभूत् । क्व यत्र स महारणः संग्रामः देव्या",
+    "लोपः । रथसहिता नागाः रथनागाः । रथनागसहिताः अश्वाः",
+    "यतीति वसुंधरा । अगम्या असेव्या । गमेः 'पोरदुपधात्'",
+    "( ४ नागोजीभट्टी ) पातितैरिति । रथनागसहितैरश्वैरित्यर्थः",
+    "( ५ जगच्चन्द्रचन्द्रिका ) पातितै रथेति ६५ ॥",
+    "( ६ दंशोद्धरः ) ॥ ६४ ॥",
+    "शोणितौघा महानद्यः सद्यस्तत्र विसुस्रुवुः ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "॥ ६३ ॥",
+    "साभवत्तत्र यत्राभूत्स महारणः ॥ ६४॥",
+    "६४ ॥",
+    "६४ ॥",
+    "गजैः अश्वैरसुरैश्च आकीर्णा सा वसुंधरा अगम्या अनधिगम्य",
+    "सह महिषासुरसैन्यानामभूत् । पातितं रथैर्यत्र 'रां रि' इति रफ",
+    "रथनागाश्वाः तैः । द्वन्द्वे तु सेनाङ्गत्वादेकवद्भावः । वसूनि धार",
+    "इति यत् ॥ ६४ ॥",
+    "। एवमग्रेऽपि ॥ ६४ ॥",
+    "६४ ॥",
+    "मध्ये चासुरसैन्यस्य वारणासुरवाजिनाम् ॥ ६५ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) वारणा गजाः । महानद्यः तत्र",
+    "( ३ शान्तनवी ) किंच तत्र युद्धे असुरसैन्यमध्ये ।",
+    "गजानाम् असुराणां दैत्यानां वाजिनां घोटकानां शोणितौघाः",
+    "प्रसुस्रुवुरित्यर्थः । विशेषेण स्रवन्ति प्रवहन्ति स्म । रक्तप्रवाहमय्यो",
+    "उस्रुव⟨?⟩ ॥ ६५",
+    "( ४ नागोजीभट्टी ) शोणितौघेति असुरसैन्यस्य",
+    "नद्यः प्रसुस्रुवुः । छान्दसत्वात्समासः ॥ ६५",
+    "( ५ जगच्चन्द्रचन्द्रिका ) शोणितौघेति ६६",
+    "( ६ दंशोद्धारः ) शोणितौघा इति । वारणाश्व",
+    "यासु ॥",
+    "क्षणेन तन्महासैन्यमसुराणां तथाम्बिका । निन्ये"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "६५ ॥",
+    "असुरसैन्यस्य मध्ये सद्यः विसुसुवुः ॥ ६५ ॥",
+    "'सद्यः सपदि तत्क्षणं' देव्या सह संग्रामारम्भक्षणं एव वारणा",
+    "रक्तसमूहा एव महानद्यः समुद्रगाः आपगाः सरितः विसुसुवुः",
+    "महानद्यो बभूवुरित्यर्थः । विसुसुवुः । सु गतौ लिट्",
+    "॥",
+    "मध्ये वारणासुरवाजिनां शोणितस्य ओघः प्रवाहो यासु तादृश्य",
+    "॥",
+    "॥ ६५ ॥",
+    "असुराश्च वाजिनश्चेति द्वन्द्वः । तेषां शोणितमेव ओघो जलप्रवाहो",
+    "६५ ॥",
+    "क्षयं यथा वह्निस्तृणदारुमहाचयम् ॥ ६६ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "( १ गुप्तवती ) ॥ ६६",
+    "( २ चतुर्धरी ) महासैन्यं समुदायं क्षयं निन्ये नीतवती",
+    "( ३ शान्तनवी ) यथा यद्वद्वह्निः  तृणदारुमहाचयं",
+    "नयतिर्द्विकर्मकः; तृणानि च दारूणि च तृणदारूणि तेषां महान्",
+    "( ४ नागोजीभट्टी ) ॥ ६६",
+    "( ५ जगच्चन्द्रचन्द्रिका ) क्षणेन तदिति ६७ ॥",
+    "( ६ दंशोद्धारः ) ॥ ६६"
+   ],
+   "expected": 7,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "॥",
+    "॥ ६६ ॥",
+    "क्षणेन क्षणमात्रेण क्षयं  विनाशं नयात तथा निन्ये प्रापयामास ।",
+    "चयः गणः समूहः तम्  । यद्वा यथा तथैव साम्यम् ॥ ६६ ॥",
+    "॥",
+    "६६ ॥",
+    "॥"
+   ],
+   "expected": 7,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25974,
+  "out": 20202
+ },
+ "ts": "2026-10-16T00:19:06"
+}

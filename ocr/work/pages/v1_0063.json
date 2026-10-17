@@ -1,0 +1,694 @@
+{
+ "vol": 1,
+ "scan": 63,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 48,
+ "lines": [
+  "ायः ५ ] ।                    ५३",
+  "ायः ५ ]        शुम्भवधादिसप्तटीकासंवलिता ⟨?⟩स्वलिता ।                    ८२",
+  "ायः ५ ]        शुम्भवधादिसप्तटीक",
+  "शोद्धारः ) एवमिति । यस्माद्व्रतमित्यपि पाठः । मन्त्रं मया गतं ज्ञातं वा । अस्म⟨?⟩तामातृपाठे तु प्राग⟨?⟩न",
+  "ादिति कश्चित् । वस्तुतस्तु 'अस्मदो द्वयोश्च' इति एकत्वेऽपि बहुत्वं युक्तमेव ॥ २३ ॥",
+  "पितृस्नेहं धनलुब्धैर्निराकृतः । पतिस्वजनहार्दि च हार्दि तेष्वेव मे मनः ॥ २४ ॥",
+  "पितृस्नेहं धनलुब्धैर्निराकृतः । पतिस्वजनहार्दि च हार्दि तेष्वेव मे मनः ॥ २४ ॥",
+  "तवती ) ॥ २४ ॥",
+  "तुर्धरी ) यैरिति । यैः पुत्रैर्दारैः स्वजनैश्च पितृस्नेहं पतिहार्दि स्वजनहार्दि च संत्यज्येत्यन्वयः । निराकृतस्य-",
+  "तु तथाविधेष्वपि मे मम मनो हार्दि सस्नेहम् । धनलुब्धैर्निराकृतोपि सस्नेह एवेत्येवकारोऽति⟨?⟩क्रमे हार्दी-",
+  "ष्यः ॥ २४ ॥",
+  "न्तनवी ) हे राजन् पितृस्नेहं संत्यज्य धनलुब्धैर्यन्मत्पुत्रैर्निराकृतो ऽस्मि तेष्वेव पुनर्मे मनः हार्दि वर्तते । किंच ।",
+  "भर्तृलक्षणं बन्धुस्नेहं संत्यज्य धनलुब्धैर्यैर्म⟨?⟩न्निराकृतोऽस्मि तेष्वेव पुनर्मे मनः हार्दिं वर्तते । किं करोमी-",
+  "स्य स्वान्तस्य कर्म हार्दम् । प्रेमस्नेह इति यावत् । युवादित्वादण । ‘हृदयस्य हृल्लेखयदण्लासेषु’ इति हृद्भावः ।",
+  "हार्दि मनः हृदयनिविष्टस्नेहोपेतम् । स्नेहनिबद्धमिति यावत् । पतिरेव भर्तैव स्वजनो बन्धुः तस्मिन् हार्दं",
+  "हार्दं तत् । ‘लुब्धोऽभिलाषुकस्तृष्णक्’ ॥ २४ ॥",
+  "गोजीभट्टी ) यैरिति । यैः पुत्रदारैः स्वजनैश्च पतिहार्दं स्वजनहार्दं च । हार्दं स्नेहः । तेष्वपि तथाविधेष्वपि",
+  "न्वयः ॥ २४ ॥",
+  "चन्द्रचन्द्रिका ) पतिस्वजनेति ३२ ॥ २४ ॥",
+  "चन्द्रचान्द्रिका ) पतिस्वजनेति ३२ ॥ २४ ॥ पतिहार्दं भर्तृस्नेहं स्वजनस्नेहं च गंतव्येत्यन्वयः ।",
+  "द्धारः ) यैः संत्यज्येति । यैः पुत्रदारस्वजनैश्च पितृस्नेहं हृ पतिहार्दं भर्तृस्नेहं स्वजनस्नेहं च गंतव्येत्यन्वयः ।",
+  "द्धारः ) यैः संत्यज्येति । यैः पुत्रदारस्वजनैश्च पितृस्नेहं",
+  "स्नेहयुक्तमेव । एवकारो भिन्नक्रमः । प्रीतिमिति क्वचित्प पाठः ॥ २४ ॥",
+  "स्नेहयुक्तमेव । एवकारो भिन्नक्रमः । प्रीतिमिति क्वचित्पाठः ॥ २४ ॥",
+  "ानामि जानन्नपि महामते । यत्प्रेमप्रवणं चित्तं विगुणेष्वपि बन्धुषु ॥ २५ ॥",
+  "वती ) ॥ ॥ २५ ॥",
+  "धरी ) किमेतदिति । जानन् ज्ञानवानपि विगुणेष्वपि विरुद्धगुणेष्वपि यत् चित्तं प्रेमप्रवणं स्नेहानुबन्धि एतत्",
+  "नामीत्यन्वयः ॥ २५ ॥",
+  "तनवी ) हे महामते राजन् विगुणेष्वपि बन्धुषु प्रेमप्रवणं मे चित्तमिति जानन्नपि यन्नाभिजानामि किमेत-",
+  "वा हे महामते राजन् । यदस्मात्कारणात् बन्धुषु विगुणेषु असत्स्वपि मे चित्तं प्रेमप्रवणम् इति जानन्नपि",
+  "जानामि करोमि किमित्यन्वयः । अथवा हे महामते राजन् बन्धुषु विगुणेषु सत्स्वपि यत् चित्तं प्रेमप्रवणं",
+  "कुत्सितं गर्हितम् इति जानन्नपि नाभिजानामीत्यन्वयः । महती मतिर्यस्य स महामतिः । हे महामते प्रेम्णा",
+  "अनुकूलम् । 'प्रवणं क्रमनिम्नोर्व्यां प्रह्वे ना तु चतुष्पथे'अगुणेषु अस्नेहेषु । विगुणेषु विस्नेहेषु ॥ २५ ॥",
+  "गोजीभट्टी ) किमेतदिति । तेषां दोषं जानन्नपि यत् विगुणेष्वपि बन्धुषु प्रेमप्रवणं चित्तं करोमि तत्किमिति",
+  "नामि इत्यन्वयः ॥ २५ ॥",
+  "चन्द्रचन्द्रिका ) यत्प्रेमप्रवणमिति ३३ ॥ २५ ॥",
+  "द्वारः ) किमेतदिति । जानन्नपि न जानामि । किमेतदिति प्रश्नः । यद्वा जानन्नपि विगुणेष्वपि बन्धुषु",
+  "करोमि तत्किमिति कस्माद्धेतोर्न जानामि इत्यन्वयः ॥ २५ ॥",
+  "निःश्वासो दौर्मनस्यं च जायते । करोमि किं यन्न मनस्तेष्वप्रीतिषु निष्ठुरम् ॥२६॥",
+  "ती ) ॥ २६ ॥",
+  "रीं ) तेषामिति । कृते हेतोः निःश्वासः दौर्मनस्यं च जायत इति यथावचनमन्वयः । अप्रीतिषु प्रीतिशून्येषु",
+  "अप्रीतिसुनिष्ठुरमिति पाठे अप्रीत्या सुनिष्ठुरम् अतिनिष्ठुरं न जायत इत्यनुषज्यते । तत्किं करोमीत्यन्वयः ॥२६॥",
+  "नवी ) करणं कृतिः कृतम् । नपुंसके भावे क्तः । अथवा करणं कृतिः कृत् तस्यै । संपदादित्वाद्भावे क्रियां",
+  "श्वासो यस्मात्स निःश्वासः शोकः । दुःस्थं मनो यस्य स दुर्मनाः तद्भावो दौर्मनस्यं प्रतिपक्षिणी नास्ति",
+  "ः । निष्ठुरं कठोरम् । तेषां पुत्रादीनां कृते क्षेमलाभयोः संचि ⟨?⟩द्धिविषये संसिद्धिप्रयुक्तेनैव मे निःश्वासः शोका-",
+  "निष्ठुरं' इति चतुर्धरीगृहीतः पाठः ।",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.333,
+   "tesseract_mean_conf": 38.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.484,
+   "tesseract_mean_conf": 44.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.831,
+   "tesseract_mean_conf": 66.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 62.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 23.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.819,
+   "tesseract_mean_conf": 46.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.775,
+   "tesseract_mean_conf": 51.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 58.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.154,
+   "tesseract_char_agree": 0.769,
+   "tesseract_mean_conf": 42.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.823,
+   "tesseract_mean_conf": 62.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.77,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.848,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.818,
+   "tesseract_mean_conf": 52.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 78.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 25.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.231,
+   "tesseract_char_agree": 0.803,
+   "tesseract_mean_conf": 45.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 77.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 74.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.805,
+   "tesseract_mean_conf": 41.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 58.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 67.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.975,
+   "tesseract_mean_conf": 78.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 58.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 60.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 69.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 63.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.831,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 50.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 60.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 51.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 66.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 56.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 40.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 48.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 1 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 0: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 3 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ायः ५ ]",
+    "ायः ५ ]        शुम्भवधादिसप्तटीकासंवलिता",
+    "ायः ५ ]        शुम्भवधादिसप्तटीक",
+    "शोद्धारः ) एवमिति । यस्माद्व्रतमित्यपि पाठः । मन्त्रं",
+    "ादिति कश्चित् । वस्तुतस्तु 'अस्मदो द्वयोश्च' इति एकत्वेऽपि",
+    "पितृस्नेहं धनलुब्धैर्निराकृतः । पतिस्वजनहार्दि",
+    "पितृस्नेहं धनलुब्धैर्निराकृतः । पतिस्वजनहार्दि च हार्दि",
+    "तवती ) ॥",
+    "तुर्धरी ) यैरिति । यैः पुत्रैर्दारैः स्वजनैश्च पितृस्नेहं",
+    "तु तथाविधेष्वपि मे मम मनो हार्दि सस्नेहम् ।",
+    "ष्यः ॥ २४",
+    "न्तनवी ) हे राजन् पितृस्नेहं संत्यज्य धनलुब्धैर्यन्मत्पुत्रैर्निराकृतो"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "।                    ५३",
+    "⟨?⟩स्वलिता ।                    ८२",
+    "मया गतं ज्ञातं वा । अस्म⟨?⟩तामातृपाठे तु प्राग⟨?⟩न",
+    "बहुत्वं युक्तमेव ॥ २३ ॥",
+    "च हार्दि तेष्वेव मे मनः ॥ २४ ॥",
+    "तेष्वेव मे मनः ॥ २४ ॥",
+    "२४ ॥",
+    "पतिहार्दि स्वजनहार्दि च संत्यज्येत्यन्वयः । निराकृतस्य-",
+    "धनलुब्धैर्निराकृतोपि सस्नेह एवेत्येवकारोऽति⟨?⟩क्रमे हार्दी-",
+    "॥",
+    "ऽस्मि तेष्वेव पुनर्मे मनः हार्दि वर्तते । किंच ।"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "भर्तृलक्षणं बन्धुस्नेहं संत्यज्य धनलुब्धैर्यैर्म⟨?⟩न्निराकृतोऽस्मि",
+    "स्य स्वान्तस्य कर्म हार्दम् । प्रेमस्नेह इति यावत् ।",
+    "हार्दि मनः हृदयनिविष्टस्नेहोपेतम् । स्नेहनिबद्धमिति",
+    "हार्दं तत् । ‘लुब्धोऽभिलाषुकस्तृष्णक्’ ॥ २४",
+    "गोजीभट्टी ) यैरिति । यैः पुत्रदारैः स्वजनैश्च पतिहार्दं",
+    "न्वयः ॥ २४",
+    "चन्द्रचन्द्रिका ) पतिस्वजनेति ३२ ॥ २४",
+    "चन्द्रचान्द्रिका ) पतिस्वजनेति ३२ ॥ २४ ॥",
+    "द्धारः ) यैः संत्यज्येति । यैः पुत्रदारस्वजनैश्च पितृस्नेहं",
+    "द्धारः ) यैः संत्यज्येति । यैः पुत्रदारस्वजनैश्च पितृस्नेहं",
+    "स्नेहयुक्तमेव । एवकारो भिन्नक्रमः । प्रीतिमिति क्वचित्प",
+    "स्नेहयुक्तमेव । एवकारो भिन्नक्रमः । प्रीतिमिति क्वचित्पाठः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": true
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "तेष्वेव पुनर्मे मनः हार्दिं वर्तते । किं करोमी-",
+    "युवादित्वादण । ‘हृदयस्य हृल्लेखयदण्लासेषु’ इति हृद्भावः ।",
+    "यावत् । पतिरेव भर्तैव स्वजनो बन्धुः तस्मिन् हार्दं",
+    "॥",
+    "स्वजनहार्दं च । हार्दं स्नेहः । तेष्वपि तथाविधेष्वपि",
+    "॥",
+    "॥",
+    "पतिहार्दं भर्तृस्नेहं स्वजनस्नेहं च गंतव्येत्यन्वयः ।",
+    "हृ पतिहार्दं भर्तृस्नेहं स्वजनस्नेहं च गंतव्येत्यन्वयः ।",
+    "पाठः ॥ २४ ॥",
+    "॥ २४ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "ानामि जानन्नपि महामते । यत्प्रेमप्रवणं",
+    "वती ) ॥",
+    "धरी ) किमेतदिति । जानन् ज्ञानवानपि विगुणेष्वपि",
+    "नामीत्यन्वयः ॥ २५",
+    "तनवी ) हे महामते राजन् विगुणेष्वपि बन्धुषु प्रेमप्रवणं",
+    "वा हे महामते राजन् । यदस्मात्कारणात् बन्धुषु विगुणेषु",
+    "जानामि करोमि किमित्यन्वयः । अथवा हे महामते राजन्",
+    "कुत्सितं गर्हितम् इति जानन्नपि नाभिजानामीत्यन्वयः ।",
+    "अनुकूलम् । 'प्रवणं क्रमनिम्नोर्व्यां प्रह्वे ना तु चतुष्पथे'अगुणेषु",
+    "गोजीभट्टी ) किमेतदिति । तेषां दोषं जानन्नपि यत्",
+    "नामि इत्यन्वयः ॥ २५",
+    "चन्द्रचन्द्रिका ) यत्प्रेमप्रवणमिति ३३ ॥ २५"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "चित्तं विगुणेष्वपि बन्धुषु ॥ २५ ॥",
+    "॥ २५ ॥",
+    "विरुद्धगुणेष्वपि यत् चित्तं प्रेमप्रवणं स्नेहानुबन्धि एतत्",
+    "॥",
+    "मे चित्तमिति जानन्नपि यन्नाभिजानामि किमेत-",
+    "असत्स्वपि मे चित्तं प्रेमप्रवणम् इति जानन्नपि",
+    "बन्धुषु विगुणेषु सत्स्वपि यत् चित्तं प्रेमप्रवणं",
+    "महती मतिर्यस्य स महामतिः । हे महामते प्रेम्णा",
+    "अस्नेहेषु । विगुणेषु विस्नेहेषु ॥ २५ ॥",
+    "विगुणेष्वपि बन्धुषु प्रेमप्रवणं चित्तं करोमि तत्किमिति",
+    "॥",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "द्वारः ) किमेतदिति । जानन्नपि न जानामि । किमेतदिति",
+    "करोमि तत्किमिति कस्माद्धेतोर्न जानामि इत्यन्वयः ॥",
+    "निःश्वासो दौर्मनस्यं च जायते । करोमि किं",
+    "ती ) ॥",
+    "रीं ) तेषामिति । कृते हेतोः निःश्वासः दौर्मनस्यं च जायत",
+    "अप्रीतिसुनिष्ठुरमिति पाठे अप्रीत्या सुनिष्ठुरम् अतिनिष्ठुरं न",
+    "नवी ) करणं कृतिः कृतम् । नपुंसके भावे क्तः । अथवा",
+    "श्वासो यस्मात्स निःश्वासः शोकः । दुःस्थं मनो यस्य स",
+    "ः । निष्ठुरं कठोरम् । तेषां पुत्रादीनां कृते क्षेमलाभयोः संचि",
+    "निष्ठुरं' इति चतुर्धरीगृहीतः पाठः"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "प्रश्नः । यद्वा जानन्नपि विगुणेष्वपि बन्धुषु",
+    "२५ ॥",
+    "यन्न मनस्तेष्वप्रीतिषु निष्ठुरम् ॥२६॥",
+    "२६ ॥",
+    "इति यथावचनमन्वयः । अप्रीतिषु प्रीतिशून्येषु",
+    "जायत इत्यनुषज्यते । तत्किं करोमीत्यन्वयः ॥२६॥",
+    "करणं कृतिः कृत् तस्यै । संपदादित्वाद्भावे क्रियां",
+    "दुर्मनाः तद्भावो दौर्मनस्यं प्रतिपक्षिणी नास्ति",
+    "⟨?⟩द्धिविषये संसिद्धिप्रयुक्तेनैव मे निःश्वासः शोका-",
+    "।"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25864,
+  "out": 32479
+ },
+ "ts": "2026-10-15T23:07:38"
+}

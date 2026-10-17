@@ -1,0 +1,379 @@
+{
+ "vol": 2,
+ "scan": 3,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "द्वितीयोऽध्यायः २ ]                    गुप्तवत्यादिसप्तटी काषंवलिता ।  ९२",
+  "( ४ नागोजीभट्टी ) अमायतेति । मा माने दैवादिकण्यन्ते नञ्समासः । तेन असंभवतेत्यर्थः । अस्य नभ-",
+  "⟨?⟩यादिः ॥ ३२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अमायतेति ३३ ॥ ३२ ॥",
+  "( ६ दंशोद्धारः ) तस्या इति । मीयतेऽनयेति माता मातीति मायन् न मायन् अमायन् तेन । अमितेनेत्यर्थः ।",
+  "अम इत्यव्ययं सहार्थे । सह गच्छता अट्टहासेन सहेत्यर्थः । यद्वा अमा सूर्यरश्मिविशेषः । ‘अमा नाम सूर्यरश्मिः",
+  "लोके प्रतिष्ठिता' इति वचनात् तां यथाऽस्पृशतेत्यर्थः । यद्वा मानं मायः न विद्यते मायो यस्येत्यमायः । स इवाचरन्न-",
+  "न् तेन । घञन्तान्माधातोर्नैवसमासेऽमायशब्दादाचारक्विबन्तात् । यद्वा मानं मा तामयतीति मायः । कर्मण्यण् । न",
+  "ऽमायस्तस्य भावोऽमायता तया । अतिमहतेति समस्तं पदम् ॥ ३२ ।",
+  "वाल वसुधा चेलुः सकलाश्च महीधराः । जयेति देवाश्च मुदा तामूचुः सिंहवादिनीम् ॥ ३३ ॥",
+  "( १ गुप्तवती ) ॥ ३३ ॥",
+  "( २ चतुर्धरी ) महीधराः पर्वताः अर्थापत्त्यलंकारोऽयम् ॥ ३३ ॥",
+  "( ३ शान्तनवी ) चचाल वसुधा भूः चलनमाप । चल कम्पने । सकलाश्च महीधराः पर्वताः चेलुः कंपिरे",
+  "⟨?⟩मापुः । चल कम्पने । सर्वत्र कर्तरि लिट् । सिंहो वाहनं यस्याः सा सिंहवाहना तां सिंहवाहनां देवीम् । जय लोकोत्कर्षेण",
+  "सेति देवा ऊचुः । सिंहवाहिनीमिति पाठे सिंहाः वाहयंत्यात्मानं सिंहवाहिनी तां सिंहवाहिनीम् ॥ ३३ ॥",
+  "( ४ नागोजीभट्टी ) चचालेति । महीध्राः पर्वताः ॥ ३३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) चचालेति ॥ ३४ ॥ ३३ ॥",
+  "( ६ दंशोद्धारः ) जयेति ॥ ३३ ॥",
+  "⟨?⟩वुर्मुनयश्चैनां भक्तिनम्रात्ममूर्तयः । दृष्ट्वा समस्तं संक्षुब्धं त्रैलोक्यममरारयः ॥ ३४ ॥",
+  "( १ गुप्तवती ) ॥ ३४ ॥",
+  "( २ चतुर्धरी ) संक्षुब्धमाकुलीकृतम् ॥ ३४ ॥",
+  "( ३ शान्तनवी ) अथो एनां देवीं भक्तिनम्रात्ममूर्तयो मुनयस्तुष्टुवुः चकारादानर्चुश्च । भक्त्या नम्राः आत्ममूर्तयो",
+  "ते तथोक्ताः । आत्ममूर्तयः स्वकीयाः । तदित्थम् । देव्याः साट्टहाससिंहनादेन समस्तं त्रैलोक्यं त्रिभुवनं संक्षुब्धं दृष्ट्वा",
+  "संक्षोभं वीक्ष्य ते सर्वे अमरारयः महिषासुराद्याः दैत्याः सन्नद्धाखिलसैन्याः उदायुधाः सन्तः समुत्तस्थुः योद्धुमुत्थिता अभू-",
+  "इत्यन्वयः । सम्यक् क्षुब्धं संक्षुब्धम् । क्षुब्धशब्देन दध्यादिमथनेन साधनमुच्यते । क्षुधादन्यत्र जृम्भितमित्येव भवति इह",
+  "नात्संक्षुब्धमिव संक्षुब्धम् । यदाहुः । क्षुब्धस्वान्तेति निपातनान्मन्थातिरिक्तविषयः क्षुभितमिति प्राप्नोति तत्र परिहारः ।",
+  "गिरिनदींस्यादमिति । 'क्षुब्धागिरिनदींस्याद⟨?⟩मुपमानाद्रविष्यति' इति । त्रयो लोकाः त्रैलोक्यम् । चातुर्वर्ण्यादित्वात्स्वार्थे",
+  "अमराणाम् अरयः अमरारयः अमराः अरयो येषां ते अमरारयः महिषासु⟨?⟩दिदैत्याः ॥ ३४ ॥",
+  "( ४ नागोजीभट्टी ) तुष्टुवुरिति । भक्त्या नम्रः अपकृष्टस्वज्ञानवानात्मा शरीरं येषाम् ।  संक्षुब्धम् आकुलं जातमिति",
+  "। अमरारयश्च संक्षुब्धा इत्यर्थः ॥ ३४ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) तुष्टुवुरिति ॥ ३५ ॥ ३४ ॥",
+  "( ६ दंशोद्धारः ) आत्मा अन्तःकरणम् । मूर्तिः शरीरम् । दृष्टेति । क्षुब्धमन्थेति निपातितत्वात्संक्षुब्धमिव संक्षुब्ध-",
+  "पचारात्साधु ॥ ३४ ॥",
+  "द्धाखिलसैन्यास्ते समुत्तस्थुरुदायुधाः । आः किमेतदिति क्रोधादाभाष्य महिषासुरः ॥३९॥",
+  "( १ गुप्तवती ) ॥ ३५ ॥",
+  "( २ चतुर्धरी ) सन्नद्धानि सज्जितानि अखिलसैन्यानि येषाम् । समुत्तस्थुः उद्योगं चक्रुः । उदायुधाः उद्यतास्त्राः ।",
+  "इत्यव्ययं क्रोधाविष्कारस्यानुकारे ॥ ३५ ः॥",
+  "( ३ शान्तनवी ) सन्नद्धाः व्यूढकण्टकाः अखिलाः सैन्याः सैनिकाः येषां सेनाधीश्वराणां ते तथोक्ताः । 'सन्नद्धो",
+  "ः सज्जो दंशितो व्यूढकण्टकः' 'सेनायां समवेता ये सैन्यास्ते सैनिकाश्च ते' । योद्धुमूर्ध्वीकृतानि आयुधानि यैस्ते उदा-",
+  "१ 'जयेति च मुदा देवास्तामूचुः निह्वाहनाम्' इत्थमपि शान्तनवीस्थः पाठः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.86,
+   "tesseract_mean_conf": 42.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 78.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.831,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 75.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 81.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.868,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.936,
+   "tesseract_mean_conf": 78.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.812,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 72.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.55,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.961,
+   "tesseract_mean_conf": 80.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 41.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 56.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.875,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.461,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.839,
+   "tesseract_mean_conf": 47.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 48.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.835,
+   "tesseract_mean_conf": 62.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 58.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 67.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 83.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 65.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 54.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.831,
+   "tesseract_mean_conf": 51.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 66.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 62.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 63.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.871,
+   "tesseract_mean_conf": 56.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.883,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 23224,
+  "out": 19488
+ },
+ "ts": "2026-10-15T20:21:35"
+}

@@ -1,0 +1,612 @@
+{
+ "vol": 2,
+ "scan": 6,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 41,
+ "lines": [
+  "९६ दुर्गा सप्तशती । [ द्वितीयोऽध्यायः २",
+  "वर्तमानानां विंशत्यादीनां संख्यानां द्विवचनबहुवचने अपि भवतः । एकशेषात् । ततश्च पञ्चाशद्भिरित्यत्र बहुवचनं युक्तम् ।",
+  "नियुतैरित्यत्र बहुत्वात् ॥ ४१ ॥",
+  "( ४ नागोजीभट्टी ) अयुध्यतेति । अयुतानामिति नियुतैरिति च तद्व्रतबहुत्वविवक्षया बहुवचनम् । एवमग्रेपि ।",
+  "'एकं दशशतं चैव सहस्रमयुतं तथा । लक्षं च नियुतं चैव कोटिरर्बुदमेवच । वृन्दं खर्वो निखर्वश्च शङ्खपद्मौ च सागरः ।",
+  "अन्त्यं मध्यं परार्धं च दशवृद्ध्या यथाक्रमम्' इति ब्रह्माण्डे ॥ ४१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अयुध्यतेति ४२ ॥ ४१ ॥",
+  "( ६ दंशोद्धारः ) ॥ ४१ ॥",
+  "अयुतानां शतैः षड्भिर्वाष्कलो युयुधे रणे । गजवाजिसहस्रौघैरनेकैः परिवारितः ॥ ४२ ॥",
+  "( १ गुप्तवती ) एवं 'गजवाजिसहस्रौघैरनेकैरस्त्रप्रदर्शनः । उग्रश्चात्युग्रवीर्यश्च त्रिनेत्रश्च महाबलः' इति चरणत्रयम्",
+  "धिकम् ॥ ४२ ॥",
+  "( २ चतुर्धरी ) अयुतानां षड्भिः शतैः षष्टिलक्षैः रथानामित्यनुवर्तते । गजवाजिसहस्राणामोघैर्वृन्दैः ॥ ४२ ॥",
+  "( ३ शान्तनवी ) रणे युद्धे बाष्कलो नाम महासुरः अयुतानां षड्भिः शतैः युयुधे । रथानां यानि अयुतानि षड्भिः",
+  "शतैर्गुणितानि षष्टिलक्षाणि तैः साधनैः देव्या समं बाष्कलो युद्धं चकार । तस्मिन्युद्धे उग्रदर्शनो नाम महासुरः अनेकैर्गज-",
+  "वाजिसहस्रौघैश्च रथानां कोट्या च वृतः परिवेष्टितः सन् देव्या समम् अयुध्यत । गजाश्च वाजिनश्च भूयांसः गजवाजि । सेनाङ्गत्वात्",
+  "द्वन्द्वैकवद्धावः । गजवाजिनो भूयांसः सहस्राणि अपरिमितानि तेषामोघाः समूहाः अनेके अपरिमिताः तैः ॥ ४२ ॥",
+  "( ४ नागोजीभट्टी ) अयुतानामिति । गजवाजीत्यतो बिडालसैन्यम् ॥ ४२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अयुतानामिति ४३ ॥ ४२ ॥",
+  "( ६ दंशोद्धारः ॥ ४२ ॥",
+  "वृतो रथानां कोट्या च युद्धे तस्मिन्नयुध्यत । बिडालाख्योऽयुतानां च पञ्चाशद्भिरथायुतैः ॥४३॥",
+  "( १ गुप्तवती ) बिडालाख्य इति । बिडालाक्ष इति पाठ एव मुख्यः । वामनादिपुराणेषु ‘दुर्धरो दुर्मुखश्चैव बिडाल-",
+  "नयनस्तथा' इत्यादिदर्शनात् आख्येतिपाठे नामैकदेशपरतया व्याख्येयम् । एवं बिडालस्यासिना कायादित्युत्तराध्यायप्रयो-",
+  "गोपि । अयुतानां पञ्चाशदयुतानि पञ्चाब्जानि । शतकोटिपञ्चकेनेतियावत् ॥ ४३ ॥",
+  "( २ चतुर्धरी ) रथानां च कोट्या वृतः परिवारितः परिवारितनामाऽयुध्यतेत्यन्वयः । बिडालस्याक्षिणी इवाक्षिणी",
+  "यस्य स बिडालाक्षः । बिडाल इत्याख्या यस्येति केचिन् । तत्र 'दुर्धरो दुर्मुखश्चैव बिडालनयनोऽपरः' इति वामनपुराणव",
+  "चनात् । अथेत्यानन्तर्ये ॥ ४३ ॥",
+  "( ३ शान्तनवी ) वृतः परिवेष्टितः । अथच रथानां कोट्या वृतः । कोटिः संख्याविशेषः । कोटिरर्बुदसंज्ञा संख्या । प्रमु",
+  "तसंज्ञं लक्षम् । अर्बुदसंज्ञा कोटिरिति ह्याहुः । अथ तत्र संयुगे संग्रामे बिडालाख्यः बिडालो नाम महादैत्यः रथानां पञ्चा",
+  "शद्भिरयुतैः पञ्चभिर्लक्षैः ॥ ४३ ॥",
+  "( ४ नागोजीभट्टी ) वृत इति । अथ तेषां वधानन्तरम् । अयुतानां पञ्चाशद्भिरयुतैः परिवारितो बिडालनामा तत्र",
+  "संयुगे युयुधे इत्युत्तरश्लोकेनान्वयः । 'दुर्धरो दुर्मुखश्चैव बिडालनयनस्तथा' इति वामनपुराणेपि बिडालनयनशब्दो योगरूढो",
+  "न केवलं यौगिकः । प्रकृते च नाम्नैकदेशे नामग्रहणम् । अतएव बिडालस्यासिनेति वक्ष्यमाणं संगच्छते ॥ ४३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) वृतो रथानामिति ४४ ॥ ४३ ॥",
+  "( ६ दंशोद्धारः ) बिडालाक्ष इति पाठः । 'बिडालनयनोऽ ऽपरः' इति वामनपुराणात् । बिडालस्यासिनेति नामैकदेश",
+  "ग्रहणम् । बिडालाख्य इति क्वचित् ॥ ४३ ॥",
+  "युयुधे संयुगे तत्र रथानां परिवारितः । अन्ये च तत्रायुतशो रथनागहयैर्वृताः ॥ ४४ ॥",
+  "( १ गुप्तवती ) ॥ ४४ ॥",
+  "( २ चतुर्धरी ) रथानामयुतानां च पञ्चाशद्भिरयुतैः । पञ्चाश⟨?⟩कोटिभिरित्यर्थः । परिवारितो वेष्टितः ।  संयुगे रणं ।",
+  "अन्ये च चण्डमुण्डरक्तबीजाद्यः । अयुतशो लक्षयुता लक्षसंख्याका",
+  "वः ॥ ४४ ॥",
+  "१ 'बिडालाख्यो महादैत्यः' इति शान्तनवीपाठः । 'विडालाक्षः' इत्यपि पाठः कैश्चिद्व्याख्यातः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.871,
+   "tesseract_mean_conf": 72.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.893,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 74.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 59.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 77.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.889,
+   "tesseract_char_agree": 0.972,
+   "tesseract_mean_conf": 67.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 80.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.862,
+   "tesseract_mean_conf": 53.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.583,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.889,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 54.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.868,
+   "tesseract_mean_conf": 62.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.765,
+   "tesseract_mean_conf": 54.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.844,
+   "tesseract_mean_conf": 63.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 70.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 73.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 67.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 64.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 57.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.86,
+   "tesseract_mean_conf": 73.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 54.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 66.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 44.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.843,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 46.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 34.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 51.5,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 3 col 1: got 3 lines, expected 5; realigned, 2 line(s) unmatched",
+  "band 3 col 0: got 4 lines, expected 5; realigned, 1 line(s) unmatched",
+  "band 2 col 1: got 9 lines, expected 12; realigned, 3 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "९६ दुर्गा",
+    "वर्तमानानां विंशत्यादीनां संख्यानां द्विवचनबहुवचने अपि",
+    "नियुतैरित्यत्र बहुत्वात् ॥ ४१ ॥",
+    "( ४ नागोजीभट्टी ) अयुध्यतेति । अयुतानामिति",
+    "'एकं दशशतं चैव सहस्रमयुतं तथा । लक्षं च नियुतं चैव",
+    "अन्त्यं मध्यं परार्धं च दशवृद्ध्या यथाक्रमम्' इति ब्रह्माण्डे ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अयुध्यतेति ४२ ॥ ४१",
+    "( ६ दंशोद्धारः ) ॥ ४१",
+    "अयुतानां शतैः षड्भिर्वाष्कलो युयुधे रणे ।",
+    "( १ गुप्तवती ) एवं 'गजवाजिसहस्रौघैरनेकैरस्त्रप्रदर्शनः",
+    "धिकम् ॥ ४२",
+    "( २ चतुर्धरी ) अयुतानां षड्भिः शतैः षष्टिलक्षैः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "सप्तशती । [ द्वितीयोऽध्यायः २",
+    "भवतः । एकशेषात् । ततश्च पञ्चाशद्भिरित्यत्र बहुवचनं युक्तम् ।",
+    "नियुतैरिति च तद्व्रतबहुत्वविवक्षया बहुवचनम् । एवमग्रेपि ।",
+    "कोटिरर्बुदमेवच । वृन्दं खर्वो निखर्वश्च शङ्खपद्मौ च सागरः ।",
+    "४१ ॥",
+    "॥",
+    "॥",
+    "गजवाजिसहस्रौघैरनेकैः परिवारितः ॥ ४२ ॥",
+    "। उग्रश्चात्युग्रवीर्यश्च त्रिनेत्रश्च महाबलः' इति चरणत्रयम्",
+    "॥",
+    "रथानामित्यनुवर्तते । गजवाजिसहस्राणामोघैर्वृन्दैः ॥ ४२ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "( ३ शान्तनवी ) रणे युद्धे बाष्कलो नाम महासुरः",
+    "शतैर्गुणितानि षष्टिलक्षाणि तैः साधनैः देव्या समं बाष्कलो",
+    "वाजिसहस्रौघैश्च रथानां कोट्या च वृतः परिवेष्टितः सन् देव्या",
+    "द्वन्द्वैकवद्धावः । गजवाजिनो भूयांसः सहस्राणि अपरिमितानि",
+    "( ४ नागोजीभट्टी ) अयुतानामिति । गजवाजीत्यतो",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अयुतानामिति ४३ ॥",
+    "( ६ दंशोद्धारः ॥ ४२",
+    "वृतो रथानां कोट्या च युद्धे तस्मिन्नयुध्यत ।",
+    "( १ गुप्तवती ) बिडालाख्य इति । बिडालाक्ष इति",
+    "नयनस्तथा' इत्यादिदर्शनात् आख्येतिपाठे नामैकदेशपरतया",
+    "गोपि । अयुतानां पञ्चाशदयुतानि पञ्चाब्जानि । शतकोटिपञ्चकेनेतियावत्",
+    "( २ चतुर्धरी ) रथानां च कोट्या वृतः परिवारितः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "अयुतानां षड्भिः शतैः युयुधे । रथानां यानि अयुतानि षड्भिः",
+    "युद्धं चकार । तस्मिन्युद्धे उग्रदर्शनो नाम महासुरः अनेकैर्गज-",
+    "समम् अयुध्यत । गजाश्च वाजिनश्च भूयांसः गजवाजि । सेनाङ्गत्वात्",
+    "तेषामोघाः समूहाः अनेके अपरिमिताः तैः ॥ ४२ ॥",
+    "बिडालसैन्यम् ॥ ४२ ॥",
+    "४२ ॥",
+    "॥",
+    "बिडालाख्योऽयुतानां च पञ्चाशद्भिरथायुतैः ॥४३॥",
+    "पाठ एव मुख्यः । वामनादिपुराणेषु ‘दुर्धरो दुर्मुखश्चैव बिडाल-",
+    "व्याख्येयम् । एवं बिडालस्यासिना कायादित्युत्तराध्यायप्रयो-",
+    "॥ ४३ ॥",
+    "परिवारितनामाऽयुध्यतेत्यन्वयः । बिडालस्याक्षिणी इवाक्षिणी"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "यस्य स बिडालाक्षः । बिडाल इत्याख्या यस्येति केचिन् ।",
+    "चनात् । अथेत्यानन्तर्ये ॥ ४३ ॥",
+    "( ३ शान्तनवी ) वृतः परिवेष्टितः । अथच रथानां",
+    "तसंज्ञं लक्षम् । अर्बुदसंज्ञा कोटिरिति ह्याहुः । अथ तत्र संयुगे",
+    "शद्भिरयुतैः पञ्चभिर्लक्षैः ॥ ४३ ॥",
+    "( ४ नागोजीभट्टी ) वृत इति । अथ तेषां वधानन्तरम्",
+    "संयुगे युयुधे इत्युत्तरश्लोकेनान्वयः । 'दुर्धरो दुर्मुखश्चैव",
+    "न केवलं यौगिकः । प्रकृते च नाम्नैकदेशे नामग्रहणम् । अतएव",
+    "( ५ जगच्चन्द्रचन्द्रिका ) वृतो रथानामिति ४४ ॥",
+    "( ६ दंशोद्धारः ) बिडालाक्ष इति पाठः । 'बिडालनयनोऽ",
+    "ग्रहणम् । बिडालाख्य इति क्वचित् ॥ ४३ ॥",
+    "युयुधे संयुगे तत्र रथानां परिवारितः । अन्ये च"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "तत्र 'दुर्धरो दुर्मुखश्चैव बिडालनयनोऽपरः' इति वामनपुराणव",
+    "कोट्या वृतः । कोटिः संख्याविशेषः । कोटिरर्बुदसंज्ञा संख्या । प्रमु",
+    "संग्रामे बिडालाख्यः बिडालो नाम महादैत्यः रथानां पञ्चा",
+    "। अयुतानां पञ्चाशद्भिरयुतैः परिवारितो बिडालनामा तत्र",
+    "बिडालनयनस्तथा' इति वामनपुराणेपि बिडालनयनशब्दो योगरूढो",
+    "बिडालस्यासिनेति वक्ष्यमाणं संगच्छते ॥ ४३ ॥",
+    "४३ ॥",
+    "ऽपरः' इति वामनपुराणात् । बिडालस्यासिनेति नामैकदेश",
+    "तत्रायुतशो रथनागहयैर्वृताः ॥ ४४ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "( १ गुप्तवती ) ॥ ४४ ॥",
+    "( २ चतुर्धरी ) रथानामयुतानां च पञ्चाशद्भिरयुतैः ।",
+    "अन्ये च चण्डमुण्डरक्तबीजाद्यः । अयुतशो लक्षयुता लक्षसंख्याका",
+    "१ 'बिडालाख्यो महादैत्यः' इति शान्तनवीपाठः ।"
+   ],
+   "expected": 5,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "पञ्चाश⟨?⟩कोटिभिरित्यर्थः । परिवारितो वेष्टितः ।  संयुगे रणं ।",
+    "वः ॥ ४४ ॥",
+    "'विडालाक्षः' इत्यपि पाठः कैश्चिद्व्याख्यातः ।"
+   ],
+   "expected": 5,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25094,
+  "out": 20732
+ },
+ "ts": "2026-10-16T00:15:46"
+}

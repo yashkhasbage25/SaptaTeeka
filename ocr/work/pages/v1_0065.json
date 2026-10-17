@@ -1,0 +1,694 @@
+{
+ "vol": 1,
+ "scan": 65,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 48,
+ "lines": [
+  "",
+  "",
+  "मोऽध्यायः ]  गुप्तवत्यादिसप्तटीकासंवलिता । ९५",
+  "म वदन्ति । अत्रार्थे आत्मनेपदम् । मनोजयो हि न किमपि नरं दुःखाकरोति संकल्पविकल्पात्मकं चित्तम् । 'अ",
+  "निघ्न आयत्तः' इत्यमरः ॥ २९ ॥",
+  "(न शान्तनवो) हे भगवन् हे सर्वैश्वर्यसंपन्न हे मुने त्वाम् अहम् एकं रहस्यं प्रष्टुमिच्छामि तद् वदस्व रहसि उपदिश ।",
+  "पसंभाषा॰'सूत्रेणोपमन्त्रणं रहस्युच्छन्दने आत्मनेपदम्। कं रहस्यं प्रष्टुमिच्छामि तद् वदस्व रहसि उपदिश ।",
+  "पसंभाषा॰'सूत्रेणोपमन्त्रणं रहस्युच्छन्दने आत्मनेपदम्। यद्यस्मात्कारणात्स्वचित्तायत्तां विनावस्थानं मे मनसः दुःखाय",
+  "पसंभाषा॰'सूत्रेणोपमन्त्रणं रहस्युच्छन्दने आत्मनेपदम्।यद्यस्मात्कार",
+  "न्वयः । यदहम् एकं रहस्यं त्वां प्रष्टुमिच्छामि तन्मयावश्यमाकर्णनीयम् । अन्यथा तदाकर्णनाभावे स्वचित्तायत्तत्वं न",
+  "तदभावस्तु मे मनसः दुःखाय स्यात् संशयापन्नत्वात् । तस्मात्तद्रहस्यं मया श्रोतव्यमेवेति भावः । 'ऐश्वर्यस्य समग्रस्य",
+  "यशसः श्रियः । वैराग्यस्याथ मोक्षस्य षण्णां भग इतीरणा' ॥ २९ ॥",
+  "४ नागोजीभट्टी) राजोवाच । भगवन्निति । वदस्वेति यत्नार्थ आत्मनेपदम् । यत्नेन वदेत्यर्थः । एकं रहस्यं वदत्र ।",
+  "मे मनसः संकल्पात्मकस्यान्तःकरणस्य स्वचित्ते निश्चयात्मके स्वस्वरूपं आयत्ततां निरोधं विना दुःखाय यदित्यन्वयः ।",
+  "कल्पात्मकमेवमन्तःकरणं न निश्चयात्मकमतो न मे तन्निर्णयेऽधिकार इति भावः ॥ २९ ॥",
+  "५ जगच्चन्द्रचन्द्रिका) राजेति । ‘राजोवाच स्वाहृत्ययं मन्त्रः ३९' । अर्धश्लोकमन्त्रक इति अर्धश्लोकरूपो मन्त्रः ।",
+  "‘भगवंस्त्वामहं प्रष्टुमिच्छाम्येकं वदस्व तत् स्वाहा ४०’ । मन्त्राश्चत्वारिंशदेवमिति । एवं प्रकारेण चत्वारिंशत् विंशति-",
+  "ः स्युः । श्लोकमन्त्रचतुष्टयमिति श्लोकरूपा ये मन्त्रास्तेषां चतुष्टयम् । श्लोकरूपाः प्रत्येकं चत्वारो मन्त्रा इत्यर्थः ।",
+  "स्वाहायेति ४१ ॥ २९ ॥",
+  "६ दंशोद्धारः) भगवन्निति । वदस्वेति यत्ने । ‘भासनोपसंभाषा’ इत्यात्मनेपदम् । यत्नेन वदेत्यर्थः ॥ २९ ॥",
+  "गतराज्यस्य राज्याङ्गेष्वखिलेष्वपि । जानतोऽपि यथाज्ञस्य किमेतन्मुनिसत्तम ॥ ३० ॥",
+  "२ गुप्तवती ) राज्याङ्गेषु स्वाम्यमात्यसुहृत्कोशराष्ट्रदुर्गबलेषु सप्तसु ॥ ३० ॥",
+  "३ चतुर्धरी )ममत्वमिति । राज्यस्येति । सुपां सुपू इति सप्तम्यर्थं पत्री । मम राज्यादौ यन्ममत्वंम⟨?⟩तात्मक निबन्ध-",
+  "। अन्यदाह । राज्यस्य राज्यक्रियाया इति राज्याङ्गेषु स्वाम्यादिषु । 'स्वाम्यमात्यसुहृत्कोशराष्ट्रदुर्गबलानि च ।",
+  "प्रकृतयः पौराणां श्रेणयोऽपि च' इति नामलिङ्गानुशासनात् । अखिलेषु समस्तेषु ॥ ३० ॥",
+  "शान्तनवी ) मुनिरतिशयेन सन् विपश्चित् मुनिसत्तमः । हं मुनिसत्तम । जानतोऽपि उत्पन्नज्ञानस्यापि",
+  "शत्रुहस्तगतसाम्राज्यस्य मे अखिलेष्वपि राज्याङ्गेषु यथाज्ञस्य जडस्यैव ममत्वम् ममता वर्तते किमेतन् इत्यन्वयः ।",
+  "स्य पुंसः राज्याङ्गेषु किं ममत्वेन कृतं स्यादिति भावः । 'स्वाम्यमात्यसुहृत्कोशराष्ट्रदुर्गबलानि च' इति सम रा-",
+  "। 'ववायथातथैव⟨?⟩म् '॥ ३० ॥",
+  "नागोजीभट्टी ) दुःखहेतुत्वमाह । ममत्वमिति । राज्यहृदेति सप्तम्यर्थस्य शेषत्वविवक्षया षष्ठी । राज्ये",
+  "ष्वमदीयत्वं जानतोऽपि मम यथा अज्ञस्य अज्ञस्यैव राज्यादिषु ममत्वं एतत्किम् । किंनिबन्धनमित्यर्थः । 'स्वा-",
+  "त्कोशराष्ट्रदुर्गबलानि च । राज्याङ्गानि प्रकृतयः पौराणां श्रेणयोऽपि च' एषु स्वाम्यं प्रधानम् ॥ ३० ॥",
+  "जगच्चन्द्रचन्द्रिका ) जानतोऽपि४२ ॥ ३० ॥",
+  "जगच्चन्द्रचन्द्रिका ) जानतोऽपि४२ ॥ ३० ॥",
+  "वंशोद्धारः ) ॥ ३० ॥",
+  "वंशोद्धारः ) ॥ ३० ॥",
+  "⟨?⟩शाद्वारः ) ॥ ३० ॥",
+  "निकृतः पुत्रैर्दारैर्भृत्यैस्तथोज्झितः । स्वजनेन च संत्यक्तस्तेषु हार्दीं तथाप्यति ॥ ३१ ॥",
+  "शुभवती ) निकृतः वञ्चितः । अतिहार्दो अतिशयस्नेहवान् ॥ ३१ ॥",
+  "चतुर्धरी ) अयमिति । अयं वैश्यः निकृतो दुःखीकृतः उज्झितस्त्यक्तः । तथेति समुच्चये । अति अतिशयेन",
+  "न् ॥ ॥ ३१ ॥",
+  "शान्तनवी ) अयं वैश्यश्च यद्यपि पुत्रैः निकृतः विप्रकृतः खिलीकृतः । तथा दारैः कलत्रैः भृत्यैरमात्यैश्च उज्झि-",
+  "। स्वजनैर्भ्रात्रादिभिर्बन्धुभिरपि संत्यक्तः तथापि तेषु पुत्रादिषु ममत्वेन अतिहार्दीं अतिस्नेहोपेतो वर्तत इत्य-",
+  "⟨?⟩ेष्वेषु पुत्रादिषु ममत्वेनातिस्नेहवानिति भावः 'निकृतः स्याद्विप्रकृतः' निःक्रियते खिलीक्रियतेऽस्मै निकृतः ।",
+  "⟨?⟩तस्त्वनृजुः शठः' निकृणोति हिनस्ति निकृतः हिंसकोऽयमनृजुः शठ इत्युज्झत इत्यर्थः । 'कुघतिर्निकृतिः",
+  "⟨?⟩क्त इत्यप्रस्तुतार्थकत्वादपपाठः । तथाहि निष्कृतिः प्रायश्चित्तिः । यदाहुः 'कामतो ब्राह्मणवधे जीवतो नास्ति",
+  "⟨?⟩कृतः' 'निःकृतः' इति पाठौ शान्तनवीटीकायां संगृहीतौ",
+  "⟨?⟩कृतः' 'निःकृतः' इति पाठौ शान्तनवीटीकायां संगृहीतौ ⟨?⟩ च ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 1.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.848,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 24.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 78.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 58.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.842,
+   "tesseract_mean_conf": 55.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 74.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 58.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 57.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 63.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 78.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 63.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 76.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 59.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 47.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.756,
+   "tesseract_mean_conf": 51.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.077,
+   "tesseract_char_agree": 0.842,
+   "tesseract_mean_conf": 48.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.778,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.753,
+   "tesseract_mean_conf": 52.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.822,
+   "tesseract_mean_conf": 49.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 75.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 52.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.333,
+   "tesseract_mean_conf": 36.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 22.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.556,
+   "tesseract_mean_conf": 67.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.2,
+   "tesseract_mean_conf": 17.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.853,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 53.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 56.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.182,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 39.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 38.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.211,
+   "tesseract_mean_conf": 42.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.3,
+   "tesseract_char_agree": 0.761,
+   "tesseract_mean_conf": 45.4,
+   "needs_review": true
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 0 col 0: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 0 col 1: got 9 lines, expected 12; realigned, 3 line(s) unmatched",
+  "band 3 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "मोऽध्यायः ]  गुप्तवत्यादिसप्तटीकासंवलिता",
+    "म वदन्ति । अत्रार्थे आत्मनेपदम् । मनोजयो हि न किमपि नरं",
+    "निघ्न आयत्तः' इत्यमरः ॥ २९",
+    "(न शान्तनवो) हे भगवन् हे सर्वैश्वर्यसंपन्न हे मुने त्वाम् अहम् एकं",
+    "पसंभाषा॰'सूत्रेणोपमन्त्रणं रहस्युच्छन्दने आत्मनेपदम्।",
+    "पसंभाषा॰'सूत्रेणोपमन्त्रणं रहस्युच्छन्दने आत्मनेपदम्।",
+    "पसंभाषा॰'सूत्रेणोपमन्त्रणं रहस्युच्छन्दने आत्मनेपदम्।यद्यस्मात्कार",
+    "न्वयः । यदहम् एकं रहस्यं त्वां प्रष्टुमिच्छामि तन्मयावश्यमाकर्णनीयम्",
+    "तदभावस्तु मे मनसः दुःखाय स्यात् संशयापन्नत्वात् । तस्मात्तद्रहस्यं",
+    "यशसः श्रियः । वैराग्यस्याथ मोक्षस्य षण्णां भग इतीरणा' ॥ २९"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ९५",
+    "दुःखाकरोति संकल्पविकल्पात्मकं चित्तम् । 'अ",
+    "॥",
+    "रहस्यं प्रष्टुमिच्छामि तद् वदस्व रहसि उपदिश ।",
+    "कं रहस्यं प्रष्टुमिच्छामि तद् वदस्व रहसि उपदिश ।",
+    "यद्यस्मात्कारणात्स्वचित्तायत्तां विनावस्थानं मे मनसः दुःखाय",
+    "। अन्यथा तदाकर्णनाभावे स्वचित्तायत्तत्वं न",
+    "मया श्रोतव्यमेवेति भावः । 'ऐश्वर्यस्य समग्रस्य",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "४ नागोजीभट्टी) राजोवाच । भगवन्निति । वदस्वेति यत्नार्थ",
+    "मे मनसः संकल्पात्मकस्यान्तःकरणस्य स्वचित्ते निश्चयात्मके स्वस्वरूपं",
+    "कल्पात्मकमेवमन्तःकरणं न निश्चयात्मकमतो न मे तन्निर्णयेऽधिकार",
+    "५ जगच्चन्द्रचन्द्रिका) राजेति । ‘राजोवाच स्वाहृत्ययं मन्त्रः",
+    "‘भगवंस्त्वामहं प्रष्टुमिच्छाम्येकं वदस्व तत् स्वाहा ४०’ ।",
+    "ः स्युः । श्लोकमन्त्रचतुष्टयमिति श्लोकरूपा ये मन्त्रास्तेषां चतुष्टयम्",
+    "स्वाहायेति ४१ ॥ २९",
+    "६ दंशोद्धारः) भगवन्निति । वदस्वेति यत्ने । ‘भासनोपसंभाषा’",
+    "गतराज्यस्य राज्याङ्गेष्वखिलेष्वपि । जानतोऽपि",
+    "२ गुप्तवती ) राज्याङ्गेषु स्वाम्यमात्यसुहृत्कोशराष्ट्रदुर्गबलेषु सप्तसु",
+    "३ चतुर्धरी )ममत्वमिति । राज्यस्येति । सुपां सुपू इति सप्तम्यर्थं",
+    "। अन्यदाह । राज्यस्य राज्यक्रियाया इति राज्याङ्गेषु स्वाम्यादिषु ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "आत्मनेपदम् । यत्नेन वदेत्यर्थः । एकं रहस्यं वदत्र ।",
+    "आयत्ततां निरोधं विना दुःखाय यदित्यन्वयः ।",
+    "इति भावः ॥ २९ ॥",
+    "३९' । अर्धश्लोकमन्त्रक इति अर्धश्लोकरूपो मन्त्रः ।",
+    "मन्त्राश्चत्वारिंशदेवमिति । एवं प्रकारेण चत्वारिंशत् विंशति-",
+    "। श्लोकरूपाः प्रत्येकं चत्वारो मन्त्रा इत्यर्थः ।",
+    "॥",
+    "इत्यात्मनेपदम् । यत्नेन वदेत्यर्थः ॥ २९ ॥",
+    "यथाज्ञस्य किमेतन्मुनिसत्तम ॥ ३० ॥",
+    "॥ ३० ॥",
+    "पत्री । मम राज्यादौ यन्ममत्वंम⟨?⟩तात्मक निबन्ध-",
+    "'स्वाम्यमात्यसुहृत्कोशराष्ट्रदुर्गबलानि च ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "प्रकृतयः पौराणां श्रेणयोऽपि च' इति नामलिङ्गानुशासनात् ।",
+    "शान्तनवी ) मुनिरतिशयेन सन् विपश्चित् मुनिसत्तमः । हं",
+    "शत्रुहस्तगतसाम्राज्यस्य मे अखिलेष्वपि राज्याङ्गेषु यथाज्ञस्य जडस्यैव",
+    "स्य पुंसः राज्याङ्गेषु किं ममत्वेन कृतं स्यादिति भावः ।",
+    "। 'ववायथातथैव⟨?⟩म् '॥ ३०",
+    "नागोजीभट्टी ) दुःखहेतुत्वमाह । ममत्वमिति । राज्यहृदेति",
+    "ष्वमदीयत्वं जानतोऽपि मम यथा अज्ञस्य अज्ञस्यैव राज्यादिषु ममत्वं",
+    "त्कोशराष्ट्रदुर्गबलानि च । राज्याङ्गानि प्रकृतयः पौराणां श्रेणयोऽपि",
+    "जगच्चन्द्रचन्द्रिका ) जानतोऽपि४२ ॥ ३०",
+    "जगच्चन्द्रचन्द्रिका ) जानतोऽपि४२ ॥ ३० ॥",
+    "वंशोद्धारः ) ॥ ३० ॥",
+    "वंशोद्धारः ) ॥ ३०"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "अखिलेषु समस्तेषु ॥ ३० ॥",
+    "मुनिसत्तम । जानतोऽपि उत्पन्नज्ञानस्यापि",
+    "ममत्वम् ममता वर्तते किमेतन् इत्यन्वयः ।",
+    "'स्वाम्यमात्यसुहृत्कोशराष्ट्रदुर्गबलानि च' इति सम रा-",
+    "॥",
+    "सप्तम्यर्थस्य शेषत्वविवक्षया षष्ठी । राज्ये",
+    "एतत्किम् । किंनिबन्धनमित्यर्थः । 'स्वा-",
+    "च' एषु स्वाम्यं प्रधानम् ॥ ३० ॥",
+    "॥",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "⟨?⟩शाद्वारः ) ॥ ३० ॥",
+    "निकृतः पुत्रैर्दारैर्भृत्यैस्तथोज्झितः । स्वजनेन च",
+    "शुभवती ) निकृतः वञ्चितः । अतिहार्दो अतिशयस्नेहवान् ॥",
+    "चतुर्धरी ) अयमिति । अयं वैश्यः निकृतो दुःखीकृतः उज्झितस्त्यक्तः",
+    "न् ॥",
+    "शान्तनवी ) अयं वैश्यश्च यद्यपि पुत्रैः निकृतः विप्रकृतः खिलीकृतः ।",
+    "। स्वजनैर्भ्रात्रादिभिर्बन्धुभिरपि संत्यक्तः तथापि तेषु पुत्रादिषु",
+    "⟨?⟩ेष्वेषु पुत्रादिषु ममत्वेनातिस्नेहवानिति भावः 'निकृतः",
+    "⟨?⟩तस्त्वनृजुः शठः' निकृणोति हिनस्ति निकृतः हिंसकोऽयमनृजुः",
+    "⟨?⟩क्त इत्यप्रस्तुतार्थकत्वादपपाठः । तथाहि निष्कृतिः प्रायश्चित्तिः",
+    "⟨?⟩कृतः' 'निःकृतः' इति पाठौ शान्तनवीटीकायां संगृहीतौ",
+    "⟨?⟩कृतः' 'निःकृतः' इति पाठौ शान्तनवीटीकायां संगृहीतौ ⟨?⟩"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "संत्यक्तस्तेषु हार्दीं तथाप्यति ॥ ३१ ॥",
+    "३१ ॥",
+    "। तथेति समुच्चये । अति अतिशयेन",
+    "॥ ३१ ॥",
+    "तथा दारैः कलत्रैः भृत्यैरमात्यैश्च उज्झि-",
+    "ममत्वेन अतिहार्दीं अतिस्नेहोपेतो वर्तत इत्य-",
+    "स्याद्विप्रकृतः' निःक्रियते खिलीक्रियतेऽस्मै निकृतः ।",
+    "शठ इत्युज्झत इत्यर्थः । 'कुघतिर्निकृतिः",
+    "। यदाहुः 'कामतो ब्राह्मणवधे जीवतो नास्ति",
+    "च ।"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 26304,
+  "out": 41797
+ },
+ "ts": "2026-10-15T23:09:23"
+}

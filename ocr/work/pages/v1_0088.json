@@ -1,0 +1,395 @@
+{
+ "vol": 1,
+ "scan": 88,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 42,
+ "lines": [
+  "७८ दुर्गासप्त⟨?⟩ थती ।    [ प्रथमोऽध्यायः १",
+  "विलोक्येत्यन्वयः । यद्वा सर्वं जगत् आप इति विलोक्य तथा अमयम् अहिंसनं यथा भवति तथा भगवान् गदितः । यद्वा सर्वं",
+  "जगदमयं विष्णुमयं विष्णुमात्रैकशेषम् आपो जलानि विलोक्येत्यन्वयः ॥ ७५ ॥",
+  "( ३ शान्तनवी ) तदा असुरवधप्रार्थनाकाले विष्णुना महामायानुकूलेन वञ्चिताभ्यां विप्रलब्धाभ्यां ताभ्यां मधुकैट-",
+  "भाभ्यां सर्वं जगदापोमयं विलोक्य भगवान्कमलेक्षणः पुण्डरीकाक्षः विष्णुरिति गदितः । इति वक्ष्यमाणप्रकारेण उक्तः ।",
+  "'विप्रलब्धस्तु वञ्चितः' इति । आप्लृ व्याप्तौ । आपः कर्माख्यायामिति आपसृशब्दः सान्तोप्यस्ति । आपोभिर्मार्जनं कुर्वि-",
+  "तिवत् । अपांसि कर्मसाधनानि प्रकृतानि उच्यन्ते अस्मिन् जगति तत् आपोमयम् । तत्प्रकृतवचने मयट् । अथवा 'आपः",
+  "⟨?⟩वी भूम्नि' । मय गतौ । अनुदात्तेत्त्वानुबन्धनमात्मनेपदम् । चक्षिङो ङित्त्वात् । क्वचित् अनित्यमिति लङि परस्मैपदम् । आपः",
+  "कर्यः । जगत्कर्म । आपोमयं जगदित्यत्र नकारस्य श्रुतेन वकारः । सर्वमापोमयं जगत् । सर्वं जगत्कर्म । आपः कर्त्र्यः ।",
+  "अमयन् अगच्छन् व्याप्तवत्य इति विलोक्य ताभ्यां हरिरुक्त इति योजना ॥ ७५ ॥",
+  "(४ नागोजीभट्टी) ऋषिरुवाच । वञ्चिताभ्यामिति । तदा तस्मिन् समये इति एवं वरप्रार्थनया वञ्चिताभ्यां",
+  "भगवतीकृतमोहवशात् सर्वं जगत् आपोमयं विलोक्य ताभ्यां भगवान् गदित इत्यर्थः । आपोमयमित्यत्र आपृशब्द-",
+  "समानादाम्प्रकृतिकादसुन्नतादापःशब्दान्मयट् । 'आपोमयमिदं सर्वमापो मूर्तिः शरीरिणाम्' इतिवत् ॥ ७५ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ऋषिरिति । 'ऋषिरुवाच स्वाहा'इत्येको मन्त्रः ९९ । श्लोकार्धं पुनरिति पुनर्भूयोऽपि",
+  "श्लोकार्धकम् अर्धश्लोकरूपो मन्त्रः । तद्यथा । 'वञ्चिताभ्यामिति तदा सर्वमापोमयं जगत्स्वाहा' १०० । श्लोक इति श्लोकरूपो",
+  "मन्त्रः । तद्यथा विलोक्य ताभ्यां गदितो भगवान् कमलेक्षणः ॥ ७५ ॥",
+  "( ६ दंशोद्धारः ) वञ्चिताभ्यामिति । आपोभिर्मार्जनं कुर्यादित्यादौ दृष्ट आपस्शब्दः सकारान्तोऽपि ब्रुवते । कतमेऽपि",
+  "नपुंसकमाप इति कोशाच्च साधितश्च 'आपः कर्मांख्यायाम्' इत्युणादिसूत्रेणासुन्नन्तः तस्मात्प्राचुर्ये मयट् । यद्वा अमयं विष्णु-",
+  "मयम् । जगदापो विलोक्येत्यर्थः । यद्वा मय हिंसायाम् । अस्मात्पचाद्यचि अमयमहिंसं यथा भवति तथा गदित इति क्रिया-",
+  "विशेषणम् । यद्वा अमयन्निति छेदः । मय गतौ । सर्वं जगत् आपः अनयन् अगच्छन् व्याप्तवत्य इति विलोक्येत्यर्थः ।",
+  "चक्षिङो ङित्वेनानुदात्तेत्त्वप्रयुक्तात्मनेपदस्यानित्यत्वाल्लुङि परस्मैपदम् ॥ ७५ ॥",
+  "(प्रीतौ' स्वस्तव युद्धेन श्लाघ्यस्त्वं मृत्युरावयोः)। आवां जहि न यत्रोर्वीं सलिलेन परिप्लुता॥७६॥",
+  "( १ गुप्तवती ) ॥ ७६ ॥",
+  "( २ चतुर्धरी ) श्लाघ्योऽनुरूपः । उर्वीं पृथिवी यत्र सलिलेन परिप्लुता न तत्र आवां जहि घातयेत्यन्वयः ॥ ७६ ॥",
+  "( ३ शान्तनवी ) किं गदितः कमलेक्षणो भगवान् ताभ्याम् । हे विष्णो तव युद्धेन आवाम् असुरौ प्रीतौ स्वः भवावः ।",
+  "हे विष्णो त्वम् आवयोर्मधुकैटभयोः श्लाघ्यः स्तुत्यः मृत्युरन्तकः कालोऽसि । किंतु यत्रोर्वीं भूमिः सलिलेन परिप्लुता नाभूत्",
+  "तत्र आवां मधुकैटभौ जहि हन्या इति ताभ्यां विष्णुरुक्तः । आवयोर्वधरूपं वरं वाञ्छता मायिना तेन विष्णुना आवाम्",
+  "असुरौ वञ्चितावभूतां ततो येन नौ वधो न स्यात् स कोऽन्यस्त्वद्वधोपायः । अयमस्ति संप्रति सर्वं जगदापोमयं जलमयम् एव",
+  "वर्तते । ततश्च । यत्रोर्वी जलमयी न दृश्येत तत्रावयोरसुरयोस्त्वत्कर्तृको (स्मत्कर्मको) वधोऽस्त्विति । एवंचोक्तो हि सर्वापि",
+  "पृथिवी जलमय्येवेति क्व नौ हनिष्यत्यसावित्यावाभ्याम् असुराभ्यां मायाविभ्यां भगवानपि वञ्चितो भविष्यत्यशुभस्य काल-",
+  "व्यापनास्तीति भावः । आपोमय इत्यत्र आपस् इति सान्तम् । आदोभिर्मार्जनं कुर्यादिति प्रयोगश्च । मृजमृड्भ्यां जपुक्",
+  "त्युकौ । 'मृत्युः स्त्रीपुंसयो रतौ' । जहि इति हन्तेर्विध्यादौ लोटि 'सेर्ह्यपिच्च' हो⟨?⟩न्तेजः । आभीयतयाजस्यासिद्धत्वाद्वे⟨?⟩-",
+  "गभावः । वधिः प्रकृत्यन्तरमस्तीति केवलोऽप्य⟨?⟩ित वधशब्दः शिष्टप्रयोगतः ॥ ७६ ॥",
+  "( ४ नागोजीभट्टी ) किं गदितं तत्राह । आवामिति । न यत्रोर्वीं यत्र वा न सलिलेन परिप्लुता तत्रावां",
+  "जहीत्यर्थः ॥ ७६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) 'आवां जहि न यत्रोर्वी सलिलेन परिप्लुता स्वाहा' १०१ ॥ ७६ ॥",
+  "( ⟨?⟩ दंशोद्धारः ) प्रीताविति । त्वन्मृत्युरिति पाठे त्वत् त्वत्तः मृत्युरित्यर्थः ॥ ७६ ॥",
+  "ऋषिरुवाच ।",
+  "तथेत्युक्त्वा भगवता शङ्खचक्रगदाभृता । कृत्वा चक्रेण वै छिन्ने जघने शिरसी तयोः ॥ ७७ ॥",
+  "( १ गुप्तवती ) जघने तत्र जलाभावादिति भावः । एतदुत्तरं क्वचिदधिकं पठ्यते । ( 'हत्वा तु भगवान्विष्णुस्तावुभौ",
+  "मधुकैटभौ । तयोस्तु मेदसा राजन् महीमेतामकल्पयत् । मेदिनीति तदारभ्य संज्ञामाप वसुंधरा । ततो वीतभयो ब्रह्मा",
+  "१ एतत्पद्यार्थं केवलं चतुर्धरीशान्तनवीभ्यामेव विवृतं न सर्वत्र ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.774,
+   "tesseract_mean_conf": 42.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.474,
+   "tesseract_char_agree": 0.851,
+   "tesseract_mean_conf": 85.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 72.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.923,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 57.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 82.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.684,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 73.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 78.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.989,
+   "tesseract_mean_conf": 69.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 83.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 55.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.888,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 75.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.89,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 57.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 87.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.684,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 83.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 58.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 80.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 78.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 65.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.856,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.884,
+   "tesseract_mean_conf": 53.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 75.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 55.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 70.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 73.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.804,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25919,
+  "out": 24524
+ },
+ "ts": "2026-10-15T20:08:23"
+}

@@ -1,0 +1,159 @@
+{
+ "vol": 1,
+ "scan": 16,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 15,
+ "lines": [
+  "६ विज्ञापनम् ।",
+  "दोषमूलमचिन्त्यैवाविवेकिनः पराङ्मुखाः स्वदोषमन्यत्रारोप्य भ्रमन्ति । पुनश्च सांसारिकदुःखभागिनो दुःखतरङ्गमालिनि",
+  "संसारेऽसकृदहर्दिवं निमज्जनोन्मज्जनं पारवश्येनानुभवन्ति । एतत्सर्वं कण्ठचामीकरन्यायेन निकटवर्तिन्यपि सप्तशतीचिन्ता-",
+  "मरौ कान्तारभ्रमणमिव वृथा परिभ्रमन्तः क्लिश्यन्तीति मनसिकृत्य बहूनामेतदनुष्ठानश्रवणधिषणानामर्थावगत्यै यथाशक्ति",
+  "यथामनीषं महाव्याकरणमपि श्रेयस्करमिति बहुकालमन्वेषणेन सप्तशत्युपरि टीकासप्तकमलाभि । तास्वद्यनेन द्वित्राः प्रसिद्धाः",
+  "काश्चन नाद्यैव श्रुतिपथमागता लोकेषु । नैतदवधि काश्चन केषांचिल्लोचनविषयीबभूवुः तासां सर्वासामपि प्रतिपद्यार्थं⟨?⟩-",
+  "प्सासमये समकालमर्थावधृत्या तत्पृथक्पृथङ्मतावधृतार्थस्य तत्रतत्र पाठान्तराणां वैशद्येन सर्वेऽपि सानन्दाः कृतकार्याश्च",
+  "भूयासुरित्येकस्मिन्नेव पुस्तके सप्तशतीस्थप्रतिश्लोकाधः सप्त टीकाः समावेशिताः सन्ति ।",
+  "श्रीमच्चण्डिकायाः प्रसादसिद्धयेऽनुष्ठानपद्धतिरवश्यमपेक्षिताप्यत्र ग्रन्थविस्तरभयान्न संगृहीता । सा चान्यस्मिन्बृहज्ज्योति-",
+  "षाणिवे धर्मस्कन्धे ६० षष्टिप्रकरणात्मके दुर्गोपासनाध्याये र्जपार्चनहवनाराधनानुष्ठानानां तत्रतत्र प्रमाणपुरःसरं विवरणं गुप्त-",
+  "वतीमतेन यथाश्रुतमाहिमतेन च द्विविधं मन्त्रविभागादि च तत एवावगन्तव्यम् ।",
+  "संप्रति चैवं महता प्रयासेन संगृहीतमेतत्पुस्तकमन्यैरादर्शपुस्तकैश्च संयोज्य शोधनेन संस्कृतमस्ति तथापि केषांचित्प्रत्य-",
+  "न्तरालाभात्क्वचन मतिमान्द्यात्कुत्रचिद्दोषाश्च निसर्गंमानुषेषुसुलभं स्खलितं विदुषामक्षिविषयमापतेच्चेत्तर्हि गच्छतः",
+  "स्खलनं न दोषायेति तत्स्खलितजातं हंसक्षीरन्यायेन शोधयन्तु सहिष्णवः सारग्राहिणो दयालवो वयमप्यस्य पुनः संस्कर-",
+  "णसमये शोध्याम इति सविनयमभ्यर्थना ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 84.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.96,
+   "tesseract_mean_conf": 44.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 42.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.848,
+   "tesseract_mean_conf": 44.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 55.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 44.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 36.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 58.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 62.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 54.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.825,
+   "tesseract_mean_conf": 43.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.862,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 10622,
+  "out": 13944
+ },
+ "ts": "2026-10-15T19:17:16"
+}

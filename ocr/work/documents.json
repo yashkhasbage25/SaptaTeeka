@@ -1,0 +1,119 @@
+[
+ {
+  "slug": "frontmatter",
+  "title": "उपक्रमः",
+  "xml": "sanitized_auto/frontmatter.xml",
+  "lines": 517,
+  "blocks": 1,
+  "review_blocks": 1,
+  "unclear": 19
+ },
+ {
+  "slug": "upodghata",
+  "title": "गुप्तवत्युपोद्घातः",
+  "xml": "sanitized_auto/upodghata.xml",
+  "lines": 258,
+  "blocks": 1,
+  "review_blocks": 1,
+  "unclear": 31
+ },
+ {
+  "slug": "kavacham",
+  "title": "देवीकवचम्",
+  "xml": "sanitized_auto/kavacham.xml",
+  "lines": 244,
+  "blocks": 56,
+  "review_blocks": 10,
+  "unclear": 10
+ },
+ {
+  "slug": "argala",
+  "title": "अर्गलास्तोत्रम्",
+  "xml": "sanitized_auto/argala.xml",
+  "lines": 76,
+  "blocks": 15,
+  "review_blocks": 3,
+  "unclear": 3
+ },
+ {
+  "slug": "keelakam",
+  "title": "कीलकस्तोत्रम्",
+  "xml": "sanitized_auto/keelakam.xml",
+  "lines": 75,
+  "blocks": 18,
+  "review_blocks": 8,
+  "unclear": 5
+ },
+ {
+  "slug": "mantravibhaga",
+  "title": "सप्तशतीमन्त्रविभागः",
+  "xml": "sanitized_auto/mantravibhaga.xml",
+  "lines": 184,
+  "blocks": 1,
+  "review_blocks": 1,
+  "unclear": 41
+ },
+ {
+  "slug": "prayogavidhi",
+  "title": "प्रयोगविधिः",
+  "xml": "sanitized_auto/prayogavidhi.xml",
+  "lines": 469,
+  "blocks": 1,
+  "review_blocks": 1,
+  "unclear": 66
+ },
+ {
+  "slug": "adhyaya_1",
+  "title": "प्रथमोऽध्यायः",
+  "xml": "sanitized_auto/adhyaya_1.xml",
+  "lines": 1792,
+  "blocks": 377,
+  "review_blocks": 139,
+  "unclear": 163
+ },
+ {
+  "slug": "adhyaya_2",
+  "title": "द्वितीयोऽध्यायः",
+  "xml": "sanitized_auto/adhyaya_2.xml",
+  "lines": 790,
+  "blocks": 335,
+  "review_blocks": 76,
+  "unclear": 74
+ },
+ {
+  "slug": "adhyaya_3",
+  "title": "तृतीयोऽध्यायः",
+  "xml": "sanitized_auto/adhyaya_3.xml",
+  "lines": 441,
+  "blocks": 213,
+  "review_blocks": 54,
+  "unclear": 59
+ },
+ {
+  "slug": "adhyaya_4",
+  "title": "चतुर्थोऽध्यायः",
+  "xml": "sanitized_auto/adhyaya_4.xml",
+  "lines": 459,
+  "blocks": 159,
+  "review_blocks": 44,
+  "unclear": 45
+ },
+ {
+  "slug": "adhyaya_5",
+  "title": "पञ्चमोऽध्यायः",
+  "xml": "sanitized_auto/adhyaya_5.xml",
+  "lines": 324,
+  "blocks": 104,
+  "review_blocks": 17,
+  "unclear": 20
+ },
+ {
+  "slug": "rahasya_pradhanika",
+  "title": "प्राधानिकं रहस्यम्",
+  "xml": "sanitized_auto/rahasya_pradhanika.xml",
+  "lines": 40,
+  "blocks": 8,
+  "review_blocks": 3,
+  "unclear": 2
+ }
+]

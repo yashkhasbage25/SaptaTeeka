@@ -1,0 +1,635 @@
+{
+ "vol": 2,
+ "scan": 16,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 43,
+ "lines": [
+  "१०६                                                                              दुर्गासप्तशती । [ तृतीयोऽध्यायः ३",
+  "इति श्रीमद्राजाधिराजश्रीमत्तोमरान्वयश्रीमदुद्धरणात्मज श्रीशंतनुचक्रवर्तिविरचितायां शान्तनव्यां चण्डिकामाहात्म्यटीकायां",
+  "महिषासुरसैन्यवधविध्युपलक्षितो द्वितीयोऽध्यायः ॥ २ ॥",
+  "( ४ नागोजीभट्टी ) देव्या इति । चोप्यर्थे । तुतुषुस्तुष्टाः ॥६८॥ इति शिवभट्टसुतसतीगर्भजनागोजीभट्टकृतं सप्तश",
+  "तीव्याख्याने द्वितीयोऽध्यायः ॥ २ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) देव्या गणैरिति ६९ ॥ ६८ ॥   ॥ इति श्रीकूर्माचलेन्द्रराजर्षिवर्यश्रीज्ञानचन्द्रात्म-",
+  "जश्रीकुमारजगच्चन्द्राश्रितसोमयाजिपुरोहितबलभद्रपण्डितगं गोत्रापत्यहर्षदेवात्मजावसथिभगीरथविरचिता   कण्वगोविन्दकृतसप्त-",
+  "शतीमन्त्रहोमविभागकारिकाणां द्वितीयाध्यायस्य जगन्नन्दचन्द्रिकाख्यटीका संपूर्णा ॥ २ ॥",
+  "( ६ दंशोद्धारः ) देव्या इति । एषां तुतुषुः तुष्टा बभूवुः । तुष्टवुरिति पाठे एतानीत्यर्थे शेषे षष्ठी । युद्धमित्यध्याहारः",
+  "वा ॥ ६८ ॥          ॥ इति श्रीमद्दुल्लोपनामदुण्ढिराजभट्टसूरिसूनुराजारामविरचिते सप्तशतीदंशोद्धारे द्वितीयोऽध्यायः ॥ २ ॥",
+  "तृतीयोऽध्यायः ३.",
+  "ऋषिरुवाच ।",
+  "निहन्यमानं तत्सैन्यमवलोक्य महासुरः । सेनानीश्चिक्षुरः कोपाद्ययौ योद्धुमथाम्बिकाम् ॥ १ ॥",
+  "( १ गुप्तवती ) अथ पूर्वाध्यायान्त्यश्लोकान्तमृष्युक्तेरनुवृत्तिसत्त्वेऽपि पुनरेतदध्यायारम्भे ऋषिरुवाचेति कथनमध्यायस",
+  "माभिबोधकवाक्यस्य सूताद्युक्तिरूपस्य व्यवधायकतया तस्या उत्तरत्राननुवृत्त्यभिप्रायेण । अत एव यामलादितन्त्रे समाप्ति",
+  "वाक्यस्यापि स्वातन्त्र्येण मन्त्रान्तरत्वकथनमुपपद्यते । ततस्त्रिदशाः कथयामासुरित्यनेनैव गतार्थत्वात्सूर्येन्द्राग्न्यनिलेन्दु",
+  "नामिति श्लोकत्रयारम्भे देवा ऊचुरित्यनपेक्षितत्वादेव नास्ति । तदुत्तरमृषिरुवाचेत्यपेक्षितमपि नैतत्तन्त्रसंमतमिति मण्डू",
+  "क⟨?⟩्यैवाध्यायप्रारम्भस्थस्यासमाप्त्यनुकर्षः । तन्त्रान्तरेषु सप्तश्लोकोत्तरम् ऋषिरिति पश्यत एव । एवमष्टमे 'भक्ष्यमाणा",
+  "स्तवया चोग्रा इत्यर्धादुत्तरं दशमं श्लोकत्रयोत्तरं चापेक्षितस्य तत्रान्तरे सतोप्यृषिमन्त्रस्य प्रकृततन्त्रेऽभावादियमेव यत्र गति",
+  "रिति दिक् ॥ १ ॥ १ ॥",
+  "( २ चतुर्धरी ) ॥",
+  "( ३ शान्तनवी ) अथ महिषासुरस्य सेनानीः चिक्षुरः चिक्षुरसंज्ञकः महासुरः तत्सैन्यं तस्य महिषासुरस्य सैन्यं",
+  "व्या निहन्यमानं नितरां हन्यमानम् अवलोक्य वीक्ष्य कोपाद्योद्धुमम्बिकां देवीं ययौ जगाम । निहन्यमानमिति 'वर्तमान",
+  "सामीप्ये वर्तमानवद्वा' इति भूते लट् । निहतमित्यर्थः ॥ १ ॥",
+  "( ४ नागोजीभट्टी ) ऋषिरुवाच । निहन्यमानमिति ॥ १ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अथ तृतीयाध्यायस्य सप्तशतीमन्त्रहोमविभाग उच्यते । आदौ ऋषिरुवाचंक इति ।",
+  "आदौ अध्यायस्य पूर्वम् ऋषिरुवाच इति एको मन्त्रो भवेत् । 'ऋषिरुवाच स्वाहा १ ।' पञ्चत्रिंशत्ततः परम् । निहन्यमानाद्याः",
+  "श्लोका मुखरागाकुलाक्षरम् । इत्यन्ता इति । ततः परम् ऋषिरुवाचेत्यनन्तरं निहन्यमान आद्यो येषां ते निहन्यमानाद्याः मुख-",
+  "रागाकुलाक्षरमित्यन्ता एतत्पर्यन्ताः श्लोकाः श्लोकरूपा मन्त्राः पञ्च अधिका त्रिंशत् पञ्चत्रिंशत् । द⟨?⟩दश अधिका विंशति-",
+  "रागाकुलाक्षरमित्यन्ता एतत्पर्यन्ताः श्लोकाः श्लोकरूपा मन्त्राः पञ्च अधिका त्रिंशत पञ्चत्रिंशत् । ⟨?⟩ ऋषिरुवाचेत्यनन्तरं निहन्यमान आद्यो येषां ते निहन्यमानाद्याः मुख-",
+  "रागाकुलाक्षरमित्यन्ता एतत्पर्यन्ताः श्लोकाः श्लोकरूपा मन्त्राः पञ्च अधिका त्रिंशत् पञ्चत्रिंशत् । द⟨?⟩दश अधिका विंशति-",
+  "रित्यर्थः । वर्तंते इति शेषः । तथाहि ऋषिरुवाच १ । निहन्यमानमिति २ ॥ १ ॥",
+  "( ६ दंशोद्धारः ) ॥ १ ॥",
+  "स देवीं शरवर्षेण ववर्ष समरेऽसुरः । यथा मेरुगिरेः ष्टङ्कं तोयवर्षेण तोयदः ॥ २ ॥",
+  "( १ गुप्तवती ) ॥ २ ॥",
+  "( २ चतुर्धरी ) यथा मेरुगिरेः शृङ्गमिति अभूतोपमा ॥ २ ॥",
+  "( ३ शान्तनवी ) स चिक्षुराख्यः असुरः समरे संग्रामे शरवर्षेण निरन्तरं प्रयुक्तबाणपातनेन देवीं ववर्ष छादयामास ।",
+  "कः केम कमिव । तोयं ददातीति तोयदः मेघः तोयवर्षेण संततप्रबद्धपाथः प्रथितपातनेन  मेरुगिरेः हेमाद्रेः शृङ्गं यथा शृङ्ग॰",
+  "मिव । 'न भिन्ने वचने लिङ्गे न हीनाधिकतापि वां । उपमादूषणायालं यत्रोद्वेगो न धीमताम् ।  क्रियावाचित्वमाख्यातमेकोऽ",
+  "श्रार्थैः प्रदर्शितः । प्रयोगतोऽनुसर्तव्या अनेकार्थां हि धावतः' । यद्वा यथातथैवैव साम्ये ॥ २ ॥",
+  "( ४ नागोजीभट्टी ) ॥ २ ॥ ३ ॥ २ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) स देवीमिति",
+  "( ६ दंशोद्धारः ) स देवीमिति । यथा मेरुगिरेः शृङ्गमित्यभूतोपमा । मेघमण्डलस्य मेरोरधो विद्यमानत्वात् ॥ ३ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 85.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 55.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.988,
+   "tesseract_mean_conf": 70.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 34.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 53.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.353,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 73.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.887,
+   "tesseract_mean_conf": 55.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 42.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 52.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.883,
+   "tesseract_mean_conf": 58.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 53.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.849,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 72.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 73.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.872,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 82.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.887,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 73.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 66.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.231,
+   "tesseract_char_agree": 0.883,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.824,
+   "tesseract_mean_conf": 57.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 41.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 3 col 1: got 6 lines, expected 7; realigned, 1 line(s) unmatched",
+  "band 1 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "१०६                                                                              दुर्गासप्तशती",
+    "इति श्रीमद्राजाधिराजश्रीमत्तोमरान्वयश्रीमदुद्धरणात्मज",
+    "महिषासुरसैन्यवधविध्युपलक्षितो द्वितीयोऽध्यायः ॥ २",
+    "( ४ नागोजीभट्टी ) देव्या इति । चोप्यर्थे ।",
+    "तीव्याख्याने द्वितीयोऽध्यायः ॥ २",
+    "( ५ जगच्चन्द्रचन्द्रिका ) देव्या गणैरिति ६९",
+    "जश्रीकुमारजगच्चन्द्राश्रितसोमयाजिपुरोहितबलभद्रपण्डितगं",
+    "शतीमन्त्रहोमविभागकारिकाणां द्वितीयाध्यायस्य",
+    "( ६ दंशोद्धारः ) देव्या इति । एषां तुतुषुः तुष्टा",
+    "वा ॥ ६८ ॥          ॥ इति श्रीमद्दुल्लोपनामदुण्ढिराजभट्टसूरिसूनुराजारामविरचिते",
+    "तृतीयोऽध्यायः",
+    "ऋषिरुवाच"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ तृतीयोऽध्यायः ३",
+    "श्रीशंतनुचक्रवर्तिविरचितायां शान्तनव्यां चण्डिकामाहात्म्यटीकायां",
+    "॥",
+    "तुतुषुस्तुष्टाः ॥६८॥ इति शिवभट्टसुतसतीगर्भजनागोजीभट्टकृतं सप्तश",
+    "॥",
+    "॥ ६८ ॥   ॥ इति श्रीकूर्माचलेन्द्रराजर्षिवर्यश्रीज्ञानचन्द्रात्म-",
+    "गोत्रापत्यहर्षदेवात्मजावसथिभगीरथविरचिता   कण्वगोविन्दकृतसप्त-",
+    "जगन्नन्दचन्द्रिकाख्यटीका संपूर्णा ॥ २ ॥",
+    "बभूवुः । तुष्टवुरिति पाठे एतानीत्यर्थे शेषे षष्ठी । युद्धमित्यध्याहारः",
+    "सप्तशतीदंशोद्धारे द्वितीयोऽध्यायः ॥ २ ॥",
+    "३.",
+    "।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "निहन्यमानं तत्सैन्यमवलोक्य महासुरः ।",
+    "( १ गुप्तवती ) अथ पूर्वाध्यायान्त्यश्लोकान्तमृष्युक्तेरनुवृत्तिसत्त्वेऽपि",
+    "माभिबोधकवाक्यस्य सूताद्युक्तिरूपस्य व्यवधायकतया तस्या",
+    "वाक्यस्यापि स्वातन्त्र्येण मन्त्रान्तरत्वकथनमुपपद्यते ।",
+    "नामिति श्लोकत्रयारम्भे देवा ऊचुरित्यनपेक्षितत्वादेव नास्ति",
+    "क⟨?⟩्यैवाध्यायप्रारम्भस्थस्यासमाप्त्यनुकर्षः । तन्त्रान्तरेषु",
+    "स्तवया चोग्रा इत्यर्धादुत्तरं दशमं श्लोकत्रयोत्तरं चापेक्षितस्य",
+    "रिति दिक् ॥ १ ॥",
+    "( २ चतुर्धरी ) ॥",
+    "( ३ शान्तनवी ) अथ महिषासुरस्य सेनानीः चिक्षुरः",
+    "व्या निहन्यमानं नितरां हन्यमानम् अवलोक्य वीक्ष्य",
+    "सामीप्ये वर्तमानवद्वा' इति भूते लट् । निहतमित्यर्थः ॥ १"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "सेनानीश्चिक्षुरः कोपाद्ययौ योद्धुमथाम्बिकाम् ॥ १ ॥",
+    "पुनरेतदध्यायारम्भे ऋषिरुवाचेति कथनमध्यायस",
+    "उत्तरत्राननुवृत्त्यभिप्रायेण । अत एव यामलादितन्त्रे समाप्ति",
+    "ततस्त्रिदशाः कथयामासुरित्यनेनैव गतार्थत्वात्सूर्येन्द्राग्न्यनिलेन्दु",
+    "। तदुत्तरमृषिरुवाचेत्यपेक्षितमपि नैतत्तन्त्रसंमतमिति मण्डू",
+    "सप्तश्लोकोत्तरम् ऋषिरिति पश्यत एव । एवमष्टमे 'भक्ष्यमाणा",
+    "तत्रान्तरे सतोप्यृषिमन्त्रस्य प्रकृततन्त्रेऽभावादियमेव यत्र गति",
+    "१ ॥",
+    "चिक्षुरसंज्ञकः महासुरः तत्सैन्यं तस्य महिषासुरस्य सैन्यं",
+    "कोपाद्योद्धुमम्बिकां देवीं ययौ जगाम । निहन्यमानमिति 'वर्तमान",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( ४ नागोजीभट्टी ) ऋषिरुवाच । निहन्यमानमिति",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अथ तृतीयाध्यायस्य",
+    "आदौ अध्यायस्य पूर्वम् ऋषिरुवाच इति एको मन्त्रो भवेत् ।",
+    "श्लोका मुखरागाकुलाक्षरम् । इत्यन्ता इति । ततः परम्",
+    "रागाकुलाक्षरमित्यन्ता एतत्पर्यन्ताः श्लोकाः श्लोकरूपा मन्त्राः",
+    "रागाकुलाक्षरमित्यन्ता एतत्पर्यन्ताः श्लोकाः श्लोकरूपा मन्त्राः पञ्च अधिका त्रिंशत पञ्चत्रिंशत् । ⟨?⟩",
+    "रागाकुलाक्षरमित्यन्ता एतत्पर्यन्ताः श्लोकाः श्लोकरूपा मन्त्राः",
+    "रित्यर्थः । वर्तंते इति शेषः । तथाहि ऋषिरुवाच १ ।",
+    "( ६ दंशोद्धारः ) ॥ १ ॥",
+    "स देवीं शरवर्षेण ववर्ष समरेऽसुरः । यथा मेरुगिरेः",
+    "( १ गुप्तवती )",
+    "( २ चतुर्धरी ) यथा मेरुगिरेः शृङ्गमिति अभूतोपमा"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "॥ १ ॥",
+    "सप्तशतीमन्त्रहोमविभाग उच्यते । आदौ ऋषिरुवाचंक इति ।",
+    "'ऋषिरुवाच स्वाहा १ ।' पञ्चत्रिंशत्ततः परम् । निहन्यमानाद्याः",
+    "ऋषिरुवाचेत्यनन्तरं निहन्यमान आद्यो येषां ते निहन्यमानाद्याः मुख-",
+    "पञ्च अधिका त्रिंशत् पञ्चत्रिंशत् । द⟨?⟩दश अधिका विंशति-",
+    "ऋषिरुवाचेत्यनन्तरं निहन्यमान आद्यो येषां ते निहन्यमानाद्याः मुख-",
+    "पञ्च अधिका त्रिंशत् पञ्चत्रिंशत् । द⟨?⟩दश अधिका विंशति-",
+    "निहन्यमानमिति २ ॥ १ ॥",
+    "ष्टङ्कं तोयवर्षेण तोयदः ॥ २ ॥",
+    "॥ २ ॥",
+    "॥ २ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "( ३ शान्तनवी ) स चिक्षुराख्यः असुरः समरे संग्रामे",
+    "कः केम कमिव । तोयं ददातीति तोयदः मेघः तोयवर्षेण",
+    "मिव । 'न भिन्ने वचने लिङ्गे न हीनाधिकतापि वां । उपमादूषणायालं",
+    "श्रार्थैः प्रदर्शितः । प्रयोगतोऽनुसर्तव्या अनेकार्थां हि धावतः' ।",
+    "( ४ नागोजीभट्टी ) ॥ २ ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) स देवीमिति",
+    "( ६ दंशोद्धारः ) स देवीमिति । यथा मेरुगिरेः"
+   ],
+   "expected": 7,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "lines": [
+    "शरवर्षेण निरन्तरं प्रयुक्तबाणपातनेन देवीं ववर्ष छादयामास ।",
+    "संततप्रबद्धपाथः प्रथितपातनेन  मेरुगिरेः हेमाद्रेः शृङ्गं यथा शृङ्ग॰",
+    "यत्रोद्वेगो न धीमताम् ।  क्रियावाचित्वमाख्यातमेकोऽ",
+    "यद्वा यथातथैवैव साम्ये ॥ २ ॥",
+    "३ ॥ २ ॥",
+    "शृङ्गमित्यभूतोपमा । मेघमण्डलस्य मेरोरधो विद्यमानत्वात् ॥ ३ ॥"
+   ],
+   "expected": 7,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 24984,
+  "out": 30546
+ },
+ "ts": "2026-10-16T00:22:04"
+}

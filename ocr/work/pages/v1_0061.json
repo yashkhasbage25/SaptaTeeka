@@ -1,0 +1,672 @@
+{
+ "vol": 1,
+ "scan": 61,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 46,
+ "lines": [
+  "",
+  "ध्यायः १ ] गुप्तवत्यादिसप्तटीका र्संवलिता ।  ५१",
+  "ध्यायः १ ] गुप्तवत्यादिसप्तटीका र्संवलिता ।  ५१",
+  "स्तश्च धनलोभादसाधुभिः । विहीनः स्वजनैर्दारैः पुत्रैरादाय मे धनम् ॥ १९ ॥",
+  "गुप्तवती ) ॥ १९ ॥",
+  "चतुर्धरी) पुत्रदारैरिति । पुत्रैश्च दारैश्च । चकारात्स्वजनैश्च निरस्तोऽधिक्षिप्तः । भर्त्सित इति यावत् । असा-",
+  "हेतुगर्भं विशेषणम् । विहीनश्चेति । न केवलमधिक्षिप्तः । किंतु धनमादाय निरस्तो निःसारितः । एवमहं धनैर्दारैः",
+  "भिश्च विहीनो वनमभ्यागत इत्यन्वयः । केचित्तु धनैरिति पुत्रदारैरित्यस्य विशेषणम् । ते हि मम धनानि तैरेव",
+  "हं विहीन इत्याहुः । आप्ताः सुहृदः । बान्धवो ज्ञातयः । पादानुवृत्तिर्नामालंकारोऽयम् ॥ १९ ॥",
+  "शान्तनवी) धनेषु लोभात् गार्ध्यात् असाधुभिः असज्जनैः पुत्रैश्च दारैश्च पुत्राणां दारैश्च निरस्तश्च निराकृतो-",
+  "। एतेन सशोक इव कस्मात्त्वम् इति प्रश्नस्योत्तरमुक्तम् । स्वजनैर्बान्धवैश्च विहीनः रहितोऽस्मि । इत्यपि सखो-",
+  "न्वयः । दारैः पुत्रैः आदायि मे धनं मर्दायैर्दारैः पुत्रैश्च मे धनम् आदाय गृहीतमित्यन्वयः । अनेन दुर्मना इव",
+  "मादिति प्रश्नस्योत्तरमुक्तम् ॥ १९ ॥",
+  "नागोजीभट्टी) असाधुभिः पुत्रदारैर्धनलोभान्निरस्तः अधिक्षिप्तः । भर्त्सित इति यावत् । चादन्यैरपीत्यर्थः ।",
+  "। वारैः पुत्रैर्मे धनमादाय गृहीत्वा धनैर्विहीनश्च । अंशस्याप्यदानात्तद्रहितः कुतोहम् ॥ १९ ॥",
+  "। वारैः पुत्रैर्मे धनमादाय गृहीत्वा धनैर्विहीनश्च । अंशस्या प्यदानात्तद्रहितः कुतोहम् ॥ १९ ॥",
+  "। वारैः पुत्रैर्मे धनमादाय गृहीत्वा धनैर्विहीनश्च । अंशस्या प्यदानात्तद्रहितः कुतोहम् ॥ १९ ॥",
+  "जगच्चन्द्रचन्द्रिका) पुनः श्लोकत्रयमिति । पुनः श्लोकत्र",
+  "जगच्चन्द्रचन्द्रिका) पुनः श्लोकत्रयमिति । पुनः श्लोकत्रयं यं श्लोकत्रयात्मकाः प्रत्येकं त्रयो मन्त्राः, इति । तथाहि",
+  "जगच्चन्द्रचन्द्रिका) पुनः श्लोकत्रयमिति । पुनः श्लोकत्र श्लोकत्रयात्मकाः प्रत्येकं त्रयो मन्त्राः, इति । तथाहि",
+  "२२ ॥ १९ ॥ यं श्लोकत्रयात्मकाः प्रत्येकं त्रयो मन्त्राः, इति । तथाहि",
+  "दंशोद्धारः) विहीन इति मे धनमादाय निरस्त इत्यन्वयः । अतएव धनादिभिर्विहीनः । आदायीति वा",
+  "यि गृहीतमित्यर्थः ॥ १९ ॥",
+  "गतो दुःखी निरस्तश्चाप्तबन्धुभिः । सोऽहं न वेद्मि पुत्राणां कुशलाकुशलात्मिकाम् ॥ २० ॥",
+  "गुप्तवती ) ॥ २० ॥ वा प्रवृत्ति वार्ताम् ॥ २० ॥",
+  "चतुर्धरी) स तथाविधोऽहं कुशलाकुशलात्मिकां शुभामशुभां",
+  "शान्तनवी ) मदीयैरासीर्बन्धुभिः पुत्रमित्रकलत्रादिभिरप हृतधनो निरस्तस्त्वाहं दुःखी उद्विग्नमनाः सन् वनमभ्या-",
+  "यन्वयः । अनेन हेतुस्वागमनेऽत्र क इति प्रश्नस्योत्तरमुक्तम् । तथाविधः सोहं अत्र वने संस्थितः सन् पुत्राणां",
+  "स्वजनानां च कुशलाकुशलात्मिकां कुशलरूपां अकुशलरूपां च द्विविधरूपाम् ॥ २० ॥",
+  "नागोजीभट्टी ) धनहीनत्वादेवासैः सुहृद्भिः बन्धुभिश्च निरस्तस्त्यक्तोऽहं वनमभ्यागत इत्यन्वयः । सो-",
+  "॥ २० ॥ ॥",
+  "॥ २० ॥",
+  "जगच्चन्द्रचन्द्रिका ) वनमभ्यागत इति २३ ॥ २०",
+  "दंशोद्धारः ) ॥ २० ॥ ॥",
+  "स्वजनानां च दाराणां चात्र संस्थितः । किं नु तेषां गृहे क्षेममक्षेमं किं नु सांप्रतम् ॥२१॥",
+  "गुप्तवती ) प्रवृत्ति वृत्तान्तम् ॥ २१ ॥",
+  "चतुर्धरी ) तामेव विविच्य दर्शयति । किंन्विति । किमिति संदेहे । न्विति विकल्पे । तेषां पुत्रदारस्वजनानां",
+  "पत्यादौ क्षेमं कल्याणं अक्षेममकल्याणं सांप्रतमिदानीं कथं किंविधम् । वृत्तं शीलम् । सुता इत्युपलक्षणम् । दाराः",
+  "यपि बोद्धव्यम् ॥ २१ ॥",
+  "शान्तनवी ) प्रवृत्तिं वार्तां न वेद्मि न जानामीत्यन्वयः । संगतोऽत्रत्यैः स्थितः संस्थितः । 'सं⟨?⟩स्वाधारे स्थितौ",
+  "वा । दारशब्दः पुंस्येव भूम्न्येव कलत्रवाची । कुशलं चाकुशलं चात्मा स्वभावो यस्याः सा तथोक्ता । 'शेषाद्विभाषा'",
+  "समासान्तः इत्वं च । किं नु इति छेदः । 'किंपृच्छायां जुगुप्सने' 'नु पृच्छायां विकल्पने च' । तत्र किमित्यनव्ययं",
+  "एव सांप्रतम् । 'प्रज्ञादिभ्यश्च'इत्यण् । इह क्षेमत्वाश्रयो विकल्पः नुशब्देन सूच्यते । सांप्रतमिदानीं तेषां पुत्रादीन",
+  "ये क्षेमं नु वर्तंते । अथवा सांप्रतमिदानीं तेषां पुत्रादीनां गृहे किं क्षेममक्षेममपि नु वर्तते इति तदुभयं न",
+  "यः । क्षेमं वाऽक्षेमं वा न वेद्मीत्यर्थः । 'कुशलं क्षेममस्त्रियाम् ।' क्षिणोति हिनस्ति क्लेशान् क्षेमम् ॥ २१ ॥",
+  "'आदायि' इति शान्तनवीस्थः पाठः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 31.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 2.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.811,
+   "tesseract_mean_conf": 65.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 70.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 60.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.846,
+   "tesseract_char_agree": 0.93,
+   "tesseract_mean_conf": 73.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 59.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 45.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 81.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 65.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.25,
+   "tesseract_mean_conf": 38.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 59.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 58.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 58.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.923,
+   "tesseract_char_agree": 0.986,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.824,
+   "tesseract_mean_conf": 77.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 62.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.091,
+   "tesseract_char_agree": 0.587,
+   "tesseract_mean_conf": 59.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 44.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 72.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.844,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 47.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.667,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 21.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.96,
+   "tesseract_mean_conf": 63.9,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 38.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 71.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 67.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 61.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 88.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 70.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 76.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 84.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 1 col 1: got 9 lines, expected 12; realigned, 3 line(s) unmatched",
+  "band 2 col 1: got 8 lines, expected 12; realigned, 4 line(s) unmatched",
+  "band 0 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 0 col 0: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 8 lines, expected 10; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ध्यायः १ ] गुप्तवत्यादिसप्तटीका",
+    "ध्यायः १ ] गुप्तवत्यादिसप्तटीका",
+    "स्तश्च धनलोभादसाधुभिः । विहीनः",
+    "गुप्तवती ) ॥ १९ ॥",
+    "चतुर्धरी) पुत्रदारैरिति । पुत्रैश्च दारैश्च । चकारात्स्वजनैश्च",
+    "हेतुगर्भं विशेषणम् । विहीनश्चेति । न केवलमधिक्षिप्तः ।",
+    "भिश्च विहीनो वनमभ्यागत इत्यन्वयः । केचित्तु धनैरिति",
+    "हं विहीन इत्याहुः । आप्ताः सुहृदः । बान्धवो ज्ञातयः ।",
+    "शान्तनवी) धनेषु लोभात् गार्ध्यात् असाधुभिः असज्जनैः",
+    "। एतेन सशोक इव कस्मात्त्वम् इति प्रश्नस्योत्तरमुक्तम् ।",
+    "न्वयः । दारैः पुत्रैः आदायि मे धनं मर्दायैर्दारैः पुत्रैश्च"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "र्संवलिता ।  ५१",
+    "र्संवलिता ।  ५१",
+    "स्वजनैर्दारैः पुत्रैरादाय मे धनम् ॥ १९ ॥",
+    "निरस्तोऽधिक्षिप्तः । भर्त्सित इति यावत् । असा-",
+    "किंतु धनमादाय निरस्तो निःसारितः । एवमहं धनैर्दारैः",
+    "पुत्रदारैरित्यस्य विशेषणम् । ते हि मम धनानि तैरेव",
+    "पादानुवृत्तिर्नामालंकारोऽयम् ॥ १९ ॥",
+    "पुत्रैश्च दारैश्च पुत्राणां दारैश्च निरस्तश्च निराकृतो-",
+    "स्वजनैर्बान्धवैश्च विहीनः रहितोऽस्मि । इत्यपि सखो-",
+    "मे धनम् आदाय गृहीतमित्यन्वयः । अनेन दुर्मना इव"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "मादिति प्रश्नस्योत्तरमुक्तम् ॥ १९ ॥",
+    "नागोजीभट्टी) असाधुभिः पुत्रदारैर्धनलोभान्निरस्तः",
+    "। वारैः पुत्रैर्मे धनमादाय गृहीत्वा धनैर्विहीनश्च ।",
+    "। वारैः पुत्रैर्मे धनमादाय गृहीत्वा धनैर्विहीनश्च । अंशस्या",
+    "। वारैः पुत्रैर्मे धनमादाय गृहीत्वा धनैर्विहीनश्च । अंशस्या",
+    "जगच्चन्द्रचन्द्रिका) पुनः श्लोकत्रयमिति । पुनः श्लोकत्र",
+    "जगच्चन्द्रचन्द्रिका) पुनः श्लोकत्रयमिति । पुनः श्लोकत्रयं",
+    "जगच्चन्द्रचन्द्रिका) पुनः श्लोकत्रयमिति । पुनः श्लोकत्र",
+    "२२ ॥ १९ ॥",
+    "दंशोद्धारः) विहीन इति मे धनमादाय निरस्त इत्यन्वयः",
+    "यि गृहीतमित्यर्थः ॥ १९ ॥",
+    "गतो दुःखी निरस्तश्चाप्तबन्धुभिः । सोऽहं न"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "अधिक्षिप्तः । भर्त्सित इति यावत् । चादन्यैरपीत्यर्थः ।",
+    "अंशस्याप्यदानात्तद्रहितः कुतोहम् ॥ १९ ॥",
+    "प्यदानात्तद्रहितः कुतोहम् ॥ १९ ॥",
+    "प्यदानात्तद्रहितः कुतोहम् ॥ १९ ॥",
+    "यं श्लोकत्रयात्मकाः प्रत्येकं त्रयो मन्त्राः, इति । तथाहि",
+    "श्लोकत्रयात्मकाः प्रत्येकं त्रयो मन्त्राः, इति । तथाहि",
+    "यं श्लोकत्रयात्मकाः प्रत्येकं त्रयो मन्त्राः, इति । तथाहि",
+    "। अतएव धनादिभिर्विहीनः । आदायीति वा",
+    "वेद्मि पुत्राणां कुशलाकुशलात्मिकाम् ॥ २० ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "गुप्तवती ) ॥ २० ॥",
+    "चतुर्धरी) स तथाविधोऽहं कुशलाकुशलात्मिकां शुभामशुभां",
+    "शान्तनवी ) मदीयैरासीर्बन्धुभिः पुत्रमित्रकलत्रादिभिरप",
+    "यन्वयः । अनेन हेतुस्वागमनेऽत्र क इति प्रश्नस्योत्तरमुक्तम्",
+    "स्वजनानां च कुशलाकुशलात्मिकां कुशलरूपां अकुशलरूपां",
+    "नागोजीभट्टी ) धनहीनत्वादेवासैः सुहृद्भिः बन्धुभिश्च",
+    "॥ २० ॥",
+    "॥ २० ॥",
+    "जगच्चन्द्रचन्द्रिका ) वनमभ्यागत इति २३ ॥ २०",
+    "दंशोद्धारः ) ॥ २० ॥",
+    "स्वजनानां च दाराणां चात्र संस्थितः । किं नु",
+    "गुप्तवती ) प्रवृत्ति वृत्तान्तम् ॥ २१ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "वा प्रवृत्ति वार्ताम् ॥ २० ॥",
+    "हृतधनो निरस्तस्त्वाहं दुःखी उद्विग्नमनाः सन् वनमभ्या-",
+    "। तथाविधः सोहं अत्र वने संस्थितः सन् पुत्राणां",
+    "च द्विविधरूपाम् ॥ २० ॥",
+    "निरस्तस्त्यक्तोऽहं वनमभ्यागत इत्यन्वयः । सो-",
+    "॥",
+    "॥",
+    "तेषां गृहे क्षेममक्षेमं किं नु सांप्रतम् ॥२१॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "lines": [
+    "चतुर्धरी ) तामेव विविच्य दर्शयति । किंन्विति ।",
+    "पत्यादौ क्षेमं कल्याणं अक्षेममकल्याणं सांप्रतमिदानीं कथं",
+    "यपि बोद्धव्यम् ॥ २१ ॥",
+    "शान्तनवी ) प्रवृत्तिं वार्तां न वेद्मि न जानामीत्यन्वयः ।",
+    "वा । दारशब्दः पुंस्येव भूम्न्येव कलत्रवाची । कुशलं चाकुशलं",
+    "समासान्तः इत्वं च । किं नु इति छेदः । 'किंपृच्छायां जुगुप्सने'",
+    "एव सांप्रतम् । 'प्रज्ञादिभ्यश्च'इत्यण् । इह क्षेमत्वाश्रयो",
+    "ये क्षेमं नु वर्तंते । अथवा सांप्रतमिदानीं तेषां पुत्रादीनां",
+    "यः । क्षेमं वाऽक्षेमं वा न वेद्मीत्यर्थः । 'कुशलं क्षेममस्त्रियाम्",
+    "'आदायि' इति शान्तनवीस्थः पाठः ।"
+   ],
+   "expected": 10,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "lines": [
+    "किमिति संदेहे । न्विति विकल्पे । तेषां पुत्रदारस्वजनानां",
+    "किंविधम् । वृत्तं शीलम् । सुता इत्युपलक्षणम् । दाराः",
+    "संगतोऽत्रत्यैः स्थितः संस्थितः । 'सं⟨?⟩स्वाधारे स्थितौ",
+    "चात्मा स्वभावो यस्याः सा तथोक्ता । 'शेषाद्विभाषा'",
+    "'नु पृच्छायां विकल्पने च' । तत्र किमित्यनव्ययं",
+    "विकल्पः नुशब्देन सूच्यते । सांप्रतमिदानीं तेषां पुत्रादीन",
+    "गृहे किं क्षेममक्षेममपि नु वर्तते इति तदुभयं न",
+    "।' क्षिणोति हिनस्ति क्लेशान् क्षेमम् ॥ २१ ॥"
+   ],
+   "expected": 10,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 26304,
+  "out": 31008
+ },
+ "ts": "2026-10-16T00:56:01"
+}

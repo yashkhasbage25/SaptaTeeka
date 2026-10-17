@@ -1,0 +1,646 @@
+{
+ "vol": 1,
+ "scan": 83,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 44,
+ "lines": [
+  "ध्यायः १ ]            गुप्तवत्यादिसप्तटीकासंवलिता ७३",
+  ")कारणीत्वात् । पराणामेवानेकब्रह्मायुषां ब्रह्मादीनां परा ।",
+  "६२ ॥ प्रकृष्टा परमा प्रकृष्टतरा । परमंभर्त्री शक्रादीनामपि",
+  "शान्तनवी ) हं देवि त्वमेव जगति सौम्यासि अक्रूरा प्रशान्तासि सोमदेवतिकाप्यसि । अथवा शोभना मा",
+  "ासौ सुमः विष्णुः सुमस्य भावः सौम्यं शोभनलक्ष्मीकत्वं तत् यस्या अस्ति असौ सौम्या । अर्शआदच् । शोभ-",
+  "वयुतासि । अथवा उमासहितः सोमः रमापतिः तस्य भावः सौम्यं तद्यस्याः सा सौम्या उमापतित्वयुतासि ।",
+  "त्वमेव सौम्यतरासि । सूते सुधां सोमश्चन्द्रः सोमस्थेयं सुधा सौमी सौमीं सुधामईति सौम्या देवावलिस्त्वं च ।",
+  "ात् यः । तयोर्द्वयोस्त्वमतिशयेन सौम्यासौम्यतरा । 'द्विवचनविभज्योपपदे तरबीयसुनौ' इति द्विवचने उपपदे",
+  "तसिलादिष्वाकृत्वसुचः' इति पुंवद्भावः । हे देवि त्वम् अशेषसौम्येभ्यः अखिलसुंदरेभ्यः पदार्थेभ्यः तु पार्थ-",
+  "तिसुन्दरी असि । सुष्ठु नन्दयतीति सुन्दरी मनोज्ञा मनोरमा । 'सोमदेवतंकं सौम्यः सौम्यं स्यात्सुंदरेऽपि",
+  "म्योऽक्रूरे बुधे सौम्यः सौम्यः शान्ते प्रयोगतः' । हं देवि त्वमेव परा श्रेष्ठा । हे देवि त्वं पराणां श्रेष्ठानां परमा",
+  "परमोत्तमा । व्यवस्थया तु श्रेष्ठत्वस्य विवक्षितत्वात् । अन्यथा परेषामिति स्यात् । अथवा परं ब्रह्म अनन्ति",
+  "पराणः ⟨?⟩ । तेषां मध्ये त्वं परमासि । यद्वा परे चापरे च परापराः । द्वन्द्वे चेति सर्वनामत्वाभावात् सुडाग॰",
+  "। तेषां त्वं परमा । अथ हे देवि त्वमेव परमा उत्कृष्टा लक्ष्मीः । अथवा परमः ईश्वरः तस्य श्री त्वमेव पर-",
+  "'ईश्वरी स्वामिनी दुर्गा लोकानां व्यापिका च सा' ॥ ६२ ॥",
+  "४ नागोजीभट्टी ) सौम्या अक्रूरा भक्तेषु । असौम्यतरा दैत्येषु । अशेषसौम्येभ्यः सकलसुन्दरेभ्यस्तु अतिसु-",
+  "ः । परेति । इदमुपलक्षणम् । पश्यन्तीमध्यमावैखरीणां परा वीजरूपा च पराणाम् उत्कृष्टानां परमा प्रधानं त्वमेव ।",
+  "परमेश्वरी ॥ ६२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) परावराणामिति ८२ ॥ ६२ ॥",
+  "( ६ दंशोद्धारः ) सौम्येति । आह्लादहेतुत्वात् । सौम्यतरा भक्तानामतिमनोहरा स्वर्गादिदेहत्वात् सकलाह्लाद-",
+  "तिसुन्दरी । पराणां ब्रह्मादीनां मध्ये परमा उत्कृष्टा । पराणामित्यत्र परशब्दस्योत्कृष्टार्थत्वेन नियमेनाऽवधेरनपेक्ष-",
+  "थाभावादसर्वनामत्वान्न सुट् । परा माया मोहनैश्वर्यं यस्याः ॥ ६२ ॥",
+  "कंचित्कंचिद्धस्तु सदसद्⟨?⟩खिलात्मिके । तस्य सर्वस्य या शक्तिः सा त्वं किं स्तूयसे तदा ६३",
+  "( १ गुप्तवती ) ॥ ६३ ॥",
+  "(२ चतुर्धरी ) सत् वर्तमाना । असदतीतानागतशक्तिः । स्वभावः सामर्थ्यं वा । यद्वा सन्नित्यमाकाशपरमाण्वादि ।",
+  "तयं पृथिव्यादि यत्किंचिद्वस्तु नाममात्रं तस्य सतोऽसतश्च या शक्तिः सा त्वं तदा किं स्तूयसे । भेदसाध्य-",
+  "तेरित्यर्थः ॥ ६३ ॥",
+  "( ३ शान्तनवी ) हे अखिलात्मिके देवि क्वचित् जगति सत् असत् वा यत्र किंचित् वस्तु पदार्थरूपं प्रतीयते तस्य",
+  "सदसदात्मकस्य या शक्तिः सामर्थ्यं सा त्वमेवासि । अतः परं मया किं स्तूयसे इत्यन्वयः । पदं च पदार्थश्च ताभ्यां",
+  "णा स्तुतिश्च स्तोता च स्तुत्यं च तत्तदुचितशक्तिश्च त्वमेवेति त्वत्तोन्यत्वाभावाद्भेदनिबन्धना स्तुतिः कथं प्रवर्तनीयेति",
+  "। इयमेव च परमावधिस्तुतिरतोऽपि का नाम स्तुतिरित्यपरो भावः । अग्न्यादितत्तदौचित्यंतत्तदर्थक्रियाकरी शक्ति-",
+  "द्धात्मधर्मः सामर्थ्यशब्दिता ॥ ६३ ॥",
+  "( ४ नागोजीभट्टी ) सत् ब्रह्मवर्गः । असत् जडवर्गः । तस्य सर्वस्य या शक्तिः सा यदा त्वं तदा कथं स्तूयसे इत्यर्थः ।",
+  "थस्तोत्रस्तुत्यतच्छक्तिस्तुतीनां त्वत्तोऽन्यत्वाभाव⟨?⟩द्भेदनिबन्धनात्स्तुतिः कथं स्यादिति भावः ॥ ६३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) तस्य सर्वस्येति ८३ ॥ ६३ ॥",
+  "( ६ दंशोद्धारः ) ॥ ६३ ॥",
+  "त्वया जगत्स्रष्टा जगत्पातात्ति यो जगत् । सोपि निद्रावशं नीतः कस्त्वां स्तोतुमिहेश्वरः॥६४॥",
+  "( १ गुप्तवती ) ॥ ६४ ॥",
+  "( २ चतुर्धरी ) जगत्स्रष्टा ब्रह्माकारेण । जगत्पाता विष्णुरूपेण । जगदत्ति भक्षयति रुद्रात्मना । स तादृशोऽपी-",
+  "यया त्वया निद्रावशं नीतः तादृशीं त्वां स्तोतुं क ईश्वरः समर्थः किं तर्हि न कोपीत्यर्थः ॥ ६४ ॥",
+  "( ३ शान्तनवी ) हे देवि त्वां स्तोतुम् इह क ईश्वरः कः समर्थः ऽस्ति न कोपि । तथाहि यया जगत्स्रष्टा उत्पादयिता ।",
+  "",
+  "( ३ शान्तनवी ) हे देवि त्वां स्तोतुम् इह क ईश्वरः कः सम",
+  "१ ‘जगत्पात्यत्ति’ इत्यपि पाठः र्थोऽस्ति न कोपि । तथाहि यया जगत्स्रष्टा उत्पादायता ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 45.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.494,
+   "tesseract_mean_conf": 47.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 86.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 77.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 65.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.841,
+   "tesseract_mean_conf": 63.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.966,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 75.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.843,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 72.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 58.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 73.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 60.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 56.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.989,
+   "tesseract_mean_conf": 46.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 76.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.803,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.778,
+   "tesseract_mean_conf": 60.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 60.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 78.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.859,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.985,
+   "tesseract_mean_conf": 73.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.98,
+   "tesseract_mean_conf": 71.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.842,
+   "tesseract_mean_conf": 37.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 70.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.961,
+   "tesseract_mean_conf": 53.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.733,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.835,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 55.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 42.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.737,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 6 lines, expected 8; realigned, 2 line(s) unmatched",
+  "band 3 col 0: got 7 lines, expected 8; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ध्यायः १ ]            गुप्तवत्यादिसप्तटीकासंवलिता",
+    ")कारणीत्वात् । पराणामेवानेकब्रह्मायुषां ब्रह्मादीनां परा",
+    "६२ ॥",
+    "शान्तनवी ) हं देवि त्वमेव जगति सौम्यासि अक्रूरा",
+    "ासौ सुमः विष्णुः सुमस्य भावः सौम्यं शोभनलक्ष्मीकत्वं तत्",
+    "वयुतासि । अथवा उमासहितः सोमः रमापतिः तस्य",
+    "त्वमेव सौम्यतरासि । सूते सुधां सोमश्चन्द्रः सोमस्थेयं सुधा",
+    "ात् यः । तयोर्द्वयोस्त्वमतिशयेन सौम्यासौम्यतरा ।",
+    "तसिलादिष्वाकृत्वसुचः' इति पुंवद्भावः । हे देवि त्वम्",
+    "तिसुन्दरी असि । सुष्ठु नन्दयतीति सुन्दरी मनोज्ञा",
+    "म्योऽक्रूरे बुधे सौम्यः सौम्यः शान्ते प्रयोगतः' । हं देवि",
+    "परमोत्तमा । व्यवस्थया तु श्रेष्ठत्वस्य विवक्षितत्वात् ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "७३",
+    "।",
+    "प्रकृष्टा परमा प्रकृष्टतरा । परमंभर्त्री शक्रादीनामपि",
+    "प्रशान्तासि सोमदेवतिकाप्यसि । अथवा शोभना मा",
+    "यस्या अस्ति असौ सौम्या । अर्शआदच् । शोभ-",
+    "भावः सौम्यं तद्यस्याः सा सौम्या उमापतित्वयुतासि ।",
+    "सौमी सौमीं सुधामईति सौम्या देवावलिस्त्वं च ।",
+    "'द्विवचनविभज्योपपदे तरबीयसुनौ' इति द्विवचने उपपदे",
+    "अशेषसौम्येभ्यः अखिलसुंदरेभ्यः पदार्थेभ्यः तु पार्थ-",
+    "मनोरमा । 'सोमदेवतंकं सौम्यः सौम्यं स्यात्सुंदरेऽपि",
+    "त्वमेव परा श्रेष्ठा । हे देवि त्वं पराणां श्रेष्ठानां परमा",
+    "अन्यथा परेषामिति स्यात् । अथवा परं ब्रह्म अनन्ति"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "पराणः ⟨?⟩ । तेषां मध्ये त्वं परमासि । यद्वा परे चापरे",
+    "। तेषां त्वं परमा । अथ हे देवि त्वमेव परमा उत्कृष्टा",
+    "'ईश्वरी स्वामिनी दुर्गा लोकानां व्यापिका च सा' ॥ ६२",
+    "४ नागोजीभट्टी ) सौम्या अक्रूरा भक्तेषु । असौम्यतरा",
+    "ः । परेति । इदमुपलक्षणम् । पश्यन्तीमध्यमावैखरीणां परा",
+    "परमेश्वरी ॥ ६२",
+    "( ५ जगच्चन्द्रचन्द्रिका ) परावराणामिति ८२ ॥ ६२",
+    "( ६ दंशोद्धारः ) सौम्येति । आह्लादहेतुत्वात् । सौम्यतरा",
+    "तिसुन्दरी । पराणां ब्रह्मादीनां मध्ये परमा उत्कृष्टा ।",
+    "थाभावादसर्वनामत्वान्न सुट् । परा माया मोहनैश्वर्यं यस्याः ॥",
+    "कंचित्कंचिद्धस्तु सदसद्⟨?⟩खिलात्मिके । तस्य",
+    "( १ गुप्तवती ) ॥ ६३"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "च परापराः । द्वन्द्वे चेति सर्वनामत्वाभावात् सुडाग॰",
+    "लक्ष्मीः । अथवा परमः ईश्वरः तस्य श्री त्वमेव पर-",
+    "॥",
+    "दैत्येषु । अशेषसौम्येभ्यः सकलसुन्दरेभ्यस्तु अतिसु-",
+    "वीजरूपा च पराणाम् उत्कृष्टानां परमा प्रधानं त्वमेव ।",
+    "॥",
+    "॥",
+    "भक्तानामतिमनोहरा स्वर्गादिदेहत्वात् सकलाह्लाद-",
+    "पराणामित्यत्र परशब्दस्योत्कृष्टार्थत्वेन नियमेनाऽवधेरनपेक्ष-",
+    "६२ ॥",
+    "सर्वस्य या शक्तिः सा त्वं किं स्तूयसे तदा ६३",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "(२ चतुर्धरी ) सत् वर्तमाना । असदतीतानागतशक्तिः ।",
+    "तयं पृथिव्यादि यत्किंचिद्वस्तु नाममात्रं तस्य सतोऽसतश्च",
+    "तेरित्यर्थः ॥ ६३ ॥",
+    "( ३ शान्तनवी ) हे अखिलात्मिके देवि क्वचित् जगति सत्",
+    "सदसदात्मकस्य या शक्तिः सामर्थ्यं सा त्वमेवासि । अतः परं",
+    "णा स्तुतिश्च स्तोता च स्तुत्यं च तत्तदुचितशक्तिश्च त्वमेवेति",
+    "। इयमेव च परमावधिस्तुतिरतोऽपि का नाम स्तुतिरित्यपरो",
+    "द्धात्मधर्मः सामर्थ्यशब्दिता ॥ ६३",
+    "( ४ नागोजीभट्टी ) सत् ब्रह्मवर्गः । असत् जडवर्गः । तस्य",
+    "थस्तोत्रस्तुत्यतच्छक्तिस्तुतीनां त्वत्तोऽन्यत्वाभाव⟨?⟩द्भेदनिबन्धनात्स्तुतिः",
+    "( ५ जगच्चन्द्रचन्द्रिका ) तस्य सर्वस्येति ८३ ॥ ६३",
+    "( ६ दंशोद्धारः ) ॥ ६३"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "स्वभावः सामर्थ्यं वा । यद्वा सन्नित्यमाकाशपरमाण्वादि ।",
+    "या शक्तिः सा त्वं तदा किं स्तूयसे । भेदसाध्य-",
+    "असत् वा यत्र किंचित् वस्तु पदार्थरूपं प्रतीयते तस्य",
+    "मया किं स्तूयसे इत्यन्वयः । पदं च पदार्थश्च ताभ्यां",
+    "त्वत्तोन्यत्वाभावाद्भेदनिबन्धना स्तुतिः कथं प्रवर्तनीयेति",
+    "भावः । अग्न्यादितत्तदौचित्यंतत्तदर्थक्रियाकरी शक्ति-",
+    "॥",
+    "सर्वस्य या शक्तिः सा यदा त्वं तदा कथं स्तूयसे इत्यर्थः ।",
+    "कथं स्यादिति भावः ॥ ६३ ॥",
+    "॥",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "त्वया जगत्स्रष्टा जगत्पातात्ति यो जगत् । सोपि",
+    "( १ गुप्तवती ) ॥ ६४",
+    "( २ चतुर्धरी ) जगत्स्रष्टा ब्रह्माकारेण । जगत्पाता विष्णुरूपेण",
+    "यया त्वया निद्रावशं नीतः तादृशीं त्वां स्तोतुं क ईश्वरः समर्थः",
+    "( ३ शान्तनवी ) हे देवि त्वां स्तोतुम् इह क ईश्वरः कः समर्थः",
+    "( ३ शान्तनवी ) हे देवि त्वां स्तोतुम् इह क ईश्वरः कः सम",
+    "१ ‘जगत्पात्यत्ति’ इत्यपि पाठः"
+   ],
+   "expected": 8,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "निद्रावशं नीतः कस्त्वां स्तोतुमिहेश्वरः॥६४॥",
+    "॥",
+    "। जगदत्ति भक्षयति रुद्रात्मना । स तादृशोऽपी-",
+    "किं तर्हि न कोपीत्यर्थः ॥ ६४ ॥",
+    "ऽस्ति न कोपि । तथाहि यया जगत्स्रष्टा उत्पादयिता ।",
+    "र्थोऽस्ति न कोपि । तथाहि यया जगत्स्रष्टा उत्पादायता ।"
+   ],
+   "expected": 8,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 26084,
+  "out": 20706
+ },
+ "ts": "2026-10-15T23:20:44"
+}

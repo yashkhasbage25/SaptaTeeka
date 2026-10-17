@@ -1,0 +1,306 @@
+{
+ "vol": 1,
+ "scan": 8,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 32,
+ "lines": [
+  "( 6 )",
+  "Pargiter thinks that as far as the Devī Māhātmya is concerned, it seems that it",
+  "was orginally written as a self-sufficient text of independent nature and then it found its way",
+  "into the Mārkandya Purāṇa. The real speaker of this portion (Ch. 84-93) is Rishi Medhāh and",
+  "the listeners are King 'Suratha' and Vaishya 'Samādhi'. Mārkandya has been brought in as a",
+  "formal reciter. This portion of the Purāṇa has as all along the characteristic features of an",
+  "independent treatise. Having the framework of a story and the kernel of a metaphysical",
+  "discourse. The plot is divided into three parts based on the three fold feats of the goddess. It is",
+  "an exceptionally purposeful document of an internal unity, an integral character and the out-",
+  "come of distinctive poetic excellence, not met with elsewhere in this Purāṇa.",
+  "The text of Sapta Sati as available to us, seems to be an excellent literary creation of",
+  "the Gupta age. There are several indications i.e. religious, iconographic and cultural traits",
+  "which go to prove that the text is the product of Gupta age. So far as the religious back-",
+  "ground is concerned, the SaptaŚati although rooted in Śakti-worship is soaked throughout",
+  "with the broad spirit of tolerance and understanding inculcated by the Bhāgavatas. It is",
+  "conceived from begining to end, in the living spirit of synthesis. Various gods, like Viṣṇu,",
+  "Siva, Śakti, Ganesh, Sūrya, and many other deities were accepted with utmost joy and",
+  "electicism. For example, the goddess is conceived of as Māyā of Viṣṇu (5/6, 5/14). In an",
+  "excellent hymn, addressed to Nārāyanī (ch xi), the Śakti of Nārāyaṇa is identified with",
+  "Kātyāyanī (1·1/1) and she is actually called vaishnavi 'Śakti'. In chapter IV, she is",
+  "addressed as Durgā, Śrī, Gaurī, at one and the same time in a single verse (4/10). In Sapta",
+  "Śati the goddess is invoked as त्रयीदेवी and the repository of Rik, Yajus and Sāma in the form",
+  "of Śabda (4/9).",
+  "The iconographic evidence furnished by the SaptaŚati, for fixing the chronology is also",
+  "very pointed. The buffalo demon Mahishāsura has been shown emerging in half-human form,",
+  "from the half-severed animal throat, pierced by the great goddess. The Asura fought with the",
+  "goddess in this particular position to which a reference is found in the verses (3/37-39). This",
+  "special form of the image appears particularly in the Gupta period for the first time. In the",
+  "Kushan period, images of Mahishāsura-mardini, represent Mahishāsura in the form of buffalo,",
+  "being trampled by the goddess, but none of the image depict the severed throat of the animal",
+  "or his human form coming out of the throat. This we may call as अर्धनिष्क्रान्त form, as our",
+  "text says—it was only portrayed during 4th Century and onwards."
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 2516,
+  "out": 1056
+ },
+ "ts": "2026-10-15T19:24:23",
+ "mode": "whole_page"
+}

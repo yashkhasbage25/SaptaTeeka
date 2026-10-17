@@ -1,0 +1,134 @@
+{
+ "vol": 1,
+ "scan": 0,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 13,
+ "lines": [
+  "।।श्रीः।।",
+  "व्रजजीवन प्राच्यभारती ग्रन्थमाला",
+  "२७",
+  "दुर्गासप्तशती",
+  "दुर्गाप्रदीप गुप्तवती चतुर्धरी शान्तनवी नागोजीभट्टी",
+  "जगच्चन्द्रचन्द्रिका दंशोद्धार इति",
+  "सप्तटीका",
+  "इयं",
+  "औरङ्गाबादनगरस्थ औदीच्य सहस्रज्ञातीय",
+  "पं० व्यङ्कटरामात्मज हरिकृष्णशर्मणा",
+  "संगृहीता",
+  "ज्ञाने सर्वं प्रतिष्ठितम्",
+  "चौखम्बा संस्कृत प्रतिष्ठान"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 2681,
+  "out": 545
+ },
+ "ts": "2026-10-15T19:23:44",
+ "mode": "whole_page"
+}

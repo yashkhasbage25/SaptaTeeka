@@ -1,0 +1,379 @@
+{
+ "vol": 1,
+ "scan": 68,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "५८                                                                    दुर्गासप्तशती । [ प्रथमोऽध्यायः ] १",
+  "( ४ नागोजीभट्टी ) तदेवाह । दिवान्धा इति । केषांचिदुलूकादीनां दिवा ज्ञानाभावः । केषांचित्काकादीनां रात्रौ ।",
+  "केषांचित्किंचुलुकादीनां(उलूकादीनां) सर्वदा तथातथा तुल्यदृश्यः । अन्धा अनन्धा इत्यर्थः । एवं च ज्ञानमात्रस्य मोहवैयधि-",
+  "करणं दिनादौ उलूकादीनां मोहो न स्यादिति भावः । किंच राक्षसादीनां दिवा रात्रौ च विषयज्ञानवतां न कदाचिदपि",
+  "मोहः स्यात् । किंचुलुका(उलूका)दीनां सर्वदैव मोहप्रसङ्ग इति । तेषामपि किंचिद्विषये मोहदर्शनात् । एवं च न ज्ञानमात्र-",
+  "स्य मोहवैयधिकरण्यम् । नापि ज्ञानाभावस्य मोहसामानाधिकरण्यमित्युक्तं भवति । अत्र तथेति रात्रिसमुच्चये ॥ ३५ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) केचिद्दिवेति ४९ ॥ २५ ॥",
+  "( ६ दंशोद्धारः ) उक्तं स्फुटयति । दिवान्धा इति । केचित्प्राणिन उलूकादयः । दिवान्धाः । अर्थाद्रात्रावनन्धाः ।",
+  "केचिच्च काकादयो रात्रावन्धाः । दिवा पश्यन्तीत्यर्थः । केचित्तु छुच्छुन्दर्यादयो रात्रौ दिवा चान्धा इत्याहुस्तत्र 'छुच्छुन्दरी",
+  "गन्धमुखी दीर्घतुण्डी दिवान्धिका'इत्यमरेण दिवान्धत्वोक्तेस्तथैवोपलभ्यमानत्वाच्च । केचिद्वानरमार्जारादयो दिवा रात्रौ च तुल्य-",
+  "दृष्टयोऽनन्धा एव । दिवारात्राविति पदं देहलींदीपन्यायेनोभयत्र संबध्यते । अयं भावः । ज्ञानमात्रस्य मोहवैयधिकरण्यं",
+  "दुरुपपाद्यम् । तथा सत्युलूकादीनां रात्रौ शामसत्त्वेन काकादीनां च दिवा ज्ञानसत्त्वेन निर्मोहत्वापत्तेः । अतो न ज्ञानमात्रेण",
+  "मोहनिवृत्तिः ॥ ३५ ॥",
+  "ज्ञानिनो मनुजाः सत्यं किं नु ते नहि केवलम् । यतो हि ज्ञानिनः सर्वे पशुपक्षिमृगादयः ॥ ३६ ॥",
+  "( १ गुप्तवती ) मनुष्यज्ञानं मूढत्वाभावव्याप्यमिति चेत्तत्राह ज्ञानिन इति । ते केवलं ज्ञानिनो नहि । अज्ञानसमा-",
+  "नाधिकरणज्ञानवन्त एवेत्यर्थः । ज्ञानस्याव्याप्यवृत्तित्वेन स्वभावसामानाधिकरण्याभावस्यैवासिद्धेरिति तार्किकाः । वस्तुतस्तु",
+  "'तद्विमुक्तस्तु केवली' इति शिवसूत्रे योगिविशेषनिष्ठज्ञानविशेषस्य केवलमिति संज्ञया व्यवहारात्तस्य जानातिक्रियाविशेषण-",
+  "त्वात्तस्यैव च मूढत्वाभावव्याप्यत्वात्तादृशा ज्ञानिनो भवादृशाः सर्वेऽपि न भवन्तीत्यर्थः । पशवो गवादयः । मृगा",
+  "हरिणादयः ॥ ३६ ॥",
+  "( २ चतुर्धरी ) अथ नास्माभिः सर्वसत्त्वानां ज्ञानित्वमभिप्रेतं किंतु मनुष्याणामेवेत्याह । ज्ञानिन इति । ननु भवन्मते",
+  "मनुष्यमात्रस्य ज्ञानित्वं मनुष्यविशेषस्य वा । तत्राद्यं खण्डयितुमुपक्रमते । ज्ञानिन इति । ते मतं सत्यं केवलं च । मनुजा",
+  "ज्ञानिन एव नहि किंत्वज्ञानिनोऽपीत्यर्थः । एवंचाज्ञानसंवलितज्ञानेनापि ज्ञानित्ववैपरीत्यमेव न स्यात् । सर्वसत्त्वानां चाज्ञानित्वं",
+  "सदवस्थमित्याह । यत इति । हिशब्दोऽवधारणे भिन्नक्रमः । यतः पश्वादयोपि ज्ञानिन एवेत्यन्वयः । तेष्वप्यज्ञानसंवलितस्य",
+  "ज्ञानस्य संभवात् । पशवो ग्राम्या गवाद्याः । मृगा आरण्याः हरिणादयः । अथवा ते मनुजाः केवलं ज्ञानिनो नहि किं त्वन्ये",
+  "ज्ञानिनः सन्तीत्याह । यत इति । पश्वादीनामपि विषयज्ञानसंभवात् । गौरविरजोऽश्वोऽश्वतरो गर्दभो मनुष्यश्चेति सप्त",
+  "ग्राम्याः पशवः । महिषवानरराक्षससरीसृपहंसपृषतमृगाश्चेति सप्तारण्याः पशवः ॥ ३६ ॥",
+  "( ३ शान्तनवी ) मनुजाः ज्ञानिनः सन्ति सत्यम् । किंनु ते एव केवलं ज्ञानिनः नहि, यतो मनुजेभ्योऽन्येऽपि सर्वे पशु-",
+  "पक्षिमृगादयः ज्ञानिनः सन्त्येव हीत्यन्वयः । सर्वेऽपि मनुजादयः यथाविषयं यथोचितज्ञाना एवेति भावः । मनुजा मानवाः",
+  "सन्ति साधु सत्यम् । 'नु स्याद् भेदेऽवधारणे' 'हि हेताववधारणे' 'अभावे नह्यनोनापि' । केवलं नियतमपरं क्रियाविशेषणम् ।",
+  "इदानीं ज्ञानित्वाविशेषात्प्राणिनां प्रतिनियतज्ञाननिबन्धनव्यवहारसिद्धिः कथं स्यादित्याशङ्क्य तानुपपादयितुमाह ॥ ३६ ॥",
+  "( ४ नागोजीभट्टी ) ननु मनुष्या एव ज्ञानित्वेनाभिमता इति चेत्तत्राह । ज्ञानिन इति । मनुजा ज्ञानिन इति ते",
+  "मतं सत्यम् । पृच्छति । ते केवलं ज्ञानिनः ज्ञानिन एव किंनु स्वयमेव वितर्क्योत्तरयति । नहि । किंत्वज्ञानसंवलितज्ञानिन",
+  "इत्यर्थः । एवम् अज्ञानिन ज्ञानित्वाभिमानस्त्वयुक्तः । यतः सर्वे पश्वादयोऽपि एवं सति ज्ञानिन एव स्युः । हिरिवार्थे भिषक्-",
+  "म⟨?⟩ । पशुत्वेनैव सिद्धे मृगग्रहणं तद्विशेषप्रतिपत्त्यर्थमित्यर्थः ॥ ३६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) यतो हि ज्ञानिन इति ५० ॥ ३६ ॥",
+  "( ६ दंशोद्धारः ) मनु प्राणिमात्रस्य ज्ञानित्वं नास्माकमभिप्रेतं किंतु मनुष्याणामेवेति चेत्तत्र किं मनुष्या ज्ञानवन्त",
+  "एवेति निर्धार्यते उत मनुष्या एव ज्ञानिन इति विकल्प्य पक्षद्वयं दूषयति । ज्ञानिन इति । सत्यं मनुजा ज्ञानिनः किंतु केवलं",
+  "ज्ञानिनो नहि । अज्ञानमिश्रत्वात् । एवंच मनुष्या ज्ञानिन एवेति निरस्तम् । एतेन पश्वादीनां ज्ञानित्वमेवेत्यपि न नियन्तुं ‘श-",
+  "कथ्यत इति सूचितम् । किंच यत इति । पश्वादयोपि ज्ञानिन इति । मनुष्या एव ज्ञानिन इत्यपि निरस्तम् । पशवो ग्राम्याः । मृगा",
+  "आरण्याः । यद्वा मनुजा एव केवलं ज्ञानिनो नहि किं तु पश्वादयोपीत्यर्थः । तेषामपि विषयज्ञानस्य सत्त्वात् । सर्वा मनुजाः"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 73.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.93,
+   "tesseract_mean_conf": 79.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.812,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 80.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 65.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 76.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 81.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 65.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 75.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 63.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.824,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 74.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 40.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.99,
+   "tesseract_mean_conf": 58.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 54.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 78.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.96,
+   "tesseract_mean_conf": 81.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.733,
+   "tesseract_char_agree": 0.97,
+   "tesseract_mean_conf": 76.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 79.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 58.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 63.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.474,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 55.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 70.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 66.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.824,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 65.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.806,
+   "tesseract_mean_conf": 63.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.818,
+   "tesseract_char_agree": 0.977,
+   "tesseract_mean_conf": 82.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 51.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 68.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.591,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 64.6,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25094,
+  "out": 14841
+ },
+ "ts": "2026-10-15T19:50:27"
+}

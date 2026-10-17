@@ -1,0 +1,645 @@
+{
+ "vol": 1,
+ "scan": 73,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 44,
+ "lines": [
+  "मोऽध्यायः १ ]                                              गुप्तवत्यादिसप्तटीक",
+  "ष्ठ्येकवचनान्तमेतत् । षष्ठीसमासः । ‘कर्तरि च’ इति तु ासंवलिता ।                              ६३",
+  "गालिङ्गादवसीयते । हेतुशब्दस्तु उकारान्तः कारणवाची । षष्ठीसमासप्रतिषेधः प्रायिको ‘जनिकर्तुः प्रकृतिः’ इति पाणि",
+  "मुनिं महामायामहिमानं प्रष्टुं वाक्यम् ऊचे ॥ ४४॥ अविद्या अहंमतिः विद्या तु मोक्षफलं ज्ञानम् । सुरथः",
+  "(७ नागोजीभट्टा) नन्वेकस्यैव वस्तुनः बन्धमोक्षोभयहेतुता",
+  "देका । अतो न काचिदसंभावना तस्यामित्यर्थः । किंच ानुपपन्नेत्यत आह । सा विद्येति । सर्वेश्वरस्येश्वरी ईश्वर-",
+  "साधनाभूता विद्या ब्रह्मज्ञानरूपा सैव सनातनी अनाद्यनन्ता विद्याविद्योभयरूपत्वादपि नैतदसंगतिरित्याह । परमा उत्तम-",
+  "त्मकत्वादुभयहेतुता उपपन्नेति भावः ॥ ४४ ॥ च संसारबन्धहेतुरविद्या च सैवेत्यर्थः । एवंच चिज्जडप्र-",
+  "(५ जगच्चन्द्रचान्द्रिका) पुनरर्धं इति । पुनः श्लोकरूपो",
+  "⟨?⟩ ॥ ४४ ॥ मन्त्रः । तथाहि संसारबन्धहेतुश्च सैव सर्वेश्वरेश्वरी",
+  "⟨?⟩ ॥ ४४ ॥",
+  "⟨?⟩ दंशोद्धारः) सेति । एवंच विद्याऽविद्याविभेदेन सैव मोक्षमोहकर्त्रीति भावः ॥ ४४ ॥",
+  "राजोवाच ।",
+  "का हि सा देवी महामायेति यां भवान् । ब्रवीति कथमुत्पन्ना सा कर्मास्याश्च किं द्विज॥४५॥",
+  "गुप्तवती) भगवन्निति । का कथं किमिति स्वरूपोद्भवप्रभावाणां प्रश्नः ॥ ४५ ॥",
+  "चतुर्धरी) पूर्वं हरेर्योगनिद्रा महामायेति संक्षेपेणोक्ता तां पुनर्विस्तरा(जिगमिषया) जिज्ञासिषू राजोवाच । भग-",
+  "भंगे सम्यग्ज्ञानं विद्यते यस्मिन् । ब्रवीतीति पूर्वेणान्वयः । कर्म चास्याः किमित्यन्वयः ॥ ४५ ॥",
+  "शान्तनवी) हे भगवन् हे द्विज सुमेधः मुने भवान् यां महामायेति ब्रवीति आह । का हि सा देवी । सा च",
+  "कारेण उत्पन्ना उद्भूत् । अस्या देव्याः कर्म च किम् । पराक्रमश्च कः इत्युवाच राजेत्यन्वयः । 'इतिहेतुप्रकरण",
+  "मासिषु' । पुनः पृच्छति राजा ॥ ४५ ॥",
+  "नागोजीभट्टी) विशेषजिज्ञासया पुनः पृच्छति । राजोवाच । भगवन्निति । का किंजातीया । कथं केन प्रका-",
+  "ाः कर्म च किम् ॥ ४५ ॥",
+  "जगच्चन्द्रचन्द्रिका ) पुना राजेति । पुनः राजोवाच स्वाहेति मन्त्रः ५९ एकोना षष्टिरुच्यत इति एकेन ऊना",
+  "तित्रयमुच्यते । पुनरर्धमिति पुनरर्धम् अर्धश्लोकात्मको मन्त्रः । तथाहि भगवन् का हि सा देवी महामायेति यां",
+  "ा ६० । पुनः श्लोक इति पुनः श्लोकः श्लोकात्मको मन्त्रः । तथाहि ब्रवीतीति ६१ ॥ ४५ ॥",
+  "दंशोद्धारः ) तस्या विशेषजिज्ञासया पृच्छति । भगवन्निति त्यादिद्वाभ्याम् ॥ ४५ ॥",
+  "च सा देवी यत्स्वरूपा यदुद्भवा । तत्सर्वं श्रोतुमिच्छामि त्वत्तो ब्रह्मविदां वर ॥ ४६ ॥",
+  "गुप्तवती ) तदेव पुनः पृच्छति । यत्प्रभावेति । किंप्रभावेत त्यादिरर्थः ॥ ४६ ॥",
+  "चतुर्धरी ) यत्स्वभावेति । यत्स्वभावा यल्लक्षणा यत्स्वरूपा यदाकारा यदुद्भवा यत्कारणिका । ब्रह्मविदां वेद-",
+  "ज्ञानिनाम् ) ॥ ॥ ४६ ॥ यदाकारा यदुद्भवा यत्कारणिका । ब्रह्मविदां वेद-",
+  "शान्तनवी ) हे ब्रह्मविदांवर श्रेष्ठ त्वत्तः सकाशात् तत् सर्वं श्रोतुमिच्छामि । तदिति किम् । सा देवी यत्प्रभावा",
+  "यत्स्वरूपा यदाकृतिः यदुद्भवा यदुत्पत्तिका च । तस्याः देव्याः सामर्थ्यं कीदृशं किंस्वरूपं कीदृशं च प्रादुर्भव-",
+  "तात्पर्यम् । यतः त्वत्तः । ‘आख्यातोपयोगे’ इत्यपादानता । यः प्रभावो यस्याः सा । यत् स्वरूपं यस्याः सा । यः",
+  "ः सा तथोक्ता । ब्रह्म विदन्ति ब्रह्मविदः तेषां मध्ये वरः । 'वेदस्तत्त्वं तपो ब्रह्म ब्रह्मा विप्रः प्रजापतिः । ब्रह्म",
+  "ो ब्रह्म ज्ञानं च शाश्वतम् ।’ ब्रह्मन् इति संबुद्धन्तः पाठः क्वचि चित् ॥ ४६ ॥",
+  "ागोजीभट्टी ) यत्स्वभावेत्यादिना । स्वभावस्वरूपोत्पत्तिका ारणप्रश्नत्रयम् । ब्रह्मविदांवर इत्यनेन ऋषिप्रोक्तसर्वं-",
+  "तशिरोनुयायित्वं स्फुटितम् ॥ ४६ ॥ ⟨?⟩न्त्रत्रयम् । ब्रह्मविदावर इत्यनेन ऋषिप्रोक्तसर्व",
+  "जगच्चन्द्रचन्द्रिका) पुनरर्धमिति । पुनः अर्धम् अर्धश्लोकात्मको मन्त्रः । तथाहि तत्सर्वं श्रोतुमिच्छामि त्वत्तो",
+  "स्वाहा ६२ ॥ ४६ ॥",
+  "ंशोद्धारः ) ॥ ४६ ॥",
+  "स्वभावा' इति चतुर्धरी—नागोजीभट्टीसंमतः पाठः । ⟨?⟩त्मका मन्त्रः । तथाहि तत्सर्वं श्रोतुमिच्छामि त्वत्तो",
+  "",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 40.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 70.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.635,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.214,
+   "tesseract_char_agree": 0.584,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.147,
+   "tesseract_mean_conf": 53.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.565,
+   "tesseract_mean_conf": 59.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.565,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.588,
+   "tesseract_mean_conf": 69.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.276,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.536,
+   "tesseract_mean_conf": 60.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.982,
+   "tesseract_mean_conf": 72.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 30.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.966,
+   "tesseract_mean_conf": 55.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 78.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 66.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 81.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.986,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 84.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 78.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 58.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 62.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 56.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 85.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 73.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.878,
+   "tesseract_mean_conf": 48.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.737,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.722,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 70.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 52.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 43.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 63.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 64.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.794,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 51.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 44.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 1 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 3 col 0: got 5 lines, expected 8; realigned, 3 line(s) unmatched",
+  "band 3 col 1: got 3 lines, expected 8; realigned, 5 line(s) unmatched",
+  "band 0 col 1: got 8 lines, expected 12; realigned, 4 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "मोऽध्यायः १ ]                                              गुप्तवत्यादिसप्तटीक",
+    "ष्ठ्येकवचनान्तमेतत् । षष्ठीसमासः । ‘कर्तरि च’ इति तु",
+    "गालिङ्गादवसीयते । हेतुशब्दस्तु उकारान्तः कारणवाची ।",
+    "मुनिं महामायामहिमानं प्रष्टुं वाक्यम् ऊचे ॥ ४४॥",
+    "(७ नागोजीभट्टा) नन्वेकस्यैव वस्तुनः बन्धमोक्षोभयहेतुता",
+    "देका । अतो न काचिदसंभावना तस्यामित्यर्थः । किंच",
+    "साधनाभूता विद्या ब्रह्मज्ञानरूपा सैव सनातनी अनाद्यनन्ता",
+    "त्मकत्वादुभयहेतुता उपपन्नेति भावः ॥ ४४ ॥",
+    "(५ जगच्चन्द्रचान्द्रिका) पुनरर्धं इति । पुनः श्लोकरूपो",
+    "⟨?⟩ ॥ ४४ ॥",
+    "⟨?⟩ ॥ ४४ ॥",
+    "⟨?⟩ दंशोद्धारः) सेति । एवंच विद्याऽविद्याविभेदेन सैव"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ासंवलिता ।                              ६३",
+    "षष्ठीसमासप्रतिषेधः प्रायिको ‘जनिकर्तुः प्रकृतिः’ इति पाणि",
+    "अविद्या अहंमतिः विद्या तु मोक्षफलं ज्ञानम् । सुरथः",
+    "ानुपपन्नेत्यत आह । सा विद्येति । सर्वेश्वरस्येश्वरी ईश्वर-",
+    "विद्याविद्योभयरूपत्वादपि नैतदसंगतिरित्याह । परमा उत्तम-",
+    "च संसारबन्धहेतुरविद्या च सैवेत्यर्थः । एवंच चिज्जडप्र-",
+    "मन्त्रः । तथाहि संसारबन्धहेतुश्च सैव सर्वेश्वरेश्वरी",
+    "मोक्षमोहकर्त्रीति भावः ॥ ४४ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "राजोवाच",
+    "का हि सा देवी महामायेति यां भवान् । ब्रवीति",
+    "गुप्तवती) भगवन्निति । का कथं किमिति स्वरूपोद्भवप्रभावाणां",
+    "चतुर्धरी) पूर्वं हरेर्योगनिद्रा महामायेति संक्षेपेणोक्ता तां",
+    "भंगे सम्यग्ज्ञानं विद्यते यस्मिन् । ब्रवीतीति पूर्वेणान्वयः ।",
+    "शान्तनवी) हे भगवन् हे द्विज सुमेधः मुने भवान् यां",
+    "कारेण उत्पन्ना उद्भूत् । अस्या देव्याः कर्म च किम् ।",
+    "मासिषु' । पुनः पृच्छति राजा ॥ ४५ ॥",
+    "नागोजीभट्टी) विशेषजिज्ञासया पुनः पृच्छति । राजोवाच",
+    "ाः कर्म च किम् ॥ ४५ ॥",
+    "जगच्चन्द्रचन्द्रिका ) पुना राजेति । पुनः राजोवाच",
+    "तित्रयमुच्यते । पुनरर्धमिति पुनरर्धम् अर्धश्लोकात्मको मन्त्रः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "।",
+    "कथमुत्पन्ना सा कर्मास्याश्च किं द्विज॥४५॥",
+    "प्रश्नः ॥ ४५ ॥",
+    "पुनर्विस्तरा(जिगमिषया) जिज्ञासिषू राजोवाच । भग-",
+    "कर्म चास्याः किमित्यन्वयः ॥ ४५ ॥",
+    "महामायेति ब्रवीति आह । का हि सा देवी । सा च",
+    "पराक्रमश्च कः इत्युवाच राजेत्यन्वयः । 'इतिहेतुप्रकरण",
+    "। भगवन्निति । का किंजातीया । कथं केन प्रका-",
+    "स्वाहेति मन्त्रः ५९ एकोना षष्टिरुच्यत इति एकेन ऊना",
+    "। तथाहि भगवन् का हि सा देवी महामायेति यां"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "ा ६० । पुनः श्लोक इति पुनः श्लोकः श्लोकात्मको मन्त्रः ।",
+    "दंशोद्धारः ) तस्या विशेषजिज्ञासया पृच्छति । भगवन्निति",
+    "च सा देवी यत्स्वरूपा यदुद्भवा । तत्सर्वं",
+    "गुप्तवती ) तदेव पुनः पृच्छति । यत्प्रभावेति । किंप्रभावेत",
+    "चतुर्धरी ) यत्स्वभावेति । यत्स्वभावा यल्लक्षणा यत्स्वरूपा",
+    "ज्ञानिनाम् ) ॥ ॥ ४६ ॥",
+    "शान्तनवी ) हे ब्रह्मविदांवर श्रेष्ठ त्वत्तः सकाशात् तत् सर्वं",
+    "यत्स्वरूपा यदाकृतिः यदुद्भवा यदुत्पत्तिका च । तस्याः देव्याः",
+    "तात्पर्यम् । यतः त्वत्तः । ‘आख्यातोपयोगे’ इत्यपादानता ।",
+    "ः सा तथोक्ता । ब्रह्म विदन्ति ब्रह्मविदः तेषां मध्ये वरः ।",
+    "ो ब्रह्म ज्ञानं च शाश्वतम् ।’ ब्रह्मन् इति संबुद्धन्तः पाठः क्वचि",
+    "ागोजीभट्टी ) यत्स्वभावेत्यादिना । स्वभावस्वरूपोत्पत्तिका"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "तथाहि ब्रवीतीति ६१ ॥ ४५ ॥",
+    "त्यादिद्वाभ्याम् ॥ ४५ ॥",
+    "श्रोतुमिच्छामि त्वत्तो ब्रह्मविदां वर ॥ ४६ ॥",
+    "त्यादिरर्थः ॥ ४६ ॥",
+    "यदाकारा यदुद्भवा यत्कारणिका । ब्रह्मविदां वेद-",
+    "यदाकारा यदुद्भवा यत्कारणिका । ब्रह्मविदां वेद-",
+    "श्रोतुमिच्छामि । तदिति किम् । सा देवी यत्प्रभावा",
+    "सामर्थ्यं कीदृशं किंस्वरूपं कीदृशं च प्रादुर्भव-",
+    "यः प्रभावो यस्याः सा । यत् स्वरूपं यस्याः सा । यः",
+    "'वेदस्तत्त्वं तपो ब्रह्म ब्रह्मा विप्रः प्रजापतिः । ब्रह्म",
+    "चित् ॥ ४६ ॥",
+    "ारणप्रश्नत्रयम् । ब्रह्मविदांवर इत्यनेन ऋषिप्रोक्तसर्वं-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "तशिरोनुयायित्वं स्फुटितम् ॥ ४६ ॥",
+    "जगच्चन्द्रचन्द्रिका) पुनरर्धमिति । पुनः अर्धम् अर्धश्लोकात्मको",
+    "स्वाहा ६२ ॥ ४६ ॥",
+    "ंशोद्धारः ) ॥ ४६ ॥",
+    "स्वभावा' इति चतुर्धरी—नागोजीभट्टीसंमतः पाठः ।"
+   ],
+   "expected": 8,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "⟨?⟩न्त्रत्रयम् । ब्रह्मविदावर इत्यनेन ऋषिप्रोक्तसर्व",
+    "मन्त्रः । तथाहि तत्सर्वं श्रोतुमिच्छामि त्वत्तो",
+    "⟨?⟩त्मका मन्त्रः । तथाहि तत्सर्वं श्रोतुमिच्छामि त्वत्तो"
+   ],
+   "expected": 8,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 26084,
+  "out": 26653
+ },
+ "ts": "2026-10-16T01:02:27"
+}

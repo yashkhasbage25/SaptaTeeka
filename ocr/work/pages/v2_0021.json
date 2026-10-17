@@ -1,0 +1,379 @@
+{
+ "vol": 2,
+ "scan": 21,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "ीयोऽध्यायः ३ ]                           गुप्तवत्र्यादिसप्तटीकासंवलिता ।    १११",
+  "( ४ नागोजीभट्टी ) उदग्रश्चेति । रणे युद्धे दन्तैर्गजदन्तनिर्मितायुधैः मुष्टिभिः तलैश्चपटैश्च इत्यर्थः । यद्वा दन्तैर्दन्त-",
+  "यर्थः ॥ १६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) उदग्रश्च रण इति १७ ॥ १६ ॥",
+  "( ६ दंशोद्धारः ) उदग्र इति । उदग्रनामा दैत्यः । एवमग्रेऽपि दैत्यनामान्यूह्यानि । दन्तैः मुष्टिभिः तलैश्चपेटाभिः ।",
+  "न्तो गजदन्तः तन्मयमुष्टिभिस्तलैस्तलभागैरित्यर्थः ॥ १६ ॥",
+  "क्रुद्धा गदापातैश्चूर्णयामास चोद्धतम् । बाष्कलं भिन्दिपालेन बाणैस्ताम्रं तथान्धकम् ॥१७॥",
+  "( १ गुप्तवती ) ॥ १७ ॥",
+  "( २ चतुर्धरी ) उद्धतम् उद्धतनामानम् ॥ १७ ॥",
+  "( ३ शान्तनवी ) रणे देवी क्रुद्धा उद्धतं नाम महासुरं चशब्दात् ससैन्यः गदापातैश्चूर्णयामास संपिपेष परासुमक⟨?⟩",
+  "त्रिनेत्रा परमेश्वरी चण्डिका देवी रणे क्रुद्धा सती भिन्दिपालेन हस्तक्षेप्येण लगुडेन बाष्कलं नाम महासुरं जघान जिघांस",
+  "वकार । ‘भिन्दिपालः सृगस्तुल्यौ’ । ‘रिष्टिः कृपाणिका प्रोक्ता भिन्दिपालस्तु गोफणिः' इति । भिण्डिपालव्याख्यान-",
+  "⟨?⟩याह्वयानं मूले प्रेक्ष्यं प्रेक्षावद्भिः । तथा परमेश्वरी वाणैस्ताम्रं नाम महासुरं जघान व्यसुं चकार । तथा परमेश्वरी वाणं॰",
+  "⟨?⟩धकनामानं महासुरं जघान ॥ १७ ॥",
+  "(४ नागोजीभट्टी ) देवीति । उद्धतं तन्नामानम् । भिन्दीति दमध्यः ॥ १७ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) देवी क्रुद्धेति १८ ॥ १७ ॥",
+  "( ६ दंशोद्धारः ) ॥ १७ ॥",
+  "स्यमुग्रवीर्यं च तथैव च महाहनुम् । त्रिनेत्रा च त्रिशूलेन जघान परमेश्वरी ॥ १८ ॥",
+  "( १ गुप्तवती ) ॥ १८ ॥",
+  "( २ चतुर्धरी ) ॥ १८ ॥",
+  "( ३ शान्तनवी ) तथा परमेश्वरी उग्रास्यम् उग्रम् आस्यं मुखं यस्य तम् उग्रास्यं नाम महासुरं जघान व्यसुं चकार",
+  "रमेश्वरी उग्रवीर्यम् उग्रं वीर्यं यस्य तम् उग्रवीर्यंनामानं महासुरं जघान । चशब्दात्तत्सैन्यं तं व्यसुं चकार । 'तीर्य",
+  "भावश्च' । तथैव परमेश्वरी वाणैरेव महान्तौ हनू कपोलाधोभागौ यस्य तं महाहनुं नाम महासुरं जघान ।",
+  "⟨?⟩सैन्यं तं व्यसुं चकार । त्रिनेत्रं चेति पाठे परमेश्वरी त्रीणि नेत्राणि यस्य तं त्रिनेत्रं नाम महासुरं",
+  "न जघान । चशब्दात्ससैन्यकं तं व्यसुं चकार । परमा ईश्वरी । 'अश्नोतेराशुकर्मणि वरट् चेच्चोपधायाः' । यद्वा",
+  "रस्य ह्री परमेश्वरी ॥ १८ ॥",
+  "( ४ नागोजीभट्टी ) ॥ १८ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) उमास्यमिति १९ ॥ १८ ॥",
+  "( ६ दंशोद्धारः ) ॥ १८ ॥",
+  "लस्यासिना कायात्पातयामास वै शिरः । दुर्धरं दुर्मुखं चोभौ शरीरान्निन्ये यमक्षयम् ॥ १९ ॥",
+  "( १ गुप्तवती ) ॥ १९ ॥",
+  "( २ चतुर्धरी ) बिडालस्य बिडालाक्षस्य । संज्ञैकदेशो संज्ञाप्रतीतिरिति न्यायात् यमक्षयं यमगृहम् । बाणैर्दुर्धरं दु-",
+  "निन्ये ॥ १९ ॥",
+  "( ३ शान्तनवी ) रणे देवी असिना खड्गेन बिडालस्य बिडालनाम्नो महासुरस्य शिरः मूर्धानं कायात् शरीरात् वै",
+  "ततः पातयामास प्रभ्रंशयामास । रणे देवी शरैः दुर्धरं च दुर्मुखं च उभौ महासुरौ कर्मणि । यमक्षयं यमस्य गृहं",
+  "कर्म । निन्ये प्रापयामास । नयतिर्द्विकर्मकः । 'क्षयो यक्ष्मणि कल्पान्ते तथैव निलयेऽपि च' ॥",
+  "'कालं च कालदण्डेन कालरात्रिरपातयत् । उग्रदर्शनमत्युग्रैः खड्गपातैरताडयत् ॥ २० ॥",
+  "असिनैवासिलोमानमाच्छिनत्सा रणोत्सवे । गणैः सिंहेन देव्या च जंपश्वेडाकृतोच्चकैः ॥ २१ ॥'",
+  "कालं नाम महासुरं कालरात्रिरम्बिका कालदण्डेन अपातयत्। उग्रदर्शनं नाम महासुरम् अत्युग्रैः खड्गपातैः कालरात्रिरम्बिका",
+  "१ इदं श्लोकद्वयं पाठकर्तृभिर्नाद्रियते । केवलं शान्तनव्यामेव व्याख्यातम् ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 54.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 74.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 53.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 73.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.111,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 55.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 47.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 74.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 62.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 73.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.818,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 77.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.84,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 76.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 79.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 70.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 73.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 81.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 71.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 56.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 56.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 64.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 57.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 63.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 35.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 71.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.871,
+   "tesseract_mean_conf": 62.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 65.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.893,
+   "tesseract_mean_conf": 58.8,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 23664,
+  "out": 16252
+ },
+ "ts": "2026-10-15T20:35:19"
+}

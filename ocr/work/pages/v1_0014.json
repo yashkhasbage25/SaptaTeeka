@@ -1,0 +1,143 @@
+{
+ "vol": 1,
+ "scan": 14,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 13,
+ "lines": [
+  "प्रकाशकीयं वक्तव्यम्",
+  "श्रीश्रीदुर्गासप्तशती (देवीमाहात्म्येत्यपराभिधा, वङ्गेषु श्रीश्रीचण्डीतिप्रसिद्धा च) मार्कण्डेयपुरा-",
+  "यान्तर्गताऽपि शाक्तसम्प्रदायेषु तन्त्रग्रन्थवत् सम्यगभ्यर्हिता वर्तते । भारतवर्षे शाक्तोपासनायाः",
+  "प्राचीनत्वं न कस्यापि तिरोहितम् । शाक्तग्रन्थानां मूर्धन्यभूतेयं सप्तशतमन्त्रात्मिका श्रीश्रीदुर्गा-",
+  "सप्तशती    अनेकविधतान्त्रिकानुष्ठानेषु समुपयुक्ता मोक्षविधायकगुह्यातिगुह्यसाधनमार्गाणां",
+  "निर्देशिका   च ।    उदात्तभावगर्भित-सुललितपदविन्यासभूयिष्ठस्तोत्र समूहरूपेणापि अस्या ग्रा",
+  "हिमगिरेरा च दक्षिणोदधेर्भारतवर्षे सुमहती प्रसिद्धिः । अन्यूनपञ्चत्रिशत्संख्याकाः संस्कृतटीकाः",
+  "श्रीदुर्गासप्तशतीमुपजीव्य विनिर्मिताः । तासु भास्कररायविरचित-गुप्तवती-नागेशभट्ट-विरचित-",
+  "नागोजीभट्टी-शान्तनवी-भगीरथनिर्मितजगच्चन्द्रचन्द्रिकाप्रभृतयः सप्त परमोपादेयाष्टीका अत्र",
+  "संस्करणेऽभिनिविष्टाः सन्ति ।   शाक्तदर्शनगतसिद्धान्तानां सम्यगुपलब्धये भास्कररायनागोजी-",
+  "भट्टाभ्यां कृते टीके परमोपयोगितां बिभृतः।",
+  "सप्तटीकासमन्वितायाः श्रीदुर्गासप्तशत्याः संस्करणमेतद् विदुषां साधकानां न प्रमोदाय",
+  "स्यादिति बाढमाशास्महे"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 45.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 50.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 47.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 71.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 35.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 60.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 58.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 58.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 46.0,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 8235,
+  "out": 4346
+ },
+ "ts": "2026-10-15T19:16:21"
+}

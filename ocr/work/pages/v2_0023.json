@@ -1,0 +1,597 @@
+{
+ "vol": 2,
+ "scan": 23,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "तीयोऽध्यायः ३ ]  गुप्तवत्यादिषट्टीकासंवलिता । ११३",
+  "( ३ शान्तनवी ) इत्थं महिषासुरः महादेव्याः अम्बिकायाः प्रमथानाम् अनीकानि सैन्यानि प्रमथगणान् निपात्य भूमौ",
+  "पातयित्वा तस्याः सिंहं पञ्चास्यं हन्तुं हिंसितुम् अभ्यधावत आभिमुख्येन अधावत् । 'वरूथिनी बलं सैन्यं चक्रं चानी-",
+  "⟨?⟩याम्' । ततः प्रमथगणमथनतः सिंहं हन्तुमागमत् । ततश्च महिषमहासुरनिप⟨?⟩ड⟨?⟩का चण्डिका कोपं चक्रे क्रोधं",
+  "दित्याह । कोपं चक्रे ततोऽम्बिकेति ॥ २३ ॥",
+  "( ४ नागोजीभट्टी ) निपात्येति । प्रमथाः गणाः २४ ॥ २३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) निपात्येति ॥ २३ ॥",
+  "( ६ दंशोद्धारः ) ॥ २३ ॥",
+  "प कोपान्महावीर्यः खुरक्षुण्णमहीतलः । शृङ्गाभ्यां पर्वतानुच्चांश्चिक्षेप च ननाद च ॥ २४ ॥",
+  "( १ गुप्तवती ) ॥ २४ ॥",
+  "( २ चतुर्धरी ) ॥ २४ ॥",
+  "( ३ शान्तनवी ) महावीर्यः सः महिषासुरः खुरक्षुण्णमहीतलः सन् क्रोधात् क्रोधात् अथैकपादशकलनिष्पिष्ट⟨?⟩कृता⟨?⟩क्षो-",
+  "⟨?⟩ः सन् उच्चैरभ्रंलिहान् पर्वतान् उच्चैरभ्रंलिहमुकुटमूर्धनि देव्यामुखैश्चिक्षेप च उच्चैरक्षैप्सीत् । अथ ना⟨?⟩ उन्ननाद् । णद",
+  "ति शब्दे । गलगर्जनं चोच्चैश्चकार । 'वीर्यं बलं प्रभावश्च' । बलं प्राणसामर्थ्यम् । महावीर्यसंपन्नः सत्त्ववान् महिषोऽतितरा-",
+  "यावत् ॥ २३ ॥",
+  "( ४ नागोजीभट्टी ) ॥ २४ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) सोऽपि कांपादिति ⟨?⟩ ॥ २४ ॥",
+  "( ६ दंशोद्धारः ) ॥ २४ ॥",
+  "⟨?⟩मणविक्षुण्णा मही तस्य व्यशीर्यत । लाङ्गूलेनाहतश्चाब्धिः क्षोभयामास सर्वतः ॥ २५ ॥",
+  "( १ गुप्तवती ) ॥ २५ ॥",
+  "( २ चतुर्धरी ) तस्य वेगभ्रमणाभ्यां विक्षुण्णा मही व्यशीर्यते⟨?⟩ विशीर्णा । कर्मकर्तर्यात्मनेपदम् ॥ २५ ॥",
+  "( ३ शान्तनवी ) तस्य महिषस्य महासुरस्य वेगेन जवेन युक्तं भ्रमणं तेन विक्षुण्णा विशीर्णा संपिष्टा मही व्यशीर्यत",
+  "व विशीर्णा अभवत् । शृ हिंसायाम् । क्र्यादिः परस्मैपदी विपूर्वकोऽकर्मकः । इह तु अन्तर्भावितण्यर्थविवक्षायां विशी",
+  "घः स्वयमेव । विशीर्यते सेतुः स्वयमेवेतिवत्कर्मकर्तरि लङि रूपम् । किंच तस्य महिषस्य लाङ्गूलेन पुच्छेन आहत-",
+  "तोऽद्भिरर्णवः सर्वतः सर्वत्र पृथिव्यां सकलजनान् प्लावयामास वांऽममं चकार । तसिप्रकरणे 'आद्यादिभ्य उपसं-",
+  "इत्यधिकरणे ङसिः । यद्वा कर्मणि ल्यब्लोपे पञ्चमी । सर्वतः सर्वां पृथ्वीं प्राप्य प्लावयामास मज्जयामासेत्यर्थः ॥२५॥",
+  "(४ नागोजीभट्टी ) वेगेति । विक्षुण्णा कुण्ठिता व्यशीर्यतेति कर्मकर्तरि रूपम् । सर्वतः । सार्वविभक्तिकस्तसिः ।",
+  "मास । जलेनेति शेषः ॥ २५ ॥",
+  "(५ जगच्चन्द्रचन्द्रिका ) वेगभ्रमणेति २६ ॥ २५ ॥",
+  "(६ दंशोद्धारः ) वेगेति । व्यशीर्यतेति कर्मकर्तरि लट् ॥ २५ ॥",
+  "च विभिन्नाश्च खण्डंखण्डं ययुर्घनाः । श्वासानिलास्ताः शतशो निपेतुर्नभसोऽचलाः ॥२६॥",
+  "( १ गुप्तवती ) ॥ २६ ॥",
+  "(२ चतुर्धरी ) खण्डंखण्डमिति क्रियाविशेषणम् । ययु⟨?⟩वागताः घना मेघाः श्वासानिलास्ताः निःश्वासवात-",
+  "नभसः आकाशात् । असु क्षेपणे ॥ २६ ॥",
+  "(३ शान्तनवी ) घनाश्च महान्तो मेघाः तेन महिषेण धुताभ्यां शस्त्राभ्यां विभिन्नाः विदारिताः सन्तः खण्डंखण्ड",
+  "कलं ययुः प्रापुः । महिषेण धुतभ्र⟨?⟩विदारिताः महान्तो मेघाः खण्डप्रकाराः खण्डसदृशाः सन्तः खण्डसादृश्यं ययुरि-",
+  "'प्रकारे गुणवचनस्य' इति अधिकस्याल्पसादृश्ये– गुणवचनस्य द्विर्भावः । खण्डंखण्डमयुरिति तु पाठे 'कर्मधारयवदुत्त-",
+  "त विकल्पेन कर्मं वारयस्वातिदेशात् द्विरुक्तयोर्भागयोर्मध्ये पूर्वभागसंवन्धिन्याः विभक्तेर्लुक् । 'श्वासानिलास्ताः शतशो'",
+  "निलाहताः शीर्णाः' 'श्वासानिलास्ताऽविशीर्णा' इति पाठत्रयम् । तस्य महिषस्य रोषजाः श्वासा एव अनिलाः वायवः",
+  "क्षिप्ताः अत एव विशीर्णाश्चूर्णीभूताः अचलाः पर्वताः नभसः सकाशात् निपेतुः निपतिताः । यद्वा श्वासानिलास्ताः"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.773,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 46.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.267,
+   "tesseract_char_agree": 0.828,
+   "tesseract_mean_conf": 51.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 3,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.84,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 86.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.972,
+   "tesseract_mean_conf": 62.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 40.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 55.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 55.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.783,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.154,
+   "tesseract_char_agree": 0.782,
+   "tesseract_mean_conf": 53.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.854,
+   "tesseract_mean_conf": 54.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.6,
+   "tesseract_mean_conf": 36.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 52.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 24.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.825,
+   "tesseract_mean_conf": 61.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 75.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.878,
+   "tesseract_mean_conf": 57.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.859,
+   "tesseract_mean_conf": 59.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 50.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.267,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 52.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 41.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.851,
+   "tesseract_mean_conf": 64.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 50.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.7,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.852,
+   "tesseract_mean_conf": 53.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.125,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 47.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.961,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "तीयोऽध्यायः ३ ]  गुप्तवत्यादिषट्टीकासंवलिता",
+    "( ३ शान्तनवी ) इत्थं महिषासुरः महादेव्याः अम्बिकायाः",
+    "पातयित्वा तस्याः सिंहं पञ्चास्यं हन्तुं हिंसितुम् अभ्यधावत",
+    "⟨?⟩याम्' । ततः प्रमथगणमथनतः सिंहं हन्तुमागमत् । ततश्च",
+    "दित्याह । कोपं चक्रे ततोऽम्बिकेति ॥ २३",
+    "( ४ नागोजीभट्टी ) निपात्येति । प्रमथाः गणाः २४ ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) निपात्येति ॥ २३",
+    "( ६ दंशोद्धारः ) ॥",
+    "प कोपान्महावीर्यः खुरक्षुण्णमहीतलः । शृङ्गाभ्यां",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) ॥",
+    "( ३ शान्तनवी ) महावीर्यः सः महिषासुरः खुरक्षुण्णमहीतलः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ११३",
+    "प्रमथानाम् अनीकानि सैन्यानि प्रमथगणान् निपात्य भूमौ",
+    "आभिमुख्येन अधावत् । 'वरूथिनी बलं सैन्यं चक्रं चानी-",
+    "महिषमहासुरनिप⟨?⟩ड⟨?⟩का चण्डिका कोपं चक्रे क्रोधं",
+    "॥",
+    "२३ ॥",
+    "॥",
+    "२३ ॥",
+    "पर्वतानुच्चांश्चिक्षेप च ननाद च ॥ २४ ॥",
+    "२४ ॥",
+    "२४ ॥",
+    "सन् क्रोधात् क्रोधात् अथैकपादशकलनिष्पिष्ट⟨?⟩कृता⟨?⟩क्षो-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "⟨?⟩ः सन् उच्चैरभ्रंलिहान् पर्वतान् उच्चैरभ्रंलिहमुकुटमूर्धनि",
+    "ति शब्दे । गलगर्जनं चोच्चैश्चकार । 'वीर्यं बलं प्रभावश्च' । बलं",
+    "यावत् ॥",
+    "( ४ नागोजीभट्टी ) ॥ २४",
+    "( ५ जगच्चन्द्रचन्द्रिका ) सोऽपि कांपादिति ⟨?⟩ ॥ २४",
+    "( ६ दंशोद्धारः ) ॥",
+    "⟨?⟩मणविक्षुण्णा मही तस्य व्यशीर्यत ।",
+    "( १ गुप्तवती ) ॥ २५",
+    "( २ चतुर्धरी ) तस्य वेगभ्रमणाभ्यां विक्षुण्णा मही व्यशीर्यते⟨?⟩",
+    "( ३ शान्तनवी ) तस्य महिषस्य महासुरस्य वेगेन जवेन",
+    "व विशीर्णा अभवत् । शृ हिंसायाम् । क्र्यादिः परस्मैपदी",
+    "घः स्वयमेव । विशीर्यते सेतुः स्वयमेवेतिवत्कर्मकर्तरि लङि रूपम्"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "देव्यामुखैश्चिक्षेप च उच्चैरक्षैप्सीत् । अथ ना⟨?⟩ उन्ननाद् । णद",
+    "प्राणसामर्थ्यम् । महावीर्यसंपन्नः सत्त्ववान् महिषोऽतितरा-",
+    "२३ ॥",
+    "॥",
+    "॥",
+    "२४ ॥",
+    "लाङ्गूलेनाहतश्चाब्धिः क्षोभयामास सर्वतः ॥ २५ ॥",
+    "॥",
+    "विशीर्णा । कर्मकर्तर्यात्मनेपदम् ॥ २५ ॥",
+    "युक्तं भ्रमणं तेन विक्षुण्णा विशीर्णा संपिष्टा मही व्यशीर्यत",
+    "विपूर्वकोऽकर्मकः । इह तु अन्तर्भावितण्यर्थविवक्षायां विशी",
+    "। किंच तस्य महिषस्य लाङ्गूलेन पुच्छेन आहत-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "तोऽद्भिरर्णवः सर्वतः सर्वत्र पृथिव्यां सकलजनान् प्लावयामास",
+    "इत्यधिकरणे ङसिः । यद्वा कर्मणि ल्यब्लोपे पञ्चमी । सर्वतः",
+    "(४ नागोजीभट्टी ) वेगेति । विक्षुण्णा कुण्ठिता व्यशीर्यतेति",
+    "मास । जलेनेति शेषः ॥ २५",
+    "(५ जगच्चन्द्रचन्द्रिका ) वेगभ्रमणेति",
+    "(६ दंशोद्धारः ) वेगेति । व्यशीर्यतेति कर्मकर्तरि लट् ॥",
+    "च विभिन्नाश्च खण्डंखण्डं ययुर्घनाः । श्वासानिलास्ताः",
+    "( १ गुप्तवती ) ॥ २६ ॥",
+    "(२ चतुर्धरी ) खण्डंखण्डमिति क्रियाविशेषणम् ।",
+    "नभसः आकाशात् । असु क्षेपणे ॥ २६",
+    "(३ शान्तनवी ) घनाश्च महान्तो मेघाः तेन महिषेण धुताभ्यां",
+    "कलं ययुः प्रापुः । महिषेण धुतभ्र⟨?⟩विदारिताः महान्तो मेघाः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "वांऽममं चकार । तसिप्रकरणे 'आद्यादिभ्य उपसं-",
+    "सर्वां पृथ्वीं प्राप्य प्लावयामास मज्जयामासेत्यर्थः ॥२५॥",
+    "कर्मकर्तरि रूपम् । सर्वतः । सार्वविभक्तिकस्तसिः ।",
+    "॥",
+    "२६ ॥ २५ ॥",
+    "२५ ॥",
+    "शतशो निपेतुर्नभसोऽचलाः ॥२६॥",
+    "ययु⟨?⟩वागताः घना मेघाः श्वासानिलास्ताः निःश्वासवात-",
+    "॥",
+    "शस्त्राभ्यां विभिन्नाः विदारिताः सन्तः खण्डंखण्ड",
+    "खण्डप्रकाराः खण्डसदृशाः सन्तः खण्डसादृश्यं ययुरि-"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "'प्रकारे गुणवचनस्य' इति अधिकस्याल्पसादृश्ये– गुणवचनस्य",
+    "त विकल्पेन कर्मं वारयस्वातिदेशात् द्विरुक्तयोर्भागयोर्मध्ये",
+    "निलाहताः शीर्णाः' 'श्वासानिलास्ताऽविशीर्णा' इति पाठत्रयम्",
+    "क्षिप्ताः अत एव विशीर्णाश्चूर्णीभूताः अचलाः पर्वताः नभसः"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "द्विर्भावः । खण्डंखण्डमयुरिति तु पाठे 'कर्मधारयवदुत्त-",
+    "पूर्वभागसंवन्धिन्याः विभक्तेर्लुक् । 'श्वासानिलास्ताः शतशो'",
+    "। तस्य महिषस्य रोषजाः श्वासा एव अनिलाः वायवः",
+    "सकाशात् निपेतुः निपतिताः । यद्वा श्वासानिलास्ताः"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 24159,
+  "out": 25752
+ },
+ "ts": "2026-10-16T00:25:42"
+}

@@ -1,0 +1,668 @@
+{
+ "vol": 1,
+ "scan": 93,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 46,
+ "lines": [
+  "",
+  "। ८३",
+  "ोऽध्यायः २ ]            गुप्तवत्यादिसप्तटीकासंवलिता",
+  "तयोस्तद्वन्महिषासुरचेष्टितम् । त्रिदशाः कथयामासुर्देवाभिभवविस्तरम् ॥ ४ ॥",
+  "१ गुप्तवती ) ॥ ४ ॥",
+  "२ चतुर्धरी ) यथावृत्तं यथाभूतं तद्वत् तथैव महिषासुरस्य चेष्टितं चरितम् । त्रिदशाः देवाः तयाः रुद्रकृष्णयो-",
+  "पे वा कथयामासुरित्यन्वयः । देवानामभिभवस्य विस्तरः प्रपञ्चो यत्र चेष्टिते ॥ ४ ॥",
+  "३ शान्तनवी ) त्रिदशाः देवास्तयोरीशकेशवयोः अग्रे यथा येन प्रकारेण वृत्तं निष्पन्नं महिषासुरचेष्टितम् औद्धत्यं",
+  "प्रकारेण वृत्तं देवाभिभवविस्तरं देवानाम् अभिभवस्य विस्तरं शब्दप्रपञ्चनं कथयामासुः । अथवा त्रिदशास्तयोरीशकेश-",
+  "थावृत्तं चरित्रमनतिक्रम्य महिषासुरचेष्टितं कथयामासुः । तद्वत् महिषासुरचेष्टितं यथावृत्तं वृत्तमनतिक्रम्य देवा-",
+  "तरं देवानाम् अभिभवो यस्मिन्स विस्तरो यस्मिन्कर्मणि तद्यथा भवति तथा कथयामासुः । महिषासुरचेष्टितं च देवा-",
+  "विस्तरसहितं कथयामासुरिति भावः ॥ ४ ॥",
+  "४ नागोजीभट्टी ) यथावृत्तमिति । देवानामभिभवस्य विस्तरः प्रपञ्चो यत्नेति चेष्टितविशेषणम् ॥ ४ ॥",
+  "५ जगच्चन्द्रचन्द्रिका ) यथावृत्तमिति ५ ॥ ४ ॥",
+  "६ दंशोद्धारः ) ॥ ४ ॥",
+  "न्यनिलेन्दूनां यमस्य वरुणस्य च । अन्येषां चाधिकारान्स स्वयमेवाधितिष्ठति ॥ ५ ॥",
+  "१ गुप्तवती ) ॥ ५ ॥",
+  "२ चतुर्धरी ) स महिषासुरोऽधितिष्ठत्यनुतिष्ठति । ‘अधिशीङ्स्थासां कर्म’ इति कर्मसंज्ञा ॥ ५ ॥",
+  "३ शान्तनवी ) चकारेणानुक्तदिक्पत्यनुग्रहा गृह्यन्ते । ततो ऽन्येषां ब्रह्मर्षीणां च अमीषां सूर्यादीनाम् अधिकारान्स",
+  "ः स्वयमेवाधितिष्ठति । सूर्यस्य इन्द्रस्य अग्नेः अनिलस्य इन्दोर्यमस्य वरुणस्य अतोऽन्येषां च देवानाम् ऋषीणां चा-",
+  "ः स्वयमेवाधितिष्ठति । सूर्यस्य इन्द्रस्य अग्नेः अनिलस्य इन्दो र्यमस्य वरुणस्य अतोऽन्येषां च देवानाम् ऋषीणां चा-",
+  "स्वयमेव महिषासुरस्तिष्ठति । ‘अधिशीङ्स्थासां कर्म’ इत्यधिकरणं कर्माण्ययम् ‘उपपदविभक्तेः कारकविभक्तिर्बलीय-",
+  "थाभिधाने ॥ ५ ॥",
+  "४ नागोजीभट्टी ) सूर्येन्द्रेति । स स्वयमित्यत्र ‘एतत्तदोः’ इति सुलोपः । स्वयमिति द्विसकारपाठस्तु ‘अनचि च’",
+  "न बोध्यः ॥ ५ ॥",
+  "५ जगच्चन्द्रचन्द्रिका ) सूर्येन्द्राग्न्यनिलेति ६ ॥ ५ ॥",
+  "६ दंशोद्धारः ) ॥ ५ ॥",
+  "निराकृताः सर्वे तेन देवगणा भुवि । विचरन्ति तथा मर्त्या महिषेण दुरात्मना ॥ ६ ॥",
+  "१ गुप्तवती ) ॥ ६ ॥",
+  "२ चतुर्धरी ) निराकृताः निःसारिताः भुवि चरन्ति इत्यन्वयः । मर्त्या मनुष्या इव ॥ ६ ॥",
+  "३ शान्तनवी ) दुरात्मना तेन महिषासुरेण सर्वे देवगणाः स्वर्गान्निराकृताः सन्तः भुवि विचरन्ति प्रचरन्ति",
+  "था मरणधर्माणो मनुष्या इव प्रत्याख्याताः निरस्ताः निराकृताः ॥ ६ ॥",
+  "४ नागोजीभट्टी ) स्वर्गादिति । निराकृताः निःसारिताः ॥ ६ ॥",
+  "५ जगच्चन्द्रचन्द्रिका ) स्वर्गान्निराकृता इति ७ ॥ ६",
+  "६ दंशोद्धारः ) ॥ ६ ॥",
+  "कथितं सर्वममरारिविचेष्टितम् । शरणं च प्रपन्नाः स्मो वधस्तस्य विचिन्त्यताम् ॥ ७ ॥",
+  "१ गुप्तवती ) एतद्व इति बहुवचनं हारिहरौ सशक्तिकौ लक्ष्यीकृत्य ॥ ७ ॥",
+  "२ चतुर्धरी ) वः इति गुरुत्वादेकशो बहुवचनम् । प्रपन्ना आगताः स्मो भवामः ॥ ७ ॥",
+  "३ शान्तनवी ) अत्र वः इति ब्रह्मविष्णुमहेश्वरापेक्षं बहुवचनम् । अस्माभिर्देवैरिन्द्रादिभिः एतत् अमरारिविचेष्टितं",
+  "महिषासुरस्य विचेष्टितम् ‘औद्धत्यं देवाभिभवनं च सर्वं निरवशेषं च युष्माकमग्रे कथितम् । वयमिन्द्रादयः सर्वे वः",
+  "त्रीन् शरणं रक्षितृन् दुःखेभ्यः पालयितृन् प्रपन्नाः प्राप्ताः स्मः । तस्य महिषासुरस्य वधः हननं विचिन्त्यताम् ।",
+  "न्येत स उपायो युष्माभिश्चिन्तनीयः । शॄ हिंसायाम् । शृणाति शत्रून् । ‘शरणं गृहरक्षि⟨?⟩ोः’ वेदाः प्रमाणमितिवच्छ-",
+  "वचनान्तं विवक्षितम् । अस्तेर्लङुत्तमपुरुषबहुवचनान्तं स्म इति । वध हिंसायाम् । वधनं वधः । भावे घञ् । ‘जनिव-",
+  "",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 49.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 52.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.795,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 50.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.909,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 75.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 39.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.978,
+   "tesseract_mean_conf": 83.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 72.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 60.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 71.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 47.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.868,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 40.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 52.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.786,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 78.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 59.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 67.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 62.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 69.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.975,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 81.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.776,
+   "tesseract_mean_conf": 68.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.966,
+   "tesseract_mean_conf": 78.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 30.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 23.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 34.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 3 col 1: got 7 lines, expected 10; realigned, 3 line(s) unmatched",
+  "band 3 col 0: got 7 lines, expected 10; realigned, 3 line(s) unmatched",
+  "band 0 col 0: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ोऽध्यायः २ ]            गुप्तवत्यादिसप्तटीकासंवलिता",
+    "तयोस्तद्वन्महिषासुरचेष्टितम् । त्रिदशाः",
+    "१ गुप्तवती ) ॥",
+    "२ चतुर्धरी ) यथावृत्तं यथाभूतं तद्वत् तथैव महिषासुरस्य",
+    "पे वा कथयामासुरित्यन्वयः । देवानामभिभवस्य विस्तरः",
+    "३ शान्तनवी ) त्रिदशाः देवास्तयोरीशकेशवयोः अग्रे यथा",
+    "प्रकारेण वृत्तं देवाभिभवविस्तरं देवानाम् अभिभवस्य विस्तरं",
+    "थावृत्तं चरित्रमनतिक्रम्य महिषासुरचेष्टितं कथयामासुः ।",
+    "तरं देवानाम् अभिभवो यस्मिन्स विस्तरो यस्मिन्कर्मणि तद्यथा",
+    "विस्तरसहितं कथयामासुरिति भावः ॥ ४"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ८३",
+    "कथयामासुर्देवाभिभवविस्तरम् ॥ ४ ॥",
+    "४ ॥",
+    "चेष्टितं चरितम् । त्रिदशाः देवाः तयाः रुद्रकृष्णयो-",
+    "प्रपञ्चो यत्र चेष्टिते ॥ ४ ॥",
+    "येन प्रकारेण वृत्तं निष्पन्नं महिषासुरचेष्टितम् औद्धत्यं",
+    "शब्दप्रपञ्चनं कथयामासुः । अथवा त्रिदशास्तयोरीशकेश-",
+    "तद्वत् महिषासुरचेष्टितं यथावृत्तं वृत्तमनतिक्रम्य देवा-",
+    "भवति तथा कथयामासुः । महिषासुरचेष्टितं च देवा-",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "४ नागोजीभट्टी ) यथावृत्तमिति । देवानामभिभवस्य",
+    "५ जगच्चन्द्रचन्द्रिका ) यथावृत्तमिति ५ ॥",
+    "६ दंशोद्धारः ) ॥",
+    "न्यनिलेन्दूनां यमस्य वरुणस्य च । अन्येषां",
+    "१ गुप्तवती ) ॥",
+    "२ चतुर्धरी ) स महिषासुरोऽधितिष्ठत्यनुतिष्ठति ।",
+    "३ शान्तनवी ) चकारेणानुक्तदिक्पत्यनुग्रहा गृह्यन्ते । ततो",
+    "ः स्वयमेवाधितिष्ठति । सूर्यस्य इन्द्रस्य अग्नेः अनिलस्य",
+    "ः स्वयमेवाधितिष्ठति । सूर्यस्य इन्द्रस्य अग्नेः अनिलस्य इन्दो",
+    "स्वयमेव महिषासुरस्तिष्ठति । ‘अधिशीङ्स्थासां कर्म’ इत्यधिकरणं",
+    "थाभिधाने ॥ ५",
+    "४ नागोजीभट्टी ) सूर्येन्द्रेति । स स्वयमित्यत्र ‘एतत्तदोः’"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "विस्तरः प्रपञ्चो यत्नेति चेष्टितविशेषणम् ॥ ४ ॥",
+    "४ ॥",
+    "४ ॥",
+    "चाधिकारान्स स्वयमेवाधितिष्ठति ॥ ५ ॥",
+    "५ ॥",
+    "‘अधिशीङ्स्थासां कर्म’ इति कर्मसंज्ञा ॥ ५ ॥",
+    "ऽन्येषां ब्रह्मर्षीणां च अमीषां सूर्यादीनाम् अधिकारान्स",
+    "इन्दोर्यमस्य वरुणस्य अतोऽन्येषां च देवानाम् ऋषीणां चा-",
+    "र्यमस्य वरुणस्य अतोऽन्येषां च देवानाम् ऋषीणां चा-",
+    "कर्माण्ययम् ‘उपपदविभक्तेः कारकविभक्तिर्बलीय-",
+    "॥",
+    "इति सुलोपः । स्वयमिति द्विसकारपाठस्तु ‘अनचि च’"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "न बोध्यः ॥",
+    "५ जगच्चन्द्रचन्द्रिका ) सूर्येन्द्राग्न्यनिलेति ६ ॥ ५",
+    "६ दंशोद्धारः ) ॥ ५",
+    "निराकृताः सर्वे तेन देवगणा भुवि । विचरन्ति",
+    "१ गुप्तवती ) ॥ ६",
+    "२ चतुर्धरी ) निराकृताः निःसारिताः भुवि चरन्ति इत्यन्वयः",
+    "३ शान्तनवी ) दुरात्मना तेन महिषासुरेण सर्वे देवगणाः",
+    "था मरणधर्माणो मनुष्या इव प्रत्याख्याताः निरस्ताः निराकृताः",
+    "४ नागोजीभट्टी ) स्वर्गादिति । निराकृताः निःसारिताः",
+    "५ जगच्चन्द्रचन्द्रिका ) स्वर्गान्निराकृता इति ७ ॥",
+    "६ दंशोद्धारः ) ॥ ६",
+    "कथितं सर्वममरारिविचेष्टितम् । शरणं च प्रपन्नाः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "५ ॥",
+    "॥",
+    "॥",
+    "तथा मर्त्या महिषेण दुरात्मना ॥ ६ ॥",
+    "॥",
+    "। मर्त्या मनुष्या इव ॥ ६ ॥",
+    "स्वर्गान्निराकृताः सन्तः भुवि विचरन्ति प्रचरन्ति",
+    "॥ ६ ॥",
+    "॥ ६ ॥",
+    "६",
+    "॥",
+    "स्मो वधस्तस्य विचिन्त्यताम् ॥ ७ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "lines": [
+    "१ गुप्तवती ) एतद्व इति बहुवचनं हारिहरौ सशक्तिकौ",
+    "२ चतुर्धरी ) वः इति गुरुत्वादेकशो बहुवचनम् । प्रपन्ना",
+    "३ शान्तनवी ) अत्र वः इति ब्रह्मविष्णुमहेश्वरापेक्षं बहुवचनम्",
+    "महिषासुरस्य विचेष्टितम् ‘औद्धत्यं देवाभिभवनं च सर्वं",
+    "त्रीन् शरणं रक्षितृन् दुःखेभ्यः पालयितृन् प्रपन्नाः प्राप्ताः",
+    "न्येत स उपायो युष्माभिश्चिन्तनीयः । शॄ हिंसायाम् । शृणाति",
+    "वचनान्तं विवक्षितम् । अस्तेर्लङुत्तमपुरुषबहुवचनान्तं स्म इति"
+   ],
+   "expected": 10,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "lines": [
+    "लक्ष्यीकृत्य ॥ ७ ॥",
+    "आगताः स्मो भवामः ॥ ७ ॥",
+    "। अस्माभिर्देवैरिन्द्रादिभिः एतत् अमरारिविचेष्टितं",
+    "निरवशेषं च युष्माकमग्रे कथितम् । वयमिन्द्रादयः सर्वे वः",
+    "स्मः । तस्य महिषासुरस्य वधः हननं विचिन्त्यताम् ।",
+    "शत्रून् । ‘शरणं गृहरक्षि⟨?⟩ोः’ वेदाः प्रमाणमितिवच्छ-",
+    "। वध हिंसायाम् । वधनं वधः । भावे घञ् । ‘जनिव-"
+   ],
+   "expected": 10,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25094,
+  "out": 15066
+ },
+ "ts": "2026-10-15T23:24:45"
+}

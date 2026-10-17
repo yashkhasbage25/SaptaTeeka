@@ -1,0 +1,750 @@
+{
+ "vol": 1,
+ "scan": 85,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 51,
+ "lines": [
+  "",
+  "",
+  "",
+  "प्रथमोऽध्यायः १ ]    गुप्तवत्यादिसप्तटी",
+  "( ५ जगच्चन्द्रचन्द्रिका ) पुनरर्धात्मकमिति । पुनः",
+  "महासुरौ स्वाहा' ८७ ॥ ६७ ॥",
+  "( ६ दंशोद्धारः ) प्रबोधमिति । जागरणम् । लघु",
+  "ऋषिरुवाच",
+  "एवं स्तुता तदा देवी तामसी तत्र वेधसा । विष्णोः",
+  "( १ गुप्तवती ) एवं स्तुतेति । अत्रेदं रहस्यम् ।",
+  "रजस्तमस्वरूपा  एवान्तःसत्त्वरजस्तमोरूपा अपीति सात्त्विकादिपदेनैवासां",
+  "दिरूपिण्येव । अत एव चण्डिकाया महिषासुरहननकाले मधुपानेनारक्तता",
+  "( २ चतुर्धरी ) तामसी निद्राकारेण परिणता अविद्याशक्तिः",
+  "ययाच्छादितलोकोऽयं पश्यन्नपि न पश्यति' । वेधसा ब्रह्मणा ॥",
+  "( ३ शान्तनवी ) तदा तस्मिन् प्रलयकाले तत्र विष्णुनाभिकमले",
+  "देवी मधुकैटभौ निहन्तुं विष्णोः प्रबोधनार्थाय तस्यैव",
+  "व्यक्ताजन्मनः प्रकटजननस्य ब्रह्मणः अव्यक्ताजन्मनश्च दर्शने",
+  "प्रधानात् जन्म यस्य सः अव्यक्तादात्मनः जन्म यस्य वा ।",
+  "चेति द्वन्द्वः । प्राण्यङ्गत्वात् प्राप्तस्यैकवद्भावस्य 'न दधिपयआदीनि'",
+  "नेत्रास्यनासिकाबाह्वृत्तेन सहिताः अयाः प्राणाः उच्छ्वासनिःश्वास",
+  "नपथमगमदिति भावः ॥ ६८ ॥",
+  "( ४ नागोजीभट्टी ) ऋषिरुवाच । एवं स्तुतेति ।",
+  "निहन्तुं चेत्यर्थः ॥ ६८ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ऋषिश्चेति । ऋषिरुवाच",
+  "मन्त्रः । तद्यथा । ‘एवं स्तुता तदा देवी तामसी तत्र वेधसा स्वाहा ८९' । श्लोकास्तु पञ्च वा इति तु पुनः वै निश्चयेन पञ्च",
+  "पञ्चसंख्याकाः श्लोकाः श्लोकरूपा मन्त्राः । तद्यथा विष्णोः प्रबोधेति ॥ ९० ॥ ६८ ॥",
+  "( ६ दंशोद्धारः ) एवमिति । तामसी निद्रारूपा ॥ ६८ ॥",
+  "नेत्रास्यनासिकाबाहुहृदयेभ्यस्तथोरसः । निर्गम्य दर्शिने तस्थौ ब्रह्मणोऽव्यक्तजन्मनः ॥ ६९ ॥",
+  "( १ गुप्तवती ) तया रीत्या तामस्यपि योगनिद्रा स्वान्तःस्थितसत्त्वमात्रस्य स्वस्या एव रूपान्तरस्यावशेषाय बाह-",
+  "स्वांशं तमोरूपं निःसारितवतीत्याह । नेत्रास्येति । एतेन देव्या एव तन्त्रेषु मधुकैटभहन्तृत्वव्यवहार उपपद्यते । पुरुषाभ्या",
+  "सह बाहुयुद्धयोगेन पौरुषरूपेणैव तौ हतवतीति स्थितिः ॥ ६९ ॥",
+  "( २ चतुर्धरी ) नेत्रास्यादिभ्यो विष्णोरित्यनुषज्यते । प्राण्यङ्गत्वेऽपि क्वचिन्न समाहारः समासोऽभिधानात् । क्वचि-",
+  "⟨?⟩त्यः क्वचिदेव कल्पित इति न्यायात् । हृदयम् अन्तःकरणम् । उरो वक्षः । हृदयं मन इति वा अन्य आह । हृदयं वक्षः ।",
+  "उरः प्रधानाङ्गं गुह्यमिति । ब्रह्मणो दर्शने चक्षुर्विषये । अव्यक्तादीश्वरात् जन्म यस्य ॥ ६९ ॥",
+  "( ३ शान्तनवी ) पूर्वश्लोक एव व्याख्यातास्य श्लोकस्य टीका ॥ ६९ ॥",
+  "(४ नागोजीभट्टी ) नेत्रास्येति । विष्णोरित्यादि । उरो वक्षः । प्राण्यङ्गत्वेऽपि नैकवच्छान्दसत्वात् । अव्यक्तादीश्व-",
+  "रात् जन्म प्रादुर्भावो यस्य तस्य ब्रह्मणः दर्शने चक्षुर्विषये",
+  "( ५ जगच्चन्द्रचन्द्रिका ) निर्गतयेति ९१ ॥ ६९",
+  "( ६ दंशोद्धारः ) नेत्रास्येति । पूर्वोक्तस्य विष्णोरि",
+  "प्राप्ते बहुवचनमार्षम् । लक्षणाहेतुरितिसूत्रे मुखनासिकाभ्यामिति",
+  "प्रयुज्यते 'ग्रीवाकुक्षिललाटेषु नित्यं स्वेदः प्रशस्यते' ।",
+  "प्राप्ते बहुवचनमार्षम् । लक्षणाहेतुरितिसूत्रे मुखनासिकाभ्यां",
+  "प्रयुज्यते 'ग्रीवाकुक्षिललाटेषु नित्यं स्वेदः प्रशस्यते' । 'राजह",
+  "माह तत्र । अस्य निर्देशस्य स्वरूपपरत्वात् रक्षितस्तु",
+  "उत्तस्थौ च जगन्नाथस्तया मुक्तो जनार्दनः ।",
+  "( १ गुप्तवती ) प्रकृतकर्मानुगुणं विशेष्यमाह ।",
+  "( १ गुप्तवती ) प्रकृतकर्मानुगुणं विशेष्यमाह । ज",
+  "( १ गुप्तवती ) प्रकृतकर्मानुगुणं विशेष्यमाह । ज",
+  "⟨?⟩ ⟨?⟩",
+  "⟨?⟩ ⟨?⟩",
+  "⟨?⟩ ⟨?⟩"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 37.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 7.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 30.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.705,
+   "tesseract_mean_conf": 44.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.418,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.684,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.524,
+   "tesseract_mean_conf": 76.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.529,
+   "tesseract_mean_conf": 69.9,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.361,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.3,
+   "tesseract_char_agree": 0.56,
+   "tesseract_mean_conf": 64.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.552,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.467,
+   "tesseract_mean_conf": 67.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 79.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.479,
+   "tesseract_mean_conf": 56.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.182,
+   "tesseract_char_agree": 0.48,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.389,
+   "tesseract_char_agree": 0.471,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.067,
+   "tesseract_char_agree": 0.537,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.465,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.436,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 84.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.402,
+   "tesseract_mean_conf": 65.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.783,
+   "tesseract_char_agree": 0.954,
+   "tesseract_mean_conf": 83.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 79.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 76.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 59.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.786,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 59.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.773,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 84.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 68.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.588,
+   "tesseract_mean_conf": 67.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.154,
+   "tesseract_char_agree": 0.373,
+   "tesseract_mean_conf": 52.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.111,
+   "tesseract_char_agree": 0.436,
+   "tesseract_mean_conf": 57.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.402,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 74.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.333,
+   "tesseract_mean_conf": 44.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.188,
+   "tesseract_char_agree": 0.447,
+   "tesseract_mean_conf": 78.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.426,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.083,
+   "tesseract_char_agree": 0.551,
+   "tesseract_mean_conf": 60.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 55.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 48.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 31.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 24.0,
+   "needs_review": true
+  }
+ ],
+ "issues": [
+  "band 0 col 0: got 9 lines, expected 12; realigned, 3 line(s) unmatched",
+  "band 1 col 1: got 0 lines, expected 12; realigned, 12 line(s) unmatched",
+  "band 0 col 1: got 0 lines, expected 12; realigned, 12 line(s) unmatched",
+  "band 3 col 1: got 0 lines, expected 12; realigned, 12 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "प्रथमोऽध्यायः १ ]    गुप्तवत्यादिसप्तटी",
+    "( ५ जगच्चन्द्रचन्द्रिका ) पुनरर्धात्मकमिति । पुनः",
+    "महासुरौ स्वाहा' ८७ ॥ ६७ ॥",
+    "( ६ दंशोद्धारः ) प्रबोधमिति । जागरणम् । लघु",
+    "ऋषिरुवाच",
+    "एवं स्तुता तदा देवी तामसी तत्र वेधसा । विष्णोः",
+    "( १ गुप्तवती ) एवं स्तुतेति । अत्रेदं रहस्यम् ।",
+    "रजस्तमस्वरूपा  एवान्तःसत्त्वरजस्तमोरूपा अपीति सात्त्विकादिपदेनैवासां",
+    "दिरूपिण्येव । अत एव चण्डिकाया महिषासुरहननकाले मधुपानेनारक्तता"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "( २ चतुर्धरी ) तामसी निद्राकारेण परिणता अविद्याशक्तिः",
+    "ययाच्छादितलोकोऽयं पश्यन्नपि न पश्यति' । वेधसा ब्रह्मणा ॥",
+    "( ३ शान्तनवी ) तदा तस्मिन् प्रलयकाले तत्र विष्णुनाभिकमले",
+    "देवी मधुकैटभौ निहन्तुं विष्णोः प्रबोधनार्थाय तस्यैव",
+    "व्यक्ताजन्मनः प्रकटजननस्य ब्रह्मणः अव्यक्ताजन्मनश्च दर्शने",
+    "प्रधानात् जन्म यस्य सः अव्यक्तादात्मनः जन्म यस्य वा ।",
+    "चेति द्वन्द्वः । प्राण्यङ्गत्वात् प्राप्तस्यैकवद्भावस्य 'न दधिपयआदीनि'",
+    "नेत्रास्यनासिकाबाह्वृत्तेन सहिताः अयाः प्राणाः उच्छ्वासनिःश्वास",
+    "नपथमगमदिति भावः ॥ ६८ ॥",
+    "( ४ नागोजीभट्टी ) ऋषिरुवाच । एवं स्तुतेति ।",
+    "निहन्तुं चेत्यर्थः ॥ ६८ ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ऋषिश्चेति । ऋषिरुवाच"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "मन्त्रः । तद्यथा । ‘एवं स्तुता तदा देवी तामसी तत्र वेधसा",
+    "पञ्चसंख्याकाः श्लोकाः श्लोकरूपा मन्त्राः । तद्यथा विष्णोः",
+    "( ६ दंशोद्धारः ) एवमिति । तामसी निद्रारूपा ॥",
+    "नेत्रास्यनासिकाबाहुहृदयेभ्यस्तथोरसः । निर्गम्य",
+    "( १ गुप्तवती ) तया रीत्या तामस्यपि योगनिद्रा",
+    "स्वांशं तमोरूपं निःसारितवतीत्याह । नेत्रास्येति । एतेन देव्या",
+    "सह बाहुयुद्धयोगेन पौरुषरूपेणैव तौ हतवतीति स्थितिः ॥",
+    "( २ चतुर्धरी ) नेत्रास्यादिभ्यो विष्णोरित्यनुषज्यते",
+    "⟨?⟩त्यः क्वचिदेव कल्पित इति न्यायात् । हृदयम् अन्तःकरणम्",
+    "उरः प्रधानाङ्गं गुह्यमिति । ब्रह्मणो दर्शने चक्षुर्विषये ।",
+    "( ३ शान्तनवी ) पूर्वश्लोक एव व्याख्यातास्य श्लोकस्य",
+    "(४ नागोजीभट्टी ) नेत्रास्येति । विष्णोरित्यादि ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": true
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "स्वाहा ८९' । श्लोकास्तु पञ्च वा इति तु पुनः वै निश्चयेन पञ्च",
+    "प्रबोधेति ॥ ९० ॥ ६८ ॥",
+    "६८ ॥",
+    "दर्शिने तस्थौ ब्रह्मणोऽव्यक्तजन्मनः ॥ ६९ ॥",
+    "स्वान्तःस्थितसत्त्वमात्रस्य स्वस्या एव रूपान्तरस्यावशेषाय बाह-",
+    "एव तन्त्रेषु मधुकैटभहन्तृत्वव्यवहार उपपद्यते । पुरुषाभ्या",
+    "६९ ॥",
+    "। प्राण्यङ्गत्वेऽपि क्वचिन्न समाहारः समासोऽभिधानात् । क्वचि-",
+    "। उरो वक्षः । हृदयं मन इति वा अन्य आह । हृदयं वक्षः ।",
+    "अव्यक्तादीश्वरात् जन्म यस्य ॥ ६९ ॥",
+    "टीका ॥ ६९ ॥",
+    "उरो वक्षः । प्राण्यङ्गत्वेऽपि नैकवच्छान्दसत्वात् । अव्यक्तादीश्व-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "रात् जन्म प्रादुर्भावो यस्य तस्य ब्रह्मणः दर्शने चक्षुर्विषये",
+    "( ५ जगच्चन्द्रचन्द्रिका ) निर्गतयेति ९१ ॥ ६९",
+    "( ६ दंशोद्धारः ) नेत्रास्येति । पूर्वोक्तस्य विष्णोरि",
+    "प्राप्ते बहुवचनमार्षम् । लक्षणाहेतुरितिसूत्रे मुखनासिकाभ्यामिति",
+    "प्रयुज्यते 'ग्रीवाकुक्षिललाटेषु नित्यं स्वेदः प्रशस्यते' ।",
+    "प्राप्ते बहुवचनमार्षम् । लक्षणाहेतुरितिसूत्रे मुखनासिकाभ्यां",
+    "प्रयुज्यते 'ग्रीवाकुक्षिललाटेषु नित्यं स्वेदः प्रशस्यते' । 'राजह",
+    "माह तत्र । अस्य निर्देशस्य स्वरूपपरत्वात् रक्षितस्तु",
+    "उत्तस्थौ च जगन्नाथस्तया मुक्तो जनार्दनः ।",
+    "( १ गुप्तवती ) प्रकृतकर्मानुगुणं विशेष्यमाह ।",
+    "( १ गुप्तवती ) प्रकृतकर्मानुगुणं विशेष्यमाह । ज",
+    "( १ गुप्तवती ) प्रकृतकर्मानुगुणं विशेष्यमाह । ज"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b4_c0.jpg",
+   "band": 4,
+   "col": 0,
+   "line_indices": [
+    48,
+    49,
+    50
+   ],
+   "lines": [
+    "⟨?⟩",
+    "⟨?⟩",
+    "⟨?⟩"
+   ],
+   "expected": 3,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b4_c1.jpg",
+   "band": 4,
+   "col": 1,
+   "line_indices": [
+    48,
+    49,
+    50
+   ],
+   "lines": [
+    "⟨?⟩",
+    "⟨?⟩",
+    "⟨?⟩"
+   ],
+   "expected": 3,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 32770,
+  "out": 40006
+ },
+ "ts": "2026-10-16T01:09:13"
+}

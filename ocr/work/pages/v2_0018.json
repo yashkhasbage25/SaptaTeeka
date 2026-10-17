@@ -1,0 +1,610 @@
+{
+ "vol": 2,
+ "scan": 18,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 41,
+ "lines": [
+  "",
+  "१०८ दुर्गासप्तशती । [ तृतीयोऽध्यायः ३",
+  "( ४ नागोजीभट्टी ) सिंहमिति । सव्ये वामे ॥ ६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) सिंहमाहत्येति ७ ॥ ६ ॥",
+  "( ६ दंशोद्धारः ) सिंहमिति । 'आङो यमहनः' इत्यात्मनेपदं तु न । अकर्मकात्स्वाङ्गकर्मकादिति वचनात् ।",
+  "सव्ये वामे ॥ ६ ॥",
+  "तस्याः खड्गो भुजं प्राप्य पफाल नृपनन्दन । ततो जग्राह शूलं स कोपादरुणलोचनः ॥ ७ ॥",
+  "( १ गुप्तवती ) पफाल विशीर्णः ॥ ७ ॥",
+  "( २ चतुर्धरी ) तस्या भुजमित्यन्वयः । पफाल अभज्यतेत्यर्थः । त्रिफला विशरण इत्यस्य रूपम् । हे नृपनन्दन ।",
+  "यद्वा नन्दयतीति नन्दः । हे नृपनन्द । न पफाल आत्मक्रियानिष्पत्तिं नाकरोत् । एवं च फल निष्पत्तावित्यस्मादेव रूपम् ।",
+  "तच्छूलमिति पाठः । 'अस्त्री शूलं ह⟨?⟩गायुधम्' इति द्वि लिङ्गत्वाभिधानात् ॥ ७ ॥",
+  "( ३ शान्तनवी ) हे राजन् सुरथ निशामयेति तस्याः देव्याः वामभुजं प्राप्य चिक्षुराख्यमहासुरप्रयुक्तः खड्गः",
+  "मण्डलाग्रः पफाल । ञिफला विशरणे । विशशार चूर्णीबिभूव विशीर्णोऽभूत् । ततः खङ्गभङ्गानन्तरं कोपात् अरुणलोचन",
+  "रक्तलोचनः सः चिक्षुराख्योऽसुरः शूलं त्रिशूलम् आयुधं जग्राह अग्रहीत् । 'अस्त्री शूलं रुगायुधम्' ॥ ७ ॥",
+  "( ४ नागोजीभट्टी ) तस्या इति । पफाल विशीर्णः । तस्या भुजमित्यन्वयः ॥ ७ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) तस्याः खङ्ग इति ८ ॥ ७ ॥",
+  "( ६ दंशोद्धारः ) तस्या इति । पफाल व्यशीर्यत् । त्रिफला विशरणे । यद्वा नृपान्नन्दयतीतिनृपनन्दनः । मूल",
+  "विभुजादि⟨?⟩त्मकः । तत्संबुद्धिः हे नृपनन्दन । पफाल । निजकार्यं चकारेत्यर्थः । फल निष्पत्तौ । अन्तर्भावितण्यर्थः ॥ ७ ॥",
+  "चिक्षेप च ततस्तत्तु भद्रकाल्यां महासुरः । जाज्वल्यमानं तेजोभी रविबिम्बमिवाम्बरात् ॥ ८ ॥",
+  "( १ गुप्तवती ) ॥ ८ ॥",
+  "( २ चतुर्धरी ) तेजोभी रश्मिभिः जाज्वल्यमानम् अत्यन्तं ज्वलत् । अम्बरात् आकाशे । 'सुपां सुपो भवन्ति' इति",
+  "सप्तम्यर्थे पञ्चमी । यद्वा अम्बरे समवस्थायि रविबिम्बमिवेति ल्यब्लोपे पञ्चमी । केचित्तु अम्बरम् । अत सातत्यगमने इति",
+  "किंतु रविबिम्बस्यैत्र विशेषणमाहुः । तेजोभी रविबिम्बमिवेति । रो रीतिलोपे शिति दीर्घत्वम् । ह्रस्वपाठे तु अविशब्द एव",
+  "रविबिम्बवचनः । 'अविर्मेषे गिरौ सूर्ये' इत्यभिधानात् ॥ ८ ॥",
+  "( ३ शान्तनवी ) ततः त्रिशूलमग्रहणादनन्तरं चिक्षुराह्वयो महामुरः ततः प्राक् गृहीतत्रिशूलमायुधं भद्रकाल्यां देव्यां",
+  "विषये चिक्षेप अक्षैप्सीत् । क्षिप प्रेरणे । कीदृशं त्रिशूलम् । अम्बरात् आकाशात् अम्बरमाकाशम् आक्रम्य तेजोभिः रविबि",
+  "म्बमिव सूर्यमण्डलमिव जाज्वल्यमानं देदीप्यमानम् इत्यर्थः । अम्बरादिति कर्मणि ल्यब्लोपे पञ्चमी वक्तव्या । तेजोभि",
+  "रविविम्बमित्यत्र रो रीति रेफलोपे पूर्वस्याणो दीर्घः । तेजोभिरविबिम्बमित्यदीर्घपाठेऽपि अवेः सूर्यस्य बिम्बमिवेत्यर्थः",
+  "'अवयः शैलमेषार्काः' इत्यभिधानात् । अम्बरमतति सततं गच्छति अम्बरादिति प्रथमान्तत्वे तु रविबिम्बविशेषणं द्रष्टव्यम्",
+  "भद्रा च सा कालस्य कालाभिमुखस्य स्त्री काली चेति भद्रकाली । यद्वा काली चण्डिका ॥ ८ ॥",
+  "( ४ नागोजीभट्टी ) चिक्षेपेति । तत् शूलं अम्बराद्रविबिम्बमिव इत्युत्तरान्वयि । तेजोभिः इत्यत्र इलोप इति",
+  "दीर्घः ॥ ८ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) चिक्षेपेति ९ ॥ ८ ॥",
+  "( ६ दंशोद्धारः ) चिक्षेपेति । जाज्वल्यमानमत्यर्थं ज्वलत् । अम्बरात् आकाशे । छान्दसत्वाद्विभक्तिव्यत्ययः ।",
+  "यद्वा अम्बरे अवस्थाप्य चिक्षेपेत्यर्थः । ल्यब्लोपे पञ्चमी । यद्वा अम्बरमततीत्यम्बरात् । प्रथमान्तं रविबिम्बविशेषणम् । अत",
+  "सातत्यगमनेऽस्मात् किप् तेजोभिरविविम्बमिति पाठे अविः बिम्बमिति च्छेदः । 'अविः शैले रवौ मेषे' इति विश्वः ॥ ८ ॥",
+  "दृष्ट्वा तदापतच्छूलं देवी शूलममुञ्चत । तेन तच्छतधा नीतं शूलं स च महासुरः ॥ ९ ॥",
+  "( १ गुप्तवती ) तेन देवीमुक्तेन प्रतिशूलेन स चिक्षुरश्च शतधा नीत इति लिङ्गविपरिणामेनान्वयः ॥ ९ ॥",
+  "( २ चतुर्धरी ) ॥ ९ ॥",
+  "( ३ शान्तनवी ) तत् चिक्षुरप्रयुक्तम् आपतत् आगच्छत् शूलं कर्म दृष्ट्वा देवी स्वकीयं शूलम् अमुञ्चत प्रयुक्तवती ।",
+  "तेन देव्या अम्बिकया प्रयुक्तेन शूलेन तत् चिक्षुरप्रयुक्तं शूलं शतधा शतप्रकारैः चूर्णतां नीतं प्रापितमभूत् । न केवलं चि-"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.818,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 75.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 63.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.769,
+   "tesseract_mean_conf": 40.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 76.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.889,
+   "tesseract_char_agree": 0.96,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 70.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.855,
+   "tesseract_mean_conf": 60.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.933,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 88.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 79.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.851,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 50.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.412,
+   "tesseract_char_agree": 0.884,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 73.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.936,
+   "tesseract_mean_conf": 63.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 74.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 66.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 80.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.733,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 73.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 61.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.972,
+   "tesseract_mean_conf": 75.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 77.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 70.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.828,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.769,
+   "tesseract_mean_conf": 63.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 59.6,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 0 col 0: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 4 lines, expected 5; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "१०८ दुर्गासप्तशती",
+    "( ४ नागोजीभट्टी ) सिंहमिति । सव्ये वामे ॥ ६",
+    "( ५ जगच्चन्द्रचन्द्रिका ) सिंहमाहत्येति ७ ॥ ६",
+    "( ६ दंशोद्धारः ) सिंहमिति । 'आङो यमहनः'",
+    "सव्ये वामे ॥ ६",
+    "तस्याः खड्गो भुजं प्राप्य पफाल नृपनन्दन ।",
+    "( १ गुप्तवती ) पफाल विशीर्णः ॥ ७",
+    "( २ चतुर्धरी ) तस्या भुजमित्यन्वयः । पफाल",
+    "यद्वा नन्दयतीति नन्दः । हे नृपनन्द । न पफाल",
+    "तच्छूलमिति पाठः । 'अस्त्री शूलं ह⟨?⟩गायुधम्' इति द्वि",
+    "( ३ शान्तनवी ) हे राजन् सुरथ निशामयेति"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ तृतीयोऽध्यायः ३",
+    "॥",
+    "॥",
+    "इत्यात्मनेपदं तु न । अकर्मकात्स्वाङ्गकर्मकादिति वचनात् ।",
+    "॥",
+    "ततो जग्राह शूलं स कोपादरुणलोचनः ॥ ७ ॥",
+    "॥",
+    "अभज्यतेत्यर्थः । त्रिफला विशरण इत्यस्य रूपम् । हे नृपनन्दन ।",
+    "आत्मक्रियानिष्पत्तिं नाकरोत् । एवं च फल निष्पत्तावित्यस्मादेव रूपम् ।",
+    "लिङ्गत्वाभिधानात् ॥ ७ ॥",
+    "तस्याः देव्याः वामभुजं प्राप्य चिक्षुराख्यमहासुरप्रयुक्तः खड्गः"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "मण्डलाग्रः पफाल । ञिफला विशरणे । विशशार चूर्णीबिभूव",
+    "रक्तलोचनः सः चिक्षुराख्योऽसुरः शूलं त्रिशूलम् आयुधं",
+    "( ४ नागोजीभट्टी ) तस्या इति । पफाल विशीर्णः",
+    "( ५ जगच्चन्द्रचन्द्रिका ) तस्याः खङ्ग इति ८ ॥",
+    "( ६ दंशोद्धारः ) तस्या इति । पफाल व्यशीर्यत् ।",
+    "विभुजादि⟨?⟩त्मकः । तत्संबुद्धिः हे नृपनन्दन । पफाल ।",
+    "चिक्षेप च ततस्तत्तु भद्रकाल्यां महासुरः ।",
+    "( १ गुप्तवती ) ॥ ८",
+    "( २ चतुर्धरी ) तेजोभी रश्मिभिः जाज्वल्यमानम्",
+    "सप्तम्यर्थे पञ्चमी । यद्वा अम्बरे समवस्थायि रविबिम्बमिवेति",
+    "किंतु रविबिम्बस्यैत्र विशेषणमाहुः । तेजोभी रविबिम्बमिवेति",
+    "रविबिम्बवचनः । 'अविर्मेषे गिरौ सूर्ये' इत्यभिधानात् ॥ ८"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "विशीर्णोऽभूत् । ततः खङ्गभङ्गानन्तरं कोपात् अरुणलोचन",
+    "जग्राह अग्रहीत् । 'अस्त्री शूलं रुगायुधम्' ॥ ७ ॥",
+    "। तस्या भुजमित्यन्वयः ॥ ७ ॥",
+    "७ ॥",
+    "त्रिफला विशरणे । यद्वा नृपान्नन्दयतीतिनृपनन्दनः । मूल",
+    "निजकार्यं चकारेत्यर्थः । फल निष्पत्तौ । अन्तर्भावितण्यर्थः ॥ ७ ॥",
+    "जाज्वल्यमानं तेजोभी रविबिम्बमिवाम्बरात् ॥ ८ ॥",
+    "॥",
+    "अत्यन्तं ज्वलत् । अम्बरात् आकाशे । 'सुपां सुपो भवन्ति' इति",
+    "ल्यब्लोपे पञ्चमी । केचित्तु अम्बरम् । अत सातत्यगमने इति",
+    "। रो रीतिलोपे शिति दीर्घत्वम् । ह्रस्वपाठे तु अविशब्द एव",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( ३ शान्तनवी ) ततः त्रिशूलमग्रहणादनन्तरं चिक्षुराह्वयो",
+    "विषये चिक्षेप अक्षैप्सीत् । क्षिप प्रेरणे । कीदृशं त्रिशूलम् ।",
+    "म्बमिव सूर्यमण्डलमिव जाज्वल्यमानं देदीप्यमानम् इत्यर्थः",
+    "रविविम्बमित्यत्र रो रीति रेफलोपे पूर्वस्याणो दीर्घः ।",
+    "'अवयः शैलमेषार्काः' इत्यभिधानात् । अम्बरमतति सततं",
+    "भद्रा च सा कालस्य कालाभिमुखस्य स्त्री काली चेति भद्रकाली",
+    "( ४ नागोजीभट्टी ) चिक्षेपेति । तत् शूलं",
+    "दीर्घः ॥ ८",
+    "( ५ जगच्चन्द्रचन्द्रिका ) चिक्षेपेति ९ ॥ ८",
+    "( ६ दंशोद्धारः ) चिक्षेपेति । जाज्वल्यमानमत्यर्थं",
+    "यद्वा अम्बरे अवस्थाप्य चिक्षेपेत्यर्थः । ल्यब्लोपे पञ्चमी । यद्वा",
+    "सातत्यगमनेऽस्मात् किप् तेजोभिरविविम्बमिति पाठे अविः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "महामुरः ततः प्राक् गृहीतत्रिशूलमायुधं भद्रकाल्यां देव्यां",
+    "अम्बरात् आकाशात् अम्बरमाकाशम् आक्रम्य तेजोभिः रविबि",
+    "। अम्बरादिति कर्मणि ल्यब्लोपे पञ्चमी वक्तव्या । तेजोभि",
+    "तेजोभिरविबिम्बमित्यदीर्घपाठेऽपि अवेः सूर्यस्य बिम्बमिवेत्यर्थः",
+    "गच्छति अम्बरादिति प्रथमान्तत्वे तु रविबिम्बविशेषणं द्रष्टव्यम्",
+    "। यद्वा काली चण्डिका ॥ ८ ॥",
+    "अम्बराद्रविबिम्बमिव इत्युत्तरान्वयि । तेजोभिः इत्यत्र इलोप इति",
+    "॥",
+    "॥",
+    "ज्वलत् । अम्बरात् आकाशे । छान्दसत्वाद्विभक्तिव्यत्ययः ।",
+    "अम्बरमततीत्यम्बरात् । प्रथमान्तं रविबिम्बविशेषणम् । अत",
+    "बिम्बमिति च्छेदः । 'अविः शैले रवौ मेषे' इति विश्वः ॥ ८ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "दृष्ट्वा तदापतच्छूलं देवी शूलममुञ्चत । तेन",
+    "( १ गुप्तवती ) तेन देवीमुक्तेन प्रतिशूलेन स चिक्षुरश्च",
+    "( २ चतुर्धरी ) ॥ ९ ॥",
+    "( ३ शान्तनवी ) तत् चिक्षुरप्रयुक्तम् आपतत्",
+    "तेन देव्या अम्बिकया प्रयुक्तेन शूलेन तत् चिक्षुरप्रयुक्तं शूलं"
+   ],
+   "expected": 5,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "तच्छतधा नीतं शूलं स च महासुरः ॥ ९ ॥",
+    "शतधा नीत इति लिङ्गविपरिणामेनान्वयः ॥ ९ ॥",
+    "आगच्छत् शूलं कर्म दृष्ट्वा देवी स्वकीयं शूलम् अमुञ्चत प्रयुक्तवती ।",
+    "शतधा शतप्रकारैः चूर्णतां नीतं प्रापितमभूत् । न केवलं चि-"
+   ],
+   "expected": 5,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 24269,
+  "out": 18239
+ },
+ "ts": "2026-10-16T00:20:59"
+}

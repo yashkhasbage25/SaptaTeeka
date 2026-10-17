@@ -1,0 +1,80 @@
+{
+ "vol": 1,
+ "scan": 12,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 5,
+ "lines": [
+  "( 10 )",
+  "I am very much pleased to place this edition of Sapta-Śati in the hands of the readers. This reprint of the text of SaptaŚati alongwith important Sanskrit. Commentaries also includes Devi-Kavacha, Argalā Stuti, Devi Kilaka, SaptaŚati MantraVibhāgah, PrayogaVidhi, Rashasya Trayam and so many other subsidiary or complimentary texts. The present edition will be of much help to the devotees of the goddesss as well the scholars of Indian lore. I place my thanks to the Mss Chowkhambha publishers, Delhi, for their dedication and will to serve the goddess as well as the humanity at large. I hope and I am sure that this humble service to the lotus feet of the goddess, will enable us to procure the blessings of the great goddess.",
+  "2/10/87—Vijaya Dashami",
+  "PUSHPENDRA KUMAR",
+  "Delhi University—Delhi"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 2571,
+  "out": 324
+ },
+ "ts": "2026-10-15T19:24:41",
+ "mode": "whole_page"
+}

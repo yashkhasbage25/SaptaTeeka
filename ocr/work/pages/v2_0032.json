@@ -1,0 +1,395 @@
+{
+ "vol": 2,
+ "scan": 32,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 42,
+ "lines": [
+  "१२२ दुर्गासप्तशती । [ चतुर्थोऽध्यायः ४",
+  "( २ चतुर्धरी ) एतच्च स्तुतिपरम् । वस्तु ⟨?⟩त्त्वनिर्वाच्यमेव त्वमित्याह । किमिति । इदं तव रूपं स्वरूपं किं वर्णया-",
+  "मंति समर्थनायां पञ्चमी । असामर्थ्ये हेतुमाह । अचिन्त्यमिति । सर्वेषु असुरदेवगणादिकेषु अचिन्त्यम् अनिरूपणीयं सर्वो-",
+  "⟨?⟩कष्टत्वाद⟨?⟩न्वयार्थो । एतत्प्रसिद्धम् अतिवीर्यंमनन्यसाधारणं सामर्थ्यं च तव किं वर्णयामेत्यन्वयः । प्राचीन एव हेतुः ।",
+  "भूरि प्रचुरम् । हे देवि यानि चाहवेषु तव अति चरितानि अनन्यसमानि चेष्टितानि च किं वर्णयामेत्यन्वयः । इहापि स",
+  "एव हेतुत्वेन विपरिणमते । सु(ख)चरितानीति वा पद(⟨?⟩)च्छेदः ॥ ५ ॥",
+  "( ३ शान्तनवी ) असुराश्च देवाश्च असुरदेवाः । शाश्वतिकविरोधविवक्षायां तु असुरदेवम् । तेषामसुराणां च देवानां",
+  "च गणाः आद्यो येषां मनुष्यादीनां ते तथोक्ताः तेषु । 'अजाद्यदन्तम्' इत्यसुरशब्दस्य पूर्वप्रयोगः । अजाद्यदन्तत्वाद्य⟨?⟩-",
+  "हितत्वाच्च । अमरदैत्यगणादिकेषु इति पाठः सभ्यः । हे देवि सर्वेषु असुरदेवगणादिकेषु तव अद्भुतं रूपम् अचिन्त्यं मनसा-",
+  "ऽपि चिन्तयितु स्तुतुम् अप्यशक्यम् एतत्तव मनोहरं रूपं वाचा किं वर्णयामः । वर्णं वर्णक्रियायाम् । चुरादिलोडन्तं तत् ।",
+  "मनसाऽपि स्तुतुमशक्यं तत् वाचा किं वर्णयितु शक्यं स्यादिति भावः । हे देवि तव भूरि अधिकम् असुरक्षयकारि अतिवीर्यं च",
+  "किं वाचा वर्णयामः । यन्मनसापि अचिन्त्यं स्यात् वीर्यं बल प्रभावश्च । हे देवि सर्वेषु असुरदेवगणादिकेषु आहवेषु संग्रा-",
+  "मेषु तवाद्भुतानि चरितानि वीरकर्माणि च किं वर्णयामः वाचा वाण्या यानि मनसापि स्तोतुमशक्यानि ॥ ५ ॥",
+  "( ४ नागोजीभट्टी ) एषा आपाततः स्तुतिर्वस्तुतस्त्वनिर्वाच्याऽस्तुत्यैवेत्याह । किमिति । असुरा दैत्याः । देवाः",
+  "शिवादयः । गणाः प्रमथाः । तत्प्रभृतिषु अचिन्त्यं सर्वोत्कृष्टत्वादनिरूपणीयं तत्र रूपम् । अतः किं केन प्रकारेण वर्णयाम ।",
+  "च परं दैत्यनाशाकारि भूरि वीर्यम् अति अत्युत्कृष्टम् । च परं युद्धेषु यानि चरितानि तान्यप्यति अत्युत्कृष्टानि । अतः किं",
+  "वर्णयामेत्यन्वयः । सर्वत्राचिन्त्या इति ॥ ५ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) किं वर्णयाम इति ५ ॥ ५ ॥",
+  "( ६ दंशोद्धारः ) किं वर्णयाम इति । लोडुत्तमबहुवचनम् । दन्त्यपाठ सुचरितानीति च्छेदः । यानि सर्वेषु असुरद्",
+  "गणादिकेषु अतिशयेन वर्तन्ते । अद्भुतानीति वा पाठः ॥ ५ ॥",
+  "हेतुः समस्तजगतां त्रिगुणापि दोषैर्न ज्ञायसे हरिहरादिभिरप्यपारा ।",
+  "सर्वाश्रयाखिलमिदं जगदंशभूतमव्याकृता हि परमा प्रकृतिस्त्वमाद्या ॥ ६ ॥",
+  "( १ गुप्तवती ) दोषैः बुद्धिमान्द्यादिभिः अंशभूता । तवेति शेषः । 'पादोऽस्य विश्वाभूतानि'इति श्रुतेः । अव्याकृता",
+  "नामरूपव्याक्रियातः पौर्वकालिकी । अत एवाद्या ॥ ६ ॥",
+  "( २ चतुर्धरी ) मूलप्रकृतिश्च त्वमेवेत्याह । हेतुरिति । त्वं समस्तजगतो हेतुः मूलकारणम् । तत्रोपपत्तिमाह । त्रिगु",
+  "णात । सत्त्वरजस्तमोमयीत्यर्थः । नन्वेवं रागादिसंबन्धः स्यान्न च सः । किन्तु सर्वकारणं त्वमेवेत्याह । अपीति । त्रिगुणादि सती",
+  "दोषैः रागादिभिर्न ज्ञायसे । न विषयीक्रियसे इत्यर्थः । एवमपि परिच्छिन्नतया सर्वकारणमप्यसीत्याह । हरिहरादिभिरिति ।",
+  "अथवा सर्वाश्रयेति क्वचित् तत्पुरुषेऽपि वाच्यलिङ्गता । सर्वाश्रया सर्वं आश्रयो यस्या इति बहुव्रीहिः । कारणान्तरमप्यस्ती",
+  "त्याह । अखिलमिति । इदमखिलं जगत् ब्रह्माण्डम् अंशभूतं तवैकदेशाश्रितम् अनन्तब्रह्माण्डाधिकरणत्वात् । न त्वेवं विकारा",
+  "यस्याः । सांशत्वेन मूर्तत्वापत्तिरित्याह । अव्याकृतेति । षड्विधविकारहीनेत्यर्थः । 'भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।",
+  "अहंकार इतीयं मे भिन्ना प्रकृतिरष्टधा' इति भगवद्गीतासु । हि यस्मात् त्वम् आद्या प्रकृतिः तस्याः विशेषणं परमिति । परः",
+  "परमात्मा मीयते जीवभावेनावच्छिद्यतेऽनयेति परमा । परो हि प्रकृतधर्माध्यासात् जीवभावेनाध्यवसीयते ॥ ६ ॥",
+  "( ३ शान्तनवी ) हे देवि त्वं त्रिगुणापि त्रयो गुणाः यस्यां सा सत्त्वं रजस्तम इति त्रयो गुणाः सत्त्वगुणा त्वं वैष्णवी",
+  "शक्तिः सती जगन्ति रक्षसि । रजोगुणा त्वं ब्राह्मी शक्तिः सती जगन्ति सृजसि । तमोगुणा त्वं माहेश्वरी शक्तिः सती जगन्ति",
+  "संहरसि । अत एव त्रिगुणाप्यसि । अत एव त्वं समस्तजगतां हन्त्र्यसि । सर्जनीयसंरक्षणीयसंहरणीयानि विविधानि जगन्ति",
+  "स्वर्गभूपातालाख्यानि तेषां त्वं हेतुरसि । हे देवि त्वं हरिहरादिभिर् अपि देवैस्तत्त्वतो न ज्ञायसे । मायारूपत्वात् । हे देवि त्वम्",
+  "अपारा अनवधिरनन्ता अन्तरहिता । हे देवि त्वं सर्वाश्रया सर्वा आश्रयो यस्याः सा तथोक्ता या आश्रीयते आश्रया सर्वस्या-",
+  "श्रया सर्वाश्रयापि । हे देवि इदमखिलं जगत् तवैव अंशभूतं मायामयत्वाज्जगतः अंशरूपेण समस्तं निष्पन्नं समस्तांशत्वभूतत्वं",
+  "प्रापदिति वा अंशभूतम् । हे देवि त्वमव्याकृतासि केनापि न व्याकृतासि पदेन वाक्येन वा । ‘यतो वाचो निवर्तन्ते अप्राप्य",
+  "मनसा सह' इति श्रुतेः । त्वं च विद्यात्वेन परब्रह्मतत्त्वमेव । यद्वा हे देवि त्वम् अव्याकृतासि केनापि प्रकाशितासि । पर-",
+  "प्रकाशित्वानभ्युपगमात् ब्रह्मस्वरूपस्य स्वयंप्रकाशत्वाभ्युपगमाच्च । तस्य त्वं च परब्रह्म तत्त्वमेव स्वयं प्रकाशमानमनतिशया-",
+  "नन्वचिद्रूपमसीत्यर्थः । यद्वा हे देवि त्वमव्याकृतासि अग्राह्यासि । केनापि न हिंसितासि । हृञ् हिंसायां खादिः । त्व-"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.412,
+   "tesseract_char_agree": 0.844,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 55.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 69.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.889,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 82.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 73.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 77.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 75.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.83,
+   "tesseract_mean_conf": 73.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.733,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 70.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 62.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.86,
+   "tesseract_mean_conf": 59.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 60.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 76.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 70.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.847,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 65.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.856,
+   "tesseract_mean_conf": 61.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 61.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 73.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.684,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 73.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.474,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.062,
+   "tesseract_char_agree": 0.884,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.579,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.913,
+   "tesseract_mean_conf": 54.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.789,
+   "tesseract_mean_conf": 58.4,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 27239,
+  "out": 28271
+ },
+ "ts": "2026-10-15T20:44:55"
+}

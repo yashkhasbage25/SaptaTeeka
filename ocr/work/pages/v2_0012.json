@@ -1,0 +1,610 @@
+{
+ "vol": 2,
+ "scan": 12,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 41,
+ "lines": [
+  "१०२ दुर्गासप्तशती । [ द्वितीयोऽध्यायः २",
+  "सेनानुकारिणः प्राणान्मुमुचुस्त्रिदशार्दिनाः । केषांचिद्बाहवश्छिन्नाश्छिन्नग्रीवास्तथापरे ॥५९",
+  "( १ गुप्तवती ) सेनामनु पश्चाद्भागे कुर्वन्ति ते सेनानुकारिणोऽग्रेसरा इति यावत् ॥ ५९ ॥",
+  "( २ चतुर्धरी ) श्येनानां पक्षिणामनुकारिणः सदृशः । यथा श्येनाः स्वपत्रैर्निरन्तरास्तथा दैत्या अपि शरैरिलन्न",
+  "( २ चतुर्धरी ) श्येनानां पक्षिणामनुकारिणः सदृ दशः । यथा श्येनाः स्वपत्रैर्निरन्तरास्तथा दैत्या अपि शरैरिलन्न",
+  "यद्वा श्येनाः शल्यमृगाः ‘श्येनः पत्रिणि शल्ये च’ इत्यजयतोशात् । शरौघपूर्णत्वात् शल्यमृगा इव लक्ष्यन्ते इति । से",
+  "कारिण इति पाठे सेनामनु पश्चात् कर्तुं शीलं येषां ते सेनाग्रगा इत्यर्थः । सेनानियन्तार इति केचित् । यद्वा सेन इति",
+  "संघस्त⟨?⟩ मरस्य इति ॥ ५९ ॥",
+  "( ३ शान्तनवी ) सेनानुकारिणः प्राणान्मुमुचुस्त्रिदशार्दिनः इति वा पाठः । शरौघेण प्रतिलोमकूपं \"निरन्त",
+  "व्याख्यावयवाः कृताः सेनानुकारिणः सेना सैन्यम् अनु पश्चात् कर्तुं शीलं येषां ते तथोक्ताः अग्रेसराः त्रिदशार्दिनः देवर्षि",
+  "केचिदसुराः रणाजिरे प्राणान् मुमुचुः अत्याक्षुः । श्येनानुकारिण इति पाठे सिध्यन्ति सेधाः । शल्यानुकारिणः इति तु स",
+  "पाठः । ‘श्वावित्तु शल्यः’ इत्यभिधानात् । शल्यः शल्यको भक्ष्यः पञ्चनखः । शरौघेण निरन्तरा प्रतिलोमकूपं व्याप्ताः ⟨?⟩",
+  "विद्धाः । अत एव शल्यका इव शल्लीकण्टकशताहताः शल्यका इव दृश्यमाना रणाग्रे प्राणान् मुमुचुः केचिदसुरा इत्यर्थ",
+  "निरन्तराः शरौघेण कृताः इति तु पाठे कृताः रचिता इत्यर्थः । तथा देव्या केषांचित् असुराणां बाहवो भुजाः छिन्नाः खण्डि",
+  "भुवि पेतुः तथा देव्या परे असुराः छिन्नाः ग्रीवाः शिरोध्रयो येषां ते तथोक्ताः छि⟨?⟩वाः सन्तः भुवि पेतुः ॥ ५९ ॥",
+  "( ४ नागोजीभट्टी ) सेनेति । सेनामनु पश्चात्कुर्वन्ति सेनाग्रगाः शरौघव्याप्तत्वात् सेनाः शल्क्यस्तत्सदृशाश्च",
+  "छिन्नग्रीवाः प्राणान् मुमुचुरित्यर्थः ॥ ५९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) सेनानुकारिण इति ६० ॥ ५९ ॥",
+  "( ६ दंशोद्धारः ) निरन्तरा इति । सेनामनु पश्चात्क⟨?⟩तु शीलं येषां ते सेनाग्रवरा इत्यर्थः । २ येनानुकारिण",
+  "पाठे श्येनपक्ष्यनुसारिणः यथा श्येनाः पक्षिण उत्पत्य निपतन्ति तथा तेपि पार्श्वसंलग्नशरपुङ्खतया सपक्षा इवेत्यर्थः ॥ ५९",
+  "शिरांसि पेतुरन्येषामन्ये मध्ये विदारिताः । विच्छिन्नजङ्घास्त्वपरे पेतुरुर्व्यां महासुराः ॥ ६०",
+  "( १ गुप्तवती ) ॥ ६० ॥",
+  "( २ चतुर्धरी ) मध्ये हृदि । उर्व्यां भूमौ ॥ ६० ॥",
+  "( ३ शान्तनवी ) तथा देव्या अन्येषाम् असुराणां छिन्नानि शिरांशि भुवि पेतुः । तथा देव्या अन्ये असुराः",
+  "मध्यदेशे विदारिताः खण्डिताः पेतुः भूमौ वभ्रशुः । ‘असाकल्ये तु चिच्चनं’ ‘छिन्नं छातं लूनं कृत्तं दातं दितं छितं वृक्ण⟨?⟩",
+  "'दारितौ भिन्नभेदितौ' । अपरे तु महासुराः महान्तोऽसुराः देव्या विच्छिन्नजङ्घाः खण्डितजङ्घकाः सन्तः उर्व्यां भुवि ⟨?⟩",
+  "प्रबभ्रशुः ॥ ६० ॥ शेषः ॥ ६० ॥",
+  "( ४ नागोजीभट्टी ) शिरांसीति । छिन्नानीति",
+  "( ५ जगच्चन्द्रचन्द्रिका ) शिरांसीति ॥ ६१ ॥ ६० ॥",
+  "( ६ दंशोद्धारः ) ॥ ६० ॥",
+  "एकवाह्वक्षिचरणाः केचिद्देव्या द्विधा कृताः । छिन्नेपि चान्ये शिरसि पतिताः पुनरुत्थिताः ⟨?⟩",
+  "( १ गुप्तवती ) ॥ ६१ ॥",
+  "( २ चतुर्धरी ) पतिताः पुनरुत्थिताः इति 'मनुष्याणां सहस्रेषु हतेषु पतितेषु च । उदतिष्ठन्कबन्धानि बहूनुत्था⟨?⟩",
+  "तान्यपि' इति शान्तिपर्वणि । अतः सहस्रेऽभिहते कबन्ध एक उत्तिष्ठते इति ॥ ६१ ॥",
+  "( ३ शान्तनवी ) केचित्तु महासुराः युध्यन्त एकबाह्वक्षिचरणाः एकबाहुकाः एकाक्षाः एकचरणकाश्च सन्तो दे⟨?⟩",
+  "द्विधा कृताः खण्डिताः उर्व्यां पेतुः न्यपतन् । वाहुश्च अक्षि च चरणं च बाह्वक्षिचरणं युद्धतः प्रति महासुरं संपन्नम् । एक⟨?⟩",
+  "बाह्वक्षिचरणं येषां ते एकबाह्वक्षिचरणाः । द्वन्द्वान्ते श्रूणमाणं व्यावर्तकं पदं प्रत्येकमभिसंबध्यते । तथा संपन्नव्रीहियवो ग्राम",
+  "तथा च व्रीहियवधनाः प्रजाः (?) अन्ये महासुराः शिरसि छिन्नेपि सति भूमौ पतिताः पुनस्तदनु उत्थिताः ॥ ६१ ॥",
+  "( ४ नागोजीभट्टी ) एक इति । आशिरः पादपर्यन्तं पाटिता इत्यर्थः । उत्तरार्धमुत्तरान्वयि ॥ ६१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) एकबाह्वक्षीति ॥ ६२ ॥ ६१ ॥",
+  "५ ‘शल्यानुकारिणः’ इति शान्तनवी । ‘श्येनानुकारिणः’ इति चतुर्धरी । २ ‘त्रिदशार्दिनः’ इति शान्तनवीपाठः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 49.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 47.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.985,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.883,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 53.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.353,
+   "tesseract_char_agree": 0.809,
+   "tesseract_mean_conf": 45.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 71.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.636,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 67.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.872,
+   "tesseract_mean_conf": 48.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.815,
+   "tesseract_mean_conf": 53.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 62.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.876,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.845,
+   "tesseract_mean_conf": 59.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 72.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 72.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.86,
+   "tesseract_mean_conf": 64.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 61.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 55.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 77.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 72.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.888,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.733,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.698,
+   "tesseract_mean_conf": 69.9,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.973,
+   "tesseract_mean_conf": 62.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 85.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 76.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 65.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 60.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.579,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 75.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 63.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 75.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 76.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.878,
+   "tesseract_mean_conf": 60.1,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "१०२ दुर्गासप्तशती",
+    "सेनानुकारिणः प्राणान्मुमुचुस्त्रिदशार्दिनाः ।",
+    "( १ गुप्तवती ) सेनामनु पश्चाद्भागे कुर्वन्ति ते",
+    "( २ चतुर्धरी ) श्येनानां पक्षिणामनुकारिणः सदृशः",
+    "( २ चतुर्धरी ) श्येनानां पक्षिणामनुकारिणः सदृ",
+    "यद्वा श्येनाः शल्यमृगाः ‘श्येनः पत्रिणि शल्ये च’",
+    "कारिण इति पाठे सेनामनु पश्चात् कर्तुं शीलं येषां ते सेनाग्रगा",
+    "संघस्त⟨?⟩ मरस्य इति ॥ ५९ ॥",
+    "( ३ शान्तनवी ) सेनानुकारिणः प्राणान्मुमुचुस्त्रिदशार्दिनः",
+    "व्याख्यावयवाः कृताः सेनानुकारिणः सेना सैन्यम् अनु पश्चात्",
+    "केचिदसुराः रणाजिरे प्राणान् मुमुचुः अत्याक्षुः । श्येनानुकारिण",
+    "पाठः । ‘श्वावित्तु शल्यः’ इत्यभिधानात् । शल्यः शल्यको"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ द्वितीयोऽध्यायः २",
+    "केषांचिद्बाहवश्छिन्नाश्छिन्नग्रीवास्तथापरे ॥५९",
+    "सेनानुकारिणोऽग्रेसरा इति यावत् ॥ ५९ ॥",
+    "। यथा श्येनाः स्वपत्रैर्निरन्तरास्तथा दैत्या अपि शरैरिलन्न",
+    "दशः । यथा श्येनाः स्वपत्रैर्निरन्तरास्तथा दैत्या अपि शरैरिलन्न",
+    "इत्यजयतोशात् । शरौघपूर्णत्वात् शल्यमृगा इव लक्ष्यन्ते इति । से",
+    "इत्यर्थः । सेनानियन्तार इति केचित् । यद्वा सेन इति",
+    "इति वा पाठः । शरौघेण प्रतिलोमकूपं \"निरन्त",
+    "कर्तुं शीलं येषां ते तथोक्ताः अग्रेसराः त्रिदशार्दिनः देवर्षि",
+    "इति पाठे सिध्यन्ति सेधाः । शल्यानुकारिणः इति तु स",
+    "भक्ष्यः पञ्चनखः । शरौघेण निरन्तरा प्रतिलोमकूपं व्याप्ताः ⟨?⟩"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "विद्धाः । अत एव शल्यका इव शल्लीकण्टकशताहताः",
+    "निरन्तराः शरौघेण कृताः इति तु पाठे कृताः रचिता इत्यर्थः",
+    "भुवि पेतुः तथा देव्या परे असुराः छिन्नाः ग्रीवाः शिरोध्रयो",
+    "( ४ नागोजीभट्टी ) सेनेति । सेनामनु पश्चात्कुर्वन्ति",
+    "छिन्नग्रीवाः प्राणान् मुमुचुरित्यर्थः ॥ ५९",
+    "( ५ जगच्चन्द्रचन्द्रिका ) सेनानुकारिण इति",
+    "( ६ दंशोद्धारः ) निरन्तरा इति । सेनामनु",
+    "पाठे श्येनपक्ष्यनुसारिणः यथा श्येनाः पक्षिण उत्पत्य निपतन्ति",
+    "शिरांसि पेतुरन्येषामन्ये मध्ये विदारिताः ।",
+    "( १ गुप्तवती ) ॥ ६०",
+    "( २ चतुर्धरी ) मध्ये हृदि । उर्व्यां भूमौ ॥ ६०",
+    "( ३ शान्तनवी ) तथा देव्या अन्येषाम् असुराणां"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "शल्यका इव दृश्यमाना रणाग्रे प्राणान् मुमुचुः केचिदसुरा इत्यर्थ",
+    "। तथा देव्या केषांचित् असुराणां बाहवो भुजाः छिन्नाः खण्डि",
+    "येषां ते तथोक्ताः छि⟨?⟩वाः सन्तः भुवि पेतुः ॥ ५९ ॥",
+    "सेनाग्रगाः शरौघव्याप्तत्वात् सेनाः शल्क्यस्तत्सदृशाश्च",
+    "॥",
+    "६० ॥ ५९ ॥",
+    "पश्चात्क⟨?⟩तु शीलं येषां ते सेनाग्रवरा इत्यर्थः । २ येनानुकारिण",
+    "तथा तेपि पार्श्वसंलग्नशरपुङ्खतया सपक्षा इवेत्यर्थः ॥ ५९",
+    "विच्छिन्नजङ्घास्त्वपरे पेतुरुर्व्यां महासुराः ॥ ६०",
+    "॥",
+    "॥",
+    "छिन्नानि शिरांशि भुवि पेतुः । तथा देव्या अन्ये असुराः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "मध्यदेशे विदारिताः खण्डिताः पेतुः भूमौ वभ्रशुः ।",
+    "'दारितौ भिन्नभेदितौ' । अपरे तु महासुराः महान्तोऽसुराः",
+    "प्रबभ्रशुः ॥ ६० ॥",
+    "( ४ नागोजीभट्टी ) शिरांसीति । छिन्नानीति",
+    "( ५ जगच्चन्द्रचन्द्रिका ) शिरांसीति ॥ ६१ ॥",
+    "( ६ दंशोद्धारः ) ॥ ६०",
+    "एकवाह्वक्षिचरणाः केचिद्देव्या द्विधा कृताः ।",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) पतिताः पुनरुत्थिताः इति 'मनुष्याणां",
+    "तान्यपि' इति शान्तिपर्वणि । अतः सहस्रेऽभिहते कबन्ध",
+    "( ३ शान्तनवी ) केचित्तु महासुराः युध्यन्त",
+    "द्विधा कृताः खण्डिताः उर्व्यां पेतुः न्यपतन् । वाहुश्च अक्षि"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "‘असाकल्ये तु चिच्चनं’ ‘छिन्नं छातं लूनं कृत्तं दातं दितं छितं वृक्ण⟨?⟩",
+    "देव्या विच्छिन्नजङ्घाः खण्डितजङ्घकाः सन्तः उर्व्यां भुवि ⟨?⟩",
+    "शेषः ॥ ६० ॥",
+    "६० ॥",
+    "॥",
+    "छिन्नेपि चान्ये शिरसि पतिताः पुनरुत्थिताः ⟨?⟩",
+    "६१ ॥",
+    "सहस्रेषु हतेषु पतितेषु च । उदतिष्ठन्कबन्धानि बहूनुत्था⟨?⟩",
+    "एक उत्तिष्ठते इति ॥ ६१ ॥",
+    "एकबाह्वक्षिचरणाः एकबाहुकाः एकाक्षाः एकचरणकाश्च सन्तो दे⟨?⟩",
+    "च चरणं च बाह्वक्षिचरणं युद्धतः प्रति महासुरं संपन्नम् । एक⟨?⟩"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "बाह्वक्षिचरणं येषां ते एकबाह्वक्षिचरणाः । द्वन्द्वान्ते श्रूणमाणं",
+    "तथा च व्रीहियवधनाः प्रजाः (?) अन्ये महासुराः शिरसि",
+    "( ४ नागोजीभट्टी ) एक इति । आशिरः पादपर्यन्तं",
+    "( ५ जगच्चन्द्रचन्द्रिका ) एकबाह्वक्षीति ॥ ६२",
+    "५ ‘शल्यानुकारिणः’ इति शान्तनवी । ‘श्येनानुकारिणः’"
+   ],
+   "expected": 5,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "lines": [
+    "व्यावर्तकं पदं प्रत्येकमभिसंबध्यते । तथा संपन्नव्रीहियवो ग्राम",
+    "छिन्नेपि सति भूमौ पतिताः पुनस्तदनु उत्थिताः ॥ ६१ ॥",
+    "पाटिता इत्यर्थः । उत्तरार्धमुत्तरान्वयि ॥ ६१ ॥",
+    "॥ ६१ ॥",
+    "इति चतुर्धरी । २ ‘त्रिदशार्दिनः’ इति शान्तनवीपाठः ।"
+   ],
+   "expected": 5,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25864,
+  "out": 18464
+ },
+ "ts": "2026-10-16T00:17:55"
+}

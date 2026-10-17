@@ -1,0 +1,645 @@
+{
+ "vol": 1,
+ "scan": 95,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 44,
+ "lines": [
+  "द्वितीयोऽध्यायः २ ]            गुप्तवत्यादिसप्तटीकासंवलिता । ८५",
+  "व' इत्यनुवृत्तौ 'समो गम्यृच्छि' इत्यादिसूत्रेण गमेरात्मनेपदं तङ् । तच्चैक्यं समपद्यतेत्यपि क्वचित्पाठः । सकर्मकत्वे तु",
+  "पदम् । तच्चैक्यम् । एकतां समगच्छत ॥ १० ॥",
+  "(४ नागोजीभट्टी ) अन्येषां चेति । कुपितानामिति शेषः । यत्तेजः निर्गतं तच्च ब्रह्मादीनां तेजश्च ऐक्यम् एकत्वं",
+  "च्छत । छान्दसस्तङ् ॥ १० ॥",
+  "(५ जगच्चन्द्रचन्द्रिका ) अन्येषामिति ११ ॥ १० ॥",
+  "(६ दंशोद्धारः ) अन्येषामिति । एकमेव ऐक्यम् । चातुर्वर्ण्यादेराकृतिगणत्वात्स्वार्थे ष्यञ् । एकमभवदित्यर्थः ।",
+  "मैकात्' इति वर्तमाने 'समो गम्यृच्छिभ्याम्' इत्यात्मनेपदविधानात्सकर्मके तङ्संभवात् । समपद्यतेति क्वचित्पाठः ॥ १० ॥",
+  "व तेजसः कूटं ज्वलन्तमिव पर्वतम् । ददृशुस्ते सुरास्तत्र ज्वालाव्याप्तदिगन्तरम् ॥ ११ ॥",
+  "( १ गुप्तवती ) ॥ ११ ॥",
+  "( २ चतुर्धरी ) अतीव अत्युच्छ्रितं कूटं पुञ्जम् । तत्र पुराणान्तरप्रसिद्धे कात्यायनाश्रमे ॥ ११ ॥",
+  "( ३ शान्तनवी ) ते इन्द्रादयः सुराः तत्र देवसदसि । यद्वा तत्र देवतेजसि देदीप्यमाने जृम्भमाणे जयति सति",
+  "व अत्यर्थं सुतराम् अतितरां सुष्ठु ज्वालाव्याप्तदिगन्तरं ज्वालाभिरर्चिर्भिः व्याप्तं विद्योतितं दिशां दशानामन्तरं मध्यम-",
+  "लं येन तं तथोक्तम् । ज्वलन्तं दीप्यमानं पर्वतमिव हेमाद्रिमिव तेजसः कूटं ददृशुः दृष्टवन्तः । ‘मायानिश्चलयन्त्रेषु",
+  "⟨?⟩रत्नराशिषु । ‘अयोघने शैलशृङ्गे सीराङ्गे कूटमस्त्रियाम्’ ‘बलवत्सुष्ठु किमुत स्वस्यतीव च निर्भरे’ ॥ ११ ॥",
+  "( ४ नागोजीभट्टी ) अतीवेति । तत्रेत्यस्य काले इति देशे इति वा विशेषः ॥ ११ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अतीव तेजस इति १२ ॥ ११ ॥",
+  "( ६ देशोद्धारः ) ॥ ११ ॥",
+  "तुलं तत्र तत्तेजः सर्वदेवशरीरजम् । एकस्थं तदभून्नारी व्याप्तलोकत्रयं त्विषा ॥ १२ ॥",
+  "( १ गुप्तवती ) ॥ १२ ॥",
+  "( २ चतुर्धरी ) एकस्थमेकाकारेण स्थितम् । तदित्यव्ययमानन्तर्यं । नारीऽभून्नार्याकारेण परिणमत् । त्विषा दीप्त्या",
+  "⟨?⟩ व्याप्तं लोकत्रयं येन ॥ १२ ॥",
+  "( ३ शान्तनवी ) तत्र देवानां सदसि तत्प्रागुत्पन्नं ब्रह्मविष्णुरुद्रमुखजं तेजः तत्पश्चादुत्पन्नम् । इन्द्रादिसर्वदेवशरीरजं",
+  "तेजः उभयत्विषा अतुलम् अनुपमम् । त्विषा दीप्त्या व्याप्तलोकत्रयम् एकस्थम् एकस्मिन्नेव समवायिनि तिष्ठत् एकत्वेन",
+  "थक् भावेनावतिष्ठत् वर्तमानं सत् नारी अभूत् । तत्तेजः स्त्रीरूपमभूदिति भावः । 'तृनरथोर्द्विद्विश्च'इति शार्ङ्गरवादिपाठा-",
+  "वजातिविवक्षायां ङीषि वृद्धिः ॥ १२ ॥",
+  "( ४ नागोजीभट्टी ) अतुलमिति । तत् ततः । तत्र पुराणान्तरप्रसिद्धे कात्यायनाश्रमे तत्तेजः एकस्थं सन्नारी",
+  "ूत् । त्विषा दीप्त्या ॥ १२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अतुलं तत्रेति १३ ॥ १२ ॥",
+  "( ६ दंशोद्धारः ) अतुलमिति । तत् ततः । आनन्तर्ये ऽन्वयम् ॥ १२ ॥",
+  "दभूच्छाम्भवं तेजस्तेनाजायत तन्मुखम् । याम्येन चाभवन्केशा बाहवो विष्णुतेजसा ॥ १३ ॥",
+  "( १ गुप्तवती ) ॥ १३ ॥",
+  "( १ गुप्तवती ) ॥ १३ ॥ ( १ गुप्तवती ) ॥ १३ ॥",
+  "( २ चतुर्धरी ) शाम्भवं शैवं तत्तेजस्तेनाजायत । यव्ययम । तस्या इत्यर्थः । तस्य मुखं तन्मुखं वा । याम्येन",
+  "( २ चतुर्धरी ) शाम्भवं शैवं तत्तेजस्तेनाजायत । तदित्य तदित्यव्ययम् । तस्या इत्यर्थः । तस्य मुखं तन्मुखं वा । याम्येन",
+  "यव्ययम् । तस्या इत्यर्थः । तस्य मुखं तन्मुखं वा । याम्येन",
+  "( २ चतुर्धरी ) शाम्भव शैव तत्तेजस्तनौजायत । तादित्य यव्ययम् । तस्या इत्थ⟨?⟩ः । तस्या मुख तन्मुख वा । याम्येन",
+  "मसंबन्धितेजसा ॥ १३ ॥ ॥",
+  "( ३ शान्तनवी ) यत् शम्भोरिदं शाम्भवं तेजः तेन तस्याः नार्याः मुखम् अजायत अजनिष्ट । याम्येन यमदेव-",
+  "केन तेजसाऽस्याः \"नार्याः केशा अभवन् । विष्णुतेजसा तस्या नार्याः बाहवश्चाभवन् । 'दित्यदित्यादित्यपत्युत्तरपदाण्ण्यः'",
+  "यत्र यमाचेति वक्तव्यमित्याहुः ॥ १३ ॥",
+  "( ४ नागोजीभट्टी ) तेजोविभागेनाङ्गविभागमाह । यदिति । शम्भोः श्वेताङ्गतया तत्तेज आयातं मुखं श्वेतमित्यर्थः ।",
+  "ष्णोर्नीलवर्णतया बाहवोऽष्टादश नीलाः ॥ १३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) यदभूच्छाम्भवमिति १४ ॥ १३ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.86,
+   "tesseract_mean_conf": 47.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.893,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.875,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.93,
+   "tesseract_mean_conf": 64.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 79.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 57.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 53.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 51.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 79.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 71.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 80.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 75.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 58.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.81,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 69.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 89.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 77.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 87.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 52.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 21.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 81.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 9.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 33.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 76.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 86.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.852,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 0: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "द्वितीयोऽध्यायः २ ]            गुप्तवत्यादिसप्तटीकासंवलिता",
+    "व' इत्यनुवृत्तौ 'समो गम्यृच्छि' इत्यादिसूत्रेण गमेरात्मनेपदं",
+    "पदम् । तच्चैक्यम् । एकतां समगच्छत",
+    "(४ नागोजीभट्टी ) अन्येषां चेति । कुपितानामिति शेषः",
+    "च्छत । छान्दसस्तङ् ॥ १०",
+    "(५ जगच्चन्द्रचन्द्रिका ) अन्येषामिति ११ ॥ १०",
+    "(६ दंशोद्धारः ) अन्येषामिति । एकमेव ऐक्यम् ।",
+    "मैकात्' इति वर्तमाने 'समो गम्यृच्छिभ्याम्' इत्यात्मनेपदविधानात्सकर्मके",
+    "व तेजसः कूटं ज्वलन्तमिव पर्वतम् । ददृशुस्ते",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) अतीव अत्युच्छ्रितं कूटं पुञ्जम् । तत्र",
+    "( ३ शान्तनवी ) ते इन्द्रादयः सुराः तत्र देवसदसि ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ८५",
+    "तङ् । तच्चैक्यं समपद्यतेत्यपि क्वचित्पाठः । सकर्मकत्वे तु",
+    "॥ १० ॥",
+    "। यत्तेजः निर्गतं तच्च ब्रह्मादीनां तेजश्च ऐक्यम् एकत्वं",
+    "॥",
+    "॥",
+    "चातुर्वर्ण्यादेराकृतिगणत्वात्स्वार्थे ष्यञ् । एकमभवदित्यर्थः ।",
+    "तङ्संभवात् । समपद्यतेति क्वचित्पाठः ॥ १० ॥",
+    "सुरास्तत्र ज्वालाव्याप्तदिगन्तरम् ॥ ११ ॥",
+    "११ ॥",
+    "पुराणान्तरप्रसिद्धे कात्यायनाश्रमे ॥ ११ ॥",
+    "यद्वा तत्र देवतेजसि देदीप्यमाने जृम्भमाणे जयति सति"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "व अत्यर्थं सुतराम् अतितरां सुष्ठु ज्वालाव्याप्तदिगन्तरं",
+    "लं येन तं तथोक्तम् । ज्वलन्तं दीप्यमानं पर्वतमिव हेमाद्रिमिव",
+    "⟨?⟩रत्नराशिषु । ‘अयोघने शैलशृङ्गे सीराङ्गे कूटमस्त्रियाम्’ ‘बलवत्सुष्ठु",
+    "( ४ नागोजीभट्टी ) अतीवेति । तत्रेत्यस्य काले इति देशे",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अतीव तेजस इति १२ ॥",
+    "( ६ देशोद्धारः ) ॥ ११",
+    "तुलं तत्र तत्तेजः सर्वदेवशरीरजम् । एकस्थं",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) एकस्थमेकाकारेण स्थितम् । तदित्यव्ययमानन्तर्यं",
+    "⟨?⟩ व्याप्तं लोकत्रयं येन ॥ १२",
+    "( ३ शान्तनवी ) तत्र देवानां सदसि तत्प्रागुत्पन्नं",
+    "तेजः उभयत्विषा अतुलम् अनुपमम् । त्विषा दीप्त्या व्याप्तलोकत्रयम्"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "ज्वालाभिरर्चिर्भिः व्याप्तं विद्योतितं दिशां दशानामन्तरं मध्यम-",
+    "तेजसः कूटं ददृशुः दृष्टवन्तः । ‘मायानिश्चलयन्त्रेषु",
+    "किमुत स्वस्यतीव च निर्भरे’ ॥ ११ ॥",
+    "इति वा विशेषः ॥ ११ ॥",
+    "११ ॥",
+    "॥",
+    "तदभून्नारी व्याप्तलोकत्रयं त्विषा ॥ १२ ॥",
+    "१२ ॥",
+    "। नारीऽभून्नार्याकारेण परिणमत् । त्विषा दीप्त्या",
+    "॥",
+    "ब्रह्मविष्णुरुद्रमुखजं तेजः तत्पश्चादुत्पन्नम् । इन्द्रादिसर्वदेवशरीरजं",
+    "एकस्थम् एकस्मिन्नेव समवायिनि तिष्ठत् एकत्वेन"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "थक् भावेनावतिष्ठत् वर्तमानं सत् नारी अभूत् । तत्तेजः",
+    "वजातिविवक्षायां ङीषि वृद्धिः ॥",
+    "( ४ नागोजीभट्टी ) अतुलमिति । तत् ततः । तत्र",
+    "ूत् । त्विषा दीप्त्या ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अतुलं तत्रेति १३ ॥",
+    "( ६ दंशोद्धारः ) अतुलमिति । तत् ततः । आनन्तर्ये",
+    "दभूच्छाम्भवं तेजस्तेनाजायत तन्मुखम् । याम्येन",
+    "( १ गुप्तवती ) ॥ १३",
+    "( १ गुप्तवती ) ॥ १३ ॥",
+    "( २ चतुर्धरी ) शाम्भवं शैवं तत्तेजस्तेनाजायत ।",
+    "( २ चतुर्धरी ) शाम्भवं शैवं तत्तेजस्तेनाजायत । तदित्य"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "स्त्रीरूपमभूदिति भावः । 'तृनरथोर्द्विद्विश्च'इति शार्ङ्गरवादिपाठा-",
+    "१२ ॥",
+    "पुराणान्तरप्रसिद्धे कात्यायनाश्रमे तत्तेजः एकस्थं सन्नारी",
+    "१२ ॥",
+    "१२ ॥",
+    "ऽन्वयम् ॥ १२ ॥",
+    "चाभवन्केशा बाहवो विष्णुतेजसा ॥ १३ ॥",
+    "॥",
+    "( १ गुप्तवती ) ॥ १३ ॥",
+    "यव्ययम । तस्या इत्यर्थः । तस्य मुखं तन्मुखं वा । याम्येन",
+    "तदित्यव्ययम् । तस्या इत्यर्थः । तस्य मुखं तन्मुखं वा । याम्येन",
+    "यव्ययम् । तस्या इत्यर्थः । तस्य मुखं तन्मुखं वा । याम्येन"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "( २ चतुर्धरी ) शाम्भव शैव तत्तेजस्तनौजायत । तादित्य",
+    "मसंबन्धितेजसा ॥ १३ ॥",
+    "( ३ शान्तनवी ) यत् शम्भोरिदं शाम्भवं तेजः तेन",
+    "केन तेजसाऽस्याः \"नार्याः केशा अभवन् । विष्णुतेजसा तस्या",
+    "यत्र यमाचेति वक्तव्यमित्याहुः ॥ १३",
+    "( ४ नागोजीभट्टी ) तेजोविभागेनाङ्गविभागमाह ।",
+    "ष्णोर्नीलवर्णतया बाहवोऽष्टादश नीलाः ॥ १३",
+    "( ५ जगच्चन्द्रचन्द्रिका ) यदभूच्छाम्भवमिति १४ ॥"
+   ],
+   "expected": 8,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ],
+   "lines": [
+    "यव्ययम् । तस्या इत्थ⟨?⟩ः । तस्या मुख तन्मुख वा । याम्येन",
+    "॥",
+    "तस्याः नार्याः मुखम् अजायत अजनिष्ट । याम्येन यमदेव-",
+    "नार्याः बाहवश्चाभवन् । 'दित्यदित्यादित्यपत्युत्तरपदाण्ण्यः'",
+    "॥",
+    "यदिति । शम्भोः श्वेताङ्गतया तत्तेज आयातं मुखं श्वेतमित्यर्थः ।",
+    "॥",
+    "१३ ॥"
+   ],
+   "expected": 8,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25699,
+  "out": 19512
+ },
+ "ts": "2026-10-15T23:26:08"
+}

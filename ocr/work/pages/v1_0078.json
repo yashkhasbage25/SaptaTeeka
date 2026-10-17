@@ -1,0 +1,395 @@
+{
+ "vol": 1,
+ "scan": 78,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 42,
+ "lines": [
+  "६८ दुर्गासप्तशती [ प्रथमोऽध्यायः ]",
+  "वषट्का⟨?⟩रोसि अतः वषडिन्द्रायेति वषट्कारभागिन्द्र इति त्वम् इन्द्राण्यसीत्यर्थः । यद्वा हे देवि त्वं हि त्वमेव वषट्कारोसि",
+  "वषट्कारो यजमानः ऋत्विक्चासि। 'हि हेताववधारणे'। हे देवि त्वं स्वरात्मिका स्वः स्वर्गं आत्मा यस्याः सा स्वर्गरूपासि । यद्वा",
+  "त्वं परलोकात्मासि। 'स्वर्गे परे च लोके स्वः'। यद्वा त्वं स्वरात्मिकासि उदात्तत्वादिरूपासि । अथच निषादर्षभादिस्वरा",
+  "त्मिकाप्यसि। अथवा वषट्कारस्वरात्मिका इत्येकं पदम्। वषट्कारयति स्वःफलरूपं वषट्कारं तपः प्रयोजनम् आत्मा यस्याः स",
+  "वषट्कारप्रवर्तकस्वर्गरूपफलात्मासि। हे देवि त्वं सुधासि अमृतरूपासि । यद्वा हे देवि त्वं सुधामसि सुधाम् असि । हे देवि",
+  "त्वं त्रीन् लोकान् वेदान् त्रीन् देवान् ब्रह्मविष्णुमहेश्वरान् वा दधासि इति त्रिधासि । यद्वा त्रिधामासि त्रीणि धामानि",
+  "गृहाणि भुवनलक्षणानि देहानि ब्रह्मादिरूपाणि तेजांसि चन्द्रार्काग्निरूपाणि प्रभावरूपाणि च त्रिशक्तिलक्षणानि यस्याः सा त्रिधामा",
+  "हे देवि त्वं त्रात्मिका। त्रैङ् पालने त्रायते त्राः विष्णुः क्विप् । त्राः आत्मा स्वभावो यस्याः सा विष्णुरूपासि । यद्वा संपदा",
+  "दित्वाद्भावे क्विप्। त्राणं त्राः पालनम् आत्मा स्वरूपं यस्याः सा पालनरूपासि । यद्वा । हे देवि त्वं त्रिधा त्रिभिः प्रकारैः एक",
+  "मात्रद्विमात्रत्रिमात्ररूपस्वरा(परपर्याया) परंपरया अवर्णात्मकह्रस्वदीर्घप्लुतभिन्नमात्रा आत्मा यस्याः सा त्रिधामात्रात्मिका",
+  "स्वरवर्णरूपासि स्थितासि अस्थितासि च। यद्वा त्रिधा त्रिभिः प्रकारैर्ब्राह्मीवैष्णवीमाहेश्वरीरूपाः मातरः आत्मा स्वरूप",
+  "यस्याः सा त्रिशक्त्याकृतित्रिधामात्रात्मिकेयं विष्णुयोगनिद्रास्थितेति त्रिधामात्रात्मिका । ॐकाररूपेति च । मात्रा",
+  "अकारः उकारः मकारश्चेति तदात्मिका तत्स्वरूपेति कश्चिदोम्पद गतवर्णानभाङ्क्षीत् तच्च पापात् पापीयः । ईदृशीमोम्पदव्यु",
+  "त्पत्तिमतसूत्रामन्धस्यान्धलग्नस्य विनिपातः पदेपदे इत्यन्धपरंपरापारंपर्यपर्यांगतामन्धकुक्कुटीगतिमिव पदेपदे स्खलन्तीं प्रति",
+  "कियदेव तुष्यामः किम् । यद्वा तुष्यामः । कियद्वा तुष्यामः । तथाहि । वर्णेषु ये वर्णैकदेशा वर्णान्तरसमानाकृतयस्तेषु तत्कार्य",
+  "न भवति । तच्छायानुकारिणो हि ते न पुनस्त एवेति पृथक्प्रयत्ननिर्वर्त्यं हि वर्णांमिच्छन्त्याचार्याः । दर्शिता चास्माभिः",
+  "ओम्पदव्युत्पत्तिरोंनमश्चण्डिकायै इत्यत्रावतेष्टिलोपश्चेति सूत्रत इत्यलं विस्तरेण ॥ ५४ ॥",
+  "( ४ नागोजीभट्टी ) कथं तुष्टावेत्यत आह । ब्रह्मोवाच । त्वमिति । स्वाहा देवदानमन्त्रोऽग्निपत्नी च । स्वधा पितृदा",
+  "नमन्त्रः पितृपत्नी च । वषट् क्रियते यत्र स वषट्कारो यज्ञः यज्ञदेवाह्वानमन्त्रश्च । स्वराः षोडश आद्यस्तदात्मिका च । सुधा",
+  "देवान्नम् । अक्षरे उपचयापचयपरिणामहीने आभ्यां सत्तामात्ररूपत्वम् । त्रिधामात्रात्मिका ह्रस्वदीर्घप्लुतरूपा । अर्धमात्रा व्यञ्ज",
+  "नरूपा । अविशेषकत्वाद्⟨?⟩न्यलिङ्गितया अनुचार्यत्वं तदा लिङ्गिता नु तथेति बोध्यम् । त्रिधेत्यतो विशेषत इत्यन्तेन प्रणव",
+  "पता चोक्ता । मात्रात्रयमकारोकारमकारात्मकम् । तदूर्ध्वमर्धमात्रा । तत्र मात्रात्रयम् । जाग्रत्स्वप्नसुषुप्त्यभिमानिविश्वतैजस",
+  "प्राज्ञाभिधेयम् । अर्धमात्रा तु वेदान्तवाक्यार्थभूतनित्यमुक्ततुरीयाभिधेया । तदुक्तम् । 'व्यक्ता तु प्रथमा मात्रा द्वितीया",
+  "ऽव्यक्तसंज्ञिता । मात्रा तृतीया चिच्छक्तिरर्धमात्रा परं पदम्'इति । त्वमेवेति । सा त्वमेवेति पूर्वान्वयित्वम् । सावित्री तत्त्⟨?⟩",
+  "वितुरिति ऋक् । तदधिष्ठात्रो तद्वाच्या चेत्यर्थः । हे देवि त्वं परा उत्कृष्टा जननी सर्वजनकत्वात् । सर्ववाग्जननी पराच ॥५४॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ब्रह्मेति । ब्रह्मो वाचस्त्वाहेत्येको मन्त्रः ७२ । अर्धं इति अर्धश्लोकात्मको मन्त्रः । तथाहि तं",
+  "स्वाहा त्वं स्वधा त्वं हि वषट्कारस्वरात्मिकास्वाहा ७३ । अथ श्लोकमन्त्रास्त्रयोदश इति । अथ त्रिसप्ततिमन्त्रोत्तरम् । श्लोक",
+  "मन्त्राः श्लोकरूपा मन्त्राः त्रयः अधिका दश त्रयोदश तत्संख्याका वर्तन्ते इति शेषः । तद्यथा सुधात्वमिति ७४ ॥ ५४ ॥",
+  "( ६ दंशोद्धारः ) त्वं स्वाहेति । अक्षरे उपचयाः ऽपचयहीने नित्ये जन्मनाशरहिते । स्वाहा देवतोद्देशेन द्रव्यत्यागज",
+  "नितदेवतातृप्तिरूपा देवहविर्दानमन्त्ररूपा वा । स्वधा पित्रुद्देशेन दीयमानद्रव्यजनितपितृतृप्तिरूपा मन्त्ररूपा वा । वषट्कारेति",
+  "वषट्कारो यजमानस्तद्रूपा मन्त्ररूपा वा । स्वरात्मिका स्वर्गरूपा उदात्तादिरूपा निषादादिरूपा वा । सुधा अमृतरूपा । यद्वा",
+  "सुधामसि सुधा । त्रीन् लोकान्ब्रह्मादीन्वा दधासीति त्रिधामात्रात्मिका अकारादिरूपा । यद्वा त्रीणि धामानि तेजांसि सूर्यचन्द्रा",
+  "मिरूपाणि भुवनानि वा आसमन्तात् त्रायसे इति त्रिधामात्रा स आत्मा यस्याः सा पालनरूपासि । यद्वा त्रिधामात्रा ह⟨?⟩",
+  "दीर्घप्लुताः अकारोकारमकारा वा तदात्मिकेत्यर्थः ॥ ५४ ॥",
+  "अर्धमात्रास्थिता नित्या यानुच्चार्या विशेषतः । त्वमेव सा त्वं सावित्री त्वं देवि जननी परा ५५",
+  "( २ गुप्तवती ) अनुच्चार्या अर्धचन्द्ररोधिन्यादिध्वन्यष्टकरूपा । तत्स्वरूपं च योगिनीहृदयव्याख्यायां विवेचितम्",
+  "स्माभिः । सावित्री सवितृदेवत्या गायत्री ॥ ५५ ॥",
+  "( २ चतुर्धरी ) या चार्धमात्रास्थिता । नित्या अपरिणामनिर्विशेषतो मात्रात्रयवैलक्षण्येनानुच्चार्या वेदान्तवाक्यार्थ",
+  "लक्षणमुक्त्यभिमानिनी तुरीयाभिधा या सा त्वमेव । एतेन प्रणवरूपा त्वमेवेति विवक्षितम् । तथाचाह भगवान् दत्तात्रेयः ।",
+  "‘अकारश्च तथोकारो मकारश्चाक्षरत्रयम् । एता एव त्रयो मात्राः सत्त्वराजसतामसाः । निर्गुणा योगिगम्या च अर्धमात्रा च",
+  "१ ‘देवजननी’ इति चतुर्धरीव्याख्यातः पाठः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 78.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 59.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.412,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.267,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 69.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 65.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 77.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 33.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 46.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 69.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 75.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.526,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 59.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 80.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.97,
+   "tesseract_mean_conf": 70.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 72.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.977,
+   "tesseract_mean_conf": 79.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.93,
+   "tesseract_mean_conf": 62.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 67.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 80.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 73.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.987,
+   "tesseract_mean_conf": 74.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 65.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.786,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 75.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 69.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 73.5,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 27404,
+  "out": 24168
+ },
+ "ts": "2026-10-15T19:59:14"
+}

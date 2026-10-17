@@ -1,0 +1,597 @@
+{
+ "vol": 1,
+ "scan": 99,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "द्वितीयोऽध्यायः २ ]            गु गुप्तवत्यादिषट्टीकासंवलिता । ८९",
+  "कालदण्डाद्यमो दण्डं पाशं चाम्बुपतिर्ददौ । प्रजापतिश्चाक्षमालां ददौ ब्रह्मा कमण्डलुम् ॥ २२ ॥",
+  "( १ गुप्तवती ) ॥ २२ ॥",
+  "( २ चतुर्धरी ) अम्बुपतिर्वरुणः । ब्रह्मा अक्षमालां कमण्डलुं च ददावित्यन्वयः । प्रजापतिरिति ब्रह्मणो विशेषणं",
+  "ब्रह्मा अक्षमालां कमण्डलुं चेति वामनपुराणदर्शनात् ॥ २२ ॥",
+  "( ३ शान्तनवी ) यमः अन्तकः कालदण्डात् आकृष्य दण्डं कालदण्डम् आयुधं तस्यै देव्यै ददौ । अम्बुपतिश्च वरुणः",
+  "पाशादाकृष्य पाशं ददौ । तस्यै देव्यै पाशाख्यं शस्त्रं ददौ । 'अश्वाह्वयशालिशीघ्रार्थे ⟨?⟩ पाशो बन्धनशस्त्रयोः' । प्रजापतिर्ब्रह्मा",
+  "तस्यै देव्यै अक्षमालां जपमालां ददौ । कमण्डलुं च ददौ । ‘अत्री कमण्डलुः कुण्डी' । ब्रह्मा विप्रोऽपि कश्चित्स्यात् अत",
+  "उक्तं प्रजापतिरिति । स मनुरपि स्यात् अत उक्तं ब्रह्मेति । 'वेदस्तत्त्वं तपो ब्रह्म ब्रह्मा विप्रः प्रजापतिः' ॥ २२ ॥",
+  "( ४ नागोजीभट्टी ) कालेति । उत्पाटयेति शेषः । प्रजानां पतिर्ब्रह्मा । अक्षमालां कमण्डलुं च ददावित्यन्वयः ।",
+  "ब्रह्माक्षमालां कमण्डलुमिति वामनपुराणात् ॥ २२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) कालदण्डादिति २३ ॥ २२ ॥",
+  "(६ दंशोद्धारः) प्रजेति । प्रजापतिरिति ब्रह्मणो विशेषणम् । दक्षो वा प्रजापतिः ॥ २२ ॥",
+  "समस्तरोमकूपेषु निजरश्मीन्दिवाकरः । कालश्च दत्तवान् खड्गं तस्याश्चर्म च निर्मलम् ॥ २३ ॥",
+  "( १ गुप्तवती ) ॥ २३ ॥",
+  "( २ चतुर्धरी ) कालश्चेति । कालो निमिषाद्यभिमानिनी देवता तस्या इति संक्षेपकत्वात् संप्रदानत्वम् । यद्वा संबन्ध-",
+  "विवक्षायां षष्ठी । अन्य आह । खङ्गं दत्तवान् । तस्य खङ्गस्य चर्म च दत्तवान् । चर्म किंभूतम् । निर्मलं प्रदीप्तम् । अमु दीप्तौ",
+  "इत्यस्य धातोः क्विपि रूपम् । अथवा चतुर्थ्येकवचनम् । 'बहुलं छन्दसि' इति सूत्रेण छन्दसि चतुर्थ्यर्थे षष्ठी बहुलं स्यात् ।",
+  "तस्ये इत्यर्थे तस्या इत्यर्थः ॥ २३ ॥",
+  "( ३ शान्तनवी ) रविः निजान् आत्मीयान् रश्मीन् किरणान् तस्या देव्याः समस्तेषु सर्वेषु रोम्णां कूपेषु आधा-",
+  "⟨?⟩गतेषु ददौ निक्षिप्तवान् । 'किरणप्रग्रहौ रश्मी' 'खके नित्ये निजं त्रिषु' । कालो यमः तस्यै देव्यै निर्मलं खड्गं निर्मलं",
+  "स्वच्छं चर्म च दत्तवान् । अङ्गत्राणसाधनं फलकं चर्म चर्ममयत्वाच्चर्म दत्तवान् । 'फलकोऽस्त्री फलं चर्म' 'कालो मृत्यौ",
+  "महाकाले यमनेहसि च स्मृतः' ॥ २३ ॥",
+  "( ४ नागोजीभट्टी ) समस्तेति । कालस्तदभिमानिनी देवता । तस्या इति संबन्धत्वेन विवक्षायां षष्ठी ॥ २३ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) समस्तरोमेति २४ ॥ २३ ॥",
+  "( ६ दंशोद्धारः ) समस्तेति । तस्यै इति वक्तव्ये तस्या इति षष्ठी तु शेषत्वविवक्षया रजकस्य वसु ददातीतिवत् ।",
+  "यद्वा तस्य आः च्छेदः इत्यव्ययमनुरूपार्थे । तस्य खड्गस्य आः योग्यं चर्मेत्यर्थः । तस्यै इति पाठः सुगमः ॥ २३ ॥",
+  "क्षीरोदश्श्यामलं हारमजरे च तथाम्बरे । चूडामणिं तथा दिव्यं कुण्डले कटकानि च ॥ २४ ॥",
+  "( १ गुप्तवती ) ॥ २४ ॥",
+  "( २ चतुर्धरी ) अजरे अविनश्वरे नित्यनूतने अम्बरे वाससी कटकानि वलयानि ॥ २४ ॥",
+  "( ३ शान्तनवी ) क्षीराण्युदकानि यस्य यस्मि⟨?⟩ सन्वाक्षीरोदश्च । ‘उदकस्योदः संज्ञायाम्’ क्षीराब्ध्यधिदेवता अमलं हार",
+  "मुक्ताहारं तस्यै देव्यै दत्तवान् । तथा स एव क्षीरोदः तस्यै देव्यै अजरे च नूतने जरारहिते अम्बरे वाससी दत्तवान् । ‘अम्बरं",
+  "व्योम्नि वाससि' चूडामणिरित्यारभ्य श्लोकत्रयमेककर्तृकैकक्रियकं द्रष्टव्यम् । तथाहि विश्वकर्मा देवशिल्पी सूर्योऽपि । यदभ्यधुः ।",
+  "'विश्वकर्मांकंसुरशिल्पिनोः' इति । विश्वस्य कर्मास्मादकांत् विश्वकर्मास्य सुरशिल्पिन इति विश्वकर्मा स देवशिल्पी तस्यै देव्यै",
+  "तथा चातुर्येण रचितं दिव्यं दिवि भवम् । 'द्युप्रागपागुदक्प्रतीचो यत्’ । चूडामणिं शिरोरत्नं ददौ । तथा कुण्डले कर्णवेष्टनं",
+  "सुवर्तुले तस्यै देव्यै स एव विश्वकर्मा ददौ । कटकोऽर्धर्चां दित्वादस्त्रियाम् । तथा स एव तस्यै देव्यै कटकानि वलयानि हस्त-",
+  "सूत्राख्यानि च ददौ । 'कटकोर्धचांदित्वादत्रियाम्' ॥ २४ ॥",
+  "( ४ नागोजीभट्टी ) क्षीरोदश्वेति । अङ्गुलीयकरत्नदानान्तं क्षीरोदः कर्त्ता ॥ २४ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) क्षीरोदश्वेति २५ ॥ २४ ॥",
+  "( ६ दंशोद्धारः ) ॥ २४ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.846,
+   "tesseract_mean_conf": 57.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 71.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 79.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.826,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 81.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.884,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.897,
+   "tesseract_mean_conf": 73.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.929,
+   "tesseract_char_agree": 0.986,
+   "tesseract_mean_conf": 78.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 54.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 72.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 74.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.389,
+   "tesseract_char_agree": 0.856,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 83.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.898,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.85,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.812,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 82.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.975,
+   "tesseract_mean_conf": 53.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 76.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 76.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 84.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.935,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 68.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 66.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.526,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 61.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.818,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.97,
+   "tesseract_mean_conf": 47.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "द्वितीयोऽध्यायः २ ]            गु",
+    "कालदण्डाद्यमो दण्डं पाशं चाम्बुपतिर्ददौ ।",
+    "( १ गुप्तवती )",
+    "( २ चतुर्धरी ) अम्बुपतिर्वरुणः । ब्रह्मा अक्षमालां",
+    "ब्रह्मा अक्षमालां कमण्डलुं चेति वामनपुराणदर्शनात् ॥ २२",
+    "( ३ शान्तनवी ) यमः अन्तकः कालदण्डात् आकृष्य",
+    "पाशादाकृष्य पाशं ददौ । तस्यै देव्यै पाशाख्यं शस्त्रं ददौ ।",
+    "तस्यै देव्यै अक्षमालां जपमालां ददौ । कमण्डलुं च ददौ । ‘अत्री",
+    "उक्तं प्रजापतिरिति । स मनुरपि स्यात् अत उक्तं ब्रह्मेति ।",
+    "( ४ नागोजीभट्टी ) कालेति । उत्पाटयेति शेषः ।",
+    "ब्रह्माक्षमालां कमण्डलुमिति वामनपुराणात् ॥ २२",
+    "( ५ जगच्चन्द्रचन्द्रिका ) कालदण्डादिति"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "गुप्तवत्यादिषट्टीकासंवलिता । ८९",
+    "प्रजापतिश्चाक्षमालां ददौ ब्रह्मा कमण्डलुम् ॥ २२ ॥",
+    "॥ २२ ॥",
+    "कमण्डलुं च ददावित्यन्वयः । प्रजापतिरिति ब्रह्मणो विशेषणं",
+    "॥",
+    "दण्डं कालदण्डम् आयुधं तस्यै देव्यै ददौ । अम्बुपतिश्च वरुणः",
+    "'अश्वाह्वयशालिशीघ्रार्थे ⟨?⟩ पाशो बन्धनशस्त्रयोः' । प्रजापतिर्ब्रह्मा",
+    "कमण्डलुः कुण्डी' । ब्रह्मा विप्रोऽपि कश्चित्स्यात् अत",
+    "'वेदस्तत्त्वं तपो ब्रह्म ब्रह्मा विप्रः प्रजापतिः' ॥ २२ ॥",
+    "प्रजानां पतिर्ब्रह्मा । अक्षमालां कमण्डलुं च ददावित्यन्वयः ।",
+    "॥",
+    "२३ ॥ २२ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "(६ दंशोद्धारः) प्रजेति । प्रजापतिरिति ब्रह्मणो विशेषणम्",
+    "समस्तरोमकूपेषु निजरश्मीन्दिवाकरः । कालश्च",
+    "( १ गुप्तवती )",
+    "( २ चतुर्धरी ) कालश्चेति । कालो निमिषाद्यभिमानिनी",
+    "विवक्षायां षष्ठी । अन्य आह । खङ्गं दत्तवान् । तस्य खङ्गस्य",
+    "इत्यस्य धातोः क्विपि रूपम् । अथवा चतुर्थ्येकवचनम् । 'बहुलं",
+    "तस्ये इत्यर्थे तस्या इत्यर्थः ॥ २३",
+    "( ३ शान्तनवी ) रविः निजान् आत्मीयान् रश्मीन्",
+    "⟨?⟩गतेषु ददौ निक्षिप्तवान् । 'किरणप्रग्रहौ रश्मी' 'खके नित्ये",
+    "स्वच्छं चर्म च दत्तवान् । अङ्गत्राणसाधनं फलकं चर्म चर्ममयत्वाच्चर्म",
+    "महाकाले यमनेहसि च स्मृतः' ॥ २३",
+    "( ४ नागोजीभट्टी ) समस्तेति । कालस्तदभिमानिनी"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "। दक्षो वा प्रजापतिः ॥ २२ ॥",
+    "दत्तवान् खड्गं तस्याश्चर्म च निर्मलम् ॥ २३ ॥",
+    "॥ २३ ॥",
+    "देवता तस्या इति संक्षेपकत्वात् संप्रदानत्वम् । यद्वा संबन्ध-",
+    "चर्म च दत्तवान् । चर्म किंभूतम् । निर्मलं प्रदीप्तम् । अमु दीप्तौ",
+    "छन्दसि' इति सूत्रेण छन्दसि चतुर्थ्यर्थे षष्ठी बहुलं स्यात् ।",
+    "॥",
+    "किरणान् तस्या देव्याः समस्तेषु सर्वेषु रोम्णां कूपेषु आधा-",
+    "निजं त्रिषु' । कालो यमः तस्यै देव्यै निर्मलं खड्गं निर्मलं",
+    "दत्तवान् । 'फलकोऽस्त्री फलं चर्म' 'कालो मृत्यौ",
+    "॥",
+    "देवता । तस्या इति संबन्धत्वेन विवक्षायां षष्ठी ॥ २३ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( ५ जगच्चन्द्रचन्द्रिका ) समस्तरोमेति २४ ॥",
+    "( ६ दंशोद्धारः ) समस्तेति । तस्यै इति वक्तव्ये तस्या",
+    "यद्वा तस्य आः च्छेदः इत्यव्ययमनुरूपार्थे । तस्य खड्गस्य आः",
+    "क्षीरोदश्श्यामलं हारमजरे च तथाम्बरे । चूडामणिं",
+    "( १ गुप्तवती ) ॥ २४ ॥",
+    "( २ चतुर्धरी ) अजरे अविनश्वरे नित्यनूतने अम्बरे",
+    "( ३ शान्तनवी ) क्षीराण्युदकानि यस्य यस्मि⟨?⟩",
+    "मुक्ताहारं तस्यै देव्यै दत्तवान् । तथा स एव क्षीरोदः तस्यै देव्यै",
+    "व्योम्नि वाससि' चूडामणिरित्यारभ्य श्लोकत्रयमेककर्तृकैकक्रियकं",
+    "'विश्वकर्मांकंसुरशिल्पिनोः' इति । विश्वस्य कर्मास्मादकांत्",
+    "तथा चातुर्येण रचितं दिव्यं दिवि भवम् । 'द्युप्रागपागुदक्प्रतीचो",
+    "सुवर्तुले तस्यै देव्यै स एव विश्वकर्मा ददौ । कटकोऽर्धर्चां"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "२३ ॥",
+    "इति षष्ठी तु शेषत्वविवक्षया रजकस्य वसु ददातीतिवत् ।",
+    "योग्यं चर्मेत्यर्थः । तस्यै इति पाठः सुगमः ॥ २३ ॥",
+    "तथा दिव्यं कुण्डले कटकानि च ॥ २४ ॥",
+    "वाससी कटकानि वलयानि ॥ २४ ॥",
+    "सन्वाक्षीरोदश्च । ‘उदकस्योदः संज्ञायाम्’ क्षीराब्ध्यधिदेवता अमलं हार",
+    "अजरे च नूतने जरारहिते अम्बरे वाससी दत्तवान् । ‘अम्बरं",
+    "द्रष्टव्यम् । तथाहि विश्वकर्मा देवशिल्पी सूर्योऽपि । यदभ्यधुः ।",
+    "विश्वकर्मास्य सुरशिल्पिन इति विश्वकर्मा स देवशिल्पी तस्यै देव्यै",
+    "यत्’ । चूडामणिं शिरोरत्नं ददौ । तथा कुण्डले कर्णवेष्टनं",
+    "दित्वादस्त्रियाम् । तथा स एव तस्यै देव्यै कटकानि वलयानि हस्त-"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "सूत्राख्यानि च ददौ । 'कटकोर्धचांदित्वादत्रियाम्' ॥ २४",
+    "( ४ नागोजीभट्टी ) क्षीरोदश्वेति । अङ्गुलीयकरत्नदानान्तं",
+    "( ५ जगच्चन्द्रचन्द्रिका ) क्षीरोदश्वेति २५ ॥ २४",
+    "( ६ दंशोद्धारः ) ॥"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "॥",
+    "क्षीरोदः कर्त्ता ॥ २४ ॥",
+    "॥",
+    "२४ ॥"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 23829,
+  "out": 18077
+ },
+ "ts": "2026-10-15T23:28:07"
+}

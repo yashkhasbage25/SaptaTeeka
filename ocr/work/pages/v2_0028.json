@@ -1,0 +1,562 @@
+{
+ "vol": 2,
+ "scan": 28,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 37,
+ "lines": [
+  "११८                                                                                 दुर्गासप्तशती । [ तृतीयोऽध्यायः ३",
+  "(३ शान्तनवी) ततोऽनन्तरं स महिषासुरः तया देव्या पदा पादेन आक्रान्तः शूलेन ताडितः सन्नपि ततस्तस्मा⟨?⟩",
+  "मुखादात्मीयात् महिषवक्त्रात् सकाशात् अर्धनिष्क्रान्त एव अर्धेन शरीरेण निर्गतः देव्या वीर्येण बलेन सामर्थ्येन संवृतः संछादि⟨?⟩",
+  "स्तम्भित आसीत् । तथैवास न संपूर्णो निष्क्रान्तः ।   अर्धनिष्क्रान्तः अर्धेन वा निष्क्रान्तः अर्धनिष्क्रान्तः ॥ ३८ ॥",
+  "(४ नागोजीभट्टी ) तत इति । तया पादाक्रान्तः दृढं वृतोपि सः ततः शूलताडनोत्तरं ततः महिषस्वरूपीयात् नि⟨?⟩",
+  "मुखादर्धनिष्क्रान्तः निःसृतार्धकाय एव देव्या वीर्येण अति अतिशयेन संवृतः परिबद्धः निष्क्रमितुं नाशकदित्यर्थः ॥ ३८ ॥",
+  "(५ जगच्चन्द्रचन्द्रिका ) ततः सोऽपीति ४१ ॥",
+  "(६ दंशोद्धारः) ॥ ३८ ॥ ३८ ॥",
+  "अर्धनिष्क्रान्त एवासौ युद्ध्यमानो महासुरः । तया महासिना देव्या शिरश्छित्त्वा निपातितः॥३९",
+  "(१ गुप्तवती ) तया देव्या मधुपानेन परिणता राजसी लक्ष्मीस्तया निपातित इत्यर्थः । शिरश्छेदोत्तरमपि युद्ध⟨?⟩",
+  "पुराणान्तरेषु द्रष्टव्यः ॥ ३९ ॥",
+  "(२ चतुर्धरी ) एवं च 'शिरश्छेदोद्भवं तद्दानवं खड्गपाणिनम्' इत्यादिविशेषः कल्पान्तरीण इति प्रतीयते ॥ ३९",
+  "समासः । अर्धनिष्क्रान्तइवेति विग्रहप्रसङ्गात् ॥",
+  "'एवं स माहिषो नाम ⟨?⟩सैन्यः समुह्⟨?⟩णः । त्रैलोक्यं मोहयित्वा तु तया देव्या विनाशितः ॥ ४० ॥'",
+  "एवमुक्तरीत्या महिषो नाम प्रसिद्धः स महासुरः ससैन्यः सैन्यसहितः ससुहृद्गणः सुहृद्गणसहितः त्रैलोक्यं त्रीं⟨?⟩",
+  "मोहयित्वा मोहं दुःखं प्राप्तवान् । ततो युद्धं कुर्वाणो देव्या तया भगवत्या तु विनाशितः विनाशं प्रापितः । 'महाकाल",
+  "निपातितः' इति क्वचित्पाठः । महान्कालः उग्रः तत्परन्या महती काली दुर्गा तया वा निपातितः । परासुः कृतः ॥",
+  "त्रैलोक्यस्थैस्तदा भूतैर्महिषे विनिपातिते । जयेत्युक्तं तदा सर्वैः सदेवासुरमानुषैः ॥ ४१ ॥",
+  "तदा तस्मिन्समये देव्या महिषे महासुरे विनिपातिते सति त्रैलोक्यस्थैः सर्वैः पुरुषैः देवीं प्रति जयेति लोको⟨?⟩",
+  "वर्तस्वेत्युक्त्वा । कीदृशैः त्रैलोक्यस्थैः सर्वैः पुरुषैः । सदेवासुरमानवैः देवाः स्वर्लोकसद्मानः इन्द्रादयः । असुराः पाता",
+  "ललोकसंज्ञानो बलिप्रभृतयः । मानवाः भूलोकसंज्ञानो ब्राह्मणादयः । तैः सहिताः तैः । पुनः कीदृशैः । त्रैलोक्यस्थैः त",
+  "भूतैः तस्मात् महिषासुरात् आ भूताः पीडां प्राप्नुवंतः तैः 'आस्तु स्यात्कोवपीडयोः' भूमाभावात्मनेपदी चुरादिः 'आ⟨?⟩षाढा' इ",
+  "णिजभावपक्षे कर्तरि क्ते रूपम् । योगविभागात्समासः । इत्थंभूतेति निर्देशाद्वा ॥ ३९ ॥",
+  "( ४ नागोजीभट्टी ) अर्धेति । एवं च शिरश्छेदोद्भवं तं दानवं शूलपाणिनमिति विशेषः कल्पान्तरीय इ",
+  "बोध्यम् ॥ ३९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अर्धनिष्क्रान्त इति ४२ ॥ ३९ ॥",
+  "( ६ दंशोद्धारः ) ॥ ३९ ॥",
+  "ततो हाहाकृतं सर्वं दैत्यसैन्यं ननाश तत् । प्रहर्षं च परं जग्मुः सकला देवतागणाः ॥ ४० ।",
+  "( १ गुप्तवती ) ननाश पलायितम् । अत्र ऋषिद्वयं यथास्थानमपेक्षितमेव । देव्युक्तिरनपेक्षितैवास्तीति दिक् ॥४०",
+  "( २ चतुर्धरी ) हाहाकृतं कृतहाहाशब्दम् । सर्वमित्यवशिष्टाभिप्रायेण ननाश पलायितम् । प्रहर्षं हर्षोद्रेकं परं नि⟨?⟩",
+  "तिशयं जग्मुर्लब्धवन्तः ॥ ४० ॥",
+  "( ३ शान्तनवी ) ततो महिषमर्दनानन्तरं यत्किंचिद्दैत्यसैन्यम् अवशिष्टम् अल्पं स्वल्पं तदपि हाहाकृतं हाहा इ⟨?⟩",
+  "ससंभ्रमं दीनभावेन कृतम् आहितं तत् ननाश । णश अदर्शने । अर्दनम्भावः । अदृष्टमभूत् । किंच देवतानां गणास्तु सकला",
+  "सर्वेऽपि परमुत्कृष्टं प्रहर्षं संतोषं जग्मुश्च प्राप्तवन्तः । 'हा विषादशुगर्तिषु' । चापले द्वे भवत् इति वक्तव्यम् । संभ्रमे⟨?⟩",
+  "प्रणतिश्चापलम् । हाहा इति संभ्रमप्रवृत्त्या दीनत्वेन कृतमनाथं ननाश । दैत्यसैन्यमित्यर्थः ॥ ४० ॥",
+  "( ४ नागोजीभट्टी ) तत इति । ननाश पलायितम् । हाहेति कृतं येनेति सैन्यविशेषणम् ॥ ४० ॥",
+  "१ अयं श्लोको न पाठान्तर्गतः केवलं शान्तनवीकारेणैव व्याख्यात इति मध्ये निवेशितः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.786,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 75.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.842,
+   "tesseract_mean_conf": 48.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 76.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.688,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 70.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 64.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.865,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 75.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 49.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.312,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 60.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 80.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.872,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.836,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.807,
+   "tesseract_mean_conf": 53.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.954,
+   "tesseract_mean_conf": 70.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 71.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 52.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 58.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.837,
+   "tesseract_mean_conf": 46.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 73.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 87.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 50.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 78.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.969,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.843,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.84,
+   "tesseract_mean_conf": 53.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 69.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 77.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 58.8,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 0 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "११८                                                                                 दुर्गासप्तशती",
+    "(३ शान्तनवी) ततोऽनन्तरं स महिषासुरः तया",
+    "मुखादात्मीयात् महिषवक्त्रात् सकाशात् अर्धनिष्क्रान्त एव अर्धेन",
+    "स्तम्भित आसीत् । तथैवास न संपूर्णो निष्क्रान्तः ।   अर्धनिष्क्रान्तः",
+    "(४ नागोजीभट्टी ) तत इति । तया पादाक्रान्तः",
+    "मुखादर्धनिष्क्रान्तः निःसृतार्धकाय एव देव्या वीर्येण अति",
+    "(५ जगच्चन्द्रचन्द्रिका ) ततः सोऽपीति ४१ ॥",
+    "(६ दंशोद्धारः) ॥ ३८ ॥",
+    "अर्धनिष्क्रान्त एवासौ युद्ध्यमानो महासुरः ।",
+    "(१ गुप्तवती ) तया देव्या मधुपानेन परिणता",
+    "पुराणान्तरेषु द्रष्टव्यः ॥ ३९",
+    "(२ चतुर्धरी ) एवं च 'शिरश्छेदोद्भवं तद्दानवं"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ तृतीयोऽध्यायः ३",
+    "देव्या पदा पादेन आक्रान्तः शूलेन ताडितः सन्नपि ततस्तस्मा⟨?⟩",
+    "शरीरेण निर्गतः देव्या वीर्येण बलेन सामर्थ्येन संवृतः संछादि⟨?⟩",
+    "अर्धेन वा निष्क्रान्तः अर्धनिष्क्रान्तः ॥ ३८ ॥",
+    "दृढं वृतोपि सः ततः शूलताडनोत्तरं ततः महिषस्वरूपीयात् नि⟨?⟩",
+    "अतिशयेन संवृतः परिबद्धः निष्क्रमितुं नाशकदित्यर्थः ॥ ३८ ॥",
+    "३८ ॥",
+    "तया महासिना देव्या शिरश्छित्त्वा निपातितः॥३९",
+    "राजसी लक्ष्मीस्तया निपातित इत्यर्थः । शिरश्छेदोत्तरमपि युद्ध⟨?⟩",
+    "॥",
+    "खड्गपाणिनम्' इत्यादिविशेषः कल्पान्तरीण इति प्रतीयते ॥ ३९"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "समासः । अर्धनिष्क्रान्तइवेति विग्रहप्रसङ्गात्",
+    "'एवं स माहिषो नाम ⟨?⟩सैन्यः समुह्⟨?⟩णः । त्रैलोक्यं",
+    "एवमुक्तरीत्या महिषो नाम प्रसिद्धः स महासुरः",
+    "मोहयित्वा मोहं दुःखं प्राप्तवान् । ततो युद्धं कुर्वाणो देव्या",
+    "निपातितः' इति क्वचित्पाठः । महान्कालः उग्रः तत्परन्या",
+    "त्रैलोक्यस्थैस्तदा भूतैर्महिषे विनिपातिते । जयेत्युक्तं",
+    "तदा तस्मिन्समये देव्या महिषे महासुरे विनिपातिते",
+    "वर्तस्वेत्युक्त्वा । कीदृशैः त्रैलोक्यस्थैः सर्वैः पुरुषैः ।",
+    "ललोकसंज्ञानो बलिप्रभृतयः । मानवाः भूलोकसंज्ञानो",
+    "भूतैः तस्मात् महिषासुरात् आ भूताः पीडां प्राप्नुवंतः तैः 'आस्तु",
+    "णिजभावपक्षे कर्तरि क्ते रूपम् । योगविभागात्समासः ।",
+    "( ४ नागोजीभट्टी ) अर्धेति । एवं च शिरश्छेदोद्भवं"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "॥",
+    "मोहयित्वा तु तया देव्या विनाशितः ॥ ४० ॥'",
+    "ससैन्यः सैन्यसहितः ससुहृद्गणः सुहृद्गणसहितः त्रैलोक्यं त्रीं⟨?⟩",
+    "तया भगवत्या तु विनाशितः विनाशं प्रापितः । 'महाकाल",
+    "महती काली दुर्गा तया वा निपातितः । परासुः कृतः ॥",
+    "तदा सर्वैः सदेवासुरमानुषैः ॥ ४१ ॥",
+    "सति त्रैलोक्यस्थैः सर्वैः पुरुषैः देवीं प्रति जयेति लोको⟨?⟩",
+    "सदेवासुरमानवैः देवाः स्वर्लोकसद्मानः इन्द्रादयः । असुराः पाता",
+    "ब्राह्मणादयः । तैः सहिताः तैः । पुनः कीदृशैः । त्रैलोक्यस्थैः त",
+    "स्यात्कोवपीडयोः' भूमाभावात्मनेपदी चुरादिः 'आ⟨?⟩षाढा' इ",
+    "इत्थंभूतेति निर्देशाद्वा ॥ ३९ ॥",
+    "तं दानवं शूलपाणिनमिति विशेषः कल्पान्तरीय इ"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "बोध्यम् ॥ ३९",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अर्धनिष्क्रान्त इति",
+    "( ६ दंशोद्धारः ) ॥ ३९",
+    "ततो हाहाकृतं सर्वं दैत्यसैन्यं ननाश तत् ।",
+    "( १ गुप्तवती ) ननाश पलायितम् । अत्र ऋषिद्वयं",
+    "( २ चतुर्धरी ) हाहाकृतं कृतहाहाशब्दम् ।",
+    "तिशयं जग्मुर्लब्धवन्तः ॥ ४० ॥",
+    "( ३ शान्तनवी ) ततो महिषमर्दनानन्तरं",
+    "ससंभ्रमं दीनभावेन कृतम् आहितं तत् ननाश । णश अदर्शने",
+    "सर्वेऽपि परमुत्कृष्टं प्रहर्षं संतोषं जग्मुश्च प्राप्तवन्तः । 'हा",
+    "प्रणतिश्चापलम् । हाहा इति संभ्रमप्रवृत्त्या दीनत्वेन कृतमनाथं",
+    "( ४ नागोजीभट्टी ) तत इति । ननाश पलायितम्"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "॥",
+    "४२ ॥ ३९ ॥",
+    "॥",
+    "प्रहर्षं च परं जग्मुः सकला देवतागणाः ॥ ४० ।",
+    "यथास्थानमपेक्षितमेव । देव्युक्तिरनपेक्षितैवास्तीति दिक् ॥४०",
+    "सर्वमित्यवशिष्टाभिप्रायेण ननाश पलायितम् । प्रहर्षं हर्षोद्रेकं परं नि⟨?⟩",
+    "यत्किंचिद्दैत्यसैन्यम् अवशिष्टम् अल्पं स्वल्पं तदपि हाहाकृतं हाहा इ⟨?⟩",
+    "। अर्दनम्भावः । अदृष्टमभूत् । किंच देवतानां गणास्तु सकला",
+    "विषादशुगर्तिषु' । चापले द्वे भवत् इति वक्तव्यम् । संभ्रमे⟨?⟩",
+    "ननाश । दैत्यसैन्यमित्यर्थः ॥ ४० ॥",
+    "। हाहेति कृतं येनेति सैन्यविशेषणम् ॥ ४० ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36
+   ],
+   "lines": [
+    "१ अयं श्लोको न पाठान्तर्गतः केवलं शान्तनवीकारेणैव"
+   ],
+   "expected": 1,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36
+   ],
+   "lines": [
+    "व्याख्यात इति मध्ये निवेशितः ।"
+   ],
+   "expected": 1,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 23444,
+  "out": 17093
+ },
+ "ts": "2026-10-16T00:29:51"
+}

@@ -1,0 +1,599 @@
+{
+ "vol": 1,
+ "scan": 55,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "यः १ ] गुप्तवत्यादिसप्तटीकासंवलिता । ४५",
+  "युद्धमतिप्रबलदण्डिनः ।⟨?⟩ न्यूनैरपि स तैर्युद्धे कोलाविध्वंसिभिर्जितः ॥ ५ ॥",
+  "गुप्तवती ) ॥ ५ ॥",
+  "तुर्धरी ) तस्य तैरित्यादि । युद्धं संप्रहारः । दण्डो हस्त्यश्वादिसमूहः अत्यतिशयेन प्रबलोः दण्डो विद्यते",
+  "अथवा धर्मशास्त्रानुसारी दण्डः प्रजासु विद्यते यस्य तस्य सुरथस्य राज्ञस्तैः कोलाविध्वंसिभिः सह युद्धं",
+  "। अथवा अत्युचितदण्डकारिणः न्यूनैरल्पसाधनैरपि तैः सुरथो जितः भंगेनयोजितः। जयभङ्गयोर्देवाधीनत्वात्॥५॥",
+  "न्तमवी ) तस्य अतितरां प्रकृष्टं बलं हस्त्यश्वरथपादातसन्नद्धं सैन्यं येषां शत्रूणां ते अतिप्रबलाः तान् दण्डयति",
+  "डी तस्य सुरथस्य तैः कोलाविध्वंसिभिर्यवनैर्भूपैः सह युद्धमभवत्। तस्मिन्युद्धे सुरथो राजा न्यूनैरल्पबलैरपि",
+  "सिभिर्यवनभूपैर्जितोऽभिभूत इत्यन्वयः । इह जित इति नायं जि जयं इत्यस्य प्रयोगः। कस्य तर्हि जि अ-",
+  "। तदुक्तम् । ‘जयिर्जयाभिभवयोराद्येऽर्थेऽ⟨?⟩कर्मकः । उत्कर्षप्राप्तिराद्योऽर्थो द्वितीयेऽर्थे सकर्मकः'इति। कोला",
+  "राजधानीं विध्वंसयन्तीति कोलाविध्वंसिनो यवनाः भूपास्तैः । अथवा कोलेति शस्त्रभेदः तया विध्वं-",
+  "विध्वंसिनः । सुरथो नाम राजाभूत् समस्ते क्षितिमण्डले इति सुरथस्य यत्सार्वभौमत्वमुक्तं प्राक् तदिदानीं न दै-",
+  "ल्यैरथाक्रान्तः सागरान्ताखिलावनिवलयत्वात्तस्येति भावः ॥ ५ ॥",
+  "ागोजीभट्टी ) तस्य तैरिति । अतिप्रबलदण्डकर्तुः । छान्दसत्वात्कर्मधारयादिभिः । इदं पराजयनिमित्तम् ।",
+  "गच्चन्द्रचन्द्रिका ) तस्य तैरभवदिति ६ ॥ ५ ॥",
+  "गच्चन्द्रचन्द्रिका ) तस्य तैरभवदिति ६ ॥ ५ ॥",
+  "शोद्धारः ) तस्य तैरिति । अतिप्रबलो दण्डोऽपराधिषु चतुर्थोपायो यस्य । हस्तो वा दण्डः । कर्मधारयान्म-",
+  "⟨?⟩द्रवेऽपि मतुबर्थिक इति भाष्येण लाघवादस्य सूचितत्वात् । किसलयच्छेदपाथेयवन्त इतिवत्कर्मधारयादपि",
+  "इनिः । अतितरां प्रकृष्ट वलं येषां शत्रूणां तान् दण्डयतीति वा । जितः अभिभूतः । जि अभिभवे नतु जि",
+  "मिकत्वात् । अति पिपर्ति इत्यतिप्रः । मूलविभुजादित्वात्कः । अतिविरूढः वलदण्डः सैन्यसन्निवेशो",
+  "मायातो निजदेशाधिपोऽभवत् । आक्रान्तः स महाभागस्तैस्तदा प्रबलारिभिः ॥ ६ ॥",
+  "⟨?⟩ ) ॥ ६ ॥",
+  "( गुप्तवती ) ॥ ६ ॥",
+  "चतुर्धरी ) ततः स्वपुरमित्यादि । ततोऽनन्तरं स्वपुरमात्मराजधानीं वा निजदेशाधिपो मूलराष्ट्राध्यक्षः आक्रा-",
+  "आच्छिन्नदेशो वा ततस्तैराक्रान्तः स्वपुरमायातो निजदेशाधिपो ऽभवदित्यन्वयः । तदा प्रबलैस्तत्कालप्राप्तबलैः ।",
+  "॥ ६ ॥",
+  "ान्तनवी ) तत एवाह । तदा तद्युद्धविधिसमये ततः अभिभवाज्जितस्तैः प्रबलारिभिराक्रान्तः व्याप्तः अधि-",
+  "भागः सुरथः स्वपुरम् आयातः सन् निजदेशाधिपोभवत् । स्वकीयपुरजनपदमात्राधिप एवासीत् नतु सार्वभौम",
+  "यद्यपि शत्रुभिराक्रान्तस्तथापि तदाक्रान्तिजनितोद्वेगोपगतवनवासिमुनिवरोपदिष्टमहामायैकसमाराधनलब्धवरा-",
+  "संप्राप्तव्याप्तममनुत्वपदलक्षणभवितव्यतावाप्तिपात्रतया महाभाग इतिविशेषणमर्थवदेव । तदुक्तम् । 'संभवे",
+  "याद्विशेषणमर्थवत्' इति । दिश्यते देशः स्थानमात्रम् । ननु च नीवृज्जनपदो देशस्तु विषयः स्थानमात्रं",
+  "नेह जनपदो लभ्यते तदभ्यधादमरः । 'नीवृज्जनपदो देशविषयौ तूपवर्तनम्' इति । 'स्वंताथादि न पूर्वभाक्'",
+  "भाषिष्ट । नैव दोषः । नीवृदादीन्पञ्चैकार्थानाहुरपरेत्विरत्याश्रयणात् । आत्मात्मीयज्ञातिधनवाची स्वशब्दः ॥६॥",
+  "ागोजीभट्टी ) तत इति । ततः भङ्गानन्तरम् । तैः प्रबलैः अरिभिः शत्रुभिराक्रान्त आक्रमितः महाभागः",
+  "ः । निजदेशाधिप एवाभवत् न सार्वभौम इत्यर्थः । भावे तज्जन्मभवजन्मान्तरीणमहाराज्यमिति बुद्धौ स्वीकृत्य",
+  "⟨?⟩म् ॥ ६ ॥",
+  "गच्चन्द्रचन्द्रिका ) ततः स्वपुरमिति ७ ॥ ६ ॥",
+  "शोद्धारः ) तत इति । तदा युद्धसमये तत अभिभवावाभितः मुनिवरोपदिष्टदेव्याराधनाल्लब्धमन्वन्तरत्वमात्र-",
+  "भाग इति ॥ ६",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.844,
+   "tesseract_mean_conf": 62.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.862,
+   "tesseract_mean_conf": 58.4,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 48.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 78.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 62.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 62.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 61.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 78.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.893,
+   "tesseract_mean_conf": 51.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.98,
+   "tesseract_mean_conf": 85.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 61.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.987,
+   "tesseract_mean_conf": 79.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 58.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.934,
+   "tesseract_mean_conf": 74.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 75.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 51.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 53.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 47.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 75.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 16.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 52.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.877,
+   "tesseract_mean_conf": 54.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 56.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 29.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.762,
+   "tesseract_mean_conf": 62.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 74.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.714,
+   "tesseract_mean_conf": 65.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 30.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 1 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 3 col 0: got 3 lines, expected 4; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 2 lines, expected 4; realigned, 2 line(s) unmatched",
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "यः १ ] गुप्तवत्यादिसप्तटीकासंवलिता ।",
+    "युद्धमतिप्रबलदण्डिनः ।⟨?⟩ न्यूनैरपि स तैर्युद्धे",
+    "गुप्तवती ) ॥",
+    "तुर्धरी ) तस्य तैरित्यादि । युद्धं संप्रहारः । दण्डो",
+    "अथवा धर्मशास्त्रानुसारी दण्डः प्रजासु विद्यते यस्य",
+    "। अथवा अत्युचितदण्डकारिणः न्यूनैरल्पसाधनैरपि तैः सुरथो",
+    "न्तमवी ) तस्य अतितरां प्रकृष्टं बलं हस्त्यश्वरथपादातसन्नद्धं",
+    "डी तस्य सुरथस्य तैः कोलाविध्वंसिभिर्यवनैर्भूपैः सह",
+    "सिभिर्यवनभूपैर्जितोऽभिभूत इत्यन्वयः । इह जित इति",
+    "। तदुक्तम् । ‘जयिर्जयाभिभवयोराद्येऽर्थेऽ⟨?⟩कर्मकः ।",
+    "राजधानीं विध्वंसयन्तीति कोलाविध्वंसिनो यवनाः",
+    "विध्वंसिनः । सुरथो नाम राजाभूत् समस्ते क्षितिमण्डले"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "४५",
+    "कोलाविध्वंसिभिर्जितः ॥ ५ ॥",
+    "५ ॥",
+    "हस्त्यश्वादिसमूहः अत्यतिशयेन प्रबलोः दण्डो विद्यते",
+    "तस्य सुरथस्य राज्ञस्तैः कोलाविध्वंसिभिः सह युद्धं",
+    "जितः भंगेनयोजितः। जयभङ्गयोर्देवाधीनत्वात्॥५॥",
+    "सैन्यं येषां शत्रूणां ते अतिप्रबलाः तान् दण्डयति",
+    "युद्धमभवत्। तस्मिन्युद्धे सुरथो राजा न्यूनैरल्पबलैरपि",
+    "नायं जि जयं इत्यस्य प्रयोगः। कस्य तर्हि जि अ-",
+    "उत्कर्षप्राप्तिराद्योऽर्थो द्वितीयेऽर्थे सकर्मकः'इति। कोला",
+    "भूपास्तैः । अथवा कोलेति शस्त्रभेदः तया विध्वं-",
+    "इति सुरथस्य यत्सार्वभौमत्वमुक्तं प्राक् तदिदानीं न दै-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "ल्यैरथाक्रान्तः सागरान्ताखिलावनिवलयत्वात्तस्येति भावः",
+    "ागोजीभट्टी ) तस्य तैरिति । अतिप्रबलदण्डकर्तुः ।",
+    "गच्चन्द्रचन्द्रिका ) तस्य तैरभवदिति ६",
+    "गच्चन्द्रचन्द्रिका ) तस्य तैरभवदिति ६ ॥ ५ ॥",
+    "शोद्धारः ) तस्य तैरिति । अतिप्रबलो दण्डोऽपराधिषु",
+    "⟨?⟩द्रवेऽपि मतुबर्थिक इति भाष्येण लाघवादस्य सूचितत्वात्",
+    "इनिः । अतितरां प्रकृष्ट वलं येषां शत्रूणां तान् दण्डयतीति",
+    "मिकत्वात् । अति पिपर्ति इत्यतिप्रः । मूलविभुजादित्वात्कः",
+    "मायातो निजदेशाधिपोऽभवत् । आक्रान्तः",
+    "⟨?⟩ ) ॥ ६ ॥",
+    "( गुप्तवती",
+    "चतुर्धरी ) ततः स्वपुरमित्यादि । ततोऽनन्तरं"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "॥ ५ ॥",
+    "छान्दसत्वात्कर्मधारयादिभिः । इदं पराजयनिमित्तम् ।",
+    "॥ ५ ॥",
+    "चतुर्थोपायो यस्य । हस्तो वा दण्डः । कर्मधारयान्म-",
+    "। किसलयच्छेदपाथेयवन्त इतिवत्कर्मधारयादपि",
+    "वा । जितः अभिभूतः । जि अभिभवे नतु जि",
+    "। अतिविरूढः वलदण्डः सैन्यसन्निवेशो",
+    "स महाभागस्तैस्तदा प्रबलारिभिः ॥ ६ ॥",
+    ") ॥ ६ ॥",
+    "स्वपुरमात्मराजधानीं वा निजदेशाधिपो मूलराष्ट्राध्यक्षः आक्रा-"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "आच्छिन्नदेशो वा ततस्तैराक्रान्तः स्वपुरमायातो निजदेशाधिपो",
+    "॥ ६",
+    "ान्तनवी ) तत एवाह । तदा तद्युद्धविधिसमये ततः",
+    "भागः सुरथः स्वपुरम् आयातः सन् निजदेशाधिपोभवत्",
+    "यद्यपि शत्रुभिराक्रान्तस्तथापि",
+    "संप्राप्तव्याप्तममनुत्वपदलक्षणभवितव्यतावाप्तिपात्रतया",
+    "याद्विशेषणमर्थवत्' इति । दिश्यते देशः स्थानमात्रम् ।",
+    "नेह जनपदो लभ्यते तदभ्यधादमरः । 'नीवृज्जनपदो",
+    "भाषिष्ट । नैव दोषः । नीवृदादीन्पञ्चैकार्थानाहुरपरेत्विरत्याश्रयणात्",
+    "ागोजीभट्टी ) तत इति । ततः भङ्गानन्तरम् । तैः",
+    "ः । निजदेशाधिप एवाभवत् न सार्वभौम इत्यर्थः । भावे",
+    "⟨?⟩म् ॥ ६ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "ऽभवदित्यन्वयः । तदा प्रबलैस्तत्कालप्राप्तबलैः ।",
+    "॥",
+    "अभिभवाज्जितस्तैः प्रबलारिभिराक्रान्तः व्याप्तः अधि-",
+    "। स्वकीयपुरजनपदमात्राधिप एवासीत् नतु सार्वभौम",
+    "तदाक्रान्तिजनितोद्वेगोपगतवनवासिमुनिवरोपदिष्टमहामायैकसमाराधनलब्धवरा-",
+    "महाभाग इतिविशेषणमर्थवदेव । तदुक्तम् । 'संभवे",
+    "ननु च नीवृज्जनपदो देशस्तु विषयः स्थानमात्रं",
+    "देशविषयौ तूपवर्तनम्' इति । 'स्वंताथादि न पूर्वभाक्'",
+    "। आत्मात्मीयज्ञातिधनवाची स्वशब्दः ॥६॥",
+    "प्रबलैः अरिभिः शत्रुभिराक्रान्त आक्रमितः महाभागः",
+    "तज्जन्मभवजन्मान्तरीणमहाराज्यमिति बुद्धौ स्वीकृत्य"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "गच्चन्द्रचन्द्रिका ) ततः स्वपुरमिति ७ ॥ ६",
+    "शोद्धारः ) तत इति । तदा युद्धसमये तत अभिभवावाभितः",
+    "भाग इति ॥ ६"
+   ],
+   "expected": 4,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "॥",
+    "मुनिवरोपदिष्टदेव्याराधनाल्लब्धमन्वन्तरत्वमात्र-"
+   ],
+   "expected": 4,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 23609,
+  "out": 19045
+ },
+ "ts": "2026-10-15T23:00:25"
+}

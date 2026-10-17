@@ -1,0 +1,110 @@
+{
+ "vol": 1,
+ "scan": 1,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 10,
+ "lines": [
+  "THE",
+  "VRAJAJIVAN PRACHYABHARATI GRANTHAMALA",
+  "27",
+  "DURGĀSAPTAŚATĪ",
+  "WITH SEVEN SANSKRIT COMMENTRIES",
+  "DURGĀPRADĪPA : GUPTAVATĪ : CATURDHARĪ : ŚĀNTANAVĪ :",
+  "NAGOJIBHATTĪ : JAGACCANDRACANDRIKĀ : DAMŚODDHĀRA",
+  "Edited by:",
+  "Hari Krishna Sharma",
+  "ज्ञाने सर्वं प्रतिष्ठितम्"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "whole_page": true,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 2461,
+  "out": 314
+ },
+ "ts": "2026-10-15T19:23:39",
+ "mode": "whole_page"
+}

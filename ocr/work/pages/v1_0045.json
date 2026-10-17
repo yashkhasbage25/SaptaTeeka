@@ -1,0 +1,782 @@
+{
+ "vol": 1,
+ "scan": 45,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 54,
+ "lines": [
+  "",
+  "",
+  "",
+  "",
+  "स्थः प्रयोगविधिः ]   गुप्तवत्यादिषट्टीकासंवलिता । ६५",
+  "",
+  "मार्गक्रमेण तु । सावर्णिः सूर्यतनयः सावर्णिर्भविता मनुः । संकटे चान्त्यमारभ्य पश्चादादिं समापयेत् ।",
+  "रणे तु विशेष उक्तस्तत्रैव । 'पञ्च स्वर्णाः शतावृत्ते लक्षावृत्ते तु तत्त्रयम् । पञ्चावृत्ते स्वर्णमेकं त्रिरावृत्ते तदर्धकम् ।",
+  "नकं दद्याद्वा शक्तितो बुधः' इति ॥",
+  "ष्यादि ॥ प्रथमचरित्रस्य ब्रह्मा ऋषिः । गायत्रीच्छन्दः । महाकाली देवता । नन्दा शक्तिः । रक्तदन्तिका बीजम् ।",
+  "महाकालीप्रीत्यर्थे जपे विनियोगः । मध्यमचरित्रस्य विष्णुर्ऋषिः । उष्णिक्छन्दः । महालक्ष्मीर्देवता । शाङ्-",
+  "। दुर्गा बीजम् । वायुस्तत्त्वम् । महालक्ष्मीप्रीत्यर्थे जपे विनियोगः । अन्त्यचरित्रस्य शङ्कर ऋषिः । अनुष्टुप्",
+  "रस्वती देवता । भीमा शक्तिः । भ्रामरी वीजम् । रविस्तत्त्वम् । सरस्वतीप्रीत्यर्थे जपे विनियोगः । शाता-",
+  "भेदेन होमभेद उक्ताः वाराहीतन्त्रे । 'हुनेत्प्रदीपिते वह्नौ तिलधान्यादितण्डुलान् । धर्मार्थकामसंवृद्धौ मोक्षार्थी",
+  "मारणे मोहने चैव तथोचाटनकर्मणि । हुनेन्मांसं त्रिमध्वाक्तं मोहने मधुपायसम् । स्तम्भने मातुलफलं वश्ये",
+  "। धर्मार्थकाममोक्षार्थे पूर्वाशाभिमुखो हुनेत् । मोहने मारणे चैव हुनेद्द्वै दक्षिणामुखः । उच्चाटने उत्तरास्य",
+  "भवः' । कोडतन्त्रे । 'प्रत्येकावर्तनं देवि हयमेधेन संमितम् । त्रिरावृत्त्या लभेत्कामान्पञ्चावृत्त्या रिपूञ्जयेत्' इति",
+  "कात्यायनाय विद्महे कन्यकुमारिधीमहि । तन्नो दुर्गिः प्रचोदयात् । इत्येतद्गायत्री यजुर्वेदे ॥",
+  "गायत्रीप्रयोगान्तरं कात्यायनीतन्त्रे । पूर्वाह्णे षोडशाङ्गुलमितं चतुरोन्नतं स्थण्डिलं कृत्वा तत्र शुद्ध गोघृतेनैकस्मि-",
+  "बु त्रयोदश दीपान्प्रज्वाल्य तेषु प्रथमदीपे प्रथमाध्यायदेवतामावाह्य आसनपाद्यादिगन्धदानान्तां पूजां कृत्वा",
+  "वक्ष्यमाणैनवभिः श्लोकैः प्रतिश्लोकं पुष्पाणि समर्पयेत् । ततः प्रथमाध्यायसमाप्तौ वक्ष्यमाणश्लोकैः पुष्पाणि",
+  "दत्त्वा पायसनैवेद्यं दत्त्वा ताम्बूलं दक्षिणां च दत्त्वा नीराज्य एकं ब्राह्मणं कुमारीं सुवासिनीं च भोजयेत् ।",
+  "एवं तत्तद्ध्यायदेवतावाहनादिब्राह्मणभोजनान्तं प्रत्यध्यायं कुर्यात् । अन्ते प्रभूतनैवेद्यादिभिर्महापूजा । अनु-",
+  "सिः निद्महे पराह्णे । श्लोकास्तु 'विश्वेश्वरीं जगद्धात्रीं॰ स्तुतासुरैः पूर्वमभीष्टसंश्रयात्' 'करोतु सा नः शुभहेतु॰",
+  "द्धतदैत्यतापितैः०' ३ या च स्मृता तत्क्षणमेव हन्ति नः करो तु सा नः शुभहेतुरी॰ ४ सर्वबाधाप्रशमनं॰",
+  "शनमित्यत्र रोगनाशनमित्याहुः । एवं दैत्यतापितैरित्यपि सर्वमङ्गलमाङ्गल्ये॰ ६ सृष्टिस्थितिविनाशानां॰ ७",
+  "० ८ सर्वस्वरूपे सर्वेशे० ९ एतेनुमहे नवश्लोकाः । वश्ये तु विशेषः ॐ ह्रीं रक्तचामुण्डे तूर्णं अमुकं मे वश-",
+  "अनेन प्रत्यध्यायमाद्यन्तयोः पूजा सर्वान्ते अयुतमन्त्रश्च दशसाहस्रम् । होमयेत्कटुतैलेन रक्तचन्दनराजिकाः ।",
+  "राजानं वशमानयेत् । मधुना चाशोकपुष्पं रात्रौ हुत्वा तु पूर्ववत् । चक्रवर्ती भवेद्वश्यश्चण्डीमन्त्रप्रभावतः ।",
+  "गाः कुमार्यश्च भोजनीयाः । धर्मार्थे बिल्वपत्रैः पूजा वश्यार्थे करवीरैर्जपाकुसुमैर्वा पुत्रार्थे तुलसीदलैः पुष्ट्यर्थे",
+  "गे तु षोडशमाषैः स्वर्णमूर्तिं कृत्वा कलशस्थापनं कृत्वा तदग्रे घटेर्गोलयन्त्रे वा दीपं स्थापयेत् । यन्त्रमन्त्यं",
+  "पनं महति कार्यं ऊनपञ्चाशद्दिनानि मध्ये चतुर्विंशतिः तदर्धमल्पे ब्राह्मणास्त्रयो महत्कार्ये प्रयोगकर्तारः",
+  "ग्रहे तु सर्वबाधाप्रशमनमित्यस्याग्रे एवमुक्त्वा समुत्पत्स्येति पठेत् ॥",
+  "गे क्वचित्तर्पणमप्युक्तम् । त्रयोदशपात्राणि दुग्धेनापूर्याद्यन्तयोः पुष्पाञ्जलिं दत्त्वा प्रतिश्लोकं प्रथमाध्यायदेवतां",
+  "गेण तर्पयेत । ततस्त्रयोदशस्वग्निषु क्रमात्तत्तदध्यायदेवता आवाह्य संपूज्य प्रतिश्लोकमों \"प्रथमाध्यायदेवतायै",
+  "त्रेण पायसेन जुहुयात् । प्रत्यहं यावत्प्रयोगसमाप्ति त्रयोदश ब्राह्मणाः सुवासिन्यः कुमार्यः एकोनुपनीतोऽष्ट-",
+  "थ भोजनीयाः । परार्थे प्रयोगे तु सत्याः संतु यजमानस्य कामा इति प्रतिश्लोकं प्रत्यध्यायं वा पठेत् । इदं",
+  "गे तु बोध्यम् । अत्र त्रयोदशपात्रेषु त्रयोदशदीपा इत्युत्तमः पक्षः । एकपात्रे त्रयोदश दीपा इति",
+  "न्नेव पात्रे त्रयोदश दीपा इति देवता चेत्यधमः पक्षः । यथोक्तविधदीपेषु अक्षतपुञ्जेषु जलपात्रेषु अभिष",
+  "ः इत्युपवेशः ॥",
+  "ान्त्राणि कात्यायनीतन्त्रोक्तानि ॥ प्रतिश्लोकमाद्यन्तयोः मन्त्रं जपेन्मन्त्रसिद्धिः । सप्रणवमनुलोमव्याहृतित्रय-",
+  "लोमं तदित्येवं प्रतिश्लोकं कृत्वा शतावृत्तपाठे तु शीघ्रसिद्धिः । प्रतिश्लोकमादौ जातवेदस इति ऋचं पठेत् ।",
+  "यादावन्ते शतं त्र्यम्बकमन्त्रं जपेत् प्रतिश्लोकं तन्मन्त्रजप इति वा प्रतिश्लोकं शरणागतदीनार्तश्लोकं पठे-",
+  "प्रतिश्लोकं करोतु सा नः शुभेत्यर्धं पठेत् सर्वकामाप्तिः । स्वाभीष्टवरप्राप्त्यै एवं देव्या वरं लब्धेतिश्लोकं",
+  "सर्वापन्निवारणार्थं प्रतिश्लोकं दुर्गेति पठेत् । अस्य केवलस्यापि श्लोकस्य कार्यानुसारेण लक्षमयुतं सहस्रं",
+  "वांबाधेत्यस्य लक्षजपे श्लोकोक्तं फलम् । इत्थं यदा यदेति श्लोकस्य जपे महामारीशान्तिः । ततो व⟨?⟩े",
+  "न्त्रस्य लक्षजपे पुनः राज्यलाभः । हिनस्ति दैत्यतेजांसीत्यनेन सदीपबलिदाने घण्टाबन्धने च बालग्रह-",
+  "क्तिमनुलोमेन त्रयोदशाध्यायं पठित्वा ततो विपरीतक्रमेण द्वितीयां कृत्वा पुनरनुलोमेनेत्येवं दशाध्यायं प-",
+  "तमावृत्तित्रये उच्चेषु प्रकारेषु शीघ्रं कार्यसिद्धिः । सर्वापत्तिनिवास्याय दुर्गेस्मृतेत्यन्तोर्धं ततो यदन्ति",
+  "",
+  "",
+  "",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 43.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 15.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 30.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 44.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 51.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 48.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 72.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 65.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.529,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 64.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 50.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 42.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 57.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 60.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 46.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.954,
+   "tesseract_mean_conf": 75.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 59.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 52.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.802,
+   "tesseract_mean_conf": 54.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.988,
+   "tesseract_mean_conf": 61.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 59.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 54.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.821,
+   "tesseract_mean_conf": 62.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.111,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 46.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 45.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 55.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 39.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 50.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.914,
+   "tesseract_mean_conf": 67.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 60.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.4,
+   "tesseract_mean_conf": 66.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.979,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 66.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 54.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.922,
+   "tesseract_mean_conf": 57.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 58.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.847,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 42.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.862,
+   "tesseract_mean_conf": 57.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 53.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 17.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 87.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 28.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 43.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 7 lines, expected 12; realigned, 5 line(s) unmatched",
+  "band 0 col 0: got 7 lines, expected 12; realigned, 5 line(s) unmatched",
+  "band 4 col 0: got 1 lines, expected 6; realigned, 5 line(s) unmatched",
+  "band 4 col 1: got 1 lines, expected 6; realigned, 5 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "स्थः प्रयोगविधिः ]   गुप्तवत्यादिषट्टीकासंवलिता ।",
+    "मार्गक्रमेण तु । सावर्णिः सूर्यतनयः सावर्णिर्भविता मनुः",
+    "रणे तु विशेष उक्तस्तत्रैव । 'पञ्च स्वर्णाः शतावृत्ते लक्षावृत्ते तु",
+    "नकं दद्याद्वा शक्तितो बुधः' इति",
+    "ष्यादि ॥ प्रथमचरित्रस्य ब्रह्मा ऋषिः । गायत्रीच्छन्दः । महाकाली",
+    "महाकालीप्रीत्यर्थे जपे विनियोगः । मध्यमचरित्रस्य विष्णुर्ऋषिः",
+    "। दुर्गा बीजम् । वायुस्तत्त्वम् । महालक्ष्मीप्रीत्यर्थे जपे"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "६५",
+    "। संकटे चान्त्यमारभ्य पश्चादादिं समापयेत् ।",
+    "तत्त्रयम् । पञ्चावृत्ते स्वर्णमेकं त्रिरावृत्ते तदर्धकम् ।",
+    "॥",
+    "देवता । नन्दा शक्तिः । रक्तदन्तिका बीजम् ।",
+    "। उष्णिक्छन्दः । महालक्ष्मीर्देवता । शाङ्-",
+    "विनियोगः । अन्त्यचरित्रस्य शङ्कर ऋषिः । अनुष्टुप्"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "रस्वती देवता । भीमा शक्तिः । भ्रामरी वीजम् । रविस्तत्त्वम्",
+    "भेदेन होमभेद उक्ताः वाराहीतन्त्रे । 'हुनेत्प्रदीपिते वह्नौ",
+    "मारणे मोहने चैव तथोचाटनकर्मणि । हुनेन्मांसं त्रिमध्वाक्तं",
+    "। धर्मार्थकाममोक्षार्थे पूर्वाशाभिमुखो हुनेत् । मोहने मारणे",
+    "भवः' । कोडतन्त्रे । 'प्रत्येकावर्तनं देवि हयमेधेन संमितम् ।",
+    "कात्यायनाय विद्महे कन्यकुमारिधीमहि । तन्नो दुर्गिः प्रचोदयात्",
+    "गायत्रीप्रयोगान्तरं कात्यायनीतन्त्रे । पूर्वाह्णे षोडशाङ्गुलमितं",
+    "बु त्रयोदश दीपान्प्रज्वाल्य तेषु प्रथमदीपे प्रथमाध्यायदेवतामावाह्य",
+    "वक्ष्यमाणैनवभिः श्लोकैः प्रतिश्लोकं पुष्पाणि समर्पयेत् । ततः",
+    "दत्त्वा पायसनैवेद्यं दत्त्वा ताम्बूलं दक्षिणां च दत्त्वा नीराज्य",
+    "एवं तत्तद्ध्यायदेवतावाहनादिब्राह्मणभोजनान्तं प्रत्यध्यायं कुर्यात्",
+    "सिः निद्महे पराह्णे । श्लोकास्तु 'विश्वेश्वरीं जगद्धात्रीं॰ स्तुतासुरैः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "। सरस्वतीप्रीत्यर्थे जपे विनियोगः । शाता-",
+    "तिलधान्यादितण्डुलान् । धर्मार्थकामसंवृद्धौ मोक्षार्थी",
+    "मोहने मधुपायसम् । स्तम्भने मातुलफलं वश्ये",
+    "चैव हुनेद्द्वै दक्षिणामुखः । उच्चाटने उत्तरास्य",
+    "त्रिरावृत्त्या लभेत्कामान्पञ्चावृत्त्या रिपूञ्जयेत्' इति",
+    "। इत्येतद्गायत्री यजुर्वेदे ॥",
+    "चतुरोन्नतं स्थण्डिलं कृत्वा तत्र शुद्ध गोघृतेनैकस्मि-",
+    "आसनपाद्यादिगन्धदानान्तां पूजां कृत्वा",
+    "प्रथमाध्यायसमाप्तौ वक्ष्यमाणश्लोकैः पुष्पाणि",
+    "एकं ब्राह्मणं कुमारीं सुवासिनीं च भोजयेत् ।",
+    "। अन्ते प्रभूतनैवेद्यादिभिर्महापूजा । अनु-",
+    "पूर्वमभीष्टसंश्रयात्' 'करोतु सा नः शुभहेतु॰"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "द्धतदैत्यतापितैः०' ३ या च स्मृता तत्क्षणमेव हन्ति नः",
+    "शनमित्यत्र रोगनाशनमित्याहुः । एवं दैत्यतापितैरित्यपि",
+    "० ८ सर्वस्वरूपे सर्वेशे० ९ एतेनुमहे नवश्लोकाः । वश्ये तु",
+    "अनेन प्रत्यध्यायमाद्यन्तयोः पूजा सर्वान्ते अयुतमन्त्रश्च",
+    "राजानं वशमानयेत् । मधुना चाशोकपुष्पं रात्रौ हुत्वा तु",
+    "गाः कुमार्यश्च भोजनीयाः । धर्मार्थे बिल्वपत्रैः पूजा वश्यार्थे",
+    "गे तु षोडशमाषैः स्वर्णमूर्तिं कृत्वा कलशस्थापनं कृत्वा तदग्रे",
+    "पनं महति कार्यं ऊनपञ्चाशद्दिनानि मध्ये चतुर्विंशतिः",
+    "ग्रहे तु सर्वबाधाप्रशमनमित्यस्याग्रे एवमुक्त्वा समुत्पत्स्येति पठेत्",
+    "गे क्वचित्तर्पणमप्युक्तम् । त्रयोदशपात्राणि दुग्धेनापूर्याद्यन्तयोः",
+    "गेण तर्पयेत । ततस्त्रयोदशस्वग्निषु क्रमात्तत्तदध्यायदेवता",
+    "त्रेण पायसेन जुहुयात् । प्रत्यहं यावत्प्रयोगसमाप्ति त्रयोदश"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "करो तु सा नः शुभहेतुरी॰ ४ सर्वबाधाप्रशमनं॰",
+    "सर्वमङ्गलमाङ्गल्ये॰ ६ सृष्टिस्थितिविनाशानां॰ ७",
+    "विशेषः ॐ ह्रीं रक्तचामुण्डे तूर्णं अमुकं मे वश-",
+    "दशसाहस्रम् । होमयेत्कटुतैलेन रक्तचन्दनराजिकाः ।",
+    "पूर्ववत् । चक्रवर्ती भवेद्वश्यश्चण्डीमन्त्रप्रभावतः ।",
+    "करवीरैर्जपाकुसुमैर्वा पुत्रार्थे तुलसीदलैः पुष्ट्यर्थे",
+    "घटेर्गोलयन्त्रे वा दीपं स्थापयेत् । यन्त्रमन्त्यं",
+    "तदर्धमल्पे ब्राह्मणास्त्रयो महत्कार्ये प्रयोगकर्तारः",
+    "॥",
+    "पुष्पाञ्जलिं दत्त्वा प्रतिश्लोकं प्रथमाध्यायदेवतां",
+    "आवाह्य संपूज्य प्रतिश्लोकमों \"प्रथमाध्यायदेवतायै",
+    "ब्राह्मणाः सुवासिन्यः कुमार्यः एकोनुपनीतोऽष्ट-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "थ भोजनीयाः । परार्थे प्रयोगे तु सत्याः संतु यजमानस्य कामा",
+    "गे तु बोध्यम् । अत्र त्रयोदशपात्रेषु त्रयोदशदीपा इत्युत्तमः",
+    "न्नेव पात्रे त्रयोदश दीपा इति देवता चेत्यधमः पक्षः ।",
+    "ः इत्युपवेशः",
+    "ान्त्राणि कात्यायनीतन्त्रोक्तानि ॥ प्रतिश्लोकमाद्यन्तयोः मन्त्रं",
+    "लोमं तदित्येवं प्रतिश्लोकं कृत्वा शतावृत्तपाठे तु शीघ्रसिद्धिः",
+    "यादावन्ते शतं त्र्यम्बकमन्त्रं जपेत् प्रतिश्लोकं तन्मन्त्रजप इति",
+    "प्रतिश्लोकं करोतु सा नः शुभेत्यर्धं पठेत् सर्वकामाप्तिः ।",
+    "सर्वापन्निवारणार्थं प्रतिश्लोकं दुर्गेति पठेत् । अस्य केवलस्यापि",
+    "वांबाधेत्यस्य लक्षजपे श्लोकोक्तं फलम् । इत्थं यदा यदेति",
+    "न्त्रस्य लक्षजपे पुनः राज्यलाभः । हिनस्ति दैत्यतेजांसीत्यनेन",
+    "क्तिमनुलोमेन त्रयोदशाध्यायं पठित्वा ततो विपरीतक्रमेण"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "इति प्रतिश्लोकं प्रत्यध्यायं वा पठेत् । इदं",
+    "पक्षः । एकपात्रे त्रयोदश दीपा इति",
+    "यथोक्तविधदीपेषु अक्षतपुञ्जेषु जलपात्रेषु अभिष",
+    "॥",
+    "जपेन्मन्त्रसिद्धिः । सप्रणवमनुलोमव्याहृतित्रय-",
+    "। प्रतिश्लोकमादौ जातवेदस इति ऋचं पठेत् ।",
+    "वा प्रतिश्लोकं शरणागतदीनार्तश्लोकं पठे-",
+    "स्वाभीष्टवरप्राप्त्यै एवं देव्या वरं लब्धेतिश्लोकं",
+    "श्लोकस्य कार्यानुसारेण लक्षमयुतं सहस्रं",
+    "श्लोकस्य जपे महामारीशान्तिः । ततो व⟨?⟩े",
+    "सदीपबलिदाने घण्टाबन्धने च बालग्रह-",
+    "द्वितीयां कृत्वा पुनरनुलोमेनेत्येवं दशाध्यायं प-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b4_c0.jpg",
+   "band": 4,
+   "col": 0,
+   "line_indices": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53
+   ],
+   "lines": [
+    "तमावृत्तित्रये उच्चेषु प्रकारेषु शीघ्रं कार्यसिद्धिः ।"
+   ],
+   "expected": 6,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b4_c1.jpg",
+   "band": 4,
+   "col": 1,
+   "line_indices": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53
+   ],
+   "lines": [
+    "सर्वापत्तिनिवास्याय दुर्गेस्मृतेत्यन्तोर्धं ततो यदन्ति"
+   ],
+   "expected": 6,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 31285,
+  "out": 22923
+ },
+ "ts": "2026-10-15T22:57:22"
+}

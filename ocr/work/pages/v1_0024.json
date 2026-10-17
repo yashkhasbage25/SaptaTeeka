@@ -1,0 +1,363 @@
+{
+ "vol": 1,
+ "scan": 24,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 38,
+ "lines": [
+  "⟨?⟩तन्त्र⟨?⟩तन्त्रादीनां बहूनामेक्यकण्ठ्या च तस्यैवात्युत्तमत्वसिद्धेः । [ गुप्तवत्युपोद्घातः",
+  "द्वादशेऽध्याये प्रदर्शयिष्यते । तन्त्रान्तरेषु च बहवो विधयः तस्य पुरुषार्थत्वेन कृतार्थत्वादिना च पाठादिविधिमूल एव",
+  "⟨?⟩ न्यूनत्वात् । नापि कवचादित्रयरहस्यत्रययोर्मेलनेन अस्य सप्तशतीति व्यवहारस्तु न श्लोकसंख्यया । तेषां षट्-",
+  "मानं सतीनां देवीनां प्रतिपादनादेव तथा व्यवहारो नेयः । सङ्ख्याधिक्यापत्तेः । तस्माच्छकारसकारयोरभेदात् स-",
+  "सप्तानामेव प्राधानिकरहस्ये प्रतिपादनादिति केचित् । । तुरीयैका महाकाल्यादित्रयं तन्निर्मितमिथुनत्रये देवीत्रयं चेति",
+  "तेषामपि सप्तानां रूपाणां मन्त्र एव प्रतिपादनेन विनिगमनाविरहात् तच्चिंत्यम् । नन्दजारक्तदन्तीशताक्षीशाकम्भरीदुर्गाभीमाभ्रामरीत्ये-",
+  "मन्त्रस्य ⟨?⟩ सप्तशतधा विभजनाच्छतरुद्रियस्येवैकानेकमन्त्रात्मकत्वे संख्याधिक्यापत्तेः । तस्माज्जपे एकमन्त्रात्मकस्यापि माला-",
+  "⟨?⟩ावभागेऽपि द्व्या⟨?⟩न्त्ययोरिवैकस्य श्लोकस्यावृत्तेरपि विरोधाभावात्तथा व्यवहारोपपत्तिः । मन्त्रविभजनेऽपि",
+  "सुरा' इत्यादिना कवचमेलनाभावेऽपि सप्तशतीत्वप्रतीतेः सुवचत्वाद्वा । तथापि 'जपेत्सप्तशतीं चण्डीं कृत्वा तु कवचं",
+  "भावाच्चोक्त एव प्रकारो निर्दोषः । 'कवचं बीजमादिष्टमर्गलाशक्तिरिष्यते कीलकद्वयप्रतिपाद्यस्यार्थस्याङ्गत्वेऽपि तयोरङ्गत्वे रहस्यवदेव माना-",
+  "गौ⟨?⟩पादधृतवचनादज्ञत्वेऽप्यदोष इति । यानि तु क्वचिद्देशे । कीलकं कीलकं प्राहुः सप्तशत्या महामनोः' इति",
+  "कात्यायनी ⟨?⟩ सार्धानि षट्शतानि क्वचित्तदधिकान्यपि श्लोकानां पठ्यन्ते तानि",
+  "कात्यायनी भगवत्येव जानाति परन्तु तन्त्रत्रयेऽप्यदृष्टानीति दिक् । एतस्यैवोत्तमत्वं तु तन्त्रान्तरे 'यथाऽश्वमेधः क्रतुषु देवा-",
+  "नां च यथा हरिः । स्तवानामपि सर्वेषां तथा सप्तशतीस्तवः'। तत्रापि कलावतिप्रशस्तः 'कलौ चण्डीविनायकौ' इति वचनात् ।",
+  "वाराहतन्त्रे सर्वेषां स्तोत्राणां परशुरामशापमुक्त्वा तद्विरहितानि कतिचिद्गणितानि । 'भीष्मपर्वणि या गीता सा प्रशस्ता",
+  "कलौ युगे । विष्णोर्नामसहस्राख्यं महाभारतमध्यगम् । चण्ड्याः सप्तशतीस्तोत्रं तथा नाम सहस्रकम्' इत्यादि । भार्गवाख्येन",
+  "रामेण शासन्यन्यानि कारणादित्यन्तेन । यद्यपि तन्त्रान्तरेऽस्यापि स्तोत्रस्य शिवशापः कीलनं चेति सिद्धिनिरोधकावुक्तौ",
+  "तथापि तत्रैव शापोद्धारोत्कीलनयोः कर्मविशेषयोस्तदज्ञत्वेन सकृत्करणविधानादकरणे सिद्धिविरहोक्त्या तदावश्यकत्वपरौ",
+  "तावर्थवादौ । तत्र शापोद्धारो यथा । त्रयोदशप्रथमो द्वादशद्वितीयौ एकादशतृतीयौ दशमचतुर्थौ नवमपञ्चमावष्टमषष्ठाव-",
+  "ऽध्यायौ पठित्वा सप्तममध्यायं द्विःपठेदित्याकारकः प्रयोगः । उत्कीलनं यथा । आदौ मध्यमचरित्रं पठित्वा ततः प्रथमचरित्रं",
+  "ततस्तृतीयचरित्रं पठेदित्याकारकः । 'अन्त्या १२ चा १ कं १२ द्वि २ रुद्र ११ त्रि ३ दिग १० ध्यं ४ के ९ चि ५",
+  "भ ८ स्तवः ६ । अश्वो ७ ऽश्व ७ इति सर्गाणां शापोद्धारे मनोः क्रमः । उत्कीलने चरित्राणां मध्याद्यान्त्यमादि क्रमः' ।",
+  "अङ्को नवकः । इषुः पञ्चमः । इभोऽष्टमः । 'ददाति प्रतिगृह्णाति नान्यथैषा प्रसिद्ध्यति' इति विहितं दानप्रतिग्रहनामकं",
+  "महाकालेन तु कीलकाध्यायव्याख्यावसरे विशदीकरिष्यते । एवं सम्प्रदायज्ञस्य निर्दोषमुत्तमं कलौ शीघ्रसिद्धिदमिदमिति",
+  "सिद्धम् । एतद्वाचनिकम⟨?⟩ वाराहीतन्त्रे 'यावन्न पूर्यतेऽध्यायस्तावन्न विरमेत्पठन् । यदि प्रमादाद्ध्याये विरामो भवति प्रिये ।",
+  "पुनरध्यायमारभ्य पठेत्सर्वं मुहुर्मुहुः । अनुक्रमात्पठेदेव शिरःकम्पादिकं त्यजेत् । न मानसं पठेत्स्तोत्रं वाचिकं तु प्रशस्यते' ॥",
+  "कण्ठतः पाठाभावे तु पुस्तकोपर्यपि वाचयेत् । तल्लेखनेऽपि विशेषः 'न स्वयं लिखितं स्तोत्रं नाब्राह्मणलिपिं पठेत्' इति ।",
+  "यत्तु 'आधारे स्थापयित्वा तु पुस्तकं वाचयेत्ततः । हस्तसंस्थापनादेव भवेदर्धफलं ध्रुवम्'इति । तस्य व्यवस्थापि तत्रैव 'पुस्त-",
+  "⟨?⟩ऽवाचनं हस्ते सहस्रादधिकं यदि । ततो न्यूनस्य तु भवेद्वाचनं पुस्तकं विना' । सहस्रान्न्यूनमन्त्रस्य पाठसत्त्वे तु पुस्तकं",
+  "विनैव वाचनम् । तदभावे आधारे पुस्तकस्थापनेनैव वाचनम् । सहस्राधिकस्य तु पाठसत्त्वेप्याधारस्थापितपुस्तकोपर्य्येव वाच-",
+  "नमिति वचनार्थः । प्रकृतस्तोत्रस्य सहस्रान्न्यूनत्वात् 'ततः कृताञ्जलिपुटः स्तुवीत चरितैरिमैः' इति वैकृतिकरहस्ये विधानाच्च",
+  "पाठाभावे पुस्तकस्याधारस्थापनेनैव वाचनम् । कण्ठपाठीकृत्य पुस्तकं विनैव तु कृताञ्जलितया पठनमुक्तमिति द्रष्टव्यम् । अत्र",
+  "सहस्रशब्देन द्वात्रिंशत्स्वरात्मकस्यैकैकानुष्टुत्वकल्पनेन तादृशानुष्टु ष्टुप्छन्दः सहस्रं ज्ञेयमिति स्पष्टम् । शाक्तिसङ्गमतन्त्रराजे-'द्वात्रिंशतः",
+  "स्वरैर्युक्त एको ग्रन्थो निगद्यते । स एव गदितः श्लोकस्तारानेत्रसमुद्भवः' इत्यादिना तेन गद्यात्मकमालामन्त्रेष्वप्यस्य निय-",
+  "⟨?⟩स्य प्रसरो ज्ञेयः । स्तोत्रपूर्वोत्तरभागपाठाभावे निष्फल्यादिवचनानि शाक्तिसङ्गम एव द्रष्टव्यानि ॥ 'ऋषिच्छन्दोदेवतादि",
+  "पठेत् स्तोत्रं समाहितः । यत्र स्तोत्रे न दृश्येत प्रणवन्यासमाचरेत्' । डामरे-'सप्तशत्याश्चरित्रे तु प्रथमे पद्मभूर्मुनिः ।",
+  "छन्दो गायत्रमुदितं महाकाली तु देवता ॥ वाग्बीजं पावकस्तत्त्वं धर्मार्थे विनियोजनम् । मध्यमस्य चारित्रस्य मुनिर्विष्णु⟨?⟩दा-",
+  "ह्रतः ॥ उष्णिक्छन्दो महालक्ष्मीर्देवता वीजमद्रिजा । वायुस्तत्त्वं धनप्राप्त्यै विनियोग उदाहृतः । उत्तमस्य चारित्रस्य"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.412,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.509,
+   "tesseract_mean_conf": 58.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.567,
+   "tesseract_mean_conf": 74.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.569,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.738,
+   "tesseract_mean_conf": 68.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.125,
+   "tesseract_char_agree": 0.645,
+   "tesseract_mean_conf": 48.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.604,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.3,
+   "tesseract_char_agree": 0.523,
+   "tesseract_mean_conf": 41.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.565,
+   "tesseract_mean_conf": 59.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.645,
+   "tesseract_mean_conf": 59.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.536,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.154,
+   "tesseract_char_agree": 0.549,
+   "tesseract_mean_conf": 50.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 59.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.847,
+   "tesseract_mean_conf": 53.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 49.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 56.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 66.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.389,
+   "tesseract_char_agree": 0.868,
+   "tesseract_mean_conf": 41.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.526,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.946,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 55.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 58.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.883,
+   "tesseract_mean_conf": 60.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.412,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 57.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 64.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.908,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 43.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.887,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.841,
+   "tesseract_mean_conf": 16.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 60.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.961,
+   "tesseract_mean_conf": 53.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.863,
+   "tesseract_mean_conf": 53.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": false
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25204,
+  "out": 30648
+ },
+ "ts": "2026-10-15T19:03:45"
+}

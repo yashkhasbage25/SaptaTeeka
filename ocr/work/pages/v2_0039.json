@@ -1,0 +1,395 @@
+{
+ "vol": 2,
+ "scan": 39,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 42,
+ "lines": [
+  "चतुर्थोऽध्यायः ८ ]    गुप्तवत्यादिसप्तटीकासंवलिता । १२९",
+  "⟨?⟩क्तिमात्रे पूर्वपदस्य पुंवद्भावो भवतीति भवत्प्रसादादिति स्यात् । उच्यते । पुंवदिति योगविभागसाध्यमिदं पुंस्त्वम् ।",
+  "देव योगविभागादिष्टसिद्धिः । ततश्च 'एकोऽहं भवतीसुतः क्षयकरो मातः कियन्तोऽरयः'इतिवत्पुंवद्भावाभावः । क्वचिदस्त्येन",
+  "भवतीति तु छित्त्वा प्रसादात् प्रसन्नत्वाद्वर्ती लोकद्वयेऽपि फलदास्ति इति पुंस्त्वशङ्कानिरासपरव्याख्याने भवतीसुतक्षयकर",
+  "इति प्रयोगः कदर्थितः स्यात् ॥ १५ ॥",
+  "( ४ नागोजीभट्टी ) धर्म्याणीति ।  हे देवि भवतीप्रसादात् यः सुकृती प्राग्जन्मार्जितपुण्यवान् सततमेव मुक्तफल",
+  "⟨?⟩त्वत्प्रसादादेव अत्यादतः नित्यनैमित्तिकादावतिथिश्रद्धावान् प्रतिदिनं सदैव । षष्टिघटिकावच्छेदेन सकलानि धर्म्याणि",
+  "कर्माणि करोति । पुनस्त्वत्त एव त्वत्प्रीत्युद्देशेन कृतकर्मभ्यो लब्धत्वत्प्रसादादेव स्वर्गं प्रयाति । ततः क्रमेण वा मोक्षं च । ननु",
+  "निश्रेये । तेन त्वं लोकत्रयेऽपि फलदा इति शेषः ॥ १५ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) धर्म्याणीति १६ ॥ १५ ॥",
+  "( ६ दंशोद्धारः ) धर्म्याणीति । चान्मोक्षम् । भवतीप्रसादात् । आर्षत्वान्न पुंवद्भावः । यद्वा भवती कर्त्री । प्रसादा-",
+  "लोकत्रयेऽपि फलदा । ऐहिकफलं सदाचारः । स्वर्गफलं सुखानुभवः । मुक्तिफलं निर्वानन्दः । लोकद्वये इति वा पाठः ॥१५॥",
+  "दुर्गे स्मृता हरसि भीतिमशेषजन्तोः स्वस्थैः स्मृता मतिमतीव शुभां ददाति ।",
+  "दारिद्र्यदुःखभयहारिणि का त्वदन्या सर्वोपकारकरणाय सदार्द्रचित्ता ॥ १६ ॥",
+  "( १ गुप्तवती ) ॥ १६ ॥",
+  "( २ चतुर्धरी ) दुर्गे संकटे । दारिद्र्यं निर्धनता । दुःखं मतिकूलप्रवेदनीयम् । भयमनागतप्रतीकूलसंधानजदुःखम ।",
+  "आर्द्रचित्ता स्निग्धचित्ता त्वदन्या कार्पाल्यर्थः ॥ १६ ॥",
+  "( ३ शान्तनवी ) हे देवि हे दुर्गे भीतस्य अस्वस्थस्य अशेषजन्तोः सर्वस्यापि प्राणिनः स्वान्तेन स्मृता सती त्वं",
+  "भीतिं हरसि । हे दुर्गे त्वं स्वस्थैरभीतैः तु जन्तुभिः स्मृता सती अतीव शुभां मतिं चतुर्वर्गफलसाधनभूतां बुद्धिं ददासि ।",
+  "त्वन्मन्त्रत्वद्ध्यानत्वद्भजनपरां मतिं वा ददासि । तदित्थम् । हे देवि त्वं दारिद्र्यदुःखभयहारिणि सर्वोपकारकरणाय सर्वोपकारान्",
+  "किन्तु सदा आर्द्रचित्ता कृपार्द्रहृदया परा देवता त्वदन्या कास्ति । न कापि ‘अम्ब्यादितो भयं हन्तुं मतिं दातुमनुत्तमाम् । देवि त्व-",
+  "त्वदपरा कास्ति सर्वोपकृतिकारिणी' । दुःखेन गन्तुं शक्यतेऽस्यां दुर्गा ‘सुदुरोरधिकरणे च’ इति डः । ‘बलवत्सुष्ठु किमुन",
+  "शस्यतीव च निर्भरे' । स्वस्थैः स्वर्गस्थैर्देवैः स्मृता अतीव शुभां मतिं ददासि इत्यर्थः । दारिद्रा दुर्गतौ दरिद्राति दुर्गच्छति",
+  "निःस्वीभवति निर्धनीभवत्यकिंचनीभवतीति दरिद्रः दरिद्रस्य भावः कर्म च दारिद्र्यं दारिद्र्यतः समुत्थितं दुःखं दारिद्र्यदुःखं",
+  "दारिद्र्यदुःखाद्भयं दारिद्र्यदुःखभयं तत् हरतीति तच्छीला दारिद्र्यदुःखभयहारिणी तस्याः संबुद्धिः हे दारिद्र्यदुःखभयहारिणि ।",
+  "सर्वेषु भक्तेषु अभक्तेषु उदासीनेषु शत्रुषु च उपकाराणां करणं विधानं तस्मै ॥ १६ ॥",
+  "( ४ नागोजीभट्टी ) दुर्गे इति । दुर्गे दुर्गमे संकटे इति यावत् । तन्नाम इति च । दारिद्र्यान्दारिद्र्यं ⟨?⟩ । भयं",
+  "प्रतिकूलप्रतिसंधानजम् । आर्द्रचित्ता स्निग्धचित्ता ॥ १६ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) दुर्गे इति १७ ॥ १६ ॥",
+  "( ६ दंशोद्धारः ) दुर्गे इति । दुर्गे संकटे । संबोधनं वा ॥ १६ ॥",
+  "एभिर्हतैर्जगदुपैति सुखं तथैते कुर्वन्तु नाम नरकाय चिराय पापम् ।",
+  "संग्राममृत्युमधिगम्य दिवं प्रयान्तु मत्वेति नूनमहितान्विनिहंसि देवि ॥ १७ ॥",
+  "( १ गुप्तवती ) ईषत्सहासमिति श्लोकद्वयेनोक्तमाश्चर्यं परिहरति द्वाभ्याम् । एभिरिति ॥ १७ ॥",
+  "( २ चतुर्धरी ) एभिरिति । एभिरसुरैः हतैः सद्भिः । प्रकृत्यादित्वात्तृतीया । चिराय चिरकालम् । नरकायेति",
+  "तादर्थ्ये चतुर्थी । पापं प्रतिकूलं कुर्वन्तु नामेति नामशब्दोऽभ्युपगमे । नूनमुत्प्रेक्षायाम् ॥ १७ ॥",
+  "( ३ शान्तनवी ) अथैषा देवी सर्वोपकारकरणाय दत्तावधाना सदार्द्रचित्ता स्यात् किमिति तर्हि दैत्यान् निहन्ति तत्रा-",
+  "त्तरमाह । उपैतु इति लोडन्तः पाठः । कुर्वन्तु इतिवत् । नाम इत्यपपाठः । नाम्ब इति पाठे न अम्ब इति छेदः । हे देवि",
+  "हे अम्ब हे सर्वजननि त्वं सर्वोपकारकरणाय सदा  कृपार्द्रचित्ता असीति यत्तत्थैव नान्यथा । तथाहि एभिः अहितैर्जगत्पीडा-",
+  "कर्ममहिषासुरादिभिर्दैत्यैर्हतैः रणे त्वद्धृतैः जगत् लोकः सुखमुपैतु पीडकाभावात् सुखं प्राप्नोतु । तथा एते अहिताः लोकत्र-",
+  "यद्द्रुहः महिषासुरादयो दैत्याः चिराय नरकाय नरकं  निरयं  गन्तुं पापं पाप्मानं कुर्वन्तु । 'किंतु । संग्रामे मृत्युं मरणम्",
+  "अधिगन्त्रा मृत्युमुपेत्य  दिवं  स्वर्गं  प्रयान्तु प्राप्नुवन्तु इति मत्वा विचिन्त्य अनुग्रहबुद्ध्या एव एतान् अहितान् सर्वलोक-",
+  "१ १७"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.761,
+   "tesseract_mean_conf": 40.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 61.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 67.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 41.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.964,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 67.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 51.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.979,
+   "tesseract_mean_conf": 78.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 70.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 76.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 63.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 58.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.353,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 74.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.214,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 57.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 58.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 77.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 71.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 64.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 47.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.969,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 76.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.579,
+   "tesseract_char_agree": 0.817,
+   "tesseract_mean_conf": 70.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 74.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 74.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.824,
+   "tesseract_mean_conf": 75.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.868,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.851,
+   "tesseract_mean_conf": 60.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 69.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.959,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.864,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 78.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 70.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 68.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.89,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.838,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 40.0,
+   "needs_review": true
+  }
+ ],
+ "issues": [],
+ "tiles": [
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25479,
+  "out": 24062
+ },
+ "ts": "2026-10-15T20:54:15"
+}

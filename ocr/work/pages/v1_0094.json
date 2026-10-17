@@ -1,0 +1,596 @@
+{
+ "vol": 1,
+ "scan": 94,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 40,
+ "lines": [
+  "८८ दुर्गा ⟨?⟩शती।                              [ द्वितीयोऽध्यायः २",
+  "ध्योध्व' इति श्रद्वयभावः । अतएव च वधितुमर्हौ वध्यौ । ‘ऋहलोर्ण्यत्’ इति ण्यत् । तथा च ‘मम वध्यावुभावपि’इति प्राप्त",
+  "प्रयोगे इदं च साधनमवगन्तव्यम् । 'हनो वा वध च' इति तु अदन्तत्वं तत्र दर्शितम् । ममेति । तत्र ‘कृत्यानां कर्तरि व",
+  "इति षष्ठी । यद्वा तत्र वधमर्हतो वध्यौ । 'दण्डादिभ्यो यत्' इति यत् ॥ ७ ॥",
+  "( ४ नागोजीभट्टी ) एतद्व इति । वः इति द्वयोर्बहुवचनं गौरवात् । च परं शरणं प्रपन्नाः आगताः स्मो भवामः॥७",
+  "( ५ जगच्चन्द्रचन्द्रिका ) एतद्वः कथितमिति ८ ॥ ७ ॥",
+  "( ६ दंशोद्धारः ) एतद्व इति । व इति बहुवचनं द्वयोरपि कार्यसाधकत्वेन बहुत्वापेक्षया ॥ ७ ॥",
+  "इत्थं निशम्य देवानां वचांसि मधुसूदनः । चकार कोपं शम्भुश्च भ्रुकुटीकुटिलाननौ ॥ ८ ॥",
+  "( १ गुप्तवती ) भ्रुकुटी भ्रुवोः कुटिः कौटिल्यं तेन कुटिले आनने ययोस्तौ ॥ ८ ॥",
+  "( २ चतुर्धरी ) भ्रुकुटीललाटचञ्चलतया कुटिले आनने ययोः ॥ ८ ॥",
+  "( ३ शान्तनवी ) इत्थं देवानां वचांसि निशम्य आकर्ण्य मधुसूदनः कैटभजित् विष्णुश्च शम्भुः मृत्युंजयश्च कोपं चकार",
+  "तौ कीदृशाकृती । भ्रुकुटीकुटिलाननौ भ्रकुटीकुटिलाननौ भ्रुकुटीकुटिलाननौ इति पाठत्रयम् । भ्रुकुटी भ्रकुटी भृकुटी स्त्रियाम् । कुट",
+  "ङित्वात् गुणाभावः । ऋदिकारादक्तिनो वा ङीप् । 'इ⟨?⟩",
+  "। भ्रुकुंसादीनामिति पक्षे अत्वमौत्तरपदिकम् । तृतश्च भ्रुवौ क्रोधा",
+  "ययोस्तौ भ्रुकुटीकुटिलाननौ हरिहरौ । निशम्येति शमेर्णौ 'अत",
+  "ज्ञानादन्यत्र श्रवणे मित्वात् 'मितां ह्रस्वः' । चक्षुःसाधनज्ञाने",
+  "भ्रुकुटीकुटिलाननौ कोपं चकारेत्यनुसंधेयः ॥ ८ ॥",
+  "कौटिल्यं तेन कुटिले भुग्ने आनने ययोस्तौ । भ्रूशब्दस्य पृषोदरादि",
+  "। ब्रह्मणः कोपेऽपि रजआधिक्येन शिवस्य तमोगुणप्राधान्येन",
+  "सत्त्वाधिक्यवत्तया त्रिगुणा एषा इति ध्वन्यते । अत एवोक्तं वैकृति",
+  "महालक्ष्मीः साक्षान्महिषमर्दिनी' । तत्रापि रजःसत्त्वयोराधि-",
+  "",
+  "",
+  "९ ॥ ८ ॥",
+  "ततोऽतिकोपपूर्णस्य चक्रिणो वदनात्ततः । निश्चक्राम महत्तेजो ब्रह्मणः शंकरस्य च ॥ ९ ॥",
+  "( १ गुप्तवती ) 'मदीयाः शक्तिलेशा ये तत्तद्देवशरीरगाः ' इति लक्ष्मीतन्त्रादिवचनादेवेष्वायुधेषु च विद्यमानः शक्ति-",
+  "भागः सर्वोऽप्येकीभूयाष्टादशभुजात्मकनारीशक्तिरूपेण परिणतो ऽभूदित्याह । ततोऽतिकोपेत्यादिना ॥ ९ ॥",
+  "( २ चतुर्धरी ) चक्रिणो विष्णोः । ततः तत्र । सार्वविभक्तिकस्तसिः । ब्रह्मणः शंकरस्य वदनात् यदित्यनुषज्यते॥९॥",
+  "( ३ शान्तनवी ) ततोऽनन्तरम् अतिकोपपूर्णस्य चक्रिणः विष्णोः ब्रह्मणः शंकरस्य च ततः विस्तृतः तस्माच्च वदनात्",
+  "सकाशात् महत्तेजः निश्चकाम निर्गात् । 'तेजः प्रभावे दीप्तौ च बले शुक्रे प्रकीर्तितम्' ॥ ९ ॥",
+  "( ४ नागोजीभट्टी ) तत इति । द्वितीयं तत इति प्रसिद्धादित्यर्थकं वदनादित्यस्य विशेषणम् ॥ ९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ततोऽतिकोपेति १० ॥ ९ ॥",
+  "( ६ दंशोद्धारः ) तत इति । कोपपूर्णस्य चक्रिणः ततः प्रसिद्धाद्वदनात् । तत्र तेषामित्यर्थे वा । सार्वविभक्ति-",
+  "⟨?⟩ ॥ ९ ॥",
+  "अन्येषां चैव देवानां शक्रादीनां शरीरतः । निर्गतं सुमहत्तेजस्तच्चैक्यं समगच्छत ॥ १० ॥",
+  "( १ गुप्तवती ) ॥ १० ॥",
+  "( २ चतुर्धरी ) तत्तेजः ऐक्यम् एकभावं समग⟨?⟩त अभवदित्यन्वयः । समगच्छतेति छान्दसत्वादात्मनेपदम् । ‘समो",
+  "गम्यृच्छ' इत्यादेरकर्मकविषयत्वात् । अथवा ऐक्यम् एकम् । स्वार्थे यण् । समगच्छताऽभवत् ॥ १० ॥",
+  "( ३ शान्तनवी ) तेभ्यस्त्रिभ्यः अन्येषां शकादीनां च देवानां सुमहत्तेजः कर्तृ⟨?⟩ । शरीरत एव निर्गतं निरगमत् ।",
+  "तच्च तेजः कर्तृ । ऐक्यम् एकम् अपृथक् समगच्छत समपद्यत एक्यमभवत् । ऐक्यमिति । चातुर्वर्ण्यादित्वात् स्वार्थे ष्यञ् । ‘अक्"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.719,
+   "tesseract_mean_conf": 65.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.526,
+   "tesseract_char_agree": 0.813,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.65,
+   "tesseract_char_agree": 0.918,
+   "tesseract_mean_conf": 75.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 80.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 80.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 51.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.588,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 72.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.846,
+   "tesseract_char_agree": 0.912,
+   "tesseract_mean_conf": 64.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.733,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 74.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.818,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 78.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.235,
+   "tesseract_char_agree": 0.872,
+   "tesseract_mean_conf": 44.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.38,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.188,
+   "tesseract_char_agree": 0.446,
+   "tesseract_mean_conf": 62.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.176,
+   "tesseract_char_agree": 0.421,
+   "tesseract_mean_conf": 56.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.436,
+   "tesseract_mean_conf": 49.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.154,
+   "tesseract_char_agree": 0.416,
+   "tesseract_mean_conf": 51.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.294,
+   "tesseract_char_agree": 0.549,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.432,
+   "tesseract_mean_conf": 52.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.231,
+   "tesseract_char_agree": 0.484,
+   "tesseract_mean_conf": 60.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.465,
+   "tesseract_mean_conf": 52.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 78.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 62.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.188,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 66.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 58.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 66.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.966,
+   "tesseract_mean_conf": 79.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.647,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 82.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.231,
+   "tesseract_mean_conf": 62.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.859,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.875,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 76.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 63.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.85,
+   "tesseract_mean_conf": 59.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.294,
+   "tesseract_char_agree": 0.788,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 1 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 2 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched",
+  "band 1 col 0: got 0 lines, expected 12; realigned, 12 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "८८ दुर्गा",
+    "ध्योध्व' इति श्रद्वयभावः । अतएव च वधितुमर्हौ वध्यौ ।",
+    "प्रयोगे इदं च साधनमवगन्तव्यम् । 'हनो वा वध च' इति",
+    "इति षष्ठी । यद्वा तत्र वधमर्हतो वध्यौ । 'दण्डादिभ्यो यत्'",
+    "( ४ नागोजीभट्टी ) एतद्व इति । वः इति",
+    "( ५ जगच्चन्द्रचन्द्रिका ) एतद्वः कथितमिति ८",
+    "( ६ दंशोद्धारः ) एतद्व इति । व इति बहुवचनं",
+    "इत्थं निशम्य देवानां वचांसि मधुसूदनः ।",
+    "( १ गुप्तवती ) भ्रुकुटी भ्रुवोः कुटिः कौटिल्यं तेन",
+    "( २ चतुर्धरी ) भ्रुकुटीललाटचञ्चलतया कुटिले",
+    "( ३ शान्तनवी ) इत्थं देवानां वचांसि निशम्य",
+    "तौ कीदृशाकृती । भ्रुकुटीकुटिलाननौ भ्रकुटीकुटिलाननौ"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "⟨?⟩शती।                              [ द्वितीयोऽध्यायः २",
+    "‘ऋहलोर्ण्यत्’ इति ण्यत् । तथा च ‘मम वध्यावुभावपि’इति प्राप्त",
+    "तु अदन्तत्वं तत्र दर्शितम् । ममेति । तत्र ‘कृत्यानां कर्तरि व",
+    "इति यत् ॥ ७ ॥",
+    "द्वयोर्बहुवचनं गौरवात् । च परं शरणं प्रपन्नाः आगताः स्मो भवामः॥७",
+    "॥ ७ ॥",
+    "द्वयोरपि कार्यसाधकत्वेन बहुत्वापेक्षया ॥ ७ ॥",
+    "चकार कोपं शम्भुश्च भ्रुकुटीकुटिलाननौ ॥ ८ ॥",
+    "कुटिले आनने ययोस्तौ ॥ ८ ॥",
+    "आनने ययोः ॥ ८ ॥",
+    "आकर्ण्य मधुसूदनः कैटभजित् विष्णुश्च शम्भुः मृत्युंजयश्च कोपं चकार",
+    "भ्रुकुटीकुटिलाननौ इति पाठत्रयम् । भ्रुकुटी भ्रकुटी भृकुटी स्त्रियाम् । कुट"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "ङित्वात् गुणाभावः । ऋदिकारादक्तिनो वा ङीप् । 'इ⟨?⟩",
+    "। भ्रुकुंसादीनामिति पक्षे अत्वमौत्तरपदिकम् । तृतश्च भ्रुवौ क्रोधा",
+    "ययोस्तौ भ्रुकुटीकुटिलाननौ हरिहरौ । निशम्येति शमेर्णौ 'अत",
+    "ज्ञानादन्यत्र श्रवणे मित्वात् 'मितां ह्रस्वः' । चक्षुःसाधनज्ञाने",
+    "भ्रुकुटीकुटिलाननौ कोपं चकारेत्यनुसंधेयः ॥ ८ ॥",
+    "कौटिल्यं तेन कुटिले भुग्ने आनने ययोस्तौ । भ्रूशब्दस्य पृषोदरादि",
+    "। ब्रह्मणः कोपेऽपि रजआधिक्येन शिवस्य तमोगुणप्राधान्येन",
+    "सत्त्वाधिक्यवत्तया त्रिगुणा एषा इति ध्वन्यते । अत एवोक्तं वैकृति",
+    "महालक्ष्मीः साक्षान्महिषमर्दिनी' । तत्रापि रजःसत्त्वयोराधि-",
+    "९ ॥ ८ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "ततोऽतिकोपपूर्णस्य चक्रिणो वदनात्ततः ।",
+    "( १ गुप्तवती ) 'मदीयाः शक्तिलेशा ये तत्तद्देवशरीरगाः",
+    "भागः सर्वोऽप्येकीभूयाष्टादशभुजात्मकनारीशक्तिरूपेण परिणतो",
+    "( २ चतुर्धरी ) चक्रिणो विष्णोः । ततः तत्र ।",
+    "( ३ शान्तनवी ) ततोऽनन्तरम् अतिकोपपूर्णस्य",
+    "सकाशात् महत्तेजः निश्चकाम निर्गात् । 'तेजः प्रभावे दीप्तौ",
+    "( ४ नागोजीभट्टी ) तत इति । द्वितीयं तत इति",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ततोऽतिकोपेति १० ॥",
+    "( ६ दंशोद्धारः ) तत इति । कोपपूर्णस्य चक्रिणः",
+    "⟨?⟩ ॥ ९ ॥",
+    "अन्येषां चैव देवानां शक्रादीनां शरीरतः ।",
+    "( १ गुप्तवती ) ॥ १० ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "निश्चक्राम महत्तेजो ब्रह्मणः शंकरस्य च ॥ ९ ॥",
+    "' इति लक्ष्मीतन्त्रादिवचनादेवेष्वायुधेषु च विद्यमानः शक्ति-",
+    "ऽभूदित्याह । ततोऽतिकोपेत्यादिना ॥ ९ ॥",
+    "सार्वविभक्तिकस्तसिः । ब्रह्मणः शंकरस्य वदनात् यदित्यनुषज्यते॥९॥",
+    "चक्रिणः विष्णोः ब्रह्मणः शंकरस्य च ततः विस्तृतः तस्माच्च वदनात्",
+    "च बले शुक्रे प्रकीर्तितम्' ॥ ९ ॥",
+    "प्रसिद्धादित्यर्थकं वदनादित्यस्य विशेषणम् ॥ ९ ॥",
+    "९ ॥",
+    "ततः प्रसिद्धाद्वदनात् । तत्र तेषामित्यर्थे वा । सार्वविभक्ति-",
+    "निर्गतं सुमहत्तेजस्तच्चैक्यं समगच्छत ॥ १० ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "( २ चतुर्धरी ) तत्तेजः ऐक्यम् एकभावं समग⟨?⟩त",
+    "गम्यृच्छ' इत्यादेरकर्मकविषयत्वात् । अथवा ऐक्यम् एकम् ।",
+    "( ३ शान्तनवी ) तेभ्यस्त्रिभ्यः अन्येषां शकादीनां",
+    "तच्च तेजः कर्तृ । ऐक्यम् एकम् अपृथक् समगच्छत समपद्यत"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "lines": [
+    "अभवदित्यन्वयः । समगच्छतेति छान्दसत्वादात्मनेपदम् । ‘समो",
+    "स्वार्थे यण् । समगच्छताऽभवत् ॥ १० ॥",
+    "च देवानां सुमहत्तेजः कर्तृ⟨?⟩ । शरीरत एव निर्गतं निरगमत् ।",
+    "एक्यमभवत् । ऐक्यमिति । चातुर्वर्ण्यादित्वात् स्वार्थे ष्यञ् । ‘अक्"
+   ],
+   "expected": 4,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 24599,
+  "out": 27932
+ },
+ "ts": "2026-10-16T01:10:25"
+}

@@ -1,0 +1,404 @@
+{
+ "vol": 2,
+ "scan": 13,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 42,
+ "lines": [
+  "ियोऽध्यायः २ ]            गुप्तवत्यादिसप्तटीकासंवलिता । १०३",
+  "६ दंशोद्धारः ) छिन्नेपीति । अयुतवीरवधे एकः कबन्ध उत्तिष्ठत इति प्रसिद्धिः । उक्तं च महाभारते भीष्मपर्वणि ।",
+  "गां सहस्रेषु शतेषु पतितेषु च । उदतिष्ठन्कबन्धानि बहून्युत्थाय चाद्रवन्' इति ।  कश्चित्त्वत्र  शतसहस्रशब्दोऽयुतपरत्वेन",
+  "इत्याह । तदसत् । बहूनि इत्यस्याऽसंगत्यापत्तेः शतपदस्यानन्तरस्योचितत्वात् ॥ ६१ ॥",
+  "ा युयुधुर्देव्या गृहीतपरमायुधाः । ननृतुश्चापरे तत्र युद्धे तूर्यलयाश्रिताः ॥ ६२ ॥",
+  "१ गुप्तवती ) तूर्याणां लयं कालक्रियामानरूपतालविरामसाम्यमाश्रिताः ॥ ६२ ॥",
+  "२ चतुर्धरी ) तूर्यैलयान्विताः वाद्यानुसारिणः ॥ ६२ ॥",
+  "३ शान्तनवी ) कं शिरो बध्नन्ति कबन्धाः सन्तः पुनः शिरोधारिणः सन्तः गृहीतपरमायुधा आत्तोत्तमशस्त्राः सन्तः",
+  "समं युयुधुः । चक्षिङो ङित्वादनुदात्तेत्त्वनिमित्तात्मनेपदानियतत्वाद्युध्यतेः अनुदात्तत्वेपि परस्मैपदम् । अन्यथा युयु-",
+  "ात्मनेपदमेव ⟨?⟩स्यात् । गृहीतपरमायुधाः । देव्या इति तृतीयान्तम् । 'कबन्धोऽस्त्री क्रियायुक्तमपमूर्धकलेवरम्' कस्य",
+  "धोऽत्र कबन्धः । कं बध्नाति वा कबन्धः । 'कबन्धं सलिले हण्डे' । 'युद्धे योधृषु शूरेषु सहस्रं कृत्तमूर्धसु । तदावेशा-",
+  "स्यादेकोऽमूर्धा क्रियान्वितः' इति कबन्धलक्षणम् । 'देवीदानवयुद्धे तु कबन्धार्बुदकोट्यः । क्षणे क्षणे समुत्पन्ना देव्या",
+  "पुनः । देवीदानवयुद्धोत्थकबन्धार्बुदकोट्यः । देवीरोषोत्थहुंकारज्वलउज्वलनभस्मिताः' । तत्र युद्धे देवीदानवसंग्रामे अपरे",
+  "ः तूर्यलयाश्रिताः तूर्याणां वाद्यानां ततविततानद्धशुषिराणां चतुर्णां लयः साम्यं वाद्यादीनामन्योन्यसमतामाश्रिताः",
+  "वेशवशाः खड्गशक्त्यृष्टिपाणयः युद्ध्यमानाः पूर्वं देव्या छिन्नशिरसोऽपि वीररसानिष्कारात्संग्रामाधिदेवतावेशाच्चावि-",
+  "नाः सन्तः पश्चात्कं शिरो बध्नति स्वंस्वं यथास्थानं संनिवेशायन्तीति कबन्धाः सन्तः पुनः शिरोधारिणः सन्तः ननृतुः",
+  "कुः । चकारात्केचिद्देव्या समं युयुधिरे च । तूर्यलयाश्रिता हि नृत्यन्ति ॥ ६२ ॥",
+  "( ४ नागोजीभट्टी ) कबन्धा इति । \"मनुष्याणां सहस्रेषु हतेषु हतमूर्धसु । तदावेशात्कबन्धः स्यादेको मूर्धा क्रिया-",
+  "इति लक्षितः । अपरे कबन्धाश्च युयुधुः ॥ ६२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) कबन्धा युयुधुरिति ६३ ॥ ६२ ॥",
+  "( ६ दंशोद्धारः ) ननृतुरिति । छिन्नानि शिरांसि अर्थादन्येषां यस्ते कबन्धा इत्यर्थः । यद्वा छिन्नशिरसोपि कं शिरो",
+  "मायावित्वात् । यद्वा कबन्धा असुरविशेषाः । को वायुरेव बन्ध आश्रयो येषामित्यन्ये ॥ ६२ ॥",
+  "ाश्छिन्नशिरसः खड्गशक्त्यृष्टिपाणयः । तिष्ठतिष्ठेति भाषन्तो देवीमन्ये महासुराः ॥ ६३ ॥",
+  "( १ गुप्तवती ) कबन्धाः निःशिरस्कदेहा वीरावेशेन क्षतान्तराणामिव शिरश्छेदस्याप्यभावेनोभयत्र व्यासज्यवृत्ति-",
+  "त्वात्पतितेन मुखेन भाषणं चलता कबन्धेन प्रहारश्चाभवदित्याशयः ॥ ६३ ॥",
+  "( २ चतुर्धरी ) कबन्धाश्छिन्नशिरस इति पर्यायाभ्यां तेषामतिबहुत्वमाह । छिन्नशिरस इति स्वरूपाख्यानं वा । को",
+  "बन्धः आश्रयो येषां ते कबन्धा इति वा । यद्वा छिन्नशिरसोपि कबन्धाः कं शिरो बध्नन्तीति कबन्धाः । तेष-",
+  "त्वात् छिन्नमपि शिरो बद्धं भवतीति तदा बह्वपि क्षमाधिष्ठानत्वाच्च । यद्वा छिन्नं शिरो यैः कबन्धा अपि अन्येषां",
+  "छिन्दन्ति । ‘कबन्धोऽस्त्री क्रियायुक्तमपमूर्धकलेवरम्’ इत्यमरः । पूर्वं छिन्नशिरसः पश्चात्कबन्धाः क्रियायुक्ताः ।",
+  "गाश्रिता इति चावत् । तिष्ठतिष्ठेति भाषन्तो हस्ताक्षेपादेव भाषमाणा इवेति इवार्थो गम्यः । अन्यथा छिन्नशिरां",
+  "कथं तिष्ठतिष्ठेति वदिष्यन्ति इति कश्चिदाह । कबन्धो ऽसुरजातिविशेषः तद्विशेषणं छिन्नशिरस इति । अन्य आह",
+  "ालसुरव्यवच्छेदकं छिन्नशिरस इति विशेषणम् । ऋष्य एकधाराः खङ्गाः । अन्ये कबन्धेतरे युयुधुः ननृतुश्चे-",
+  "ते ॥ ६३ ॥",
+  "( ३ शान्तनवी ) खड्गशक्त्यृष्टिपाणयो हि युध्यन्ते । ‘ततं वीणादिकं वाद्यमानद्धं मुरजादिकम्' । वंशादिकं तु शुषिरं",
+  "ालादिकं घनम्’ । तथा च भरतः ‘ततं चैवावनद्धं च घनं शुषिरमेव च । चतुर्विधं तु विज्ञेयमातोद्यं लक्षणान्वितम्' ।",
+  "ाभ्यधुः । ‘चतुर्विधमिदं वाद्यं वादित्रातोद्यनामकम्’ इति । यद्यपि 'खङ्गे तु निस्त्रिंशचन्द्रहासासिऋष्टयः' इति ऋष्टिः",
+  "ांयस्तथाप्याकृतिसन्निवेशविशेषभेदभिन्नतया पृथक्पृथक् प्रयुक्तः । खड्गशक्त्यष्टपाणय इति तु पाठे खड्गैः शक्तिभिश्च",
+  "व्याप्ताः पाणयो येषां ते तथोक्ताः । यद्वा दैत्याः केचिदष्टभुजाः सन्तीति । खड्गाश्च शक्तयश्च अष्टस्वपि पाणिषु",
+  "खड्गशक्त्यष्टपाणयः । अन्ये महासुराः संग्रामशूराः युद्धे तिष्ठतिष्ठेति देवीं भाषन्तः कथयन्तः स्वकीयामहमहमिकां",
+  "न्तो देव्या समं योद्धुमाजग्मुरिति शेषः । तिष्ठतिष्ठेत्यत्र 'नित्यवीप्सयोः' इति नित्ये आभीक्ष्ण्ये च तङि तस्य द्विर्वचनम् ।",
+  "१ ‘तूर्यैलयान्विताः’ इति चतुर्धरीसंमतः पाठः ।",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 62.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.977,
+   "tesseract_mean_conf": 73.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 61.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 77.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 76.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 57.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 61.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 36.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.444,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 55.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.941,
+   "tesseract_mean_conf": 75.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.939,
+   "tesseract_mean_conf": 56.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.938,
+   "tesseract_mean_conf": 55.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 50.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 76.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 82.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 62.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 66.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.873,
+   "tesseract_mean_conf": 82.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 66.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 44.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.706,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 63.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.953,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 58.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 73.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 73.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.91,
+   "tesseract_mean_conf": 66.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 66.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.722,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 62.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.841,
+   "tesseract_mean_conf": 51.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 70.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.727,
+   "tesseract_char_agree": 0.988,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 69.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.273,
+   "tesseract_mean_conf": 46.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 50.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 3 col 1: got 5 lines, expected 6",
+  "band 3 col 0: got 5 lines, expected 6"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 26029,
+  "out": 21090
+ },
+ "ts": "2026-10-15T20:29:50"
+}

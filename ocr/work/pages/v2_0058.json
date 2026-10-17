@@ -1,0 +1,585 @@
+{
+ "vol": 2,
+ "scan": 58,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 39,
+ "lines": [
+  "१४८ दुर्गासप्तशती । [ पञ्चमोऽध्यायः",
+  "( ५ जगच्चन्द्रचन्द्रिका ) शक्तिः १२,१३,३४ ॥ १८ ॥",
+  "( ६ दंशोद्धारः ) शक्तिः सामर्थ्यमुत्साहो वा ॥ १८ ॥",
+  "या देवी सर्वभूतेषु तृष्णारूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ १",
+  "( १ गुप्तवती ) तृष्णा लोभः ॥ १९ ॥",
+  "( २ चतुर्धरी ) तृष्णा अनात्मीयस्वीकारेच्छा ॥ १९ ॥",
+  "( ३ शान्तनवी ) सर्वाणि भूतानि पृथिव्यादीनि येषां देहानामारम्भकर्तृत्वेन सन्ति तानि सर्वभूतानि देहा",
+  "भितृषा पिपासायाम् । ‘तृषिशुषिरसिभ्यः कित्’ इति नः । तृष्णा उपभोगनिमित्तकोऽभिलाषः । 'तृष्णाभिलषणं भोगे",
+  "वनपिशाचिका’ ‘तृष्णे स्पृहापिपासे द्वे तद्रूपेहाम्बिका स्मृता' । तर्षणं तृष्णा स्पृहा । निरूढलक्षणत्वात् । इत्यष्टमी",
+  "तृष्णा ॥ १९ ॥",
+  "( ४ नागोजीभट्टी ) तृष्णा अनात्मीयस्वीकारेच्छा ॥ १९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) तृष्णेति ३५, ३६, ३७ ॥ १९ ॥",
+  "( ६ दंशोद्धारः ) तृष्णा अनात्मीयजिघृक्षा ॥ १९ ॥",
+  "या देवी सर्वभूतेषु क्षान्तिरूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ २",
+  "( १ गुप्तवती ) क्षान्तिः क्षमा ॥ २० ॥",
+  "( २ चतुर्धरी ) क्षान्तिरपकारिण्यप्यनपकारचिकीर्षा ॥ २० ॥",
+  "( ३ शान्तनवी ) क्षमूष् सहने । षित्वात्स्त्रियां क्षमा । वाहुलकात्तु क्तिनि क्षान्तिः । ‘अनुनासिकस्य क्वि",
+  "क्ङिति' इति दीर्घः । 'क्षान्तिः क्षमा तितिक्षा च मर्षश्च सहनार्थकाः’ । क्षान्तिस्तृष्णापारिपन्थिनी परप्रयुक्तापकारं प्र⟨?⟩",
+  "प्रतिकूलवेदनां प्रत्युपेक्षा च । इति नवमी देवी क्षान्तिः ॥ २० ॥",
+  "( ४ नागोजीभट्टी ) क्षान्तिः सत्यपि सामर्थ्येऽपकाराचिकीर्षा ॥ २० ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) क्षान्तिरिति ३८, ३९, ४० ॥ २० ॥",
+  "( ६ दंशोद्धारः ) क्षान्तिरपकारिण्यनपकारः ॥ २० ॥",
+  "या देवी सर्वभूतेषु जातिरूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ २१",
+  "( १ गुप्तवती ) जातिर्जन्म ब्रह्मसत्ता वा ॥ २१ ॥",
+  "( २ चतुर्धरी ) जातिरनेकेष्वेकाकारव्यवहारसाधनम् ॥ २१ ॥",
+  "( ३ शान्तनवी ) नित्यैकानुगतप्रत्ययहेतुरनेकसमवायिनी जातिः । यथा मनुष्येषु मनुष्यत्वं गोषु गोत्वम् । ‘ज",
+  "सामान्यजन्मनोः' । जायतेऽन्यथा भिन्नेष्वभिन्नाभिधानप्रयोगो जातिः । इति दशमी देवी जातिः ॥ २१ ॥",
+  "( ४ नागोजीभट्टी ) जातिः गोत्वादिः ॥ २१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) जातिरिति ४१, ४२, ⟨?⟩३ ॥ २१ ॥",
+  "( ६ दंशोद्धारः ) जातिरनेकेष्वेकाकारप्रत्यायिका ॥ २१ ॥",
+  "या देवी सर्वभूतेषु लज्जारूपेण संस्थिता । नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ २२",
+  "( १ गुप्तवती ) लज्जा त्रपा ॥ २२ ॥ २२ ॥",
+  "( २ चतुर्धरी ) लज्जा स्वकार्यविषयान्यज्ञानभीः ॥",
+  "( ३ शान्तनवी ) ओलस्जी व्रीडायाम् । स्त्रियाम् ‘गुरोश्च हलः’ इत्यप्रत्ययः । ‘झलां जश् झशि’ इति दः श्रु⟨?⟩",
+  "स्त्रियाम् 'अजाद्यतष्टाप्' । कर्तव्याकारणनिमित्तम् अकार्यकरणनिमित्तमन्यतः स्वतो वा जनितं लज्जनं संकोचनं मनुष्यादि⟨?⟩",
+  "लज्जेत्युच्यते इत्येकादशी लज्जा ॥ २२ ॥",
+  "( ४ नागोजीभट्टी) लज्जा स्वकार्यविषयान्यज्ञानभिन्ना ॥ २२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) लज्जेति ४४, ४५, ४६ ॥ २२ ॥",
+  "( ६ दंशोद्धारः ) लज्जा चिकीर्षितविषये लोकभीः ॥ २२ ॥"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 68.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.943,
+   "tesseract_mean_conf": 78.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 69.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.95,
+   "tesseract_mean_conf": 81.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.901,
+   "tesseract_mean_conf": 69.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.357,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 54.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 50.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.889,
+   "tesseract_char_agree": 0.955,
+   "tesseract_mean_conf": 78.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.976,
+   "tesseract_mean_conf": 73.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 71.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 83.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 67.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 72.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 58.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.818,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 74.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.963,
+   "tesseract_mean_conf": 71.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 70.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 1.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 79.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 75.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.818,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 73.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 81.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.859,
+   "tesseract_mean_conf": 55.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.471,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.778,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 85.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.951,
+   "tesseract_mean_conf": 67.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.971,
+   "tesseract_mean_conf": 79.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.96,
+   "tesseract_mean_conf": 74.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.81,
+   "tesseract_mean_conf": 71.4,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.797,
+   "tesseract_mean_conf": 51.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.848,
+   "tesseract_mean_conf": 54.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 68.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 58.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.85,
+   "tesseract_mean_conf": 68.2,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "१४८ दुर्गासप्तशती",
+    "( ५ जगच्चन्द्रचन्द्रिका ) शक्तिः १२,१३,३४",
+    "( ६ दंशोद्धारः ) शक्तिः सामर्थ्यमुत्साहो वा ॥",
+    "या देवी सर्वभूतेषु तृष्णारूपेण संस्थिता ।",
+    "( १ गुप्तवती ) तृष्णा लोभः ॥ १९",
+    "( २ चतुर्धरी ) तृष्णा अनात्मीयस्वीकारेच्छा ॥",
+    "( ३ शान्तनवी ) सर्वाणि भूतानि पृथिव्यादीनि",
+    "भितृषा पिपासायाम् । ‘तृषिशुषिरसिभ्यः कित्’ इति नः",
+    "वनपिशाचिका’ ‘तृष्णे स्पृहापिपासे द्वे तद्रूपेहाम्बिका",
+    "तृष्णा ॥ १९",
+    "( ४ नागोजीभट्टी ) तृष्णा अनात्मीयस्वीकारेच्छा",
+    "( ५ जगच्चन्द्रचन्द्रिका ) तृष्णेति ३५, ३६,"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। [ पञ्चमोऽध्यायः",
+    "॥ १८ ॥",
+    "१८ ॥",
+    "नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ १",
+    "॥",
+    "१९ ॥",
+    "येषां देहानामारम्भकर्तृत्वेन सन्ति तानि सर्वभूतानि देहा",
+    "। तृष्णा उपभोगनिमित्तकोऽभिलाषः । 'तृष्णाभिलषणं भोगे",
+    "स्मृता' । तर्षणं तृष्णा स्पृहा । निरूढलक्षणत्वात् । इत्यष्टमी",
+    "॥",
+    "॥ १९ ॥",
+    "३७ ॥ १९ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "( ६ दंशोद्धारः ) तृष्णा अनात्मीयजिघृक्षा ॥",
+    "या देवी सर्वभूतेषु क्षान्तिरूपेण संस्थिता ।",
+    "( १ गुप्तवती ) क्षान्तिः क्षमा ॥ २०",
+    "( २ चतुर्धरी ) क्षान्तिरपकारिण्यप्यनपकारचिकीर्षा",
+    "( ३ शान्तनवी ) क्षमूष् सहने । षित्वात्स्त्रियां",
+    "क्ङिति' इति दीर्घः । 'क्षान्तिः क्षमा तितिक्षा च मर्षश्च",
+    "प्रतिकूलवेदनां प्रत्युपेक्षा च । इति नवमी देवी क्षान्तिः ॥",
+    "( ४ नागोजीभट्टी ) क्षान्तिः सत्यपि",
+    "( ५ जगच्चन्द्रचन्द्रिका ) क्षान्तिरिति ३८, ३९,",
+    "( ६ दंशोद्धारः ) क्षान्तिरपकारिण्यनपकारः ॥",
+    "या देवी सर्वभूतेषु जातिरूपेण संस्थिता ।",
+    "( १ गुप्तवती ) जातिर्जन्म ब्रह्मसत्ता वा ॥ २१"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "१९ ॥",
+    "नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ २",
+    "॥",
+    "॥ २० ॥",
+    "क्षमा । वाहुलकात्तु क्तिनि क्षान्तिः । ‘अनुनासिकस्य क्वि",
+    "सहनार्थकाः’ । क्षान्तिस्तृष्णापारिपन्थिनी परप्रयुक्तापकारं प्र⟨?⟩",
+    "२० ॥",
+    "सामर्थ्येऽपकाराचिकीर्षा ॥ २० ॥",
+    "४० ॥ २० ॥",
+    "२० ॥",
+    "नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ २१",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "( २ चतुर्धरी ) जातिरनेकेष्वेकाकारव्यवहारसाधनम्",
+    "( ३ शान्तनवी ) नित्यैकानुगतप्रत्ययहेतुरनेकसमवायिनी",
+    "सामान्यजन्मनोः' । जायतेऽन्यथा भिन्नेष्वभिन्नाभिधानप्रयोगो",
+    "( ४ नागोजीभट्टी ) जातिः गोत्वादिः ॥ २१",
+    "( ५ जगच्चन्द्रचन्द्रिका ) जातिरिति ४१, ४२,",
+    "( ६ दंशोद्धारः ) जातिरनेकेष्वेकाकारप्रत्यायिका",
+    "या देवी सर्वभूतेषु लज्जारूपेण संस्थिता ।",
+    "( १ गुप्तवती ) लज्जा त्रपा ॥ २२ ॥",
+    "( २ चतुर्धरी ) लज्जा स्वकार्यविषयान्यज्ञानभीः ॥",
+    "( ३ शान्तनवी ) ओलस्जी व्रीडायाम् । स्त्रियाम्",
+    "स्त्रियाम् 'अजाद्यतष्टाप्' । कर्तव्याकारणनिमित्तम्",
+    "लज्जेत्युच्यते इत्येकादशी लज्जा ॥ २२"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "॥ २१ ॥",
+    "जातिः । यथा मनुष्येषु मनुष्यत्वं गोषु गोत्वम् । ‘ज",
+    "जातिः । इति दशमी देवी जातिः ॥ २१ ॥",
+    "॥",
+    "⟨?⟩३ ॥ २१ ॥",
+    "॥ २१ ॥",
+    "नमस्तस्यै नमस्तस्यै नमस्तस्यै नमोनमः ॥ २२",
+    "२२ ॥",
+    "‘गुरोश्च हलः’ इत्यप्रत्ययः । ‘झलां जश् झशि’ इति दः श्रु⟨?⟩",
+    "अकार्यकरणनिमित्तमन्यतः स्वतो वा जनितं लज्जनं संकोचनं मनुष्यादि⟨?⟩",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38
+   ],
+   "lines": [
+    "( ४ नागोजीभट्टी) लज्जा स्वकार्यविषयान्यज्ञानभिन्ना",
+    "( ५ जगच्चन्द्रचन्द्रिका ) लज्जेति ४४, ४५,",
+    "( ६ दंशोद्धारः ) लज्जा चिकीर्षितविषये लोकभीः"
+   ],
+   "expected": 3,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38
+   ],
+   "lines": [
+    "॥ २२ ॥",
+    "४६ ॥ २२ ॥",
+    "॥ २२ ॥"
+   ],
+   "expected": 3,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 24709,
+  "out": 12021
+ },
+ "ts": "2026-10-16T00:49:48"
+}

@@ -1,0 +1,692 @@
+{
+ "vol": 2,
+ "scan": 1,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 48,
+ "lines": [
+  "",
+  "",
+  "",
+  "। ९१",
+  "द्वितीयोऽध्यायः २ ]                    गुप्तवत्यादिषट्टीकासंवलिता",
+  "( ४ नागोजीभट्टी ) अम्लानेत्यारभ्य पङ्कजदानान्तं जलधिः कर्ता । तत्र पङ्कजं हस्ते रत्नसिंहयोर्दाने हिमवानदद॰",
+  "। दद दाने इत्यस्य लङि रूपम् । छान्दसत्वात्परस्मपदम् ॥ २७ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अत्राण्यनेकेति २८ ॥ २७ ॥",
+  "( ६ दंशोद्धारः ) ॥ २७ ॥",
+  "दजलधिस्तस्यै पङ्कजं चातिशोभनम् । हिमवान्वाहनं सिंहं रत्नानि विविधानि च ॥ २८ ॥",
+  "( १ गुप्तवती ) ॥ २८ ॥",
+  "( २ चतुर्धरी ) अददत् । ददानेरात्मनेपदिनोपि छान्दसत्वात् परस्मैपदम् । एवं युयुधुरिति, न चोत्पस्यन्ति चापरे",
+  ", निरीक्षिष्यामि यन्मुनीन् इति यथा परस्मैपदेऽप्यात्मनेपदम् । भवेथाः सर्वदाम्बिके इति, यद्वा चान्यानकर्षतेति, खड्गेन-",
+  "कुंतत, प्राप्स्यसे मत्परिग्रहात्, स्वं राज्यं प्राप्स्यते भवानिति ॥ २८ ॥",
+  "( ३ शान्तनवी ) जलधिः समुद्रः तस्यै देव्यै शिरसि उरसि विपथे अपराम्म्लानपङ्कजां मालाम् अददात् । डुदाञ्",
+  "। भूतानद्यतने लङ् परस्मैपदम् । अददिति पाठे तु चक्षिङो डित्करणा⟨?⟩त् । अनुदात्तेत्त्वनिबन्धनमात्मनेपदमनित्य-",
+  "यात्मनेपदाभावः । किंच स एव जलधिः तस्यै देव्यै अतिशोभनमत्यर्थ मनोहरं पङ्कजं लीलारविन्दम् अददात् अदद्वा ।",
+  "वान् अद्रिराजः तस्यै देव्यै सिंहं वाहनं ददौ । वाहयति प्रापयति तद्वाहनम् । यद्वा वहति वाहनम् 'वाहनमाहितात्'",
+  "प्रयोगात् 'अन्येषामपि दृश्यते' इति दीर्घः । यद्वा उह्यते प्राप्यते अनेनेति वाहनम् । 'वाहनमाहितात्' इति निपा-",
+  "दुपधादीर्घत्वम् । हिनस्ति सिंहः पञ्चास्यः कण्ठीरवः । किंच स एव हिमवान् तस्यै देव्यै च विविधानि नानाप्रकाराणि",
+  "नि अददात् ॥ २८ ॥",
+  "( ४ नागोजीभट्टी ) ॥ २८ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) अददिति २९ ॥ २८ ॥",
+  "( ६ दंशोद्धारः ) अददिति । अददिति परस्मैपदमार्षम् । ददेरनुदात्तेत्वात् । आत्मनेपदानित्यत्वं वा कल्प्यम् ।",
+  "दादिति पाठः सुगमः ॥ २८ ॥",
+  "ावशून्यं सुरया पानपात्रं धनाधिपः । शेषश्च सर्वनागेशो महामणिविभूषितम् ॥ २९ ॥",
+  "( १ गुणवती ) ॥ २९ ॥",
+  "( २ चतुर्धरी ) सुरया अमृतेन अशून्यं पूरितम् । मणिभ्यो महान् महामणिः तेनेत्यर्थः ॥ २९ ॥",
+  "( ३ शान्तनवी ) धनाधिपः कुबेरः तस्यै देव्यै सुरया अशून्यं सर्वदा परिपूर्णं पानपात्रं ददौ । सूयते पारिवास्यते",
+  "गन्धोत्तमा । इमां पृथिवीं धत्ते धारयति सर्वनागेशः सर्वनागाधिपः शेषः अनन्तश्च महामणिविभूषितम् । अभिमस्थे॰",
+  "वयः ॥ २९ ॥",
+  "( ४ नागोजीभट्टी ) ददाविति । अनेनाष्टादशभुजा सहस्रभुजा चैषेति सूचितम् । तदुक्तं वैकृतिकरहस्ये । 'अष्टादशभुजा",
+  "या सा सहस्रभुजा सती' । अष्टादशभुजधार्याणां विशिष्योक्तेः सामान्यतः अन्यैरपि देवैरायुधैरित्युक्तेश्चेति भावः । 'आयु॰",
+  "न्यत्र वक्ष्यन्ते दक्षिणाधःकरक्रमात् । अक्षमाला च कमलं बाणोऽसिः कुलिशं गदा । चक्रं त्रिशूलं परशुः शङ्खो घण्टा च",
+  "ाकः । शक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः । अलंकृतभुजामेभिरायुधैः कमलासनाम् । सर्वदेवमयीमीशां महालक्ष्मीमिमां",
+  "। पूजयन्सर्वलोकानां स देवानां प्रभुर्भवेत' । इति एवंस्वरूपायुधैरस्या ब्राह्मीत्वं वैष्णवीत्वं त्रिगुणात्वं च सर्वमूलभूतशक्तेरयं",
+  "दुर्भावस्तत्समान इति च सूचितम् । यद्यप्यत्र ब्रह्मादीनामिन्द्रादीनां च शरीरान्निष्कान्ततेजो देवीविग्रहरूपेणाभिव्यक्तमा-",
+  "त् आयुधानि च देवैः स्वस्वशूलादिभ्यो विनिर्गमय्य दत्तानि इत्येवोक्तम्, तथापि देवीशक्त्यंशा एव तत्तद्देवपालनीयैकदेश-",
+  "लनशक्तित्वेन ये देव्या निवेशितास्ते एव महिषवधेन सर्वलोकरक्षणाय पुनरेकीभूय देवीरूपं प्राप्ताः । एवं तदायुधाः निज-",
+  "र्यंशा अपीति बोध्यम् । 'अहं विभूत्या बहुभिः' इत्यादितृतीयचरितगतवचनसमूहात् । लक्ष्मीतन्त्रेऽपि शक्रं प्रति लक्ष्मी-",
+  "नानि । 'महालक्ष्मीरहं शक्र पुनः स्वायंभुवेऽन्तरे । हिताय सर्वदेवानां जाता महिषमर्दिनी । मदीयाः शक्तिलेशा ये",
+  "व देवशरीरगाः । धृतं मया तैः संभूतै रूपं परमशोभनम् । आयुधानि च देवानां यानि यानि सुरेश्वर । मच्छक्तयस्तदाका-",
+  "ण्यायुधानि ममाभवन्' इति ॥ २९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) ददावशून्यमिति ३० ॥ २९",
+  "( ६ दंशोद्धारः ) ॥",
+  "॥ २९ ॥",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 35.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 39.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 15.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.333,
+   "tesseract_mean_conf": 25.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.222,
+   "tesseract_char_agree": 0.667,
+   "tesseract_mean_conf": 46.7,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 52.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 78.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 86.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 58.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 80.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.924,
+   "tesseract_mean_conf": 69.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.385,
+   "tesseract_char_agree": 0.848,
+   "tesseract_mean_conf": 53.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.982,
+   "tesseract_mean_conf": 67.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.872,
+   "tesseract_mean_conf": 71.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.821,
+   "tesseract_mean_conf": 52.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.812,
+   "tesseract_mean_conf": 64.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 62.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 69.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.894,
+   "tesseract_mean_conf": 62.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 77.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 78.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.969,
+   "tesseract_mean_conf": 68.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.429,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 86.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 72.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.786,
+   "tesseract_mean_conf": 65.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.849,
+   "tesseract_mean_conf": 74.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 76.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 54.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 83.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.92,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.926,
+   "tesseract_mean_conf": 71.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 54.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.308,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 60.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.93,
+   "tesseract_mean_conf": 53.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 73.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.562,
+   "tesseract_char_agree": 0.967,
+   "tesseract_mean_conf": 74.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.455,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.916,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.632,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 69.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.722,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 73.1,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.765,
+   "tesseract_mean_conf": 62.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.25,
+   "tesseract_char_agree": 0.167,
+   "tesseract_mean_conf": 40.2,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 51.8,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 8 lines, expected 12; realigned, 4 line(s) unmatched",
+  "band 0 col 0: got 8 lines, expected 12; realigned, 4 line(s) unmatched",
+  "band 3 col 1: got 8 lines, expected 12; realigned, 4 line(s) unmatched",
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 0: got 9 lines, expected 12; realigned, 3 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "द्वितीयोऽध्यायः २ ]                    गुप्तवत्यादिषट्टीकासंवलिता",
+    "( ४ नागोजीभट्टी ) अम्लानेत्यारभ्य पङ्कजदानान्तं जलधिः",
+    "। दद दाने इत्यस्य लङि रूपम् । छान्दसत्वात्परस्मपदम् ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अत्राण्यनेकेति २८ ॥ २७",
+    "( ६ दंशोद्धारः ) ॥ २७",
+    "दजलधिस्तस्यै पङ्कजं चातिशोभनम् । हिमवान्वाहनं",
+    "( १ गुप्तवती ) ॥ २८",
+    "( २ चतुर्धरी ) अददत् । ददानेरात्मनेपदिनोपि छान्दसत्वात्"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ९१",
+    "कर्ता । तत्र पङ्कजं हस्ते रत्नसिंहयोर्दाने हिमवानदद॰",
+    "२७ ॥",
+    "॥",
+    "॥",
+    "सिंहं रत्नानि विविधानि च ॥ २८ ॥",
+    "॥",
+    "परस्मैपदम् । एवं युयुधुरिति, न चोत्पस्यन्ति चापरे"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    ", निरीक्षिष्यामि यन्मुनीन् इति यथा परस्मैपदेऽप्यात्मनेपदम् ।",
+    "कुंतत, प्राप्स्यसे मत्परिग्रहात्, स्वं राज्यं प्राप्स्यते भवानिति ॥",
+    "( ३ शान्तनवी ) जलधिः समुद्रः तस्यै देव्यै शिरसि",
+    "। भूतानद्यतने लङ् परस्मैपदम् । अददिति पाठे तु चक्षिङो",
+    "यात्मनेपदाभावः । किंच स एव जलधिः तस्यै देव्यै अतिशोभनमत्यर्थ",
+    "वान् अद्रिराजः तस्यै देव्यै सिंहं वाहनं ददौ । वाहयति प्रापयति",
+    "प्रयोगात् 'अन्येषामपि दृश्यते' इति दीर्घः । यद्वा उह्यते",
+    "दुपधादीर्घत्वम् । हिनस्ति सिंहः पञ्चास्यः कण्ठीरवः । किंच स",
+    "नि अददात् ॥ २८",
+    "( ४ नागोजीभट्टी ) ॥ २८",
+    "( ५ जगच्चन्द्रचन्द्रिका ) अददिति २९ ॥ २८",
+    "( ६ दंशोद्धारः ) अददिति । अददिति परस्मैपदमार्षम्"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "भवेथाः सर्वदाम्बिके इति, यद्वा चान्यानकर्षतेति, खड्गेन-",
+    "२८ ॥",
+    "उरसि विपथे अपराम्म्लानपङ्कजां मालाम् अददात् । डुदाञ्",
+    "डित्करणा⟨?⟩त् । अनुदात्तेत्त्वनिबन्धनमात्मनेपदमनित्य-",
+    "मनोहरं पङ्कजं लीलारविन्दम् अददात् अदद्वा ।",
+    "तद्वाहनम् । यद्वा वहति वाहनम् 'वाहनमाहितात्'",
+    "प्राप्यते अनेनेति वाहनम् । 'वाहनमाहितात्' इति निपा-",
+    "एव हिमवान् तस्यै देव्यै च विविधानि नानाप्रकाराणि",
+    "॥",
+    "॥",
+    "॥",
+    "। ददेरनुदात्तेत्वात् । आत्मनेपदानित्यत्वं वा कल्प्यम् ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "दादिति पाठः सुगमः ॥ २८",
+    "ावशून्यं सुरया पानपात्रं धनाधिपः । शेषश्च",
+    "( १",
+    "( २ चतुर्धरी ) सुरया अमृतेन अशून्यं पूरितम् । मणिभ्यो",
+    "( ३ शान्तनवी ) धनाधिपः कुबेरः तस्यै देव्यै सुरया",
+    "गन्धोत्तमा । इमां पृथिवीं धत्ते धारयति सर्वनागेशः",
+    "वयः ॥ २९ ॥",
+    "( ४ नागोजीभट्टी ) ददाविति । अनेनाष्टादशभुजा",
+    "या सा सहस्रभुजा सती' । अष्टादशभुजधार्याणां विशिष्योक्तेः",
+    "न्यत्र वक्ष्यन्ते दक्षिणाधःकरक्रमात् । अक्षमाला च कमलं बाणोऽसिः",
+    "ाकः । शक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः । अलंकृतभुजामेभिरायुधैः",
+    "। पूजयन्सर्वलोकानां स देवानां प्रभुर्भवेत' । इति एवंस्वरूपायुधैरस्या"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "॥",
+    "सर्वनागेशो महामणिविभूषितम् ॥ २९ ॥",
+    "गुणवती ) ॥ २९ ॥",
+    "महान् महामणिः तेनेत्यर्थः ॥ २९ ॥",
+    "अशून्यं सर्वदा परिपूर्णं पानपात्रं ददौ । सूयते पारिवास्यते",
+    "सर्वनागाधिपः शेषः अनन्तश्च महामणिविभूषितम् । अभिमस्थे॰",
+    "सहस्रभुजा चैषेति सूचितम् । तदुक्तं वैकृतिकरहस्ये । 'अष्टादशभुजा",
+    "सामान्यतः अन्यैरपि देवैरायुधैरित्युक्तेश्चेति भावः । 'आयु॰",
+    "कुलिशं गदा । चक्रं त्रिशूलं परशुः शङ्खो घण्टा च",
+    "कमलासनाम् । सर्वदेवमयीमीशां महालक्ष्मीमिमां",
+    "ब्राह्मीत्वं वैष्णवीत्वं त्रिगुणात्वं च सर्वमूलभूतशक्तेरयं"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "दुर्भावस्तत्समान इति च सूचितम् । यद्यप्यत्र ब्रह्मादीनामिन्द्रादीनां",
+    "त् आयुधानि च देवैः स्वस्वशूलादिभ्यो विनिर्गमय्य दत्तानि",
+    "लनशक्तित्वेन ये देव्या निवेशितास्ते एव महिषवधेन सर्वलोकरक्षणाय",
+    "र्यंशा अपीति बोध्यम् । 'अहं विभूत्या बहुभिः'",
+    "नानि । 'महालक्ष्मीरहं शक्र पुनः स्वायंभुवेऽन्तरे । हिताय",
+    "व देवशरीरगाः । धृतं मया तैः संभूतै रूपं परमशोभनम् । आयुधानि",
+    "ण्यायुधानि ममाभवन्' इति ॥ २९ ॥",
+    "( ५ जगच्चन्द्रचन्द्रिका ) ददावशून्यमिति ३० ॥ २९",
+    "( ६ दंशोद्धारः )"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "च शरीरान्निष्कान्ततेजो देवीविग्रहरूपेणाभिव्यक्तमा-",
+    "इत्येवोक्तम्, तथापि देवीशक्त्यंशा एव तत्तद्देवपालनीयैकदेश-",
+    "पुनरेकीभूय देवीरूपं प्राप्ताः । एवं तदायुधाः निज-",
+    "इत्यादितृतीयचरितगतवचनसमूहात् । लक्ष्मीतन्त्रेऽपि शक्रं प्रति लक्ष्मी-",
+    "सर्वदेवानां जाता महिषमर्दिनी । मदीयाः शक्तिलेशा ये",
+    "च देवानां यानि यानि सुरेश्वर । मच्छक्तयस्तदाका-",
+    "॥",
+    "॥ २९ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25919,
+  "out": 17268
+ },
+ "ts": "2026-10-16T00:13:08"
+}

@@ -1,0 +1,656 @@
+{
+ "vol": 2,
+ "scan": 11,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 45,
+ "lines": [
+  "द्वितीयोऽध्यायः २ ]                    गुप्तवत्यादिषट्टी कासंवलिता ।    १०१",
+  "ोथिता निपातेन गदया भुवि शेरते । वेमुश्र केचिद्रुधिरं मुसलेन भृशं हताः ॥ ५७ ॥",
+  "( १ गुप्तवती ) विपोथिताः आघातेनाधः पतिताः शेरते दीर्घतन्त्रया । वेमुरित्यादि छान्दसशब्दनिर्णयो वैयाकरणः",
+  "नव्यादिटीकातोऽवसेयः ॥ ५७ ॥",
+  "( २ चतुर्धरी ) गदया विपोथिताः आमर्दिताः सन्तो निपातेन भुवि शेरते इत्यन्वयः । अथवा गदया यो निपातो",
+  "नं तेन । यद्वा गदयेति षष्ठ्यर्थे तृतीया । गदया निपातेन आघातेनेत्यर्थः । वेमुहद्रिरन् । वाधितेपि सर्वे विधयः छन्दसि",
+  "न्त इति नानानिर्दिष्टस्यानित्यत्वाद्वा । ‘न शसददवादि’ इत्यादिना एवमभ्यामलोपनिषेधो न भवति । यद्वा निरो⟨?⟩",
+  "ऽन्योऽस्ति तस्येदं रूपम् । सूत्रे निर्दिष्टो दन्त्य इति ‘उद्रेमुस्तत्र रुधिरं वलिनोऽन्ये निराकृताः' इत्यत्रापि भृशं ⟨?⟩",
+  "ताडिताः ॥ ५७ ॥",
+  "( ३ शान्तनवी ) विपोथिता इति । पुथ हिंसायाम् । दिवादिः । यदभ्यधुः । 'पुथ्येत्पुंथति हिंसार्थे भाषार्थे पोथ⟨?⟩दिति' ।",
+  "ं पोथनं विहननं पोथः स जातो येषां विपोथिताः । संजातविघाता इत्यर्थः । यद्वा विविधः पोथः विघातो येषां ते",
+  "ताः विपोथाः कृताः विपोथिताः । ‘तत्करोति’इति णिचि कर्मणि क्ताः । ननु च पुथ्यतेर्णिंचि कर्मणि क्ताः । ननु च पुथ्यते-",
+  "त्वान्नपुंसके भावे क्ते कृते कित्वनिषेधपक्षे पोथितमिति स्यात् । ततश्च विविधं पोथितं पोथनं विहननं एषां ते इति",
+  "ही वाहिताग्न्यादित्वान्निष्ठान्तस्य परनिपाते विपोथिताः स्युः न स्युः । यतः 'उदुपधाद्भावादिकर्मणोरन्यतरस्याम्' इति",
+  "रणानामेवोदुपधानां तत्र सूत्रे ग्रहणं नान्येषामित्यभ्युपजग्मुः । यद्वा विपुंथिता इति पाठे पुथ हिंसासंक्लेशनयोः",
+  "ः । कर्मणि क्तः विपुथिता विहिंसिताः संक्लेशिनाः क्लेशि⟨?⟩ । वथिता इति यावत् । केचिच्च महासुराः देव्या मुम-",
+  "शाम् अत्यर्थं हताः ताडिताः रुधिरं रक्तं वेमुः उज्जगरुः । वेमुरिति 'अत एकहल्मध्येऽनादेशादेर्लिटि' एत्वम् उ⟨?⟩रण",
+  "इति निषेधादेत्वाभ्यासलोपौ न स्तः इत्याहुः । तनश्च ववमुः इत्येवं भवितव्यम् । अत्र समादधुः । 'न शसददवादिगुणानाम्'",
+  "एकहल्मध्येऽनादेशादेर्न शसददवादिगुणानां लिटि' इत्येकयोगे कर्तव्ये योगविभागादस्यानित्यत्वमिति । ततः वेमुरित्यपि",
+  "साधु स्यादिति ॥ ५७ ॥",
+  "(४ नागोजीभट्टी) विपोथिता इति । अ⟨?⟩रे गदया विपोथिता आमर्दिताः निपातेन निपतनेन भुवि शेरत",
+  "ः । वेमुरिति छान्दसम् ॥ ५७ ॥",
+  "(५ जगच्चन्द्रचन्द्रिका) विपोथिता इति ५८ ॥ ५७ ॥",
+  "(६ दंशोद्धारः) गदया विपोथिता निघातेन शेरते गदारूपेण निपातेन वा । कर्मणि घञ् । षष्ठ्यर्थे वा तृतीया ।",
+  "निपातेन विपोथिता इत्यन्वयः । वेमुश्चेति । वेमुरुद्गीर्णवन्तः । वादित्वादेत्वाभ्यासलोपनिषेधस्तु न । छन्दसि सर्ववि-",
+  "वैकल्पनात् । यद्वा 'न शसददवादिगुणानाम्' इति वक्तव्ये आदिग्रहणमुपदेशे यो वादिरित्यर्थलाभाय तत् । अनुबन्ध",
+  "त इति पक्षेऽस्यावादित्वेन वकारात्प्राक् एकारप्रश्लेषेण वा वादित्वाभावादिह निषेधो नेति भागवृत्तिमते । मतान्तरेऽपि",
+  "⟨?⟩मध्येऽनादेशादिशसददवादिगुणानाम्' इति वक्तव्ये योगविभागसामर्थ्यादस्यानित्यत्वं बोध्यम् । केचित्तु वमिमो-",
+  "आहुस्तार्⟨?⟩मूलम् । जग्धं गीर्णं वान्तमित्यादौ दन्त्योष्ठ्यपाठस्यैव निर्विवादत्वात् ॥ ५७ ॥",
+  "निपतिता भूमौ भिन्नाः शूलेन वक्षसि । निराकृताः शरौघेण कृताः केचिद्रणाजिरे ॥५८॥",
+  "१ गुप्तवती ) ॥ ५८ ॥",
+  "२ चतुर्ध री ) ॥ ५८ ॥",
+  "३ शान्तनवी ) केचिच्च महासुराः देव्या शूलेन वक्षसि भिन्नाः विदारिताः सन्तः भूमौ निपतिताः न्यपतन् ।",
+  "शैलानुकारिणः शैलान् स्वगात्रपरिमाणतः अनुकुर्वाणाः पर्वतायमानाः त्रिदशानां देवानाम् अर्दनाः अर्दयितारः",
+  "असुराः रणाजिरे रणस्याग्रे देव्या प्रत्युक्तेन निरन्तरं शरौघेण अविच्छिन्नबाणव्यूहेन कृताः छिन्नाः विद्धाः त्यक्त-",
+  "प्राणान् असून् मुमुचुः व्यमुञ्चन् । शराणामोघः शरौघः तेन शरौघेण । 'कुमति च' इति णत्वम् । निरन्तराः शराः",
+  "ः समूहः तेन निरन्तरशरौघेण ॥ ५८ ॥",
+  "४ नागोजीभट्टी ) केचिदिति । शूलेन वक्षसि भिन्नाः भूमौ निपातिताः निपेतुरित्यन्वयः । उत्तरार्धमुत्तरान्वयि ५९",
+  "५ जगच्चन्द्रचन्द्रिका ) केचिन्निपतिता इति ५९ ॥ ५८ ॥",
+  "६ दंशोद्धारः ) निरन्तरा इति ॥ ५८ ॥",
+  "‘निरन्तरशरौघेण’ ‘निरन्तराः शरौघेण’ इति शान्तनवी",
+  "‘निरन्तरशरौघेण’ ‘निरन्तराः शरौघेण’ इति शान्तनवी । ।",
+  "‘निरन्तरशरौघेण’ ‘निरन्तराः शरौघेण’ इति शान्तनवी ।",
+  "",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.829,
+   "tesseract_mean_conf": 56.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.931,
+   "tesseract_mean_conf": 68.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.843,
+   "tesseract_mean_conf": 63.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.812,
+   "tesseract_char_agree": 0.974,
+   "tesseract_mean_conf": 84.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.843,
+   "tesseract_mean_conf": 53.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.868,
+   "tesseract_mean_conf": 52.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.857,
+   "tesseract_mean_conf": 85.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.911,
+   "tesseract_mean_conf": 53.1,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.765,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.944,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.906,
+   "tesseract_mean_conf": 69.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.94,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.417,
+   "tesseract_char_agree": 0.879,
+   "tesseract_mean_conf": 60.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.84,
+   "tesseract_mean_conf": 52.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.812,
+   "tesseract_mean_conf": 55.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.231,
+   "tesseract_char_agree": 0.88,
+   "tesseract_mean_conf": 55.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.2,
+   "tesseract_char_agree": 0.884,
+   "tesseract_mean_conf": 39.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.692,
+   "tesseract_mean_conf": 78.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 71.2,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 74.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.972,
+   "tesseract_mean_conf": 75.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.611,
+   "tesseract_char_agree": 0.899,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.462,
+   "tesseract_char_agree": 0.907,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.364,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 56.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.927,
+   "tesseract_mean_conf": 68.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.3,
+   "tesseract_char_agree": 0.87,
+   "tesseract_mean_conf": 60.9,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.968,
+   "tesseract_mean_conf": 62.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.571,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 68.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.903,
+   "tesseract_mean_conf": 60.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.928,
+   "tesseract_mean_conf": 52.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.412,
+   "tesseract_char_agree": 0.821,
+   "tesseract_mean_conf": 55.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.833,
+   "tesseract_char_agree": 0.96,
+   "tesseract_mean_conf": 74.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.892,
+   "tesseract_mean_conf": 66.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 72.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.857,
+   "tesseract_char_agree": 0.962,
+   "tesseract_mean_conf": 84.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 45.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.725,
+   "tesseract_mean_conf": 34.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.667,
+   "tesseract_mean_conf": 21.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 40.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 60.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 3 col 1: got 5 lines, expected 9; realigned, 4 line(s) unmatched",
+  "band 3 col 0: got 7 lines, expected 9; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "द्वितीयोऽध्यायः २ ]                    गुप्तवत्यादिषट्टी",
+    "ोथिता निपातेन गदया भुवि शेरते । वेमुश्र",
+    "( १ गुप्तवती ) विपोथिताः आघातेनाधः पतिताः शेरते",
+    "नव्यादिटीकातोऽवसेयः ॥ ५७",
+    "( २ चतुर्धरी ) गदया विपोथिताः आमर्दिताः सन्तो",
+    "नं तेन । यद्वा गदयेति षष्ठ्यर्थे तृतीया । गदया निपातेन",
+    "न्त इति नानानिर्दिष्टस्यानित्यत्वाद्वा । ‘न शसददवादि’ इत्यादिना",
+    "ऽन्योऽस्ति तस्येदं रूपम् । सूत्रे निर्दिष्टो दन्त्य इति ‘उद्रेमुस्तत्र",
+    "ताडिताः ॥ ५७",
+    "( ३ शान्तनवी ) विपोथिता इति । पुथ हिंसायाम् । दिवादिः ।",
+    "ं पोथनं विहननं पोथः स जातो येषां विपोथिताः ।",
+    "ताः विपोथाः कृताः विपोथिताः । ‘तत्करोति’इति णिचि कर्मणि"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "कासंवलिता ।    १०१",
+    "केचिद्रुधिरं मुसलेन भृशं हताः ॥ ५७ ॥",
+    "दीर्घतन्त्रया । वेमुरित्यादि छान्दसशब्दनिर्णयो वैयाकरणः",
+    "॥",
+    "निपातेन भुवि शेरते इत्यन्वयः । अथवा गदया यो निपातो",
+    "आघातेनेत्यर्थः । वेमुहद्रिरन् । वाधितेपि सर्वे विधयः छन्दसि",
+    "एवमभ्यामलोपनिषेधो न भवति । यद्वा निरो⟨?⟩",
+    "रुधिरं वलिनोऽन्ये निराकृताः' इत्यत्रापि भृशं ⟨?⟩",
+    "॥",
+    "यदभ्यधुः । 'पुथ्येत्पुंथति हिंसार्थे भाषार्थे पोथ⟨?⟩दिति' ।",
+    "संजातविघाता इत्यर्थः । यद्वा विविधः पोथः विघातो येषां ते",
+    "क्ताः । ननु च पुथ्यतेर्णिंचि कर्मणि क्ताः । ननु च पुथ्यते-"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "त्वान्नपुंसके भावे क्ते कृते कित्वनिषेधपक्षे पोथितमिति स्यात्",
+    "ही वाहिताग्न्यादित्वान्निष्ठान्तस्य परनिपाते विपोथिताः स्युः",
+    "रणानामेवोदुपधानां तत्र सूत्रे ग्रहणं नान्येषामित्यभ्युपजग्मुः",
+    "ः । कर्मणि क्तः विपुथिता विहिंसिताः संक्लेशिनाः क्लेशि⟨?⟩",
+    "शाम् अत्यर्थं हताः ताडिताः रुधिरं रक्तं वेमुः उज्जगरुः ।",
+    "इति निषेधादेत्वाभ्यासलोपौ न स्तः इत्याहुः । तनश्च ववमुः",
+    "एकहल्मध्येऽनादेशादेर्न शसददवादिगुणानां लिटि' इत्येकयोगे",
+    "साधु स्यादिति ॥ ५७",
+    "(४ नागोजीभट्टी) विपोथिता इति । अ⟨?⟩रे गदया",
+    "ः । वेमुरिति छान्दसम् ॥ ५७",
+    "(५ जगच्चन्द्रचन्द्रिका) विपोथिता इति ५८ ॥ ५७",
+    "(६ दंशोद्धारः) गदया विपोथिता निघातेन शेरते गदारूपेण"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "। ततश्च विविधं पोथितं पोथनं विहननं एषां ते इति",
+    "न स्युः । यतः 'उदुपधाद्भावादिकर्मणोरन्यतरस्याम्' इति",
+    "। यद्वा विपुंथिता इति पाठे पुथ हिंसासंक्लेशनयोः",
+    "। वथिता इति यावत् । केचिच्च महासुराः देव्या मुम-",
+    "वेमुरिति 'अत एकहल्मध्येऽनादेशादेर्लिटि' एत्वम् उ⟨?⟩रण",
+    "इत्येवं भवितव्यम् । अत्र समादधुः । 'न शसददवादिगुणानाम्'",
+    "कर्तव्ये योगविभागादस्यानित्यत्वमिति । ततः वेमुरित्यपि",
+    "॥",
+    "विपोथिता आमर्दिताः निपातेन निपतनेन भुवि शेरत",
+    "॥",
+    "॥",
+    "निपातेन वा । कर्मणि घञ् । षष्ठ्यर्थे वा तृतीया ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": true
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "निपातेन विपोथिता इत्यन्वयः । वेमुश्चेति । वेमुरुद्गीर्णवन्तः ।",
+    "वैकल्पनात् । यद्वा 'न शसददवादिगुणानाम्' इति वक्तव्ये",
+    "त इति पक्षेऽस्यावादित्वेन वकारात्प्राक् एकारप्रश्लेषेण वा",
+    "⟨?⟩मध्येऽनादेशादिशसददवादिगुणानाम्' इति वक्तव्ये",
+    "आहुस्तार्⟨?⟩मूलम् । जग्धं गीर्णं वान्तमित्यादौ दन्त्योष्ठ्यपाठस्यैव",
+    "निपतिता भूमौ भिन्नाः शूलेन वक्षसि । निराकृताः",
+    "१ गुप्तवती ) ॥ ५८",
+    "२ चतुर्ध",
+    "३ शान्तनवी ) केचिच्च महासुराः देव्या शूलेन वक्षसि भिन्नाः",
+    "शैलानुकारिणः शैलान् स्वगात्रपरिमाणतः अनुकुर्वाणाः",
+    "असुराः रणाजिरे रणस्याग्रे देव्या प्रत्युक्तेन निरन्तरं शरौघेण",
+    "प्राणान् असून् मुमुचुः व्यमुञ्चन् । शराणामोघः शरौघः तेन"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "वादित्वादेत्वाभ्यासलोपनिषेधस्तु न । छन्दसि सर्ववि-",
+    "आदिग्रहणमुपदेशे यो वादिरित्यर्थलाभाय तत् । अनुबन्ध",
+    "वादित्वाभावादिह निषेधो नेति भागवृत्तिमते । मतान्तरेऽपि",
+    "योगविभागसामर्थ्यादस्यानित्यत्वं बोध्यम् । केचित्तु वमिमो-",
+    "निर्विवादत्वात् ॥ ५७ ॥",
+    "शरौघेण कृताः केचिद्रणाजिरे ॥५८॥",
+    "॥",
+    "री ) ॥ ५८ ॥",
+    "विदारिताः सन्तः भूमौ निपतिताः न्यपतन् ।",
+    "पर्वतायमानाः त्रिदशानां देवानाम् अर्दनाः अर्दयितारः",
+    "अविच्छिन्नबाणव्यूहेन कृताः छिन्नाः विद्धाः त्यक्त-",
+    "शरौघेण । 'कुमति च' इति णत्वम् । निरन्तराः शराः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ],
+   "lines": [
+    "ः समूहः तेन निरन्तरशरौघेण ॥ ५८",
+    "४ नागोजीभट्टी ) केचिदिति । शूलेन वक्षसि भिन्नाः भूमौ",
+    "५ जगच्चन्द्रचन्द्रिका ) केचिन्निपतिता इति ५९ ॥ ५८",
+    "६ दंशोद्धारः ) निरन्तरा इति ॥ ५८",
+    "‘निरन्तरशरौघेण’ ‘निरन्तराः शरौघेण’ इति शान्तनवी",
+    "‘निरन्तरशरौघेण’ ‘निरन्तराः शरौघेण’ इति शान्तनवी ।",
+    "‘निरन्तरशरौघेण’ ‘निरन्तराः शरौघेण’ इति शान्तनवी ।"
+   ],
+   "expected": 9,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ],
+   "lines": [
+    "॥",
+    "निपातिताः निपेतुरित्यन्वयः । उत्तरार्धमुत्तरान्वयि ५९",
+    "॥",
+    "॥",
+    "।"
+   ],
+   "expected": 9,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 25259,
+  "out": 28726
+ },
+ "ts": "2026-10-16T00:18:21"
+}

@@ -1,0 +1,620 @@
+{
+ "vol": 2,
+ "scan": 22,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 42,
+ "lines": [
+  "",
+  "",
+  "११२ दुर्गासप्तशती ।  \" तृतीयोऽध्याय",
+  "अताडयत् । तड आघाते चुरादिः । सा कालरात्रिरम्बिका रणोत्सवे असिनैव असिलोमनामानं महासुरम् आच्छिनत",
+  "तसीत् । ‘क्ष्वेडा तु सिंहनादः स्यात्’ कालं चेत्यादिश्लोकद्वयं केचित्पठन्ति केचित्तु न \" १९ ॥",
+  "( ४ नागोजीभट्टी ) बिडालस्येति । यमध्वयं यमगृहम् ॥ १९ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) बिडालस्येति २० ॥ १९ ॥",
+  "( ६ दंशोद्धारः ) बिडालस्येति । बिडालाख्यस्य । यमक्षयं यमगृहम् ॥ १९ ॥",
+  "एवं संक्षीयमाणे तु स्वसैन्ये महिषासुरः । माहिषेण स्वरूपेण त्रासयामास तान्गणान् ॥ ⟨?⟩",
+  "( १ गुप्तवती ) ॥ २० ॥",
+  "( २ चतुर्धरी ) ॥ २० ॥",
+  "( ३ शान्तनवी ) एवं प्रागुक्तभङ्ग्या स्वसैन्ये आत्मीयसैन्ये स्वयं संक्षीयमाणे सति महिषासुरस्तु तदसहमा",
+  "माहिषेण महिषसंबन्धिना महिषाकारेण स्वरूपेण तान् देवीसंबन्धिनो गणान् त्रासयामास उद्वेजयामास । संक्षीयगण",
+  "क्षि क्षये भ्वादिरकर्मकः परस्मैपदी । इह तु प्रयोगतोऽन्तर्भा वितण्यर्थविवक्षायाम् 'नाभुक्तं क्षीयते कर्म' 'क्षीयन्ते",
+  "कर्माणि' इतिवत् सकर्मकत्वे सति कर्मकर्तरि लटः शानचि 'कर्मवत्कर्मणा तुल्यक्रियः' इति यक्⟨?⟩ात्मनेपदे अ",
+  "धातुकर्योदीर्घे रूपम् ॥ २० ॥",
+  "( ४ नागोजीभट्टी ) एवमिति । गणान् निःश्वाससंभवान् ॥ २० ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) एवं संक्षीयेति २१ ॥ २० ॥",
+  "( ६ देशोद्धारः ) एवमिति । तान् निःश्वासभवान् ॥ २० ॥",
+  "कांश्चित्तुण्डप्रहारेण खुरक्षेपैस्तथापरान् । ला ङ्गूलताडितांश्चान्यान् शृङ्गाभ्यां च विदारितान्",
+  "( १ गुप्तवती ) ॥ २१ ॥",
+  "( २ चतुर्धरी ) खुरक्षेपैः पादाघातैः । कवर्गद्वितीयोय खुरशब्दः । 'अश्वादिस्तु कवर्गयोः' इत्यभिधानात् ॥ २",
+  "( ३ शान्तनवी ) स महिषासुरः तुण्डप्रहारेण तुण्डेन वक्त्रेण जनिताघातेन कांश्चित्कानपि गणान् देव्यारोषज",
+  "पुरुषान् रणशूरान् भूतले पातयामास । तथा खुरक्षेपैः अपरान् गणान् भूमौ भूतले पातयामास । 'शफं क्लीबे खुरः पुम्",
+  "स तथा अन्यान् लाङ्गूलताडितान् गणान् भूमौ पातयामास । ‘पुच्छोऽस्त्री लूमलाङ्गूलं’ । स तथान्यांश्च ⟨?⟩भ्यां विदा",
+  "विषाणाभ्यां भेदितान् गणान् भूमौ पातयामास । 'दारिते भिन्नभेदितौ’ ॥ २१ ॥",
+  "( ४ नागोजीभट्टी ) कांश्चिदिति । खुरः कवर्गादिः ॥ २१ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) कांश्चित्तुण्डेति २२ ॥ २१ ॥",
+  "( ६ दंशोद्धारः ) ॥ २१ ॥",
+  "वेगेन कांश्चिदपरान्नादेन भ्रमणेन च । निःश्वासपवनेनान्यान्पातयामास भूतले ॥ २२ ॥",
+  "( १ गुप्तवती ) ॥ २२ ॥",
+  "( २ चतुर्धरी ) वेगेन गतितारतम्येन । भ्रमणेन मण्डलाकारगत्या ॥ २२ ॥",
+  "( ३ शान्तनवी ) तथा महिषः नादेन ध्वनिना कण्ठगर्जितेन अपरान् व्याकुलचित्तान् भूमौ पातयामास । सः तथ",
+  "भ्यान्गणान् निःश्वासपवनेन निःश्वास एव पवनो वायुस्तेन पातयामास । सः महिषः तथा अपरान् गणान् भ्रमणेन प",
+  "ऽग्रतः पार्श्वतश्च भूतले पातयामास । स तथा वेगेन जवेन कांश्चिदपरान्भूमौ पातयामास ॥ २२ ॥",
+  "( ४ नागोजीभट्टी ) वेगेन कांश्चिदिति । वेगयुक्तभ्रमणेन । वेगो गतेः भ्रमणं मण्डलाकारगतिः ॥ २२ ॥",
+  "( ५ जगच्चन्द्रचन्द्रिका ) केनेति २३ ॥ २२ ॥",
+  "( ६ दंशोद्धारः ) ॥ २२ ॥",
+  "निपात्य प्रमथानीकमभ्यधावत सोऽसुरः । सिंहं हन्तुं महादेव्याः कोपं चक्रे ततोऽम्बिका ॥२",
+  "( १ गुप्तवती ) ॥ २३ ॥",
+  "( २ चतुर्धरी ) प्रमथा गणाः तेषामनीकं सैन्यम् ॥ २३ ॥",
+  "१ ‘क्षुरक्षेपैः’ इत्यपि पाठः ।"
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 23.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 29.5,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 45.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.538,
+   "tesseract_char_agree": 0.936,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.885,
+   "tesseract_mean_conf": 65.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.786,
+   "tesseract_mean_conf": 67.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.921,
+   "tesseract_mean_conf": 58.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 70.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.905,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.733,
+   "tesseract_mean_conf": 40.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.75,
+   "tesseract_mean_conf": 75.9,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.286,
+   "tesseract_char_agree": 0.886,
+   "tesseract_mean_conf": 71.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.182,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 55.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 56.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.182,
+   "tesseract_char_agree": 0.831,
+   "tesseract_mean_conf": 55.7,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.9,
+   "tesseract_mean_conf": 86.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 67.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.949,
+   "tesseract_mean_conf": 70.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.909,
+   "tesseract_mean_conf": 67.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.375,
+   "tesseract_char_agree": 0.819,
+   "tesseract_mean_conf": 50.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 58.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 43.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.947,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.438,
+   "tesseract_char_agree": 0.821,
+   "tesseract_mean_conf": 65.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.854,
+   "tesseract_mean_conf": 61.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.902,
+   "tesseract_mean_conf": 74.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.844,
+   "tesseract_mean_conf": 61.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.167,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 47.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.4,
+   "tesseract_char_agree": 0.889,
+   "tesseract_mean_conf": 77.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.556,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 59.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.8,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.942,
+   "tesseract_mean_conf": 74.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.925,
+   "tesseract_mean_conf": 70.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.533,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 75.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.867,
+   "tesseract_char_agree": 0.973,
+   "tesseract_mean_conf": 78.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.933,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.917,
+   "tesseract_mean_conf": 50.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.824,
+   "tesseract_mean_conf": 50.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.965,
+   "tesseract_mean_conf": 63.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.867,
+   "tesseract_mean_conf": 81.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.861,
+   "tesseract_mean_conf": 63.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.833,
+   "tesseract_mean_conf": 65.6,
+   "needs_review": false
+  }
+ ],
+ "issues": [
+  "band 0 col 1: got 9 lines, expected 12; realigned, 3 line(s) unmatched",
+  "band 0 col 0: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "११२ दुर्गासप्तशती",
+    "अताडयत् । तड आघाते चुरादिः । सा कालरात्रिरम्बिका",
+    "तसीत् । ‘क्ष्वेडा तु सिंहनादः स्यात्’ कालं चेत्यादिश्लोकद्वयं",
+    "( ४ नागोजीभट्टी ) बिडालस्येति । यमध्वयं",
+    "( ५ जगच्चन्द्रचन्द्रिका ) बिडालस्येति २०",
+    "( ६ दंशोद्धारः ) बिडालस्येति । बिडालाख्यस्य",
+    "एवं संक्षीयमाणे तु स्वसैन्ये महिषासुरः ।",
+    "( १ गुप्तवती ) ॥ २०",
+    "( २ चतुर्धरी ) ॥ २० ॥",
+    "( ३ शान्तनवी ) एवं प्रागुक्तभङ्ग्या स्वसैन्ये"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "।  \" तृतीयोऽध्याय",
+    "रणोत्सवे असिनैव असिलोमनामानं महासुरम् आच्छिनत",
+    "केचित्पठन्ति केचित्तु न \" १९ ॥",
+    "यमगृहम् ॥ १९ ॥",
+    "॥ १९ ॥",
+    "। यमक्षयं यमगृहम् ॥ १९ ॥",
+    "माहिषेण स्वरूपेण त्रासयामास तान्गणान् ॥ ⟨?⟩",
+    "॥",
+    "आत्मीयसैन्ये स्वयं संक्षीयमाणे सति महिषासुरस्तु तदसहमा"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "माहिषेण महिषसंबन्धिना महिषाकारेण स्वरूपेण तान्",
+    "क्षि क्षये भ्वादिरकर्मकः परस्मैपदी । इह तु प्रयोगतोऽन्तर्भा",
+    "कर्माणि' इतिवत् सकर्मकत्वे सति कर्मकर्तरि लटः",
+    "धातुकर्योदीर्घे रूपम् ॥ २०",
+    "( ४ नागोजीभट्टी ) एवमिति । गणान्",
+    "( ५ जगच्चन्द्रचन्द्रिका ) एवं संक्षीयेति २१",
+    "( ६ देशोद्धारः ) एवमिति । तान् निःश्वासभवान्",
+    "कांश्चित्तुण्डप्रहारेण खुरक्षेपैस्तथापरान् । ला",
+    "( १ गुप्तवती ) ॥",
+    "( २ चतुर्धरी ) खुरक्षेपैः पादाघातैः । कवर्गद्वितीयोय",
+    "( ३ शान्तनवी ) स महिषासुरः तुण्डप्रहारेण",
+    "पुरुषान् रणशूरान् भूतले पातयामास । तथा खुरक्षेपैः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "देवीसंबन्धिनो गणान् त्रासयामास उद्वेजयामास । संक्षीयगण",
+    "वितण्यर्थविवक्षायाम् 'नाभुक्तं क्षीयते कर्म' 'क्षीयन्ते",
+    "शानचि 'कर्मवत्कर्मणा तुल्यक्रियः' इति यक्⟨?⟩ात्मनेपदे अ",
+    "॥",
+    "निःश्वाससंभवान् ॥ २० ॥",
+    "॥ २० ॥",
+    "॥ २० ॥",
+    "ङ्गूलताडितांश्चान्यान् शृङ्गाभ्यां च विदारितान्",
+    "२१ ॥",
+    "खुरशब्दः । 'अश्वादिस्तु कवर्गयोः' इत्यभिधानात् ॥ २",
+    "तुण्डेन वक्त्रेण जनिताघातेन कांश्चित्कानपि गणान् देव्यारोषज",
+    "अपरान् गणान् भूमौ भूतले पातयामास । 'शफं क्लीबे खुरः पुम्"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "स तथा अन्यान् लाङ्गूलताडितान् गणान् भूमौ पातयामास",
+    "विषाणाभ्यां भेदितान् गणान् भूमौ पातयामास । 'दारिते",
+    "( ४ नागोजीभट्टी ) कांश्चिदिति । खुरः कवर्गादिः",
+    "( ५ जगच्चन्द्रचन्द्रिका ) कांश्चित्तुण्डेति २२ ॥",
+    "( ६ दंशोद्धारः ) ॥ २१",
+    "वेगेन कांश्चिदपरान्नादेन भ्रमणेन च ।",
+    "( १ गुप्तवती )",
+    "( २ चतुर्धरी ) वेगेन गतितारतम्येन । भ्रमणेन",
+    "( ३ शान्तनवी ) तथा महिषः नादेन ध्वनिना",
+    "भ्यान्गणान् निःश्वासपवनेन निःश्वास एव पवनो वायुस्तेन",
+    "ऽग्रतः पार्श्वतश्च भूतले पातयामास । स तथा वेगेन जवेन",
+    "( ४ नागोजीभट्टी ) वेगेन कांश्चिदिति ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "। ‘पुच्छोऽस्त्री लूमलाङ्गूलं’ । स तथान्यांश्च ⟨?⟩भ्यां विदा",
+    "भिन्नभेदितौ’ ॥ २१ ॥",
+    "॥ २१ ॥",
+    "२१ ॥",
+    "॥",
+    "निःश्वासपवनेनान्यान्पातयामास भूतले ॥ २२ ॥",
+    "॥ २२ ॥",
+    "मण्डलाकारगत्या ॥ २२ ॥",
+    "कण्ठगर्जितेन अपरान् व्याकुलचित्तान् भूमौ पातयामास । सः तथ",
+    "पातयामास । सः महिषः तथा अपरान् गणान् भ्रमणेन प",
+    "कांश्चिदपरान्भूमौ पातयामास ॥ २२ ॥",
+    "वेगयुक्तभ्रमणेन । वेगो गतेः भ्रमणं मण्डलाकारगतिः ॥ २२ ॥"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+   ],
+   "lines": [
+    "( ५ जगच्चन्द्रचन्द्रिका ) केनेति २३",
+    "( ६ दंशोद्धारः ) ॥",
+    "निपात्य प्रमथानीकमभ्यधावत सोऽसुरः । सिंहं",
+    "( १ गुप्तवती ) ॥ २३",
+    "( २ चतुर्धरी ) प्रमथा गणाः तेषामनीकं सैन्यम्",
+    "१ ‘क्षुरक्षेपैः’ इत्यपि पाठः"
+   ],
+   "expected": 6,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+   ],
+   "lines": [
+    "॥ २२ ॥",
+    "२२ ॥",
+    "हन्तुं महादेव्याः कोपं चक्रे ततोऽम्बिका ॥२",
+    "॥",
+    "॥ २३ ॥",
+    "।"
+   ],
+   "expected": 6,
+   "line_count_ok": true,
+   "retried": false
+  }
+ ],
+ "usage": {
+  "in": 25369,
+  "out": 13561
+ },
+ "ts": "2026-10-16T00:23:27"
+}

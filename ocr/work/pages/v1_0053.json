@@ -1,0 +1,694 @@
+{
+ "vol": 1,
+ "scan": 53,
+ "model": "anthropic.claude-opus-5",
+ "cols": 2,
+ "n_lines": 48,
+ "lines": [
+  "ः ९ ] गुप्तवत्यादिषट्टीकासंवलिता । ४३",
+  "वेन यथा मन्वन्तराधिपः । स बभूव महाभागः सावर्णिस्तनयो रवेः ॥ २ ॥",
+  "वती ) ॥ २ ॥",
+  "धरी ) महामायेति । विसदृशप्रतीतिसाधनं माया । तस्याश्च महत्त्वं सर्वविषयत्वमिति महामायेश्वरशक्तिः ।",
+  "मोहयति । तस्या अनुभविनेदमस्य भूयादित्यनुकूलेच्छया यथा येन प्रकारेण मन्वन्तरं किंचिदधिकैकसप्तति-",
+  "लः । तस्याधिपो राजा बभूवेति भाविनि भूतवदुपचारः । तथा तं प्रकारं निशामयेत्यनुषङ्गः । यत्तदो(साह-",
+  "यसंबन्धात् । महानसाधारणो भागो भगसमुदायो यस्य स च । 'ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः",
+  "ग्ययोश्चैव षण्णां भग इतीरणा'इति विष्णुपुराणोक्तेः । रवेस्तनयः सावर्णिरिति संभ्रमेण पुनरुक्तिः ॥ २ ॥",
+  "तनयी ) स प्रसिद्धः सावर्णिः रवेस्तनयः महाभागः महामायानुभावेन यथा मन्वन्तराधिपो बभूव तथा",
+  "मीत्यन्वयः । मात्यस्यां विश्वं माया । माकाभ्यामयच् । अथवा मान पूजायां चुरादिः । मानयितुमर्हा माया ।",
+  "पः । अथवा मा लक्ष्मीः माइति अयः शुभावहो विधिर्यस्याः सा माया महती चासौ माया च महामाया",
+  "ः अनुभावः प्रभावः तेन । अथवा महती चाया माया यस्याः सा महामाया तस्यामनुभावः मतिनिश्चयः",
+  "ः महामायानुभावः तेन । अथवा अः विष्णुः तस्य माया अमाया महती चासावमाया च महामाया तस्याः",
+  "यानुभावः तेन । 'अनुभावः प्रभावे च सतां च मतिनिश्चये' । अथवा अय गतौ अययति अर्पयतीति णि-",
+  "स्त्रियां टापि अया आसमन्तादभिव्याप्ता मा लक्ष्मीः आमा आमाया अयाः आमाया । महैरुत्सवैरभिव्याप्तां",
+  "सकाय अययति अर्पयति वा शक्तिर्भवति सा महामाया तस्या अनु पश्चात् अबाध्याध्यवसायादनन्तरं भाव",
+  "धनं अनुभावः 'तं भावं भावयेद्योगी' इति स्मरणात् । ‘भावः सत्ता स्वभावाभिप्रायचेष्टात्मजन्मसु’ ॥",
+  "दृश्ययोरनु' । मन्वन्तराधिपः । इह प्रकरणतः सप्तममनुजी वितकालात्परभूतो नवममनूदयात्पूर्वो यः कालः स",
+  "विवक्षितः ततश्चान्तरशब्दो मध्ये वर्तते । मन्वोः सप्तमनवमयोरन्तरे मध्यकाले ब्रह्मणाधिकृतः रक्षकः प्र-",
+  "पो मन्वन्तराधिपः । 'अन्तरमवकाशावधिपरिधानान्तर्धिभेदतादर्थ्ये । छिद्रात्मीयविनाबहिरवसरमध्येन्तरा-",
+  "हाभागः । भज सेवायां भावे घञ् ध्वजः कुधिण्यतोः' महान्भागो भक्तिर्यस्य स महाभागः । अथवा भास्",
+  "त् । भासते भाः । भासं धर्मं वा गच्छति प्राप्नोतीति भागः ‘गमेर्डोऽन्यत्रापि दृश्यते’ इति कर्तरि डः ।",
+  "⟨?⟩ति महाभागः । अथवा भासं परदेवतां गायतीति भागो मन्त्रः । ‘आतोऽनुपसर्गे कः’ । महान्भागो मन्त्रो",
+  "गः । अथवा भगस्यैश्वर्यादेरिदं भागं भवितव्यतालक्षणं हेतु वस्तु । महत् भाग्यं यस्य स महाभागः ।",
+  "स्य धर्मस्य यशसः श्रियः । वैराग्यस्याथ मोक्षस्य षण्णां भग इतीरणा’ ‘भग श्रीकाममाहात्म्यंवीर्यंयत्नार्कं-",
+  "ति कुलं तनयः । रूयते स्तूयते रविः तस्य ॥ २ ॥",
+  "ति कुलं तनयः । रूयते स्तूयते रविः तस्य ॥ २ ॥ तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+  "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया । तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+  "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया । तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+  "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया । तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+  "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया । कालः । तथेत्यनेन तथा तं प्रकारं निशा-",
+  "भावः इद⟨?⟩त्थं भवत्वितीच्छा । मन्वन्तरं किंचिदधिकैकसप्ततियुगात्मकः ⟨?⟩तियगात्मकः कालः । तथेत्यनेन तथा तं प्रकारं निशा-",
+  "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधन माया ।",
+  "शितः । भागं भगसमूहः । 'ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः श्रियः । ज्ञानवैराग्ययोश्चैव षण्णां भग इतीर-",
+  "राणात् । बभूवेति भूतवदुपचारः । तद्भवनस्यावश्यकत्वद्योतनाय सावर्णिस्तनयो रवेरिति संभ्रमे पुनरुक्तिः ॥२॥",
+  "च्चन्द्रचन्द्रिका) महामायेति ३ ॥ २ ॥",
+  "ोद्धारः) महामायेति । बभूवेतिभूतनिर्देशस्तूपचारात् । यद्वा कल्पान्तराभिप्रायेणैतत् । एवमग्रेप्यूह्यम् ॥ २ ॥",
+  "न्तरे पूर्वं चैत्रवंशासमुद्भवः । सुरथो नाम राजाऽभूत्समस्ते क्षितिमण्डले ॥ ३ ॥",
+  "ुप्तवती ) ॥ ३ ॥",
+  "तुर्धरी) अत्रेतिहासमवतारयति । स्वारोचिषेन्तर इति । स्वरोचिषोऽपत्यं स्वारोचिष इति स्वारोचिषो नाम",
+  "तुर्धरी) अत्रेतिहासमवतारयति । स्वारोचिषेन्तर इति । द्वितीयमन्वन्तरे इतियावत् । 'मन्वन्तरं मनोः कालः'",
+  "तदधिकारोपलक्षिते स्वारोचिषे अन्तरे समये । द्वितीयमन्वन्तरे इतियावत् । 'मन्वन्तरं मनोः कालः'",
+  "तदधिकारोपलक्षिते स्वारोचिषे अन्तरे समये । द्वित",
+  "गदर्शनात् । पूर्वं कथाकालापेक्षया चैत्रो नाम स्वारोचिषस्य मनोः सूनुः तस्य वंशो संततौ समुद्भवो जन्म यस्य ।",
+  "। सुरथसंज्ञया प्रसिद्ध इत्यर्थः ॥ ३ ॥",
+  "न्तनवी) अष्टमो मनुः कथ्यत इति प्राग्यः प्रस्तुतस्तस्य सावर्णेः प्राग्जनननिदानतामहिमचारित्राणि वर्णयति",
+  "ं श्लोकेन । पूर्वं प्रथमं स्वायम्भुवमन्वन्तरमपेक्ष्य द्वितीयमन्वन्तरलक्षणे स्वारोचिषेऽन्तरे स्वारोचिषमन्वन्तर",
+  ""
+ ],
+ "flags": [
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.733,
+   "tesseract_mean_conf": 53.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 67.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 69.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 60.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 67.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.937,
+   "tesseract_mean_conf": 72.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.896,
+   "tesseract_mean_conf": 59.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.692,
+   "tesseract_char_agree": 0.923,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.75,
+   "tesseract_char_agree": 0.972,
+   "tesseract_mean_conf": 79.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.714,
+   "tesseract_char_agree": 0.988,
+   "tesseract_mean_conf": 83.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.812,
+   "tesseract_char_agree": 0.956,
+   "tesseract_mean_conf": 77.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.769,
+   "tesseract_char_agree": 0.985,
+   "tesseract_mean_conf": 64.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.867,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 80.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.625,
+   "tesseract_char_agree": 0.891,
+   "tesseract_mean_conf": 67.1,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.919,
+   "tesseract_mean_conf": 63.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.957,
+   "tesseract_mean_conf": 61.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.545,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.667,
+   "tesseract_char_agree": 0.948,
+   "tesseract_mean_conf": 61.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.273,
+   "tesseract_char_agree": 0.932,
+   "tesseract_mean_conf": 63.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.874,
+   "tesseract_mean_conf": 30.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.845,
+   "tesseract_mean_conf": 57.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.864,
+   "tesseract_mean_conf": 64.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 1,
+   "tesseract_word_agree": 0.8,
+   "tesseract_char_agree": 0.973,
+   "tesseract_mean_conf": 72.3,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.643,
+   "tesseract_char_agree": 0.89,
+   "tesseract_mean_conf": 62.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.636,
+   "tesseract_char_agree": 0.915,
+   "tesseract_mean_conf": 59.2,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.875,
+   "tesseract_mean_conf": 78.5,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 20.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 56.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 61.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 42.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 0.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 2,
+   "tesseract_word_agree": 0.615,
+   "tesseract_char_agree": 0.929,
+   "tesseract_mean_conf": 67.5,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 31.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.231,
+   "tesseract_char_agree": 0.873,
+   "tesseract_mean_conf": 54.3,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.881,
+   "tesseract_mean_conf": 53.0,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 54.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.583,
+   "tesseract_char_agree": 0.878,
+   "tesseract_mean_conf": 61.4,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.6,
+   "tesseract_char_agree": 0.895,
+   "tesseract_mean_conf": 65.9,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.714,
+   "tesseract_mean_conf": 43.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.7,
+   "tesseract_char_agree": 0.904,
+   "tesseract_mean_conf": 78.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.5,
+   "tesseract_mean_conf": 59.0,
+   "needs_review": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 0.958,
+   "tesseract_mean_conf": 67.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 29.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.467,
+   "tesseract_char_agree": 0.882,
+   "tesseract_mean_conf": 64.8,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.5,
+   "tesseract_char_agree": 1.0,
+   "tesseract_mean_conf": 63.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.333,
+   "tesseract_char_agree": 0.945,
+   "tesseract_mean_conf": 51.6,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.143,
+   "tesseract_char_agree": 0.952,
+   "tesseract_mean_conf": 58.7,
+   "needs_review": false
+  },
+  {
+   "uncertain_marks": 0,
+   "tesseract_word_agree": 0.0,
+   "tesseract_char_agree": 0.0,
+   "tesseract_mean_conf": 15.0,
+   "needs_review": true,
+   "stitch_suspect": true
+  }
+ ],
+ "issues": [
+  "band 2 col 1: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 0: got 11 lines, expected 12; realigned, 1 line(s) unmatched",
+  "band 3 col 1: got 10 lines, expected 12; realigned, 2 line(s) unmatched"
+ ],
+ "tiles": [
+  {
+   "name": "b0_c0.jpg",
+   "band": 0,
+   "col": 0,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "ः ९ ] गुप्तवत्यादिषट्टीकासंवलिता",
+    "वेन यथा मन्वन्तराधिपः । स बभूव",
+    "वती )",
+    "धरी ) महामायेति । विसदृशप्रतीतिसाधनं माया ।",
+    "मोहयति । तस्या अनुभविनेदमस्य भूयादित्यनुकूलेच्छया",
+    "लः । तस्याधिपो राजा बभूवेति भाविनि भूतवदुपचारः",
+    "यसंबन्धात् । महानसाधारणो भागो भगसमुदायो",
+    "ग्ययोश्चैव षण्णां भग इतीरणा'इति विष्णुपुराणोक्तेः ।",
+    "तनयी ) स प्रसिद्धः सावर्णिः रवेस्तनयः महाभागः",
+    "मीत्यन्वयः । मात्यस्यां विश्वं माया । माकाभ्यामयच् ।",
+    "पः । अथवा मा लक्ष्मीः माइति अयः शुभावहो",
+    "ः अनुभावः प्रभावः तेन । अथवा महती चाया माया"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b0_c1.jpg",
+   "band": 0,
+   "col": 1,
+   "line_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "lines": [
+    "। ४३",
+    "महाभागः सावर्णिस्तनयो रवेः ॥ २ ॥",
+    "॥ २ ॥",
+    "तस्याश्च महत्त्वं सर्वविषयत्वमिति महामायेश्वरशक्तिः ।",
+    "यथा येन प्रकारेण मन्वन्तरं किंचिदधिकैकसप्तति-",
+    "। तथा तं प्रकारं निशामयेत्यनुषङ्गः । यत्तदो(साह-",
+    "यस्य स च । 'ऐश्वर्यस्य समग्रस्य धर्मस्य यशसः",
+    "रवेस्तनयः सावर्णिरिति संभ्रमेण पुनरुक्तिः ॥ २ ॥",
+    "महामायानुभावेन यथा मन्वन्तराधिपो बभूव तथा",
+    "अथवा मान पूजायां चुरादिः । मानयितुमर्हा माया ।",
+    "विधिर्यस्याः सा माया महती चासौ माया च महामाया",
+    "यस्याः सा महामाया तस्यामनुभावः मतिनिश्चयः"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c0.jpg",
+   "band": 1,
+   "col": 0,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "ः महामायानुभावः तेन । अथवा अः विष्णुः तस्य माया",
+    "यानुभावः तेन । 'अनुभावः प्रभावे च सतां च मतिनिश्चये'",
+    "स्त्रियां टापि अया आसमन्तादभिव्याप्ता मा लक्ष्मीः",
+    "सकाय अययति अर्पयति वा शक्तिर्भवति सा महामाया",
+    "धनं अनुभावः 'तं भावं भावयेद्योगी' इति स्मरणात्",
+    "दृश्ययोरनु' । मन्वन्तराधिपः । इह प्रकरणतः सप्तममनुजी",
+    "विवक्षितः ततश्चान्तरशब्दो मध्ये वर्तते । मन्वोः",
+    "पो मन्वन्तराधिपः । 'अन्तरमवकाशावधिपरिधानान्तर्धिभेदतादर्थ्ये",
+    "हाभागः । भज सेवायां भावे घञ् ध्वजः कुधिण्यतोः'",
+    "त् । भासते भाः । भासं धर्मं वा गच्छति प्राप्नोतीति",
+    "⟨?⟩ति महाभागः । अथवा भासं परदेवतां गायतीति भागो",
+    "गः । अथवा भगस्यैश्वर्यादेरिदं भागं भवितव्यतालक्षणं"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b1_c1.jpg",
+   "band": 1,
+   "col": 1,
+   "line_indices": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "lines": [
+    "अमाया महती चासावमाया च महामाया तस्याः",
+    "। अथवा अय गतौ अययति अर्पयतीति णि-",
+    "आमा आमाया अयाः आमाया । महैरुत्सवैरभिव्याप्तां",
+    "तस्या अनु पश्चात् अबाध्याध्यवसायादनन्तरं भाव",
+    "। ‘भावः सत्ता स्वभावाभिप्रायचेष्टात्मजन्मसु’ ॥",
+    "वितकालात्परभूतो नवममनूदयात्पूर्वो यः कालः स",
+    "सप्तमनवमयोरन्तरे मध्यकाले ब्रह्मणाधिकृतः रक्षकः प्र-",
+    "। छिद्रात्मीयविनाबहिरवसरमध्येन्तरा-",
+    "महान्भागो भक्तिर्यस्य स महाभागः । अथवा भास्",
+    "भागः ‘गमेर्डोऽन्यत्रापि दृश्यते’ इति कर्तरि डः ।",
+    "मन्त्रः । ‘आतोऽनुपसर्गे कः’ । महान्भागो मन्त्रो",
+    "हेतु वस्तु । महत् भाग्यं यस्य स महाभागः ।"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c0.jpg",
+   "band": 2,
+   "col": 0,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "स्य धर्मस्य यशसः श्रियः । वैराग्यस्याथ मोक्षस्य षण्णां",
+    "ति कुलं तनयः । रूयते स्तूयते रविः तस्य ॥ २",
+    "ति कुलं तनयः । रूयते स्तूयते रविः तस्य ॥ २ ॥",
+    "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया ।",
+    "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया ।",
+    "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया ।",
+    "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधनं माया ।",
+    "भावः इद⟨?⟩त्थं भवत्वितीच्छा । मन्वन्तरं किंचिदधिकैकसप्ततियुगात्मकः",
+    "गोजीभट्टी) महामायेति । विसदृशप्रतीतिसाधन माया ।",
+    "शितः । भागं भगसमूहः । 'ऐश्वर्यस्य समग्रस्य धर्मस्य",
+    "राणात् । बभूवेति भूतवदुपचारः । तद्भवनस्यावश्यकत्वद्योतनाय",
+    "च्चन्द्रचन्द्रिका) महामायेति ३ ॥ २"
+   ],
+   "expected": 12,
+   "line_count_ok": true,
+   "retried": false
+  },
+  {
+   "name": "b2_c1.jpg",
+   "band": 2,
+   "col": 1,
+   "line_indices": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "lines": [
+    "भग इतीरणा’ ‘भग श्रीकाममाहात्म्यंवीर्यंयत्नार्कं-",
+    "॥",
+    "तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+    "तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+    "तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+    "तस्या महत्त्वं च सर्वविषयत्वमिति महामाया ईश्वरशः",
+    "कालः । तथेत्यनेन तथा तं प्रकारं निशा-",
+    "⟨?⟩तियगात्मकः कालः । तथेत्यनेन तथा तं प्रकारं निशा-",
+    "यशसः श्रियः । ज्ञानवैराग्ययोश्चैव षण्णां भग इतीर-",
+    "सावर्णिस्तनयो रवेरिति संभ्रमे पुनरुक्तिः ॥२॥",
+    "॥"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c0.jpg",
+   "band": 3,
+   "col": 0,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "ोद्धारः) महामायेति । बभूवेतिभूतनिर्देशस्तूपचारात् ।",
+    "न्तरे पूर्वं चैत्रवंशासमुद्भवः । सुरथो नाम",
+    "ुप्तवती ) ॥",
+    "तुर्धरी) अत्रेतिहासमवतारयति । स्वारोचिषेन्तर इति",
+    "तुर्धरी) अत्रेतिहासमवतारयति । स्वारोचिषेन्तर इति ।",
+    "तदधिकारोपलक्षिते स्वारोचिषे अन्तरे समये ।",
+    "तदधिकारोपलक्षिते स्वारोचिषे अन्तरे समये । द्वित",
+    "गदर्शनात् । पूर्वं कथाकालापेक्षया चैत्रो नाम स्वारोचिषस्य",
+    "। सुरथसंज्ञया प्रसिद्ध इत्यर्थः ॥ ३",
+    "न्तनवी) अष्टमो मनुः कथ्यत इति प्राग्यः प्रस्तुतस्तस्य",
+    "ं श्लोकेन । पूर्वं प्रथमं स्वायम्भुवमन्वन्तरमपेक्ष्य"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  },
+  {
+   "name": "b3_c1.jpg",
+   "band": 3,
+   "col": 1,
+   "line_indices": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "lines": [
+    "यद्वा कल्पान्तराभिप्रायेणैतत् । एवमग्रेप्यूह्यम् ॥ २ ॥",
+    "राजाऽभूत्समस्ते क्षितिमण्डले ॥ ३ ॥",
+    "३ ॥",
+    "। स्वरोचिषोऽपत्यं स्वारोचिष इति स्वारोचिषो नाम",
+    "द्वितीयमन्वन्तरे इतियावत् । 'मन्वन्तरं मनोः कालः'",
+    "द्वितीयमन्वन्तरे इतियावत् । 'मन्वन्तरं मनोः कालः'",
+    "मनोः सूनुः तस्य वंशो संततौ समुद्भवो जन्म यस्य ।",
+    "॥",
+    "सावर्णेः प्राग्जनननिदानतामहिमचारित्राणि वर्णयति",
+    "द्वितीयमन्वन्तरलक्षणे स्वारोचिषेऽन्तरे स्वारोचिषमन्वन्तर"
+   ],
+   "expected": 12,
+   "line_count_ok": false,
+   "retried": true
+  }
+ ],
+ "usage": {
+  "in": 26744,
+  "out": 28674
+ },
+ "ts": "2026-10-15T23:01:02"
+}
