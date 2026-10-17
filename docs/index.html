@@ -4,11 +4,14 @@
 <head>
     <title>सप्तशतीटीकासंग्रहः — Durga Saptashati (Devi Mahatmya) with seven classical commentaries</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta -->
     <meta name="keywords" content="Durga Saptashati, Devi Mahatmya, Chandi Path, Saptashati Teeka, Guptavati, Bhaskararaya, Sanskrit commentary, Markandeya Purana, दुर्गासप्तशती, देवीमाहात्म्यम्, सप्तशतीटीका" />
     <meta name="author" content="Yash Khasbage">
     <meta name="robots" content="index, follow" />
     <meta name="description" content="The Durga Saptashati (Devi Mahatmya) with its seven classical Sanskrit commentaries — Durgapradipa, Guptavati, Chaturdhari, Shantanavi, Nagojibhatti, Jagachchandrachandrika and Damshoddhara — restored from the out-of-print Venkateshvara Press edition. Full Devanagari text, free to read.">
+    <meta name="theme-color" content="#1b0708">
+    <meta name="color-scheme" content="dark light">
 
     <!-- Canonical: the site is reachable on more than one hostname, so every
          page names the single address search engines should credit. -->
@@ -19,81 +22,145 @@
     <meta property="og:title" content="सप्तशतीटीकासंग्रहः — Durga Saptashati (Devi Mahatmya) with seven classical commentaries" />
     <meta property="og:description" content="The Durga Saptashati (Devi Mahatmya) with its seven classical Sanskrit commentaries — Durgapradipa, Guptavati, Chaturdhari, Shantanavi, Nagojibhatti, Jagachchandrachandrika and Damshoddhara — restored from the out-of-print Venkateshvara Press edition. Full Devanagari text, free to read." />
     <meta property="og:url" content="https://saptashatitika.com/index.html" />
+    <meta property="og:image" content="https://saptashatitika.com/images/stuyate-sa-na-kim-janaih.png" />
+    <meta property="og:locale" content="sa_IN" />
     <meta name="twitter:card" content="summary" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="images/favicon.png">
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="apple-touch-icon" href="images/favicon.png">
+
+    <!-- Two Devanagari faces, both drawn for Indic text: Tiro Devanagari
+         Sanskrit (cut specifically for Sanskrit, used for the mula verses)
+         and Noto Serif Devanagari for commentary prose. Replaces five
+         families pulled in through a blocking @import. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@300..700&family=Tiro+Devanagari+Sanskrit&display=swap">
     <link rel="stylesheet" href="css/main.css" type="text/css" />
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script rel="text/javascript" src="js/main.js" ></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Halant:wght@300;400;500;600;700&family=Laila:wght@300;400;500;600;700&family=Martel:wght@200;300;400;600;700;800;900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap');
-    </style>
+
+    <!-- Applied before first paint so a reader on the paper theme never sees
+         a flash of the dark one. -->
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('st-theme');
+          if (t) document.documentElement.setAttribute('data-theme', t);
+        } catch (e) {}
+      })();
+    </script>
 </head>
 <body>
 
-<!-- Navbar -->
-<div class="d-flex align-items-center justify-content-between p-3">
-  <button id="toggleNav" class="btn btn-dark">&#9776;</button>
-</div>
-<nav class="navbar martel-bold">
-  <div class="p-3">
-    <h2>
-      <a href="index.html" class="nav-link book-title">सप्तशती
-       सप्तटीका
-      </a>
-    </h2>
+<a class="skip-link" href="#main">मुख्यपाठं प्रति / skip to the text</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
+
+<header class="topbar">
+  <button id="toggleNav" class="iconbtn" type="button"
+          aria-controls="sidebar" aria-expanded="false"
+          aria-label="अनुक्रमणिका / table of contents">&#9776;</button>
+  <span class="topbar__here">सप्तशतीटीकासंग्रहः</span>
+  <button id="toggleTheme" class="iconbtn" type="button"
+          aria-label="वर्णविन्यासः / switch reading theme"
+          title="switch between the dark and paper reading themes">&#9790;</button>
+</header>
+
+<div class="scrim" id="scrim"></div>
+
+<nav class="navbar" id="sidebar" aria-label="अनुक्रमणिका">
+  <div class="navbar__head">
+    <a href="index.html" class="book-title">सप्तशतीटीकासंग्रहः</a>
+    <p class="book-sub">सप्तभिः टीकाभिः सह</p>
+  </div>
+  <div class="navbar__scroll">
     <ul class="section-link">
-      <div class="nav-item"><a class="nav-link active-section" href="index.html">मुखम्</a></div>
-      <div class="nav-item"><a class="nav-link" href="upodghata.html">उपोद्घातः</a></div>
-      <div class="nav-item"><a class="nav-link" href="kavacham.html">कवचम्</a></div>
-      <div class="nav-item"><a class="nav-link" href="argala.html">अर्गला</a></div>
-      <div class="nav-item"><a class="nav-link" href="keelakam.html">कीलकम्</a></div>
-      <div class="nav-item"><a class="nav-link" href="mantravibhaga.html">मन्त्रविभागः</a></div>
-      <div class="nav-item"><a class="nav-link" href="prayogavidhi.html">प्रयोगविधिः</a></div>
-      <div class="nav-item"><a class="nav-link" href="adhyaya_1.html">प्रथमोऽध्यायः</a></div>
-      <div class="nav-item"><a class="nav-link" href="adhyaya_2.html">द्वितीयोऽध्यायः</a></div>
-      <div class="nav-item"><a class="nav-link" href="adhyaya_3.html">तृतीयोऽध्यायः</a></div>
-      <div class="nav-item"><a class="nav-link" href="adhyaya_4.html">चतुर्थोऽध्यायः</a></div>
-      <div class="nav-item"><a class="nav-link" href="adhyaya_5.html">पञ्चमोऽध्यायः</a></div>
-      <div class="nav-item"><span class="nav-link pending">षष्ठोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">सप्तमोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">अष्टमोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">नवमोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">दशमोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">एकादशोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">द्वादशोऽध्यायः</span></div>
-      <div class="nav-item"><span class="nav-link pending">त्रयोदशोऽध्यायः</span></div>
-      <div class="nav-item"><a class="nav-link" href="rahasya_pradhanika.html">प्राधानिकं रहस्यम्</a></div>
-      <div class="nav-item"><span class="nav-link pending">वैकृतिकं रहस्यम्</span></div>
-      <div class="nav-item"><span class="nav-link pending">मूर्तिरहस्यम्</span></div>
+      <li class="nav-item"><a class="nav-link active-section" href="index.html" aria-current="page">मुखम्</a></li>
+      <li class="nav-group">उपक्रमः</li>
+      <li class="nav-item"><a class="nav-link" href="upodghata.html">उपोद्घातः</a></li>
+      <li class="nav-group">अङ्गानि</li>
+      <li class="nav-item"><a class="nav-link" href="kavacham.html">कवचम्</a></li>
+      <li class="nav-item"><a class="nav-link" href="argala.html">अर्गला</a></li>
+      <li class="nav-item"><a class="nav-link" href="keelakam.html">कीलकम्</a></li>
+      <li class="nav-group">विधिः</li>
+      <li class="nav-item"><a class="nav-link" href="mantravibhaga.html">मन्त्रविभागः</a></li>
+      <li class="nav-item"><a class="nav-link" href="prayogavidhi.html">प्रयोगविधिः</a></li>
+      <li class="nav-group">अध्यायाः</li>
+      <li class="nav-item"><a class="nav-link" href="adhyaya_1.html">प्रथमोऽध्यायः</a></li>
+      <li class="nav-item"><a class="nav-link" href="adhyaya_2.html">द्वितीयोऽध्यायः</a></li>
+      <li class="nav-item"><a class="nav-link" href="adhyaya_3.html">तृतीयोऽध्यायः</a></li>
+      <li class="nav-item"><a class="nav-link" href="adhyaya_4.html">चतुर्थोऽध्यायः</a></li>
+      <li class="nav-item"><a class="nav-link" href="adhyaya_5.html">पञ्चमोऽध्यायः</a></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">षष्ठोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">सप्तमोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">अष्टमोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">नवमोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">दशमोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">एकादशोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">द्वादशोऽध्यायः</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">त्रयोदशोऽध्यायः</span></li>
+      <li class="nav-group">रहस्यानि</li>
+      <li class="nav-item"><a class="nav-link" href="rahasya_pradhanika.html">प्राधानिकं रहस्यम्</a></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">वैकृतिकं रहस्यम्</span></li>
+      <li class="nav-item"><span class="nav-link pending" title="not transcribed yet">मूर्तिरहस्यम्</span></li>
     </ul>
   </div>
+  <div class="navbar__foot">वेङ्कटेश्वरमुद्रणालयः &middot; १९१६</div>
 </nav>
 
-<!-- Content -->
 
-<div class="content">
+<main class="content" id="main">
   
-<center>
-<div class="fancy-heading">
-    ॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥
-    <br>
-    Sharing an important book that went out of printing - Saptashati-SaptaTeeka.
-    <br>
+<div class="hero">
+  <p class="hero__invocation">॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥</p>
+  <h1 class="hero__title">सप्तशतीटीकासंग्रहः</h1>
+  <p class="hero__lede" lang="en">The <strong>Durga Saptashati</strong>
+    (Devi Mahatmya) with seven classical Sanskrit commentaries, restored from
+    the out-of-print Venkateshvara Press edition of 1916. Free to read, in
+    full Devanagari.</p>
+  <figure class="hero__figure">
+    <img src="images/stuyate-sa-na-kim-janaih.png" class="fancy-image-border"
+         alt="स्तूयते सा न किं जनैः" width="640" height="960">
+    <figcaption class="hero__caption">स्तूयते सा न किं जनैः</figcaption>
+  </figure>
+  <a class="startreading" href="upodghata.html">पठनम् आरभताम् &mdash; उपोद्घातः &#8594;</a>
 </div>
-<img src="images/stuyate-sa-na-kim-janaih.png" class="fancy-image-border">
-</center>
 
+<div class="panel">
+  <h2 class="dev">सप्त टीकाः</h2>
+  <ul class="teeka-roll">
+    <li><span>दुर्गाप्रदीपः</span><span class="rom">Durgapradipa</span></li>
+    <li><span>गुप्तवती</span><span class="rom">Guptavati</span></li>
+    <li><span>चतुर्धरी</span><span class="rom">Chaturdhari</span></li>
+    <li><span>शान्तनवी</span><span class="rom">Shantanavi</span></li>
+    <li><span>नागोजीभट्टी</span><span class="rom">Nagojibhatti</span></li>
+    <li><span>जगच्चन्द्रचन्द्रिका</span><span class="rom">Jagachchandrachandrika</span></li>
+    <li><span>दंशोद्धारः</span><span class="rom">Damshoddhara</span></li>
+  </ul>
 </div>
 
-<!-- Bootstrap JS and jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" 
-  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" 
-  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<div class="panel">
+  <h2>about this edition</h2>
+  <p lang="en">The Saptashati is read everywhere, but the commentarial
+    tradition on it has been effectively out of circulation: this collection
+    of seven tikas was last printed a century ago and is not available in
+    print today. The scans are being transcribed page by page and marked up
+    so that each verse sits with every commentary on it, rather than in
+    separate volumes.</p>
+  <p lang="en">Each verse is shown as <span lang="sa">मूलम्</span> followed by
+    the commentaries on it, each with its own colour in the margin so the
+    same voice can be followed down a chapter.</p>
+</div>
 
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <div class="panel">
+    <h2>state of the text</h2>
+    <p lang="en">12 of 22 sections are readable now. The rest are being transcribed from the scans and will appear here as they are finished; sections not yet available are listed in the sidebar but not linked.</p>
+    <p lang="en">Where the print itself is illegible the text shows <span class="lacuna">&#10216;&hellip;&#10217;</span> rather than quietly filling the gap. A reconstruction presented as the text is the one error a reader cannot catch.</p>
+  </div>
+
+</main>
+
+<button class="iconbtn totop" id="totop" type="button"
+        aria-label="उपरि / back to top">&#8593;</button>
+
+<script src="js/main.js"></script>
 </body>
 </html>

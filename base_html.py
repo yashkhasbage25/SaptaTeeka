@@ -33,11 +33,14 @@ base_html = """
 <head>
     <title>{title}</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta -->
     <meta name="keywords" content="{keywords}" />
     <meta name="author" content="Yash Khasbage">
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content="{robots}" />
     <meta name="description" content="{description}">
+    <meta name="theme-color" content="#1b0708">
+    <meta name="color-scheme" content="dark light">
 
     <!-- Canonical: the site is reachable on more than one hostname, so every
          page names the single address search engines should credit. -->
@@ -48,50 +51,72 @@ base_html = """
     <meta property="og:title" content="{title}" />
     <meta property="og:description" content="{description}" />
     <meta property="og:url" content="{canonical}" />
+    <meta property="og:image" content="{og_image}" />
+    <meta property="og:locale" content="sa_IN" />
     <meta name="twitter:card" content="summary" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="images/favicon.png">
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="apple-touch-icon" href="images/favicon.png">
+
+    <!-- Two Devanagari faces, both drawn for Indic text: Tiro Devanagari
+         Sanskrit (cut specifically for Sanskrit, used for the mula verses)
+         and Noto Serif Devanagari for commentary prose. Replaces five
+         families pulled in through a blocking @import. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@300..700&family=Tiro+Devanagari+Sanskrit&display=swap">
     <link rel="stylesheet" href="css/main.css" type="text/css" />
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script rel="text/javascript" src="js/main.js" ></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Halant:wght@300;400;500;600;700&family=Laila:wght@300;400;500;600;700&family=Martel:wght@200;300;400;600;700;800;900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Yatra+One&display=swap');
-    </style>
+
+    <!-- Applied before first paint so a reader on the paper theme never sees
+         a flash of the dark one. -->
+    <script>
+      (function () {{
+        try {{
+          var t = localStorage.getItem('st-theme');
+          if (t) document.documentElement.setAttribute('data-theme', t);
+        }} catch (e) {{}}
+      }})();
+    </script>
 </head>
 <body>
 
-<!-- Navbar -->
-<div class="d-flex align-items-center justify-content-between p-3">
-  <button id="toggleNav" class="btn btn-dark">&#9776;</button>
-</div>
-<nav class="navbar martel-bold">
-  <div class="p-3">
-    <h2>
-      <a href="index.html" class="nav-link book-title">सप्तशती
-       सप्तटीका
-      </a>
-    </h2>
+<a class="skip-link" href="#main">मुख्यपाठं प्रति / skip to the text</a>
+<div class="progress" id="progress" aria-hidden="true"></div>
+
+<header class="topbar">
+  <button id="toggleNav" class="iconbtn" type="button"
+          aria-controls="sidebar" aria-expanded="false"
+          aria-label="अनुक्रमणिका / table of contents">&#9776;</button>
+  <span class="topbar__here">{here}</span>
+  <button id="toggleTheme" class="iconbtn" type="button"
+          aria-label="वर्णविन्यासः / switch reading theme"
+          title="switch between the dark and paper reading themes">&#9790;</button>
+</header>
+
+<div class="scrim" id="scrim"></div>
+
+<nav class="navbar" id="sidebar" aria-label="अनुक्रमणिका">
+  <div class="navbar__head">
+    <a href="index.html" class="book-title">{site_name}</a>
+    <p class="book-sub">{book_sub}</p>
+  </div>
+  <div class="navbar__scroll">
     <ul class="section-link">
 {nav}
     </ul>
   </div>
+  <div class="navbar__foot">{nav_foot}</div>
 </nav>
 
-<!-- Content -->
 {proof_banner}
-<div class="content">
+<main class="content" id="main">
   {content}
-</div>
+</main>
 
-<!-- Bootstrap JS and jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" 
-  integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" 
-  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<button class="iconbtn totop" id="totop" type="button"
+        aria-label="उपरि / back to top">&#8593;</button>
 
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
 """
@@ -260,19 +285,48 @@ PROOF_BANNER = (
 )
 
 
+# Shown under the title in the sidebar and as the edition's provenance. The
+# site is a restoration of one specific printed book; saying which one is
+# part of being a usable edition rather than an anonymous text dump.
+EDITION_LINE = "वेङ्कटेश्वरमुद्रणालयः &middot; १९१६"
+BOOK_SUB = "सप्तभिः टीकाभिः सह"
+
+
 def head_fields(slug):
     title, desc = page_meta(slug)
     page = "index.html" if slug == "index" else f"{slug}.html"
+    label = dict(DOCUMENTS).get(slug, "")
     return {
         "title": ("[proof] " if PROOF_MODE else "") + title,
         "description": desc,
         "keywords": KEYWORDS,
         # The canonical always names the public address. The local copy is
-        # never served, and must never invite indexing of itself.
+        # never served, and must never invite indexing of itself -- hence
+        # noindex on the proof build as well as the canonical.
         "canonical": f"{SITE_URL}/{page}",
+        "robots": "noindex, nofollow" if PROOF_MODE else "index, follow",
+        "og_image": f"{SITE_URL}/images/stuyate-sa-na-kim-janaih.png",
         "site_name": SITE_NAME,
+        "book_sub": BOOK_SUB,
+        "nav_foot": EDITION_LINE,
+        # Names the section in the top bar, which on a phone is the only
+        # place the reader can see where they are once the drawer is shut.
+        "here": label if slug != "index" else SITE_NAME,
         "proof_banner": PROOF_BANNER if PROOF_MODE else "",
     }
+
+
+# The edition's own divisions, used to break a flat list of 23 links into
+# groups a reader can aim at. Headings only; the slugs stay in DOCUMENTS so
+# there is still one list to maintain.
+NAV_GROUPS = [
+    (None, ["index"]),
+    ("उपक्रमः", ["upodghata"]),
+    ("अङ्गानि", ["kavacham", "argala", "keelakam"]),
+    ("विधिः", ["mantravibhaga", "prayogavidhi"]),
+    ("अध्यायाः", [f"adhyaya_{n}" for n in range(1, 14)]),
+    ("रहस्यानि", ["rahasya_pradhanika", "rahasya_vaikritika", "rahasya_murti"]),
+]
 
 
 def build_nav(available=None, current=None):
@@ -281,43 +335,165 @@ def build_nav(available=None, current=None):
     as inert text rather than dead links, so the nav always reflects what
     actually exists on disk.
     """
+    labels = dict(DOCUMENTS)
     rows = []
-    for slug, label in DOCUMENTS:
-        cls = "nav-link"
-        if slug == current:
-            cls += " active-section"
-        if available is None or slug in available:
-            rows.append(
-                f'      <div class="nav-item">'
-                f'<a class="{cls}" href="{slug}.html">{label}</a></div>'
-            )
-        else:
-            rows.append(
-                f'      <div class="nav-item">'
-                f'<span class="nav-link pending">{label}</span></div>'
-            )
+    for heading, slugs in NAV_GROUPS:
+        if heading:
+            rows.append(f'      <li class="nav-group">{heading}</li>')
+        for slug in slugs:
+            label = labels.get(slug, slug)
+            if available is None or slug in available:
+                cls = "nav-link active-section" if slug == current else "nav-link"
+                aria = ' aria-current="page"' if slug == current else ""
+                rows.append(
+                    f'      <li class="nav-item">'
+                    f'<a class="{cls}" href="{slug}.html"{aria}>{label}</a></li>'
+                )
+            else:
+                rows.append(
+                    f'      <li class="nav-item">'
+                    f'<span class="nav-link pending" '
+                    f'title="not transcribed yet">{label}</span></li>'
+                )
     return "\n".join(rows)
 
-# SaptaTeeka
-index_content = """
-<center>
-<div class="fancy-heading">
-    ॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥
-    <br>
-    Sharing an important book that went out of printing - Saptashati-SaptaTeeka.
-    <br>
-</div>
-<img src="images/stuyate-sa-na-kim-janaih.png" class="fancy-image-border">
-</center>
-"""
 
-def make_index(nav=""):
-    return base_html.format(
-        content=index_content, nav=nav, **head_fields("index")
+def section_nav(slug, available):
+    """
+    Previous / next links at the foot of a section.
+
+    Only sections that actually built are offered, so this never produces a
+    link to a page that does not exist. Reading a 13-chapter text through the
+    sidebar alone means a round trip to the drawer after every chapter.
+    """
+    if not available:
+        return ""
+    labels = dict(DOCUMENTS)
+    order = [s for s, _ in DOCUMENTS if s in available]
+    if slug not in order:
+        return ""
+    i = order.index(slug)
+    prev_slug = order[i - 1] if i > 0 else None
+    next_slug = order[i + 1] if i < len(order) - 1 else None
+    if not prev_slug and not next_slug:
+        return ""
+
+    out = ['<nav class="section-nav" aria-label="क्रमः">']
+    if prev_slug:
+        out.append(
+            f'<a class="prev" href="{prev_slug}.html" rel="prev">'
+            f'<span class="dir">&#8592; पूर्वम्</span>{labels[prev_slug]}</a>'
+        )
+    if next_slug:
+        out.append(
+            f'<a class="next" href="{next_slug}.html" rel="next">'
+            f'<span class="dir">अग्रिमम् &#8594;</span>{labels[next_slug]}</a>'
+        )
+    out.append("</nav>")
+    return "".join(out)
+
+# The commentaries in the order the title page lists them, with the
+# transliterations a reader is likely to have searched for.
+TEEKA_ROLL = [
+    ("दुर्गाप्रदीपः", "Durgapradipa"),
+    ("गुप्तवती", "Guptavati"),
+    ("चतुर्धरी", "Chaturdhari"),
+    ("शान्तनवी", "Shantanavi"),
+    ("नागोजीभट्टी", "Nagojibhatti"),
+    ("जगच्चन्द्रचन्द्रिका", "Jagachchandrachandrika"),
+    ("दंशोद्धारः", "Damshoddhara"),
+]
+
+
+def build_index_content(available=None):
+    """
+    The landing page.
+
+    It used to be one English sentence and a picture, which left a reader no
+    way to tell what edition this is, which commentaries it carries, or how
+    much of it is readable yet. All three are answered here, and the counts
+    are computed rather than written down so they cannot drift.
+    """
+    roll = "\n".join(
+        f'    <li><span>{dev}</span><span class="rom">{rom}</span></li>'
+        for dev, rom in TEEKA_ROLL
     )
 
+    # First readable section after the landing page, for the call to action.
+    first = next(
+        (s for s, _ in DOCUMENTS
+         if s != "index" and (available is None or s in available)),
+        None,
+    )
+    cta = ""
+    if first:
+        label = dict(DOCUMENTS)[first]
+        cta = (
+            f'<a class="startreading" href="{first}.html">'
+            f'पठनम् आरभताम् &mdash; {label} &#8594;</a>'
+        )
 
-index_html = make_index(build_nav())
+    status = ""
+    if available is not None:
+        total = len([s for s, _ in DOCUMENTS if s != "index"])
+        done = len([s for s in available if s != "index"])
+        status = (
+            '  <div class="panel">\n'
+            '    <h2>state of the text</h2>\n'
+            f'    <p lang="en">{done} of {total} sections are readable now. '
+            "The rest are being transcribed from the scans and will appear "
+            "here as they are finished; sections not yet available are listed "
+            "in the sidebar but not linked.</p>\n"
+            '    <p lang="en">Where the print itself is illegible the text '
+            'shows <span class="lacuna">&#10216;&hellip;&#10217;</span> '
+            "rather than quietly filling the gap. A reconstruction presented "
+            "as the text is the one error a reader cannot catch.</p>\n"
+            "  </div>\n"
+        )
+
+    return f"""
+<div class="hero">
+  <p class="hero__invocation">॥ श्रीसिद्धिबुद्धिसहितश्रीमद्गणाधिपतये नमः ॥</p>
+  <h1 class="hero__title">{SITE_NAME}</h1>
+  <p class="hero__lede" lang="en">The <strong>Durga Saptashati</strong>
+    (Devi Mahatmya) with seven classical Sanskrit commentaries, restored from
+    the out-of-print Venkateshvara Press edition of 1916. Free to read, in
+    full Devanagari.</p>
+  <figure class="hero__figure">
+    <img src="images/stuyate-sa-na-kim-janaih.png" class="fancy-image-border"
+         alt="स्तूयते सा न किं जनैः" width="640" height="960">
+    <figcaption class="hero__caption">स्तूयते सा न किं जनैः</figcaption>
+  </figure>
+  {cta}
+</div>
+
+<div class="panel">
+  <h2 class="dev">सप्त टीकाः</h2>
+  <ul class="teeka-roll">
+{roll}
+  </ul>
+</div>
+
+<div class="panel">
+  <h2>about this edition</h2>
+  <p lang="en">The Saptashati is read everywhere, but the commentarial
+    tradition on it has been effectively out of circulation: this collection
+    of seven tikas was last printed a century ago and is not available in
+    print today. The scans are being transcribed page by page and marked up
+    so that each verse sits with every commentary on it, rather than in
+    separate volumes.</p>
+  <p lang="en">Each verse is shown as <span lang="sa">मूलम्</span> followed by
+    the commentaries on it, each with its own colour in the margin so the
+    same voice can be followed down a chapter.</p>
+</div>
+
+{status}"""
+
+
+def make_index(nav="", available=None):
+    return base_html.format(
+        content=build_index_content(available), nav=nav, **head_fields("index")
+    )
 
 def format_html(html_string):
     soup = BeautifulSoup(html_string, 'html.parser')
@@ -442,64 +618,164 @@ def review_badge(elem):
     )
 
 
-def chapter_to_html(chapter, nav="", current=None):
+_DEV_DIGITS = str.maketrans("0123456789", "०१२३४५६७८९")
+
+
+def dev_num(s):
+    """
+    ASCII digits to Devanagari.
+
+    The printed edition numbers its verses in Devanagari and the text itself
+    restates them that way (॥ १ ॥), so a Latin '1' in the margin next to it
+    reads as a different numbering system. Only the display form changes --
+    the anchor keeps the ASCII number, so existing #shloka-N links still
+    resolve.
+    """
+    return str(s).translate(_DEV_DIGITS)
+
+
+def _plural(n, singular, plural):
+    return f"{dev_num(n)} {singular if n == 1 else plural}"
+
+
+def section_subtitle(slug, n_verses, teekas):
+    """
+    The line under a section heading.
+
+    Everything in it is counted from the page that was just built, so it
+    cannot claim a chapter carries seven commentaries when the transcription
+    only has four.
+    """
+    bits = []
+    if slug and slug.startswith("adhyaya_"):
+        try:
+            subj = ADHYAYA_SUBJECT.get(int(slug.split("_")[1]))
+        except ValueError:
+            subj = None
+        if subj:
+            bits.append(subj)
+    if n_verses:
+        bits.append(_plural(n_verses, "श्लोकः", "श्लोकाः"))
+    if teekas:
+        bits.append(_plural(len(teekas), "टीका", "टीकाः"))
+    return " &middot; ".join(bits)
+
+
+def chapter_to_html(chapter, nav="", current=None, available=None):
     """
     Converts a chapter element to a full HTML page.
+
+    The mula verse and the commentaries on it are wrapped together in one
+    .verse-group, so the page reads as a sequence of verse units instead of
+    an undifferentiated column of blocks. That grouping is the whole point of
+    the edition: the commentaries are worth having next to their verse.
     """
-    innerhtml = '<div class="container noto-sans-regular">'
+    title = ""
+    body_html = []
+    n_verses = 0
+    teekas_seen = []
+    group_open = False
+
+    def close_group():
+        nonlocal group_open
+        if group_open:
+            body_html.append("</section>")
+            group_open = False
+
     for child in chapter:
         if child.tag == "head":
             title = child[0].text if len(child) else ""
-            innerhtml += f'<p class="section-title halant-regular">{title}</p>'
-        elif child.tag != "body":
             continue
-        else:
-            for subbody in child:
-                tag = subbody.tag
-                badge = review_badge(subbody)
+        if child.tag != "body":
+            continue
 
-                if tag == "uvacha":
-                    innerhtml += '<center class="uvacha noto-sans-italic">'
-                    innerhtml += f"<p>{render_inline(subbody)}{badge}</p>"
-                    innerhtml += "</center>"
+        for subbody in child:
+            tag = subbody.tag
+            badge = review_badge(subbody)
 
-                elif tag == "moolam":
-                    idx = _attr(subbody, "shloka-index")
-                    anchor = f' id="shloka-{idx}"' if idx else ""
-                    innerhtml += f"<div{anchor}>"
-                    innerhtml += (
-                        f'<p class="h5 teeka-name">{roman2dev["moolam"]}{badge}</p>'
+            if tag == "uvacha":
+                # A speaker change belongs to neither the verse above nor the
+                # one below, so it sits between groups.
+                close_group()
+                body_html.append(
+                    f'<div class="uvacha"><p>{render_inline(subbody)}{badge}</p></div>'
+                )
+
+            elif tag == "moolam":
+                close_group()
+                n_verses += 1
+                idx = _attr(subbody, "shloka-index")
+                anchor = f' id="shloka-{idx}"' if idx else ""
+                # The verse number is the printed edition's own; shown as a
+                # permalink because that is what a reader cites.
+                num = (
+                    f'<a class="verse-no" href="#shloka-{idx}" '
+                    f'aria-label="श्लोकः {idx}">॥&nbsp;{dev_num(idx)}&nbsp;॥</a>'
+                    if idx else ""
+                )
+                body_html.append(f'<section class="verse-group"{anchor}>')
+                group_open = True
+                body_html.append('<div class="verse-block">')
+                body_html.append(
+                    f'<p class="teeka-name">'
+                    f'<span class="label">{roman2dev["moolam"]}</span>'
+                    f"{badge}{num}</p>"
+                )
+                body_html.append(format_shloka(render_inline(subbody)))
+                body_html.append("</div>")
+
+            elif tag == "teeka":
+                name = subbody.get("name")
+                label = roman2dev.get(name)
+                if label is None:
+                    unknown_tags.add(f"teeka[name={name}]")
+                    label = name or "?"
+                body = render_inline(subbody)
+                if not body.strip():
+                    continue
+                if label not in teekas_seen:
+                    teekas_seen.append(label)
+                recovered = ""
+                if PROOF_MODE and _attr(subbody, "name-recovered") == "yes":
+                    recovered = (
+                        '<span class="review-badge" title="Commentary name '
+                        'was unreadable and inferred from its printed '
+                        'number &mdash; please verify">&#9873;</span>'
                     )
-                    innerhtml += format_shloka(render_inline(subbody))
-                    innerhtml += "</div>"
+                if not group_open:
+                    # A commentary with no verse ahead of it (prose sections,
+                    # or a chapter opening mid-gloss). Still gets a group so
+                    # the spacing rhythm holds.
+                    body_html.append('<section class="verse-group">')
+                    group_open = True
+                body_html.append(f'<div class="teeka teeka-{name}">')
+                body_html.append(
+                    f'<p class="teeka-name">'
+                    f'<span class="label">{label}</span>'
+                    f"{recovered}{badge}</p>"
+                )
+                body_html.append(body)
+                body_html.append("</div>")
 
-                elif tag == "teeka":
-                    name = subbody.get("name")
-                    label = roman2dev.get(name)
-                    if label is None:
-                        unknown_tags.add(f"teeka[name={name}]")
-                        label = name or "?"
-                    body = render_inline(subbody)
-                    if not body.strip():
-                        continue
-                    recovered = ""
-                    if PROOF_MODE and _attr(subbody, "name-recovered") == "yes":
-                        recovered = (
-                            '<span class="review-badge" title="Commentary name '
-                            'was unreadable and inferred from its printed '
-                            'number &mdash; please verify">&#9873;</span>'
-                        )
-                    innerhtml += f'<div class="teeka teeka-{name}">'
-                    innerhtml += (
-                        f'<p class="h5 teeka-name">{label}{recovered}{badge}</p>'
-                    )
-                    innerhtml += body
-                    innerhtml += "</div>"
+            else:
+                unknown_tags.add(tag)
 
-                else:
-                    unknown_tags.add(tag)
+    close_group()
 
-    innerhtml += "</div>"
+    subtitle = section_subtitle(current, n_verses, teekas_seen)
+    head = f'<h1 class="section-title">{title}</h1>'
+    if subtitle:
+        head += f'<p class="section-meta">{subtitle}</p>'
+    else:
+        head += '<p class="section-meta"></p>'
+
+    innerhtml = (
+        '<div class="container">'
+        + head
+        + "".join(body_html)
+        + section_nav(current, available)
+        + "</div>"
+    )
     html = base_html.format(
         content=innerhtml, nav=nav, **head_fields(current or "index")
     )

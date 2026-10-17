@@ -135,7 +135,11 @@ def build(only=None, proof=False):
 
     if only in (None, "index"):
         with open(osp.join(outdir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(base_html.make_index(base_html.build_nav(have, "index")))
+            f.write(
+                base_html.make_index(
+                    base_html.build_nav(have, "index"), available=have
+                )
+            )
         built.append("index")
 
     for slug, _label in base_html.DOCUMENTS:
@@ -146,7 +150,10 @@ def build(only=None, proof=False):
         src, kind = sources[slug]
         root = ET.parse(src).getroot()
         html = base_html.chapter_to_html(
-            root, nav=base_html.build_nav(have, slug), current=slug
+            root,
+            nav=base_html.build_nav(have, slug),
+            current=slug,
+            available=have,
         )
         dest = osp.join(outdir, f"{slug}.html")
         with open(dest, "w", encoding="utf-8") as f:
