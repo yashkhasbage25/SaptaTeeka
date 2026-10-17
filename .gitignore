@@ -1,3 +1,41 @@
 .venv
 .vscode
 __pycache__/
+.DS_Store
+
+# ---------------------------------------------------------------------------
+# Generated OCR artefacts.
+#
+# What is deliberately NOT ignored: ocr/work/pages/*.json and
+# ocr/work/verify/*.json. Those hold the actual transcriptions, which cost
+# real money in model inference and cannot be regenerated for free. They are
+# small (a few MB of JSON) and are the most valuable output in the repo.
+#
+# Everything below is either re-downloadable from archive.org or rebuildable
+# from the stored JSON in minutes, and together it runs to well over a
+# gigabyte.
+# ---------------------------------------------------------------------------
+
+# source scans and OCR layers, ~205 MB, re-downloadable from archive.org
+ocr/source/
+
+# decoded page images and transcription tiles, ~850 MB, rebuilt by the pipeline
+ocr/work/pagecache/
+ocr/work/tiles/
+ocr/work/vtiles/
+
+# scratch images from pipeline development
+ocr/pages/
+
+# Internal review tooling. Both are generated, both are disallowed in
+# robots.txt, and neither is meant for readers -- the proof view alone is
+# ~121 MB of page scans. Keeping them out of the publishing source means they
+# stay local instead of being deployed.
+docs/proof/
+docs/review/
+docs/review.html
+
+# The maintainer's copy of the reading pages, built by `converter.py --proof`.
+# Same text as docs/ but with every uncertain reading flagged. Regenerated on
+# demand and never published.
+localsite/
