@@ -3,9 +3,10 @@ html body {
   color: white;
   min-height: 100vh;
   font-size: 1.2em;
-  /* background-image: url('/docs/images/rm369-033b.jpg'); */
-   /* FIXME  */
-  background-image: linear-gradient(rgba(196, 12, 12, 0.8), rgba(196, 12, 12, 0.8)), url('/SaptaTeeka/images/15273928_5588454.jpg');
+  /* background-image: url('../images/rm369-033b.jpg'); */
+  /* Paths here are relative to this stylesheet, so the site works both at
+     /SaptaTeeka/ on GitHub Pages and at the root of a custom domain. */
+  background-image: linear-gradient(rgba(196, 12, 12, 0.8), rgba(196, 12, 12, 0.8)), url('../images/15273928_5588454.jpg');
   background-size: cover;
   background-blend-mode: multiply;
   background-position: center;
@@ -239,3 +240,93 @@ font-weight: 700;
 font-style: normal;
 }
 
+
+/* ---- editorial markers -------------------------------------------------
+   Anything the OCR pipeline was unsure about is made visible rather than
+   hidden, so it can be found and corrected against the scans. */
+
+.unclear {
+  color: #ffdd57;
+  background: rgba(0, 0, 0, 0.35);
+  border-bottom: 2px dotted #ffdd57;
+  padding: 0 3px;
+  border-radius: 3px;
+  cursor: help;
+  font-weight: 700;
+}
+
+.review-badge {
+  color: #ffc100;
+  margin-left: 6px;
+  font-size: 0.8em;
+  vertical-align: super;
+  cursor: help;
+}
+
+.doubtful {
+  border-bottom: 1px dashed rgba(255, 193, 0, 0.8);
+  cursor: help;
+}
+
+.recheck {
+  border-bottom: 1px dashed #ff8fab;
+  cursor: help;
+}
+
+.vyakarana {
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.6);
+}
+
+.quote, .shruti {
+  color: #ffe9a8;
+}
+
+/* Sections not yet generated appear in the nav but are not links. */
+.nav-link.pending {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.nav-link.active-section {
+  font-weight: 700;
+  color: #FFC100;
+}
+
+/* The nav is long now that every adhyaya is listed. */
+nav .p-3 {
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.teeka {
+  margin-bottom: 18px;
+}
+
+/* ---- public reading edition -------------------------------------------
+   A lacuna: the original print is illegible at this point. Marked, because
+   silently closing the gap would present a reconstruction as if it were the
+   text. Kept typographically quiet -- it is apparatus, not an error badge. */
+
+.lacuna {
+  color: rgba(255, 255, 255, 0.55);
+  cursor: help;
+  letter-spacing: 1px;
+}
+
+/* ---- maintainer copy only ---------------------------------------------
+   Only ever rendered by `converter.py --proof` into localsite/. */
+
+.proof-banner {
+  background: #4a2020;
+  border-bottom: 1px solid #a33;
+  color: #ffdede;
+  padding: 9px 16px;
+  font-size: 0.86em;
+  letter-spacing: 0.04em;
+  text-align: center;
+}
+
+.proof-banner a {
+  color: #ffc100;
+  margin-left: 10px;
+}

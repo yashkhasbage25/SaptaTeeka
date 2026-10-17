@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /proof/
+Disallow: /review.html
+
+Sitemap: https://saptashatitika.com/sitemap.xml
