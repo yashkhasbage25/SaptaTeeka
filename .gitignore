@@ -39,3 +39,9 @@ docs/review.html
 # Same text as docs/ but with every uncertain reading flagged. Regenerated on
 # demand and never published.
 localsite/
+
+# Transient page lists written while driving re-runs. Already executed;
+# keeping them would just leave stale state lying around. miss_v*.txt is
+# tracked because it records work still outstanding.
+ocr/work/redo_v*.txt
+ocr/work/zero_v*.txt
